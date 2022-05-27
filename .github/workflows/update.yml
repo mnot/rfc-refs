@@ -1,0 +1,25 @@
+name: Update References
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+    - '**.py'
+  schedule:
+    - cron: '41 6 * * *'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+      with:
+        submodules: 'true'
+    - name: Update RFCs
+      run: make update
+    - name: Create refs.json
+      run: make refs.json
+    - name: Upload
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: ./upload.sh
