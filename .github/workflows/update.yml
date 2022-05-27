@@ -9,7 +9,7 @@ on:
     - cron: '41 6 * * *'
 
 jobs:
-  test:
+  update:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@main
