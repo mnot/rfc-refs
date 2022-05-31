@@ -4,14 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9216 S/MIME Example Keys and Certificates. D. K. Gillmor, Ed.. April
-     2022. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9216) 
-
-9217 Current Open Questions in Path-Aware Networking. B. Trammell. March
-     2022. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9217) 
-
 9219 S/MIME Signature Verification Extension to the JSON Meta Application
      Protocol (JMAP). A. Melnikov. April 2022. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9219) 
@@ -54,6 +46,10 @@
      Chroboczek. May 2022. (Format: HTML, TXT, PDF, XML) (Status:
      EXPERIMENTAL) (DOI: 10.17487/RFC9229) 
 
+9232 Network Telemetry Framework. H. Song, F. Qin, P. Martinez-Julia, L.
+     Ciavaglia, A. Wang. May 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9232) 
+
 9233 Internationalized Domain Names for Applications 2008 (IDNA2008) and
      Unicode 12.0.0. P. Fältström. March 2022. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9233) 
@@ -80,10 +76,14 @@
      B. Farias. May 2022. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC4329) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9239) 
 
+9242 Intermediate Exchange in the Internet Key Exchange Protocol Version
+     2 (IKEv2). V. Smyslov. May 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9242) 
+
 9250 DNS over Dedicated QUIC Connections. C. Huitema, S. Dickinson, A.
      Mankin. May 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9250) 
 
 ===========================================================================
- - This file last updated Fri 27 May 2022 02:30:01 AM PDT
+ - This file last updated Mon 30 May 2022 02:30:01 AM PDT
 
