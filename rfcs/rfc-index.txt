@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/03/2022.)
+(CREATED ON: 06/04/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -18153,8 +18153,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 4460 Stream Control Transmission Protocol (SCTP) Specification Errata and
      Issues. R. Stewart, I. Arias-Rodriguez, K. Poon, A. Caro, M. Tuexen.
-     April 2006. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC4460) 
+     April 2006. (Format: TXT, HTML) (Obsoleted by RFC9260) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC4460) 
 
 4461 Signaling Requirements for Point-to-Multipoint Traffic-Engineered
      MPLS Label Switched Paths (LSPs). S. Yasukawa, Ed.. April 2006.
@@ -20323,9 +20323,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC4959) 
 
 4960 Stream Control Transmission Protocol. R. Stewart, Ed.. September
-     2007. (Format: TXT, HTML) (Obsoletes RFC2960, RFC3309) (Updated by
-     RFC6096, RFC6335, RFC7053, RFC8899) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC4960) 
+     2007. (Format: TXT, HTML) (Obsoletes RFC2960, RFC3309) (Obsoleted by
+     RFC9260) (Updated by RFC6096, RFC6335, RFC7053, RFC8899) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC4960) 
 
 4961 Symmetric RTP / RTP Control Protocol (RTCP). D. Wing. July 2007.
      (Format: TXT, HTML) (Also BCP0131) (Status: BEST CURRENT PRACTICE)
@@ -25255,8 +25255,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6096 Stream Control Transmission Protocol (SCTP) Chunk Flags
      Registration. M. Tuexen, R. Stewart. January 2011. (Format: TXT,
-     HTML) (Updates RFC4960) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC6096) 
+     HTML) (Obsoleted by RFC9260) (Updates RFC4960) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC6096) 
 
 6097 Local Mobility Anchor (LMA) Discovery for Proxy Mobile IPv6. J.
      Korhonen, V. Devarapalli. February 2011. (Format: TXT, HTML)
@@ -29391,8 +29391,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7053 SACK-IMMEDIATELY Extension for the Stream Control Transmission
      Protocol. M. Tuexen, I. Ruengeler, R. Stewart. November 2013.
-     (Format: TXT, HTML) (Updates RFC4960) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC7053) 
+     (Format: TXT, HTML) (Obsoleted by RFC9260) (Updates RFC4960)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7053) 
 
 7054 Addressing Requirements and Design Considerations for Per-Interface
      Maintenance Entity Group Intermediate Points (MIPs). A. Farrel, H.
@@ -36020,7 +36020,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8540 Stream Control Transmission Protocol: Errata and Issues in RFC 4960.
      R. Stewart, M. Tuexen, M. Proshin. February 2019. (Format: TXT,
-     HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC8540) 
+     HTML) (Obsoleted by RFC9260) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC8540) 
 
 8541 Impact of Shortest Path First (SPF) Trigger and Delay Strategies on
      IGP Micro-loops. S. Litkowski, B. Decraene, M. Horneffer. March
@@ -39061,3 +39062,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9250 DNS over Dedicated QUIC Connections. C. Huitema, S. Dickinson, A.
      Mankin. May 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9250) 
+
+9260 Stream Control Transmission Protocol. R. Stewart, M. Tüxen, K.
+     Nielsen. June 2022. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC4460, RFC4960, RFC6096, RFC7053, RFC8540) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9260) 
