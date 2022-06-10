@@ -39125,6 +39125,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2 (IKEv2). V. Smyslov. May 2022. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9242) 
 
+9248 Interoperability Profile for Relay User Equipment. B. Rosen. June
+     2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9248) 
+
 9250 DNS over Dedicated QUIC Connections. C. Huitema, S. Dickinson, A.
      Mankin. May 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9250) 
