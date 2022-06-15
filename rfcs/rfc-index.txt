@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/14/2022.)
+(CREATED ON: 06/15/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39124,6 +39124,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9242 Intermediate Exchange in the Internet Key Exchange Protocol Version
      2 (IKEv2). V. Smyslov. May 2022. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9242) 
+
+9246 URI Signing for Content Delivery Network Interconnection (CDNI). R.
+     van Brandenburg, K. Leung, P. Sorber. June 2022. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9246) 
 
 9248 Interoperability Profile for Relay User Equipment. B. Rosen. June
      2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
