@@ -11782,8 +11782,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC3004) 
 
 3005 IETF Discussion List Charter. S. Harris. November 2000. (Format:
-     TXT, HTML) (Updated by RFC8717) (Also BCP0045) (Status: BEST CURRENT
-     PRACTICE) (DOI: 10.17487/RFC3005) 
+     TXT, HTML) (Obsoleted by RFC9245) (Updated by RFC8717) (Status: BEST
+     CURRENT PRACTICE) (DOI: 10.17487/RFC3005) 
 
 3006 Integrated Services in the Presence of Compressible Flows. B. Davie,
      C. Iturralde, D. Oran, S. Casner, J. Wroclawski. November 2000.
@@ -14765,8 +14765,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: EXPERIMENTAL) (DOI: 10.17487/RFC3682) 
 
 3683 A Practice for Revoking Posting Rights to IETF Mailing Lists. M.
-     Rose. March 2004. (Format: TXT, HTML) (Also BCP0083) (Status: BEST
-     CURRENT PRACTICE) (DOI: 10.17487/RFC3683) 
+     Rose. March 2004. (Format: TXT, HTML) (Updated by RFC9245) (Also
+     BCP0083) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC3683) 
 
 3684 Topology Dissemination Based on Reverse-Path Forwarding (TBRPF). R.
      Ogier, F. Templin, M. Lewis. February 2004. (Format: TXT, HTML)
@@ -39125,10 +39125,19 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2 (IKEv2). V. Smyslov. May 2022. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9242) 
 
+9243 A YANG Data Model for DHCPv6 Configuration. I. Farrer, Ed.. June
+     2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9243) 
+
 9244 Distributed Denial-of-Service Open Threat Signaling (DOTS)
      Telemetry. M. Boucadair, Ed., T. Reddy.K, Ed., E. Doron, M. Chen, J.
      Shallow. June 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9244) 
+
+9245 IETF Discussion List Charter. L. Eggert, S. Harris. June 2022.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3005) (Updates RFC3683)
+     (Also BCP0045) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC9245) 
 
 9246 URI Signing for Content Delivery Network Interconnection (CDNI). R.
      van Brandenburg, K. Leung, P. Sorber. June 2022. (Format: HTML, TXT,
