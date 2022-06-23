@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/21/2022.)
+(CREATED ON: 06/23/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39150,6 +39150,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9250 DNS over Dedicated QUIC Connections. C. Huitema, S. Dickinson, A.
      Mankin. May 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9250) 
+
+9251 Internet Group Management Protocol (IGMP) and Multicast Listener
+     Discovery (MLD) Proxies for Ethernet VPN (EVPN). A. Sajassi, S.
+     Thoria, M. Mishra, K. Patel, J. Drake, W. Lin. June 2022. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9251) 
 
 9255 The 'I' in RPKI Does Not Stand for Identity. R. Bush, R. Housley.
      June 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
