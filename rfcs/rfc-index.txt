@@ -39143,6 +39143,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      van Brandenburg, K. Leung, P. Sorber. June 2022. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9246) 
 
+9247 BGP - Link State (BGP-LS) Extensions for Seamless Bidirectional
+     Forwarding Detection (S-BFD). Z. Li, S. Zhuang, K. Talaulikar, Ed.,
+     S. Aldrin, J. Tantsura, G. Mirsky. June 2022. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9247) 
+
 9248 Interoperability Profile for Relay User Equipment. B. Rosen. June
      2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9248) 
@@ -39160,6 +39165,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9255 The 'I' in RPKI Does Not Stand for Identity. R. Bush, R. Housley.
      June 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9255) 
+
+9259 Operations, Administration, and Maintenance (OAM) in Segment Routing
+     over IPv6 (SRv6). Z. Ali, C. Filsfils, S. Matsushima, D. Voyer, M.
+     Chen. June 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9259) 
 
 9260 Stream Control Transmission Protocol. R. Stewart, M. Tüxen, K.
      Nielsen. June 2022. (Format: HTML, TXT, PDF, XML) (Obsoletes
