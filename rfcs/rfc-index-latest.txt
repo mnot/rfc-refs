@@ -4,14 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9230 Oblivious DNS over HTTPS. E. Kinnear, P. McManus, T. Pauly, T.
-     Verma, C.A. Wood. June 2022. (Format: HTML, TXT, PDF, XML) (Status:
-     EXPERIMENTAL) (DOI: 10.17487/RFC9230) 
-
-9232 Network Telemetry Framework. H. Song, F. Qin, P. Martinez-Julia, L.
-     Ciavaglia, A. Wang. May 2022. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9232) 
-
 9233 Internationalized Domain Names for Applications 2008 (IDNA2008) and
      Unicode 12.0.0. P. Fältström. March 2022. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9233) 
@@ -60,6 +52,11 @@
      van Brandenburg, K. Leung, P. Sorber. June 2022. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9246) 
 
+9247 BGP - Link State (BGP-LS) Extensions for Seamless Bidirectional
+     Forwarding Detection (S-BFD). Z. Li, S. Zhuang, K. Talaulikar, Ed.,
+     S. Aldrin, J. Tantsura, G. Mirsky. June 2022. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9247) 
+
 9248 Interoperability Profile for Relay User Equipment. B. Rosen. June
      2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9248) 
@@ -78,11 +75,16 @@
      June 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9255) 
 
+9259 Operations, Administration, and Maintenance (OAM) in Segment Routing
+     over IPv6 (SRv6). Z. Ali, C. Filsfils, S. Matsushima, D. Voyer, M.
+     Chen. June 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9259) 
+
 9260 Stream Control Transmission Protocol. R. Stewart, M. Tüxen, K.
      Nielsen. June 2022. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC4460, RFC4960, RFC6096, RFC7053, RFC8540) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9260) 
 
 ===========================================================================
- - This file last updated Thu 23 Jun 2022 02:30:02 AM PDT
+ - This file last updated Fri 24 Jun 2022 02:30:01 AM PDT
 
