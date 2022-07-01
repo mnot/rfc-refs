@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/30/2022.)
+(CREATED ON: 07/01/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -7695,8 +7695,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
 2026 The Internet Standards Process -- Revision 3. S. Bradner. October
      1996. (Format: TXT, HTML) (Obsoletes RFC1602, RFC1871) (Updated by
      RFC3667, RFC3668, RFC3932, RFC3978, RFC3979, RFC5378, RFC5657,
-     RFC5742, RFC6410, RFC7100, RFC7127, RFC7475, RFC8179, RFC8789) (Also
-     BCP0009) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC2026) 
+     RFC5742, RFC6410, RFC7100, RFC7127, RFC7475, RFC8179, RFC8789,
+     RFC9282) (Also BCP0009) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC2026) 
 
 2027 IAB and IESG Selection, Confirmation, and Recall Process: Operation
      of the Nominating and Recall Committees. J. Galvin. October 1996.
@@ -7704,9 +7705,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (DOI: 10.17487/RFC2027) 
 
 2028 The Organizations Involved in the IETF Standards Process. R. Hovey,
-     S. Bradner. October 1996. (Format: TXT, HTML) (Updated by RFC3668,
-     RFC3979, RFC8717) (Also BCP0011) (Status: BEST CURRENT PRACTICE)
-     (DOI: 10.17487/RFC2028) 
+     S. Bradner. October 1996. (Format: TXT, HTML) (Obsoleted by RFC9281)
+     (Updated by RFC3668, RFC3979, RFC8717) (Status: BEST CURRENT
+     PRACTICE) (DOI: 10.17487/RFC2028) 
 
 2029 RTP Payload Format of Sun's CellB Video Encoding. M. Speer, D.
      Hoffman. October 1996. (Format: TXT, HTML) (Status: PROPOSED
@@ -11143,8 +11144,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 2850 Charter of the Internet Architecture Board (IAB). Internet
      Architecture Board, B. Carpenter, Ed.. May 2000. (Format: TXT, HTML)
-     (Obsoletes RFC1601) (Also BCP0039) (Status: BEST CURRENT PRACTICE)
-     (DOI: 10.17487/RFC2850) 
+     (Obsoletes RFC1601) (Updated by RFC9283) (Also BCP0039) (Status:
+     BEST CURRENT PRACTICE) (DOI: 10.17487/RFC2850) 
 
 2851 Textual Conventions for Internet Network Addresses. M. Daniele, B.
      Haberman, S. Routhier, J. Schoenwaelder. June 2000. (Format: TXT,
@@ -26934,7 +26935,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6486 Manifests for the Resource Public Key Infrastructure (RPKI). R.
      Austein, G. Huston, S. Kent, M. Lepinski. February 2012. (Format:
-     TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6486) 
+     TXT, HTML) (Obsoleted by RFC9286) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC6486) 
 
 6487 A Profile for X.509 PKIX Resource Certificates. G. Huston, G.
      Michaelson, R. Loomans. February 2012. (Format: TXT, HTML) (Updated
@@ -32935,7 +32937,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7841 RFC Streams, Headers, and Boilerplates. J. Halpern, Ed., L. Daigle,
      Ed., O. Kolkman, Ed.. May 2016. (Format: TXT, HTML) (Obsoletes
-     RFC5741) (Status: INFORMATIONAL) (DOI: 10.17487/RFC7841) 
+     RFC5741) (Updated by RFC9280) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC7841) 
 
 7842 Requirements for Improvements to the IETF Email List Archiving,
      Web-Based Browsing, and Search Tool. R. Sparks. April 2016. (Format:
@@ -36865,15 +36868,17 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8728 RFC Editor Model (Version 2). O. Kolkman, Ed., J. Halpern, Ed., R.
      Hinden, Ed.. February 2020. (Format: HTML, TXT, PDF, XML) (Obsoletes
-     RFC6635) (Status: INFORMATIONAL) (DOI: 10.17487/RFC8728) 
+     RFC6635) (Obsoleted by RFC9280) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC8728) 
 
 8729 The RFC Series and RFC Editor. R. Housley, Ed., L. Daigle, Ed..
      February 2020. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC4844)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC8729) 
+     (Updated by RFC9280) (Status: INFORMATIONAL) (DOI: 10.17487/RFC8729) 
 
 8730 Independent Submission Editor Model. N. Brownlee, Ed., B. Hinden,
      Ed.. February 2020. (Format: HTML, TXT, PDF, XML) (Obsoletes
-     RFC6548) (Status: INFORMATIONAL) (DOI: 10.17487/RFC8730) 
+     RFC6548) (Updated by RFC9280) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC8730) 
 
 8731 Secure Shell (SSH) Key Exchange Method Using Curve25519 and
      Curve448. A. Adamantiadis, S. Josefsson, M. Baushke. February 2020.
@@ -39175,3 +39180,24 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Nielsen. June 2022. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC4460, RFC4960, RFC6096, RFC7053, RFC8540) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9260) 
+
+9280 RFC Editor Model (Version 3). P. Saint-Andre, Ed.. June 2022.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8728) (Updates RFC7841,
+     RFC8729, RFC8730) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9280) 
+
+9281 Entities Involved in the IETF Standards Process. R. Salz. June 2022.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC2028) (Also BCP0011)
+     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9281) 
+
+9282 Responsibility Change for the RFC Series. B. Rosen. June 2022.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC2026) (Also BCP0009)
+     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9282) 
+
+9283 IAB Charter Update for RFC Editor Model. B. Carpenter, Ed.. June
+     2022. (Format: HTML, TXT, PDF, XML) (Updates RFC2850) (Also BCP0039)
+     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9283) 
+
+9286 Manifests for the Resource Public Key Infrastructure (RPKI). R.
+     Austein, G. Huston, S. Kent, M. Lepinski. June 2022. (Format: HTML,
+     TXT, PDF, XML) (Obsoletes RFC6486) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9286) 
