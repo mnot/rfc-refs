@@ -4,28 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9233 Internationalized Domain Names for Applications 2008 (IDNA2008) and
-     Unicode 12.0.0. P. Fältström. March 2022. (Format: HTML, TXT, PDF,
-     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9233) 
-
-9234 Route Leak Prevention and Detection Using Roles in UPDATE and OPEN
-     Messages. A. Azimov, E. Bogomazov, R. Bush, K. Patel, K. Sriram. May
-     2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9234) 
-
-9235 TCP Authentication Option (TCP-AO) Test Vectors. J. Touch, J.
-     Kuusisaari. May 2022. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9235) 
-
-9236 Architectural Considerations of Information-Centric Networking (ICN)
-     Using a Name Resolution Service. J. Hong, T. You, V. Kafle. April
-     2022. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9236) 
-
-9238 Loading Manufacturer Usage Description (MUD) URLs from QR Codes. M.
-     Richardson, J. Latour, H. Habibi Gharakheili. May 2022. (Format:
-     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9238) 
-
 9239 Updates to ECMAScript Media Types. M. Miller, M. Borins, M. Bynens,
      B. Farias. May 2022. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC4329) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9239) 
@@ -85,6 +63,27 @@
      RFC4460, RFC4960, RFC6096, RFC7053, RFC8540) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9260) 
 
+9280 RFC Editor Model (Version 3). P. Saint-Andre, Ed.. June 2022.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8728) (Updates RFC7841,
+     RFC8729, RFC8730) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9280) 
+
+9281 Entities Involved in the IETF Standards Process. R. Salz. June 2022.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC2028) (Also BCP0011)
+     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9281) 
+
+9282 Responsibility Change for the RFC Series. B. Rosen. June 2022.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC2026) (Also BCP0009)
+     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9282) 
+
+9283 IAB Charter Update for RFC Editor Model. B. Carpenter, Ed.. June
+     2022. (Format: HTML, TXT, PDF, XML) (Updates RFC2850) (Also BCP0039)
+     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9283) 
+
+9286 Manifests for the Resource Public Key Infrastructure (RPKI). R.
+     Austein, G. Huston, S. Kent, M. Lepinski. June 2022. (Format: HTML,
+     TXT, PDF, XML) (Obsoletes RFC6486) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9286) 
+
 ===========================================================================
- - This file last updated Thu 30 Jun 2022 02:30:01 AM PDT
+ - This file last updated Fri 01 Jul 2022 02:30:01 AM PDT
 
