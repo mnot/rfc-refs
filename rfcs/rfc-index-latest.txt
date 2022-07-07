@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9239 Updates to ECMAScript Media Types. M. Miller, M. Borins, M. Bynens,
-     B. Farias. May 2022. (Format: HTML, TXT, PDF, XML) (Obsoletes
-     RFC4329) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9239) 
-
 9242 Intermediate Exchange in the Internet Key Exchange Protocol Version
      2 (IKEv2). V. Smyslov. May 2022. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9242) 
@@ -38,6 +34,10 @@
 9248 Interoperability Profile for Relay User Equipment. B. Rosen. June
      2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9248) 
+
+9249 A YANG Data Model for NTP. N. Wu, D. Dhody, Ed., A. Sinha, Ed., A.
+     Kumar S N, Y. Zhao. July 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9249) 
 
 9250 DNS over Dedicated QUIC Connections. C. Huitema, S. Dickinson, A.
      Mankin. May 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -85,5 +85,5 @@
      10.17487/RFC9286) 
 
 ===========================================================================
- - This file last updated Tue 05 Jul 2022 02:30:01 AM PDT
+ - This file last updated Wed 06 Jul 2022 02:30:01 AM PDT
 
