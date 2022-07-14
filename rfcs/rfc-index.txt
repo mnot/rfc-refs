@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/13/2022.)
+(CREATED ON: 07/14/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39189,6 +39189,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Nielsen. June 2022. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC4460, RFC4960, RFC6096, RFC7053, RFC8540) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9260) 
+
+9261 Exported Authenticators in TLS. N. Sullivan. July 2022. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9261) 
 
 9280 RFC Editor Model (Version 3). P. Saint-Andre, Ed.. June 2022.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8728) (Updates RFC7841,
