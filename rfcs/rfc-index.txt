@@ -39131,6 +39131,17 @@ See the RFC Editor Web page http://www.rfc-editor.org
      B. Farias. May 2022. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC4329) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9239) 
 
+9240 An Extension for Application-Layer Traffic Optimization (ALTO):
+     Entity Property Maps. W. Roome, S. Randriamasy, Y. Yang, J. Zhang,
+     K. Gao. July 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9240) 
+
+9241 Content Delivery Network Interconnection (CDNI) Footprint and
+     Capabilities Advertisement Using Application-Layer Traffic
+     Optimization (ALTO). J. Seedorf, Y. Yang, K. Ma, J. Peterson, J.
+     Zhang. July 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9241) 
+
 9242 Intermediate Exchange in the Internet Key Exchange Protocol Version
      2 (IKEv2). V. Smyslov. May 2022. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9242) 
