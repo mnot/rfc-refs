@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/18/2022.)
+(CREATED ON: 07/19/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39186,6 +39186,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Thoria, M. Mishra, K. Patel, J. Drake, W. Lin. June 2022. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9251) 
+
+9252 BGP Overlay Services Based on Segment Routing over IPv6 (SRv6). G.
+     Dawra, Ed., K. Talaulikar, Ed., R. Raszuk, B. Decraene, S. Zhuang,
+     J. Rabadan. July 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9252) 
+
+9254 Encoding of Data Modeled with YANG in the Concise Binary Object
+     Representation (CBOR). M. Veillette, Ed., I. Petrov, Ed., A. Pelov,
+     C. Bormann, M. Richardson. July 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9254) 
 
 9255 The 'I' in RPKI Does Not Stand for Identity. R. Bush, R. Housley.
      June 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
