@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/23/2022.)
+(CREATED ON: 07/25/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -35430,7 +35430,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8402 Segment Routing Architecture. C. Filsfils, Ed., S. Previdi, Ed., L.
      Ginsberg, B. Decraene, S. Litkowski, R. Shakir. July 2018. (Format:
-     TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8402) 
+     TXT, HTML) (Updated by RFC9256) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8402) 
 
 8403 A Scalable and Topology-Aware MPLS Data-Plane Monitoring System. R.
      Geib, Ed., C. Filsfils, C. Pignataro, Ed., N. Kumar. July 2018.
@@ -39200,6 +39201,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9255 The 'I' in RPKI Does Not Stand for Identity. R. Bush, R. Housley.
      June 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9255) 
+
+9256 Segment Routing Policy Architecture. C. Filsfils, K. Talaulikar,
+     Ed., D. Voyer, A. Bogdanov, P. Mattes. July 2022. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC8402) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9256) 
 
 9259 Operations, Administration, and Maintenance (OAM) in Segment Routing
      over IPv6 (SRv6). Z. Ali, C. Filsfils, S. Matsushima, D. Voyer, M.
