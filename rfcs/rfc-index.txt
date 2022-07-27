@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/26/2022.)
+(CREATED ON: 07/27/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -23976,13 +23976,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
 5801 Using Generic Security Service Application Program Interface
      (GSS-API) Mechanisms in Simple Authentication and Security Layer
      (SASL): The GS2 Mechanism Family. S. Josefsson, N. Williams. July
-     2010. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC5801) 
+     2010. (Format: TXT, HTML) (Updated by RFC9266) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC5801) 
 
 5802 Salted Challenge Response Authentication Mechanism (SCRAM) SASL and
      GSS-API Mechanisms. C. Newman, A. Menon-Sen, A. Melnikov, N.
-     Williams. July 2010. (Format: TXT, HTML) (Updated by RFC7677)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5802) 
+     Williams. July 2010. (Format: TXT, HTML) (Updated by RFC7677,
+     RFC9266) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5802) 
 
 5803 Lightweight Directory Access Protocol (LDAP) Schema for Storing
      Salted Challenge Response Authentication Mechanism (SCRAM) Secrets.
@@ -24527,8 +24527,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC5928) 
 
 5929 Channel Bindings for TLS. J. Altman, N. Williams, L. Zhu. July 2010.
-     (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC5929) 
+     (Format: TXT, HTML) (Updated by RFC9266) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC5929) 
 
 5930 Using Advanced Encryption Standard Counter Mode (AES-CTR) with the
      Internet Key Exchange version 02 (IKEv2) Protocol. S. Shen, Y. Mao,
@@ -30440,8 +30440,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7285 Application-Layer Traffic Optimization (ALTO) Protocol. R. Alimi,
      Ed., R. Penno, Ed., Y. Yang, Ed., S. Kiesel, S. Previdi, W. Roome,
-     S. Shalunov, R. Woundy. September 2014. (Format: TXT, HTML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC7285) 
+     S. Shalunov, R. Woundy. September 2014. (Format: TXT, HTML) (Updated
+     by RFC9274) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7285) 
 
 7286 Application-Layer Traffic Optimization (ALTO) Server Discovery. S.
      Kiesel, M. Stiemerling, N. Schwan, M. Scharf, H. Song. November
@@ -32191,8 +32191,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7677 SCRAM-SHA-256 and SCRAM-SHA-256-PLUS Simple Authentication and
      Security Layer (SASL) Mechanisms. T. Hansen. November 2015. (Format:
-     TXT, HTML) (Updates RFC5802) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC7677) 
+     TXT, HTML) (Updates RFC5802) (Updated by RFC9266) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC7677) 
 
 7678 Attribute-Value Pairs for Provisioning Customer Equipment Supporting
      IPv4-Over-IPv6 Transitional Solutions. C. Zhou, T. Taylor, Q. Sun,
@@ -39228,6 +39228,24 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9261 Exported Authenticators in TLS. N. Sullivan. July 2022. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9261) 
+
+9264 Linkset: Media Types and a Link Relation Type for Link Sets. E.
+     Wilde, H. Van de Sompel. July 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9264) 
+
+9265 Forward Erasure Correction (FEC) Coding and Congestion Control in
+     Transport. N. Kuhn, E. Lochin, F. Michel, M. Welzl. July 2022.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9265) 
+
+9266 Channel Bindings for TLS 1.3. S. Whited. July 2022. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC5801, RFC5802, RFC5929, RFC7677) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9266) 
+
+9274 A Cost Mode Registry for the Application-Layer Traffic Optimization
+     (ALTO) Protocol. M. Boucadair, Q. Wu. July 2022. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC7285) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9274) 
 
 9280 RFC Editor Model (Version 3). P. Saint-Andre, Ed.. June 2022.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8728) (Updates RFC7841,

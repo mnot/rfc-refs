@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9246 URI Signing for Content Delivery Network Interconnection (CDNI). R.
-     van Brandenburg, K. Leung, P. Sorber. June 2022. (Format: HTML, TXT,
-     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9246) 
-
-9247 BGP - Link State (BGP-LS) Extensions for Seamless Bidirectional
-     Forwarding Detection (S-BFD). Z. Li, S. Zhuang, K. Talaulikar, Ed.,
-     S. Aldrin, J. Tantsura, G. Mirsky. June 2022. (Format: HTML, TXT,
-     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9247) 
-
 9248 Interoperability Profile for Relay User Equipment. B. Rosen. June
      2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9248) 
@@ -50,6 +41,14 @@
      TXT, PDF, XML) (Updates RFC8402) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9256) 
 
+9257 Guidance for External Pre-Shared Key (PSK) Usage in TLS. R. Housley,
+     J. Hoyland, M. Sethi, C. A. Wood. July 2022. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9257) 
+
+9258 Importing External Pre-Shared Keys (PSKs) for TLS 1.3. D. Benjamin,
+     C. A. Wood. July 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9258) 
+
 9259 Operations, Administration, and Maintenance (OAM) in Segment Routing
      over IPv6 (SRv6). Z. Ali, C. Filsfils, S. Matsushima, D. Voyer, M.
      Chen. June 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -86,5 +85,5 @@
      10.17487/RFC9286) 
 
 ===========================================================================
- - This file last updated Mon 25 Jul 2022 02:30:01 AM PDT
+ - This file last updated Tue 26 Jul 2022 02:30:01 AM PDT
 
