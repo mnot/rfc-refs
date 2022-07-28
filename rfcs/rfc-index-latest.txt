@@ -4,24 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9248 Interoperability Profile for Relay User Equipment. B. Rosen. June
-     2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9248) 
-
-9249 A YANG Data Model for NTP. N. Wu, D. Dhody, Ed., A. Sinha, Ed., A.
-     Kumar S N, Y. Zhao. July 2022. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9249) 
-
-9250 DNS over Dedicated QUIC Connections. C. Huitema, S. Dickinson, A.
-     Mankin. May 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9250) 
-
-9251 Internet Group Management Protocol (IGMP) and Multicast Listener
-     Discovery (MLD) Proxies for Ethernet VPN (EVPN). A. Sajassi, S.
-     Thoria, M. Mishra, K. Patel, J. Drake, W. Lin. June 2022. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9251) 
-
 9252 BGP Overlay Services Based on Segment Routing over IPv6 (SRv6). G.
      Dawra, Ed., K. Talaulikar, Ed., R. Raszuk, B. Decraene, S. Zhuang,
      J. Rabadan. July 2022. (Format: HTML, TXT, PDF, XML) (Status:
@@ -63,6 +45,24 @@
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9261) 
 
+9264 Linkset: Media Types and a Link Relation Type for Link Sets. E.
+     Wilde, H. Van de Sompel. July 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9264) 
+
+9265 Forward Erasure Correction (FEC) Coding and Congestion Control in
+     Transport. N. Kuhn, E. Lochin, F. Michel, M. Welzl. July 2022.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9265) 
+
+9266 Channel Bindings for TLS 1.3. S. Whited. July 2022. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC5801, RFC5802, RFC5929, RFC7677) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9266) 
+
+9274 A Cost Mode Registry for the Application-Layer Traffic Optimization
+     (ALTO) Protocol. M. Boucadair, Q. Wu. July 2022. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC7285) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9274) 
+
 9280 RFC Editor Model (Version 3). P. Saint-Andre, Ed.. June 2022.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8728) (Updates RFC7841,
      RFC8729, RFC8730) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9280) 
@@ -85,5 +85,5 @@
      10.17487/RFC9286) 
 
 ===========================================================================
- - This file last updated Tue 26 Jul 2022 02:30:01 AM PDT
+ - This file last updated Wed 27 Jul 2022 02:30:01 AM PDT
 
