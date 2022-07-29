@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/28/2022.)
+(CREATED ON: 07/29/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39241,6 +39241,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9266 Channel Bindings for TLS 1.3. S. Whited. July 2022. (Format: HTML,
      TXT, PDF, XML) (Updates RFC5801, RFC5802, RFC5929, RFC7677) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9266) 
+
+9267 Common Implementation Anti-Patterns Related to Domain Name System
+     (DNS) Resource Record (RR) Processing. S. Dashevskyi, D. dos Santos,
+     J. Wetzels, A. Amri. July 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9267) 
 
 9274 A Cost Mode Registry for the Application-Layer Traffic Optimization
      (ALTO) Protocol. M. Boucadair, Q. Wu. July 2022. (Format: HTML, TXT,
