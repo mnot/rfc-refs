@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9252 BGP Overlay Services Based on Segment Routing over IPv6 (SRv6). G.
-     Dawra, Ed., K. Talaulikar, Ed., R. Raszuk, B. Decraene, S. Zhuang,
-     J. Rabadan. July 2022. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9252) 
-
 9254 Encoding of Data Modeled with YANG in the Concise Binary Object
      Representation (CBOR). M. Veillette, Ed., I. Petrov, Ed., A. Pelov,
      C. Bormann, M. Richardson. July 2022. (Format: HTML, TXT, PDF, XML)
@@ -58,6 +53,11 @@
      TXT, PDF, XML) (Updates RFC5801, RFC5802, RFC5929, RFC7677) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9266) 
 
+9267 Common Implementation Anti-Patterns Related to Domain Name System
+     (DNS) Resource Record (RR) Processing. S. Dashevskyi, D. dos Santos,
+     J. Wetzels, A. Amri. July 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9267) 
+
 9274 A Cost Mode Registry for the Application-Layer Traffic Optimization
      (ALTO) Protocol. M. Boucadair, Q. Wu. July 2022. (Format: HTML, TXT,
      PDF, XML) (Updates RFC7285) (Status: PROPOSED STANDARD) (DOI:
@@ -85,5 +85,5 @@
      10.17487/RFC9286) 
 
 ===========================================================================
- - This file last updated Thu 28 Jul 2022 02:30:02 AM PDT
+ - This file last updated Fri 29 Jul 2022 02:30:01 AM PDT
 
