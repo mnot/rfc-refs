@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/02/2022.)
+(CREATED ON: 08/03/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39251,6 +39251,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (ALTO) Protocol. M. Boucadair, Q. Wu. July 2022. (Format: HTML, TXT,
      PDF, XML) (Updates RFC7285) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9274) 
+
+9279 Internet Group Management Protocol Version 3 (IGMPv3) and Multicast
+     Listener Discovery Version 2 (MLDv2) Message Extension. M.
+     Sivakumar, S. Venaas, Z. Zhang, H. Asaeda. August 2022. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9279) 
 
 9280 RFC Editor Model (Version 3). P. Saint-Andre, Ed.. June 2022.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8728) (Updates RFC7841,
