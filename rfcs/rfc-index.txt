@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/09/2022.)
+(CREATED ON: 08/10/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39229,6 +39229,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9261) 
 
+9263 Network Service Header (NSH) Metadata Type 2 Variable-Length Context
+     Headers. Y. Wei, Ed., U. Elzur, S. Majee, C. Pignataro, D. Eastlake
+     3rd. August 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9263) 
+
 9264 Linkset: Media Types and a Link Relation Type for Link Sets. E.
      Wilde, H. Van de Sompel. July 2022. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9264) 
@@ -39247,10 +39252,17 @@ See the RFC Editor Web page http://www.rfc-editor.org
      J. Wetzels, A. Amri. July 2022. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9267) 
 
+9271 Uninterruptible Power Supply (UPS) Management Protocol -- Commands
+     and Responses. R. Price, Ed.. August 2022. (Format: HTML, TXT, PDF,
+     XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9271) 
+
 9274 A Cost Mode Registry for the Application-Layer Traffic Optimization
      (ALTO) Protocol. M. Boucadair, Q. Wu. July 2022. (Format: HTML, TXT,
      PDF, XML) (Updates RFC7285) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9274) 
+
+9278 JWK Thumbprint URI. M. Jones, K. Yasuda. August 2022. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9278) 
 
 9279 Internet Group Management Protocol Version 3 (IGMPv3) and Multicast
      Listener Discovery Version 2 (MLDv2) Message Extension. M.
@@ -39273,6 +39285,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9283 IAB Charter Update for RFC Editor Model. B. Carpenter, Ed.. June
      2022. (Format: HTML, TXT, PDF, XML) (Updates RFC2850) (Also BCP0039)
      (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9283) 
+
+9285 The Base45 Data Encoding. P. Fältström, F. Ljunggren, D.W. van
+     Gulik. August 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9285) 
 
 9286 Manifests for the Resource Public Key Infrastructure (RPKI). R.
      Austein, G. Huston, S. Kent, M. Lepinski. June 2022. (Format: HTML,
