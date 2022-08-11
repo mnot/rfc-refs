@@ -4,23 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9255 The 'I' in RPKI Does Not Stand for Identity. R. Bush, R. Housley.
-     June 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9255) 
-
-9256 Segment Routing Policy Architecture. C. Filsfils, K. Talaulikar,
-     Ed., D. Voyer, A. Bogdanov, P. Mattes. July 2022. (Format: HTML,
-     TXT, PDF, XML) (Updates RFC8402) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9256) 
-
-9257 Guidance for External Pre-Shared Key (PSK) Usage in TLS. R. Housley,
-     J. Hoyland, M. Sethi, C. A. Wood. July 2022. (Format: HTML, TXT,
-     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9257) 
-
-9258 Importing External Pre-Shared Keys (PSKs) for TLS 1.3. D. Benjamin,
-     C. A. Wood. July 2022. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9258) 
-
 9259 Operations, Administration, and Maintenance (OAM) in Segment Routing
      over IPv6 (SRv6). Z. Ali, C. Filsfils, S. Matsushima, D. Voyer, M.
      Chen. June 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -34,6 +17,11 @@
 9261 Exported Authenticators in TLS. N. Sullivan. July 2022. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9261) 
+
+9263 Network Service Header (NSH) Metadata Type 2 Variable-Length Context
+     Headers. Y. Wei, Ed., U. Elzur, S. Majee, C. Pignataro, D. Eastlake
+     3rd. August 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9263) 
 
 9264 Linkset: Media Types and a Link Relation Type for Link Sets. E.
      Wilde, H. Van de Sompel. July 2022. (Format: HTML, TXT, PDF, XML)
@@ -53,10 +41,17 @@
      J. Wetzels, A. Amri. July 2022. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9267) 
 
+9271 Uninterruptible Power Supply (UPS) Management Protocol -- Commands
+     and Responses. R. Price, Ed.. August 2022. (Format: HTML, TXT, PDF,
+     XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9271) 
+
 9274 A Cost Mode Registry for the Application-Layer Traffic Optimization
      (ALTO) Protocol. M. Boucadair, Q. Wu. July 2022. (Format: HTML, TXT,
      PDF, XML) (Updates RFC7285) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9274) 
+
+9278 JWK Thumbprint URI. M. Jones, K. Yasuda. August 2022. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9278) 
 
 9279 Internet Group Management Protocol Version 3 (IGMPv3) and Multicast
      Listener Discovery Version 2 (MLDv2) Message Extension. M.
@@ -80,11 +75,15 @@
      2022. (Format: HTML, TXT, PDF, XML) (Updates RFC2850) (Also BCP0039)
      (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9283) 
 
+9285 The Base45 Data Encoding. P. Fältström, F. Ljunggren, D.W. van
+     Gulik. August 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9285) 
+
 9286 Manifests for the Resource Public Key Infrastructure (RPKI). R.
      Austein, G. Huston, S. Kent, M. Lepinski. June 2022. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC6486) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9286) 
 
 ===========================================================================
- - This file last updated Tue 09 Aug 2022 02:30:02 AM PDT
+ - This file last updated Wed 10 Aug 2022 02:30:01 AM PDT
 
