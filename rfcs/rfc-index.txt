@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/11/2022.)
+(CREATED ON: 08/12/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -19959,12 +19959,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
 4872 RSVP-TE Extensions in Support of End-to-End Generalized
      Multi-Protocol Label Switching (GMPLS) Recovery. J.P. Lang, Ed., Y.
      Rekhter, Ed., D. Papadimitriou, Ed.. May 2007. (Format: TXT, HTML)
-     (Updates RFC3471) (Updated by RFC4873, RFC6780) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC4872) 
+     (Updates RFC3471) (Updated by RFC4873, RFC6780, RFC9270) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC4872) 
 
 4873 GMPLS Segment Recovery. L. Berger, I. Bryskin, D. Papadimitriou, A.
      Farrel. May 2007. (Format: TXT, HTML) (Updates RFC3473, RFC4872)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4873) 
+     (Updated by RFC9270) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC4873) 
 
 4874 Exclude Routes - Extension to Resource ReserVation Protocol-Traffic
      Engineering (RSVP-TE). CY. Lee, A. Farrel, S. De Cnodder. April
@@ -21175,8 +21176,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5155 DNS Security (DNSSEC) Hashed Authenticated Denial of Existence. B.
      Laurie, G. Sisson, R. Arends, D. Blacka. March 2008. (Format: TXT,
-     HTML) (Updated by RFC6840, RFC6944, RFC9077, RFC9157) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC5155) 
+     HTML) (Updated by RFC6840, RFC6944, RFC9077, RFC9157, RFC9276)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5155) 
 
 5156 Special-Use IPv6 Addresses. M. Blanchet. April 2008. (Format: TXT,
      HTML) (Obsoleted by RFC6890) (Status: INFORMATIONAL) (DOI:
@@ -39252,6 +39253,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      J. Wetzels, A. Amri. July 2022. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9267) 
 
+9270 GMPLS Signaling Extensions for Shared Mesh Protection. J. He, I.
+     Busi, J. Ryoo, B. Yoon, P. Park. August 2022. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC4872, RFC4873) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9270) 
+
 9271 Uninterruptible Power Supply (UPS) Management Protocol -- Commands
      and Responses. R. Price, Ed.. August 2022. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9271) 
@@ -39260,6 +39266,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (ALTO) Protocol. M. Boucadair, Q. Wu. July 2022. (Format: HTML, TXT,
      PDF, XML) (Updates RFC7285) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9274) 
+
+9276 Guidance for NSEC3 Parameter Settings. W. Hardaker, V. Dukhovni.
+     August 2022. (Format: HTML, TXT, PDF, XML) (Updates RFC5155) (Also
+     BCP0236) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9276) 
 
 9278 JWK Thumbprint URI. M. Jones, K. Yasuda. August 2022. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9278) 
