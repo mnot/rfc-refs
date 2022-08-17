@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/16/2022.)
+(CREATED ON: 08/17/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -4325,9 +4325,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Obsoleted by RFC1819) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC1190) 
 
-1191 Path MTU discovery. J.C. Mogul, S.E. Deering. November 1990.
-     (Format: TXT, HTML) (Obsoletes RFC1063) (Status: DRAFT STANDARD)
-     (DOI: 10.17487/RFC1191) 
+1191 Path MTU discovery. J. Mogul, S. Deering. November 1990. (Format:
+     TXT, HTML) (Obsoletes RFC1063) (Status: DRAFT STANDARD) (DOI:
+     10.17487/RFC1191) 
 
 1192 Commercialization of the Internet summary report. B. Kahin. November
      1990. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
