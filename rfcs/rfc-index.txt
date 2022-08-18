@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/17/2022.)
+(CREATED ON: 08/18/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39261,6 +39261,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9271 Uninterruptible Power Supply (UPS) Management Protocol -- Commands
      and Responses. R. Price, Ed.. August 2022. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9271) 
+
+9273 Network Coding for Content-Centric Networking / Named Data
+     Networking: Considerations and Challenges. K. Matsuzono, H. Asaeda,
+     C. Westphal. August 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9273) 
 
 9274 A Cost Mode Registry for the Application-Layer Traffic Optimization
      (ALTO) Protocol. M. Boucadair, Q. Wu. July 2022. (Format: HTML, TXT,
