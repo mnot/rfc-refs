@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9261 Exported Authenticators in TLS. N. Sullivan. July 2022. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9261) 
-
 9263 Network Service Header (NSH) Metadata Type 2 Variable-Length Context
      Headers. Y. Wei, Ed., U. Elzur, S. Majee, C. Pignataro, D. Eastlake
      3rd. August 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -39,6 +35,11 @@
 9271 Uninterruptible Power Supply (UPS) Management Protocol -- Commands
      and Responses. R. Price, Ed.. August 2022. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9271) 
+
+9273 Network Coding for Content-Centric Networking / Named Data
+     Networking: Considerations and Challenges. K. Matsuzono, H. Asaeda,
+     C. Westphal. August 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9273) 
 
 9274 A Cost Mode Registry for the Application-Layer Traffic Optimization
      (ALTO) Protocol. M. Boucadair, Q. Wu. July 2022. (Format: HTML, TXT,
@@ -84,5 +85,5 @@
      10.17487/RFC9286) 
 
 ===========================================================================
- - This file last updated Wed 17 Aug 2022 02:30:01 AM PDT
+ - This file last updated Thu 18 Aug 2022 02:30:01 AM PDT
 

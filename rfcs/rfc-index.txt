@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/18/2022.)
+(CREATED ON: 08/19/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -2773,9 +2773,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      STANDARD) (DOI: 10.17487/RFC0792) 
 
 0793 Transmission Control Protocol. J. Postel. September 1981. (Format:
-     TXT, HTML) (Obsoletes RFC0761) (Updated by RFC1122, RFC3168,
-     RFC6093, RFC6528) (Also STD0007) (Status: INTERNET STANDARD) (DOI:
-     10.17487/RFC0793) 
+     TXT, HTML) (Obsoletes RFC0761) (Obsoleted by RFC9293) (Updated by
+     RFC1122, RFC3168, RFC6093, RFC6528) (Status: INTERNET STANDARD)
+     (DOI: 10.17487/RFC0793) 
 
 0794 Pre-emption. V.G. Cerf. September 1981. (Format: TXT, HTML) (Updates
      IEN125) (Status: INFORMATIONAL) (DOI: 10.17487/RFC0794) 
@@ -3088,8 +3088,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC0878) 
 
 0879 The TCP Maximum Segment Size and Related Topics. J. Postel. November
-     1983. (Format: TXT, HTML) (Obsoleted by RFC7805) (Updated by
-     RFC6691) (Status: HISTORIC) (DOI: 10.17487/RFC0879) 
+     1983. (Format: TXT, HTML) (Obsoleted by RFC7805, RFC9293) (Updated
+     by RFC6691) (Status: HISTORIC) (DOI: 10.17487/RFC0879) 
 
 0880 Official protocols. J.K. Reynolds, J. Postel. October 1983. (Format:
      TXT, HTML) (Obsoletes RFC0840) (Obsoleted by RFC0901) (Status:
@@ -3099,13 +3099,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, HTML) (Updated by RFC0897) (Status: UNKNOWN) (DOI:
      10.17487/RFC0881) 
 
-0882 Domain names: Concepts and facilities. P.V. Mockapetris. November
+0882 Domain names: Concepts and facilities. P. Mockapetris. November
      1983. (Format: TXT, HTML) (Obsoleted by RFC1034, RFC1035) (Updated
      by RFC0973) (Status: UNKNOWN) (DOI: 10.17487/RFC0882) 
 
-0883 Domain names: Implementation specification. P.V. Mockapetris.
-     November 1983. (Format: TXT, HTML) (Obsoleted by RFC1034, RFC1035)
-     (Updated by RFC0973) (Status: UNKNOWN) (DOI: 10.17487/RFC0883) 
+0883 Domain names: Implementation specification. P. Mockapetris. November
+     1983. (Format: TXT, HTML) (Obsoleted by RFC1034, RFC1035) (Updated
+     by RFC0973) (Status: UNKNOWN) (DOI: 10.17487/RFC0883) 
 
 0884 Telnet terminal type option. M. Solomon, E. Wimmers. December 1983.
      (Format: TXT, HTML) (Obsoleted by RFC0930) (Status: UNKNOWN) (DOI:
@@ -3437,7 +3437,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 0972 Password Generator Protocol. F.J. Wancho. January 1986. (Format:
      TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0972) 
 
-0973 Domain system changes and observations. P.V. Mockapetris. January
+0973 Domain system changes and observations. P. Mockapetris. January
      1986. (Format: TXT, HTML) (Obsoleted by RFC1034, RFC1035) (Updates
      RFC0882, RFC0883) (Status: UNKNOWN) (DOI: 10.17487/RFC0973) 
 
@@ -3488,7 +3488,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC0985) 
 
 0986 Guidelines for the use of Internet-IP addresses in the ISO
-     Connectionless-Mode Network Protocol. R.W. Callon, H.W. Braun. June
+     Connectionless-Mode Network Protocol. R. Callon, H.W. Braun. June
      1986. (Format: TXT, HTML) (Obsoleted by RFC1069) (Status: UNKNOWN)
      (DOI: 10.17487/RFC0986) 
 
@@ -3594,8 +3594,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (DOI: 10.17487/RFC1010) 
 
 1011 Official Internet protocols. J.K. Reynolds, J. Postel. May 1987.
-     (Format: TXT, HTML) (Obsoletes RFC0991) (Updated by RFC6093)
-     (Status: UNKNOWN) (DOI: 10.17487/RFC1011) 
+     (Format: TXT, HTML) (Obsoletes RFC0991) (Updated by RFC6093,
+     RFC9293) (Status: UNKNOWN) (DOI: 10.17487/RFC1011) 
 
 1012 Bibliography of Request For Comments 1 through 999. J.K. Reynolds,
      J. Postel. June 1987. (Format: TXT, HTML) (Status: INFORMATIONAL)
@@ -3679,14 +3679,14 @@ See the RFC Editor Web page http://www.rfc-editor.org
 1033 Domain Administrators Operations Guide. M. Lottor. November 1987.
      (Format: TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC1033) 
 
-1034 Domain names - concepts and facilities. P.V. Mockapetris. November
+1034 Domain names - concepts and facilities. P. Mockapetris. November
      1987. (Format: TXT, HTML) (Obsoletes RFC0973, RFC0882, RFC0883)
      (Updated by RFC1101, RFC1183, RFC1348, RFC1876, RFC1982, RFC2065,
      RFC2181, RFC2308, RFC2535, RFC4033, RFC4034, RFC4035, RFC4343,
      RFC4035, RFC4592, RFC5936, RFC8020, RFC8482, RFC8767) (Also STD0013)
      (Status: INTERNET STANDARD) (DOI: 10.17487/RFC1034) 
 
-1035 Domain names - implementation and specification. P.V. Mockapetris.
+1035 Domain names - implementation and specification. P. Mockapetris.
      November 1987. (Format: TXT, HTML) (Obsoletes RFC0973, RFC0882,
      RFC0883) (Updated by RFC1101, RFC1183, RFC1348, RFC1876, RFC1982,
      RFC1995, RFC1996, RFC2065, RFC2136, RFC2181, RFC2137, RFC2308,
@@ -3828,7 +3828,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC1068) 
 
 1069 Guidelines for the use of Internet-IP addresses in the ISO
-     Connectionless-Mode Network Protocol. R.W. Callon, H.W. Braun.
+     Connectionless-Mode Network Protocol. R. Callon, H.W. Braun.
      February 1989. (Format: TXT, HTML) (Obsoletes RFC0986) (Status:
      UNKNOWN) (DOI: 10.17487/RFC1069) 
 
@@ -3952,8 +3952,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Obsoletes RFC1083) (Obsoleted by RFC1130) (Status: HISTORIC) (DOI:
      10.17487/RFC1100) 
 
-1101 DNS encoding of network names and other types. P.V. Mockapetris.
-     April 1989. (Format: TXT, HTML) (Updates RFC1034, RFC1035) (Status:
+1101 DNS encoding of network names and other types. P. Mockapetris. April
+     1989. (Format: TXT, HTML) (Updates RFC1034, RFC1035) (Status:
      UNKNOWN) (DOI: 10.17487/RFC1101) 
 
 1102 Policy routing in Internet protocols. D.D. Clark. May 1989. (Format:
@@ -4041,7 +4041,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 1122 Requirements for Internet Hosts - Communication Layers. R. Braden,
      Ed.. October 1989. (Format: TXT, HTML) (Updates RFC0793) (Updated by
      RFC1349, RFC4379, RFC5884, RFC6093, RFC6298, RFC6633, RFC6864,
-     RFC8029) (Also STD0003) (Status: INTERNET STANDARD) (DOI:
+     RFC8029, RFC9293) (Also STD0003) (Status: INTERNET STANDARD) (DOI:
      10.17487/RFC1122) 
 
 1123 Requirements for Internet Hosts - Application and Support. R.
@@ -4290,8 +4290,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 1182 Not Issued. 
 
-1183 New DNS RR Definitions. C.F. Everhart, L.A. Mamakos, R. Ullmann,
-     P.V. Mockapetris. October 1990. (Format: TXT, HTML) (Updates
+1183 New DNS RR Definitions. C. Everhart, L. Mamakos, R. Ullmann, P.
+     Mockapetris, Ed.. October 1990. (Format: TXT, HTML) (Updates
      RFC1034, RFC1035) (Updated by RFC5395, RFC5864, RFC6195, RFC6895)
      (Status: EXPERIMENTAL) (DOI: 10.17487/RFC1183) 
 
@@ -4341,7 +4341,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: TXT, HTML) (Obsoletes RFC0742) (Obsoleted by RFC1196,
      RFC1288) (Status: DRAFT STANDARD) (DOI: 10.17487/RFC1194) 
 
-1195 Use of OSI IS-IS for routing in TCP/IP and dual environments. R.W.
+1195 Use of OSI IS-IS for routing in TCP/IP and dual environments. R.
      Callon. December 1990. (Format: TXT, PS, HTML) (Updated by RFC1349,
      RFC5302, RFC5304) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC1195) 
@@ -11241,8 +11241,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      PROPOSED STANDARD) (DOI: 10.17487/RFC2872) 
 
 2873 TCP Processing of the IPv4 Precedence Field. X. Xiao, A. Hannan, V.
-     Paxson, E. Crabbe. June 2000. (Format: TXT, HTML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC2873) 
+     Paxson, E. Crabbe. June 2000. (Format: TXT, HTML) (Obsoleted by
+     RFC9293) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC2873) 
 
 2874 DNS Extensions to Support IPv6 Address Aggregation and Renumbering.
      M. Crawford, C. Huitema. July 2000. (Format: TXT, HTML) (Updates
@@ -22857,8 +22857,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 5545 Internet Calendaring and Scheduling Core Object Specification
      (iCalendar). B. Desruisseaux, Ed.. September 2009. (Format: TXT,
      HTML) (Obsoletes RFC2445) (Updated by RFC5546, RFC6868, RFC7529,
-     RFC7953, RFC7986, RFC9073, RFC9074) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC5545) 
+     RFC7953, RFC7986, RFC9073, RFC9074, RFC9253) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC5545) 
 
 5546 iCalendar Transport-Independent Interoperability Protocol (iTIP). C.
      Daboo, Ed.. December 2009. (Format: TXT, HTML) (Obsoletes RFC2446)
@@ -24668,8 +24668,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC5960) 
 
 5961 Improving TCP's Robustness to Blind In-Window Attacks. A. Ramaiah,
-     R. Stewart, M. Dalal. August 2010. (Format: TXT, HTML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC5961) 
+     R. Stewart, M. Dalal. August 2010. (Format: TXT, HTML) (Updated by
+     RFC9293) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5961) 
 
 5962 Dynamic Extensions to the Presence Information Data Format Location
      Object (PIDF-LO). H. Schulzrinne, V. Singh, H. Tschofenig, M.
@@ -25244,9 +25244,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      INFORMATIONAL) (DOI: 10.17487/RFC6092) 
 
 6093 On the Implementation of the TCP Urgent Mechanism. F. Gont, A.
-     Yourtchenko. January 2011. (Format: TXT, HTML) (Updates RFC0793,
-     RFC1011, RFC1122) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC6093) 
+     Yourtchenko. January 2011. (Format: TXT, HTML) (Obsoleted by
+     RFC9293) (Updates RFC0793, RFC1011, RFC1122) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC6093) 
 
 6094 Summary of Cryptographic Authentication Algorithm Implementation
      Requirements for Routing Protocols. M. Bhatia, V. Manral. February
@@ -26690,7 +26690,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6429 TCP Sender Clarification for Persist Condition. M. Bashyam, M.
      Jethanandani, A. Ramaiah. December 2011. (Format: TXT, HTML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC6429) 
+     (Obsoleted by RFC9293) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC6429) 
 
 6430 Email Feedback Report Type Value: not-spam. K. Li, B. Leiba.
      November 2011. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
@@ -27116,8 +27117,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC6527) 
 
 6528 Defending against Sequence Number Attacks. F. Gont, S. Bellovin.
-     February 2012. (Format: TXT, HTML) (Obsoletes RFC1948) (Updates
-     RFC0793) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6528) 
+     February 2012. (Format: TXT, HTML) (Obsoletes RFC1948) (Obsoleted by
+     RFC9293) (Updates RFC0793) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC6528) 
 
 6529 Host/Host Protocol for the ARPA Network. A. McKenzie, S. Crocker.
      April 2012. (Format: TXT, HTML) (Status: HISTORIC) (DOI:
@@ -27816,8 +27818,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC6690) 
 
 6691 TCP Options and Maximum Segment Size (MSS). D. Borman. July 2012.
-     (Format: TXT, HTML) (Updates RFC0879, RFC2385) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC6691) 
+     (Format: TXT, HTML) (Obsoleted by RFC9293) (Updates RFC0879,
+     RFC2385) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6691) 
 
 6692 Source Ports in Abuse Reporting Format (ARF) Reports. R. Clayton, M.
      Kucherawy. July 2012. (Format: TXT, HTML) (Updates RFC6591) (Status:
@@ -39194,6 +39196,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      J. Rabadan. July 2022. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9252) 
 
+9253 Support for iCalendar Relationships. M. Douglass. August 2022.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC5545) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9253) 
+
 9254 Encoding of Data Modeled with YANG in the Concise Binary Object
      Representation (CBOR). M. Veillette, Ed., I. Petrov, Ed., A. Pelov,
      C. Bormann, M. Richardson. July 2022. (Format: HTML, TXT, PDF, XML)
@@ -39309,3 +39315,14 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Austein, G. Huston, S. Kent, M. Lepinski. June 2022. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC6486) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9286) 
+
+9288 Recommendations on the Filtering of IPv6 Packets Containing IPv6
+     Extension Headers at Transit Routers. F. Gont, W. Liu. August 2022.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9288) 
+
+9293 Transmission Control Protocol (TCP). W. Eddy, Ed.. August 2022.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC0793, RFC0879, RFC2873,
+     RFC6093, RFC6429, RFC6528, RFC6691) (Updates RFC1011, RFC1122,
+     RFC5961) (Also STD0007) (Status: INTERNET STANDARD) (DOI:
+     10.17487/RFC9293) 
