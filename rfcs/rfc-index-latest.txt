@@ -4,20 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9263 Network Service Header (NSH) Metadata Type 2 Variable-Length Context
-     Headers. Y. Wei, Ed., U. Elzur, S. Majee, C. Pignataro, D. Eastlake
-     3rd. August 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9263) 
-
-9264 Linkset: Media Types and a Link Relation Type for Link Sets. E.
-     Wilde, H. Van de Sompel. July 2022. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9264) 
-
-9265 Forward Erasure Correction (FEC) Coding and Congestion Control in
-     Transport. N. Kuhn, E. Lochin, F. Michel, M. Welzl. July 2022.
-     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9265) 
-
 9266 Channel Bindings for TLS 1.3. S. Whited. July 2022. (Format: HTML,
      TXT, PDF, XML) (Updates RFC5801, RFC5802, RFC5929, RFC7677) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9266) 
@@ -84,6 +70,17 @@
      TXT, PDF, XML) (Obsoletes RFC6486) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9286) 
 
+9288 Recommendations on the Filtering of IPv6 Packets Containing IPv6
+     Extension Headers at Transit Routers. F. Gont, W. Liu. August 2022.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9288) 
+
+9293 Transmission Control Protocol (TCP). W. Eddy, Ed.. August 2022.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC0793, RFC0879, RFC2873,
+     RFC6093, RFC6429, RFC6528, RFC6691) (Updates RFC1011, RFC1122,
+     RFC5961) (Also STD0007) (Status: INTERNET STANDARD) (DOI:
+     10.17487/RFC9293) 
+
 ===========================================================================
- - This file last updated Thu 18 Aug 2022 02:30:01 AM PDT
+ - This file last updated Fri 19 Aug 2022 02:30:01 AM PDT
 

@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/19/2022.)
+(CREATED ON: 08/20/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39326,3 +39326,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      RFC6093, RFC6429, RFC6528, RFC6691) (Updates RFC1011, RFC1122,
      RFC5961) (Also STD0007) (Status: INTERNET STANDARD) (DOI:
      10.17487/RFC9293) 
+
+9294 Application-Specific Link Attributes Advertisement Using the Border
+     Gateway Protocol - Link State (BGP-LS). K. Talaulikar, Ed., P.
+     Psenak, J. Tantsura. August 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9294) 
