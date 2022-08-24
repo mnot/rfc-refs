@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/23/2022.)
+(CREATED ON: 08/24/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39259,6 +39259,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      J. Wetzels, A. Amri. July 2022. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9267) 
 
+9269 Experimental Scenarios of Information-Centric Networking (ICN)
+     Integration in 4G Mobile Networks. P. Suthar, M. Stolic, A. Jangam,
+     Ed., D. Trossen, R. Ravindran. August 2022. (Format: HTML, TXT, PDF,
+     XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9269) 
+
 9270 GMPLS Signaling Extensions for Shared Mesh Protection. J. He, I.
      Busi, J. Ryoo, B. Yoon, P. Park. August 2022. (Format: HTML, TXT,
      PDF, XML) (Updates RFC4872, RFC4873) (Status: PROPOSED STANDARD)
@@ -39316,6 +39321,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, PDF, XML) (Obsoletes RFC6486) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9286) 
 
+9287 Greasing the QUIC Bit. M. Thomson. August 2022. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9287) 
+
 9288 Recommendations on the Filtering of IPv6 Packets Containing IPv6
      Extension Headers at Transit Routers. F. Gont, W. Liu. August 2022.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
@@ -39331,3 +39339,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Gateway Protocol - Link State (BGP-LS). K. Talaulikar, Ed., P.
      Psenak, J. Tantsura. August 2022. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9294) 
+
+9296 ifStackTable for the Point-to-Point (P2P) Interface over a LAN Type:
+     Definition and Examples. D. Liu, J. Halpern, C. Zhang. August 2022.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9296) 
