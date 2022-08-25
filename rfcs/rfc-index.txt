@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/24/2022.)
+(CREATED ON: 08/25/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39344,3 +39344,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Definition and Examples. D. Liu, J. Halpern, C. Zhang. August 2022.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9296) 
+
+9297 HTTP Datagrams and the Capsule Protocol. D. Schinazi, L. Pardue.
+     August 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9297) 
+
+9298 Proxying UDP in HTTP. D. Schinazi. August 2022. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9298) 
