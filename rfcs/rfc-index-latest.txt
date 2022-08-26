@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9270 GMPLS Signaling Extensions for Shared Mesh Protection. J. He, I.
-     Busi, J. Ryoo, B. Yoon, P. Park. August 2022. (Format: HTML, TXT,
-     PDF, XML) (Updates RFC4872, RFC4873) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9270) 
-
-9271 Uninterruptible Power Supply (UPS) Management Protocol -- Commands
-     and Responses. R. Price, Ed.. August 2022. (Format: HTML, TXT, PDF,
-     XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9271) 
-
 9273 Network Coding for Content-Centric Networking / Named Data
      Networking: Considerations and Challenges. K. Matsuzono, H. Asaeda,
      C. Westphal. August 2022. (Format: HTML, TXT, PDF, XML) (Status:
@@ -85,6 +76,13 @@
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9296) 
 
+9297 HTTP Datagrams and the Capsule Protocol. D. Schinazi, L. Pardue.
+     August 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9297) 
+
+9298 Proxying UDP in HTTP. D. Schinazi. August 2022. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9298) 
+
 ===========================================================================
- - This file last updated Wed 24 Aug 2022 02:30:01 AM PDT
+ - This file last updated Thu 25 Aug 2022 02:30:01 AM PDT
 
