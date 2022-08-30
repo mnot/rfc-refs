@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/29/2022.)
+(CREATED ON: 08/30/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39258,6 +39258,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (DNS) Resource Record (RR) Processing. S. Dashevskyi, D. dos Santos,
      J. Wetzels, A. Amri. July 2022. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9267) 
+
+9268 IPv6 Minimum Path MTU Hop-by-Hop Option. B. Hinden, G. Fairhurst.
+     August 2022. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL)
+     (DOI: 10.17487/RFC9268) 
 
 9269 Experimental Scenarios of Information-Centric Networking (ICN)
      Integration in 4G Mobile Networks. P. Suthar, M. Stolic, A. Jangam,
