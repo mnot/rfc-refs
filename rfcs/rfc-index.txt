@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/30/2022.)
+(CREATED ON: 08/31/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -34312,8 +34312,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC8151) 
 
 8152 CBOR Object Signing and Encryption (COSE). J. Schaad. July 2017.
-     (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8152) 
+     (Format: TXT, HTML) (Obsoleted by RFC9052, RFC9053) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8152) 
 
 8153 Digital Preservation Considerations for the RFC Series. H. Flanagan.
      April 2017. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
@@ -38351,6 +38351,19 @@ See the RFC Editor Web page http://www.rfc-editor.org
      XML) (Obsoletes RFC3501) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9051) 
 
+9052 CBOR Object Signing and Encryption (COSE): Structures and Process.
+     J. Schaad. August 2022. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC8152) (Also STD0096) (Status: INTERNET STANDARD) (DOI:
+     10.17487/RFC9052) 
+
+9053 CBOR Object Signing and Encryption (COSE): Initial Algorithms. J.
+     Schaad. August 2022. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC8152) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9053) 
+
+9054 CBOR Object Signing and Encryption (COSE): Hash Algorithms. J.
+     Schaad. August 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9054) 
+
 9055 Deterministic Networking (DetNet) Security Considerations. E.
      Grossman, Ed., T. Mizrahi, A. Hacker. June 2021. (Format: HTML, TXT,
      PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9055) 
@@ -39259,7 +39272,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      J. Wetzels, A. Amri. July 2022. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9267) 
 
-9268 IPv6 Minimum Path MTU Hop-by-Hop Option. B. Hinden, G. Fairhurst.
+9268 IPv6 Minimum Path MTU Hop-by-Hop Option. R. Hinden, G. Fairhurst.
      August 2022. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL)
      (DOI: 10.17487/RFC9268) 
 
@@ -39291,6 +39304,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      August 2022. (Format: HTML, TXT, PDF, XML) (Updates RFC5155) (Also
      BCP0236) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9276) 
 
+9277 On Stable Storage for Items in Concise Binary Object Representation
+     (CBOR). M. Richardson, C. Bormann. August 2022. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9277) 
+
 9278 JWK Thumbprint URI. M. Jones, K. Yasuda. August 2022. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9278) 
 
@@ -39316,6 +39333,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2022. (Format: HTML, TXT, PDF, XML) (Updates RFC2850) (Also BCP0039)
      (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9283) 
 
+9284 Multihoming Deployment Considerations for DDoS Open Threat Signaling
+     (DOTS). M. Boucadair, T. Reddy.K, W. Pan. August 2022. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9284) 
+
 9285 The Base45 Data Encoding. P. Fältström, F. Ljunggren, D.W. van
      Gulik. August 2022. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9285) 
@@ -39332,6 +39353,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Extension Headers at Transit Routers. F. Gont, W. Liu. August 2022.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9288) 
+
+9292 Binary Representation of HTTP Messages. M. Thomson, C. A. Wood.
+     August 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9292) 
 
 9293 Transmission Control Protocol (TCP). W. Eddy, Ed.. August 2022.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC0793, RFC0879, RFC2873,
