@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/31/2022.)
+(CREATED ON: 09/01/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39001,6 +39001,28 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Moura, W. Hardaker, J. Heidemann, M. Davids. March 2022. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9199) 
 
+9200 Authentication and Authorization for Constrained Environments Using
+     the OAuth 2.0 Framework (ACE-OAuth). L. Seitz, G. Selander, E.
+     Wahlstroem, S. Erdtman, H. Tschofenig. August 2022. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9200) 
+
+9201 Additional OAuth Parameters for Authentication and Authorization for
+     Constrained Environments (ACE). L. Seitz. August 2022. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9201) 
+
+9202 Datagram Transport Layer Security (DTLS) Profile for Authentication
+     and Authorization for Constrained Environments (ACE). S. Gerdes, O.
+     Bergmann, C. Bormann, G. Selander, L. Seitz. August 2022. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9202) 
+
+9203 The Object Security for Constrained RESTful Environments (OSCORE)
+     Profile of the Authentication and Authorization for Constrained
+     Environments (ACE) Framework. F. Palombini, L. Seitz, G. Selander,
+     M. Gunnarsson. August 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9203) 
+
 9204 QPACK: Field Compression for HTTP/3. C. Krasic, M. Bishop, A.
      Frindell, Ed.. June 2022. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9204) 
@@ -39139,6 +39161,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Using a Name Resolution Service. J. Hong, T. You, V. Kafle. April
      2022. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9236) 
+
+9237 An Authorization Information Format (AIF) for Authentication and
+     Authorization for Constrained Environments (ACE). C. Bormann. August
+     2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9237) 
 
 9238 Loading Manufacturer Usage Description (MUD) URLs from QR Codes. M.
      Richardson, J. Latour, H. Habibi Gharakheili. May 2022. (Format:
