@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/09/2022.)
+(CREATED ON: 09/10/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -35428,8 +35428,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8401 Bit Index Explicit Replication (BIER) Support via IS-IS. L.
      Ginsberg, Ed., T. Przygienda, S. Aldrin, Z. Zhang. June 2018.
-     (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8401) 
+     (Format: TXT, HTML) (Updated by RFC9272) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC8401) 
 
 8402 Segment Routing Architecture. C. Filsfils, Ed., S. Previdi, Ed., L.
      Ginsberg, B. Decraene, S. Litkowski, R. Shakir. July 2018. (Format:
@@ -35621,8 +35621,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8444 OSPFv2 Extensions for Bit Index Explicit Replication (BIER). P.
      Psenak, Ed., N. Kumar, IJ. Wijnands, A. Dolganow, T. Przygienda, J.
-     Zhang, S. Aldrin. November 2018. (Format: TXT, HTML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC8444) 
+     Zhang, S. Aldrin. November 2018. (Format: TXT, HTML) (Updated by
+     RFC9272) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8444) 
 
 8445 Interactive Connectivity Establishment (ICE): A Protocol for Network
      Address Translator (NAT) Traversal. A. Keranen, C. Holmberg, J.
@@ -39317,6 +39317,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      and Responses. R. Price, Ed.. August 2022. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9271) 
 
+9272 Underlay Path Calculation Algorithm and Constraints for Bit Index
+     Explicit Replication (BIER). Z. Zhang, T. Przygienda, A. Dolganow,
+     H. Bidgoli, IJ. Wijnands, A. Gulko. September 2022. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC8401, RFC8444) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9272) 
+
 9273 Network Coding for Content-Centric Networking / Named Data
      Networking: Considerations and Challenges. K. Matsuzono, H. Asaeda,
      C. Westphal. August 2022. (Format: HTML, TXT, PDF, XML) (Status:
@@ -39407,3 +39413,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9298 Proxying UDP in HTTP. D. Schinazi. August 2022. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9298) 
+
+9309 Robots Exclusion Protocol. M. Koster, G. Illyes, H. Zeller, L.
+     Sassman. September 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9309) 
