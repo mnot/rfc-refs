@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9276 Guidance for NSEC3 Parameter Settings. W. Hardaker, V. Dukhovni.
-     August 2022. (Format: HTML, TXT, PDF, XML) (Updates RFC5155) (Also
-     BCP0236) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9276) 
-
 9277 On Stable Storage for Items in Concise Binary Object Representation
      (CBOR). M. Richardson, C. Bormann. August 2022. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9277) 
@@ -85,6 +81,10 @@
 9298 Proxying UDP in HTTP. D. Schinazi. August 2022. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9298) 
 
+9309 Robots Exclusion Protocol. M. Koster, G. Illyes, H. Zeller, L.
+     Sassman. September 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9309) 
+
 ===========================================================================
- - This file last updated Fri 09 Sep 2022 02:30:02 AM PDT
+ - This file last updated Mon 12 Sep 2022 02:30:01 AM PDT
 
