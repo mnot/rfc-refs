@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/13/2022.)
+(CREATED ON: 09/14/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -22799,8 +22799,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5530) 
 
 5531 RPC: Remote Procedure Call Protocol Specification Version 2. R.
-     Thurlow. May 2009. (Format: TXT, HTML) (Obsoletes RFC1831) (Status:
-     DRAFT STANDARD) (DOI: 10.17487/RFC5531) 
+     Thurlow. May 2009. (Format: TXT, HTML) (Obsoletes RFC1831) (Updated
+     by RFC9289) (Status: DRAFT STANDARD) (DOI: 10.17487/RFC5531) 
 
 5532 Network File System (NFS) Remote Direct Memory Access (RDMA) Problem
      Statement. T. Talpey, C. Juszczak. May 2009. (Format: TXT, HTML)
@@ -35472,8 +35472,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8410 Algorithm Identifiers for Ed25519, Ed448, X25519, and X448 for Use
      in the Internet X.509 Public Key Infrastructure. S. Josefsson, J.
-     Schaad. August 2018. (Format: TXT, HTML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC8410) 
+     Schaad. August 2018. (Format: TXT, HTML) (Updated by RFC9295)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8410) 
 
 8411 IANA Registration for the Cryptographic Algorithm Object Identifier
      Range. J. Schaad, R. Andrews. August 2018. (Format: TXT, HTML)
@@ -39387,6 +39387,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9288) 
 
+9289 Towards Remote Procedure Call Encryption by Default. T. Myklebust,
+     C. Lever, Ed.. September 2022. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC5531) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9289) 
+
 9292 Binary Representation of HTTP Messages. M. Thomson, C. A. Wood.
      August 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9292) 
@@ -39401,6 +39406,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Gateway Protocol - Link State (BGP-LS). K. Talaulikar, Ed., P.
      Psenak, J. Tantsura. August 2022. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9294) 
+
+9295 Clarifications for Ed25519, Ed448, X25519, and X448 Algorithm
+     Identifiers. S. Turner, S. Josefsson, D. McCarney, T. Ito. September
+     2022. (Format: HTML, TXT, PDF, XML) (Updates RFC8410) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9295) 
 
 9296 ifStackTable for the Point-to-Point (P2P) Interface over a LAN Type:
      Definition and Examples. D. Liu, J. Halpern, C. Zhang. August 2022.
@@ -39417,3 +39427,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9309 Robots Exclusion Protocol. M. Koster, G. Illyes, H. Zeller, L.
      Sassman. September 2022. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9309) 
+
+9311 Running an IETF Hackathon. C. Eckel. September 2022. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9311) 
