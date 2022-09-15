@@ -4,19 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9277 On Stable Storage for Items in Concise Binary Object Representation
-     (CBOR). M. Richardson, C. Bormann. August 2022. (Format: HTML, TXT,
-     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9277) 
-
-9278 JWK Thumbprint URI. M. Jones, K. Yasuda. August 2022. (Format: HTML,
-     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9278) 
-
-9279 Internet Group Management Protocol Version 3 (IGMPv3) and Multicast
-     Listener Discovery Version 2 (MLDv2) Message Extension. M.
-     Sivakumar, S. Venaas, Z. Zhang, H. Asaeda. August 2022. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9279) 
-
 9280 RFC Editor Model (Version 3). P. Saint-Andre, Ed.. June 2022.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8728) (Updates RFC7841,
      RFC8729, RFC8730) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9280) 
@@ -54,6 +41,11 @@
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9288) 
 
+9289 Towards Remote Procedure Call Encryption by Default. T. Myklebust,
+     C. Lever, Ed.. September 2022. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC5531) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9289) 
+
 9292 Binary Representation of HTTP Messages. M. Thomson, C. A. Wood.
      August 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9292) 
@@ -68,6 +60,11 @@
      Gateway Protocol - Link State (BGP-LS). K. Talaulikar, Ed., P.
      Psenak, J. Tantsura. August 2022. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9294) 
+
+9295 Clarifications for Ed25519, Ed448, X25519, and X448 Algorithm
+     Identifiers. S. Turner, S. Josefsson, D. McCarney, T. Ito. September
+     2022. (Format: HTML, TXT, PDF, XML) (Updates RFC8410) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9295) 
 
 9296 ifStackTable for the Point-to-Point (P2P) Interface over a LAN Type:
      Definition and Examples. D. Liu, J. Halpern, C. Zhang. August 2022.
@@ -85,6 +82,9 @@
      Sassman. September 2022. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9309) 
 
+9311 Running an IETF Hackathon. C. Eckel. September 2022. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9311) 
+
 ===========================================================================
- - This file last updated Tue 13 Sep 2022 02:30:01 AM PDT
+ - This file last updated Wed 14 Sep 2022 02:30:01 AM PDT
 
