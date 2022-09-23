@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/22/2022.)
+(CREATED ON: 09/23/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39391,6 +39391,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      C. Lever, Ed.. September 2022. (Format: HTML, TXT, PDF, XML)
      (Updates RFC5531) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9289) 
+
+9291 A YANG Network Data Model for Layer 2 VPNs. M. Boucadair, Ed., O.
+     Gonzalez de Dios, Ed., S. Barguil, L. Munoz. September 2022.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9291) 
 
 9292 Binary Representation of HTTP Messages. M. Thomson, C. A. Wood.
      August 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
