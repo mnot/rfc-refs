@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/26/2022.)
+(CREATED ON: 09/27/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39433,6 +39433,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9298 Proxying UDP in HTTP. D. Schinazi. August 2022. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9298) 
+
+9307 Report from the IAB Workshop on Analyzing IETF Data (AID) 2021. N.
+     ten Oever, C. Cath, M. Kühlewind, C. S. Perkins. September 2022.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9307) 
 
 9309 Robots Exclusion Protocol. M. Koster, G. Illyes, H. Zeller, L.
      Sassman. September 2022. (Format: HTML, TXT, PDF, XML) (Status:
