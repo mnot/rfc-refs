@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9283 IAB Charter Update for RFC Editor Model. B. Carpenter, Ed.. June
-     2022. (Format: HTML, TXT, PDF, XML) (Updates RFC2850) (Also BCP0039)
-     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9283) 
-
 9284 Multihoming Deployment Considerations for DDoS Open Threat Signaling
      (DOTS). M. Boucadair, T. Reddy.K, W. Pan. August 2022. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9284) 
@@ -71,6 +67,11 @@
 9298 Proxying UDP in HTTP. D. Schinazi. August 2022. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9298) 
 
+9307 Report from the IAB Workshop on Analyzing IETF Data (AID) 2021. N.
+     ten Oever, C. Cath, M. Kühlewind, C. S. Perkins. September 2022.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9307) 
+
 9309 Robots Exclusion Protocol. M. Koster, G. Illyes, H. Zeller, L.
      Sassman. September 2022. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9309) 
@@ -84,5 +85,5 @@
      RFC9127) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9314) 
 
 ===========================================================================
- - This file last updated Mon 26 Sep 2022 02:30:01 AM PDT
+ - This file last updated Tue 27 Sep 2022 02:30:01 AM PDT
 

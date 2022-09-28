@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/27/2022.)
+(CREATED ON: 09/28/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39439,12 +39439,20 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9307) 
 
+9308 Applicability of the QUIC Transport Protocol. M. Kühlewind, B.
+     Trammell. September 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9308) 
+
 9309 Robots Exclusion Protocol. M. Koster, G. Illyes, H. Zeller, L.
      Sassman. September 2022. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9309) 
 
 9311 Running an IETF Hackathon. C. Eckel. September 2022. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9311) 
+
+9312 Manageability of the QUIC Transport Protocol. M. Kühlewind, B.
+     Trammell. September 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9312) 
 
 9314 YANG Data Model for Bidirectional Forwarding Detection (BFD). M.
      Jethanandani, Ed., R. Rahman, Ed., L. Zheng, Ed., S. Pallagatti, G.
