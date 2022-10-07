@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9286 Manifests for the Resource Public Key Infrastructure (RPKI). R.
-     Austein, G. Huston, S. Kent, M. Lepinski. June 2022. (Format: HTML,
-     TXT, PDF, XML) (Obsoletes RFC6486) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9286) 
-
 9287 Greasing the QUIC Bit. M. Thomson. August 2022. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9287) 
 
@@ -84,6 +79,10 @@
      Mirsky. September 2022. (Format: HTML, TXT, PDF, XML) (Updates
      RFC9127) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9314) 
 
+9318 IAB Workshop Report: Measuring Network Quality for End-Users. W.
+     Hardaker, O. Shapira. October 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9318) 
+
 ===========================================================================
- - This file last updated Wed 05 Oct 2022 02:30:01 AM PDT
+ - This file last updated Thu 06 Oct 2022 02:30:01 AM PDT
 
