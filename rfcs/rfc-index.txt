@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/11/2022.)
+(CREATED ON: 10/12/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -3192,7 +3192,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 0906 Bootstrap loading using TFTP. R. Finlayson. June 1984. (Format: TXT,
      HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0906) 
 
-0907 Host Access Protocol specification. Bolt Beranek, Newman
+0907 Host Access Protocol specification. Bolt Beranek and Newman
      Laboratories. July 1984. (Format: TXT, HTML) (Updated by RFC1221)
      (Also STD0040) (Status: INTERNET STANDARD) (DOI: 10.17487/RFC0907) 
 
@@ -39458,6 +39458,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Jethanandani, Ed., R. Rahman, Ed., L. Zheng, Ed., S. Pallagatti, G.
      Mirsky. September 2022. (Format: HTML, TXT, PDF, XML) (Updates
      RFC9127) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9314) 
+
+9315 Intent-Based Networking - Concepts and Definitions. A. Clemm, L.
+     Ciavaglia, L. Z. Granville, J. Tantsura. October 2022. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9315) 
 
 9318 IAB Workshop Report: Measuring Network Quality for End-Users. W.
      Hardaker, O. Shapira. October 2022. (Format: HTML, TXT, PDF, XML)
