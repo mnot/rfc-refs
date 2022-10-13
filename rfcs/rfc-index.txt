@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/12/2022.)
+(CREATED ON: 10/13/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -16385,7 +16385,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC4053) 
 
 4054 Impairments and Other Constraints on Optical Layer Routing. J.
-     Strand, Ed.,  A. Chiu, Ed.. May 2005. (Format: TXT, HTML) (Status:
+     Strand, Ed., A. Chiu, Ed.. May 2005. (Format: TXT, HTML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC4054) 
 
 4055 Additional Algorithms and Identifiers for RSA Cryptography for use
@@ -17985,7 +17985,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Updates RFC4175) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC4421) 
 
-4422 Simple Authentication and Security Layer (SASL). A. Melnikov, Ed., 
+4422 Simple Authentication and Security Layer (SASL). A. Melnikov, Ed.,
      K. Zeilenga, Ed.. June 2006. (Format: TXT, HTML) (Obsoletes RFC2222)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4422) 
 
@@ -18342,7 +18342,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      INFORMATIONAL) (DOI: 10.17487/RFC4503) 
 
 4504 SIP Telephony Device Requirements and Configuration. H. Sinnreich,
-     Ed.,  S. Lass, C. Stredicke. May 2006. (Format: TXT, HTML) (Status:
+     Ed., S. Lass, C. Stredicke. May 2006. (Format: TXT, HTML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC4504) 
 
 4505 Anonymous Simple Authentication and Security Layer (SASL) Mechanism.
@@ -18865,8 +18865,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Kawa, Ed., A. Malis, Ed.. September 2006. (Format: TXT, HTML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4619) 
 
-4620 IPv6 Node Information Queries. M. Crawford,  B. Haberman, Ed..
-     August 2006. (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI:
+4620 IPv6 Node Information Queries. M. Crawford, B. Haberman, Ed.. August
+     2006. (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC4620) 
 
 4621 Design of the IKEv2 Mobility and Multihoming (MOBIKE) Protocol. T.
@@ -19137,7 +19137,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4682) 
 
 4683 Internet X.509 Public Key Infrastructure Subject Identification
-     Method (SIM). J. Park, J. Lee, H.. Lee, S. Park, T. Polk. October
+     Method (SIM). J. Park, J. Lee, H. Lee, S. Park, T. Polk. October
      2006. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC4683) 
 
@@ -19604,7 +19604,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (DOI: 10.17487/RFC4789) 
 
 4790 Internet Application Protocol Collation Registry. C. Newman, M.
-     Duerst,  A. Gulbrandsen. March 2007. (Format: TXT, HTML) (Status:
+     Duerst, A. Gulbrandsen. March 2007. (Format: TXT, HTML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC4790) 
 
 4791 Calendaring Extensions to WebDAV (CalDAV). C. Daboo, B.
