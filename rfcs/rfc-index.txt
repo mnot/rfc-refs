@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/14/2022.)
+(CREATED ON: 10/15/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39276,6 +39276,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9261) 
 
+9262 Tree Engineering for Bit Index Explicit Replication (BIER-TE). T.
+     Eckert, Ed., M. Menth, G. Cauchie. October 2022. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9262) 
+
 9263 Network Service Header (NSH) Metadata Type 2 Variable-Length Context
      Headers. Y. Wei, Ed., U. Elzur, S. Majee, C. Pignataro, D. Eastlake
      3rd. August 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -39453,6 +39457,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9312 Manageability of the QUIC Transport Protocol. M. Kühlewind, B.
      Trammell. September 2022. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9312) 
+
+9313 Pros and Cons of IPv6 Transition Technologies for IPv4-as-a-Service
+     (IPv4aaS). G. Lencse, J. Palet Martinez, L. Howard, R. Patterson, I.
+     Farrer. October 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9313) 
 
 9314 YANG Data Model for Bidirectional Forwarding Detection (BFD). M.
      Jethanandani, Ed., R. Rahman, Ed., L. Zheng, Ed., S. Pallagatti, G.
