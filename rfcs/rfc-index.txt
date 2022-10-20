@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/19/2022.)
+(CREATED ON: 10/20/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -38681,6 +38681,19 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Mirsky. October 2021. (Format: HTML, TXT, PDF, XML) (Updated by
      RFC9314) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9127) 
 
+9128 YANG Data Model for Protocol Independent Multicast (PIM). X. Liu, P.
+     McAllister, A. Peter, M. Sivakumar, Y. Liu, F. Hu. October 2022.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9128) 
+
+9129 YANG Data Model for the OSPF Protocol. D. Yeung, Y. Qu, Z. Zhang, I.
+     Chen, A. Lindem. October 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9129) 
+
+9130 YANG Data Model for the IS-IS Protocol. S. Litkowski, Ed., D. Yeung,
+     A. Lindem, J. Zhang, L. Lhotka. October 2022. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9130) 
+
 9131 Gratuitous Neighbor Discovery: Creating Neighbor Cache Entries on
      First-Hop Routers. J. Linkova. October 2021. (Format: HTML, TXT,
      PDF, XML) (Updates RFC4861) (Status: PROPOSED STANDARD) (DOI:
@@ -38977,6 +38990,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9193 Sensor Measurement Lists (SenML) Fields for Indicating Data Value
      Content-Format. A. Keränen, C. Bormann. June 2022. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9193) 
+
+9194 A YANG Module for IS-IS Reverse Metric. C. Hopps. October 2022.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9194) 
 
 9195 A File Format for YANG Instance Data. B. Lengyel, B. Claise.
      February 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -39400,6 +39417,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      C. Lever, Ed.. September 2022. (Format: HTML, TXT, PDF, XML)
      (Updates RFC5531) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9289) 
+
+9290 Concise Problem Details for Constrained Application Protocol (CoAP)
+     APIs. T. Fossati, C. Bormann. October 2022. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9290) 
 
 9291 A YANG Network Data Model for Layer 2 VPNs. M. Boucadair, Ed., O.
      Gonzalez de Dios, Ed., S. Barguil, L. Munoz. September 2022.
