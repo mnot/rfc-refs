@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/20/2022.)
+(CREATED ON: 10/21/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -28419,8 +28419,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC6829) 
 
 6830 The Locator/ID Separation Protocol (LISP). D. Farinacci, V. Fuller,
-     D. Meyer, D. Lewis. January 2013. (Format: TXT, HTML) (Updated by
-     RFC8113) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC6830) 
+     D. Meyer, D. Lewis. January 2013. (Format: TXT, HTML) (Obsoleted by
+     RFC9300, RFC9301) (Updated by RFC8113) (Status: EXPERIMENTAL) (DOI:
+     10.17487/RFC6830) 
 
 6831 The Locator/ID Separation Protocol (LISP) for Multicast
      Environments. D. Farinacci, D. Meyer, J. Zwiebel, S. Venaas. January
@@ -28433,12 +28434,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC6832) 
 
 6833 Locator/ID Separation Protocol (LISP) Map-Server Interface. V.
-     Fuller, D. Farinacci. January 2013. (Format: TXT, HTML) (Status:
-     EXPERIMENTAL) (DOI: 10.17487/RFC6833) 
+     Fuller, D. Farinacci. January 2013. (Format: TXT, HTML) (Obsoleted
+     by RFC9301) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC6833) 
 
 6834 Locator/ID Separation Protocol (LISP) Map-Versioning. L. Iannone, D.
-     Saucez, O. Bonaventure. January 2013. (Format: TXT, HTML) (Status:
-     EXPERIMENTAL) (DOI: 10.17487/RFC6834) 
+     Saucez, O. Bonaventure. January 2013. (Format: TXT, HTML) (Obsoleted
+     by RFC9302) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC6834) 
 
 6835 The Locator/ID Separation Protocol Internet Groper (LIG). D.
      Farinacci, D. Meyer. January 2013. (Format: TXT, HTML) (Status:
@@ -33907,8 +33908,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC8059) 
 
 8060 LISP Canonical Address Format (LCAF). D. Farinacci, D. Meyer, J.
-     Snijders. February 2017. (Format: TXT, HTML) (Status: EXPERIMENTAL)
-     (DOI: 10.17487/RFC8060) 
+     Snijders. February 2017. (Format: TXT, HTML) (Updated by RFC9306)
+     (Status: EXPERIMENTAL) (DOI: 10.17487/RFC8060) 
 
 8061 Locator/ID Separation Protocol (LISP) Data-Plane Confidentiality. D.
      Farinacci, B. Weis. February 2017. (Format: TXT, HTML) (Status:
@@ -34142,8 +34143,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8113 Locator/ID Separation Protocol (LISP): Shared Extension Message &
      IANA Registry for Packet Type Allocations. M. Boucadair, C.
-     Jacquenet. March 2017. (Format: TXT, HTML) (Updates RFC6830)
-     (Status: EXPERIMENTAL) (DOI: 10.17487/RFC8113) 
+     Jacquenet. March 2017. (Format: TXT, HTML) (Obsoleted by RFC9304)
+     (Updates RFC6830) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC8113) 
 
 8114 Delivery of IPv4 Multicast Services to IPv4 Clients over an IPv6
      Multicast Network. M. Boucadair, C. Qin, C. Jacquenet, Y. Lee, Q.
@@ -39458,6 +39459,44 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9298 Proxying UDP in HTTP. D. Schinazi. August 2022. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9298) 
+
+9299 An Architectural Introduction to the Locator/ID Separation Protocol
+     (LISP). A. Cabellos, D. Saucez, Ed.. October 2022. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9299) 
+
+9300 The Locator/ID Separation Protocol (LISP). D. Farinacci, V. Fuller,
+     D. Meyer, D. Lewis, A. Cabellos, Ed.. October 2022. (Format: HTML,
+     TXT, PDF, XML) (Obsoletes RFC6830) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9300) 
+
+9301 Locator/ID Separation Protocol (LISP) Control Plane. D. Farinacci,
+     F. Maino, V. Fuller, A. Cabellos, Ed.. October 2022. (Format: HTML,
+     TXT, PDF, XML) (Obsoletes RFC6830, RFC6833) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9301) 
+
+9302 Locator/ID Separation Protocol (LISP) Map-Versioning. L. Iannone, D.
+     Saucez, O. Bonaventure. October 2022. (Format: HTML, TXT, PDF, XML)
+     (Obsoletes RFC6834) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9302) 
+
+9303 Locator/ID Separation Protocol Security (LISP-SEC). F. Maino, V.
+     Ermagan, A. Cabellos, D. Saucez. October 2022. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9303) 
+
+9304 Locator/ID Separation Protocol (LISP): Shared Extension Message and
+     IANA Registry for Packet Type Allocations. M. Boucadair, C.
+     Jacquenet. October 2022. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC8113) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9304) 
+
+9305 Locator/ID Separation Protocol (LISP) Generic Protocol Extension. F.
+     Maino, Ed., J. Lemon, P. Agarwal, D. Lewis, M. Smith. October 2022.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9305) 
+
+9306 Vendor-Specific LISP Canonical Address Format (LCAF). A.
+     Rodriguez-Natal, V. Ermagan, A. Smirnov, V. Ashtaputre, D.
+     Farinacci. October 2022. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC8060) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9306) 
 
 9307 Report from the IAB Workshop on Analyzing IETF Data (AID) 2021. N.
      ten Oever, C. Cath, M. Kühlewind, C. S. Perkins. September 2022.
