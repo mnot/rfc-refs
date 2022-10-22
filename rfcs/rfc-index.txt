@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/21/2022.)
+(CREATED ON: 10/22/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39532,9 +39532,18 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Ciavaglia, L. Z. Granville, J. Tantsura. October 2022. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9315) 
 
+9316 Intent Classification. C. Li, O. Havel, A. Olariu, P.
+     Martinez-Julia, J. Nobre, D. Lopez. October 2022. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9316) 
+
 9318 IAB Workshop Report: Measuring Network Quality for End-Users. W.
      Hardaker, O. Shapira. October 2022. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9318) 
+
+9319 The Use of maxLength in the Resource Public Key Infrastructure
+     (RPKI). Y. Gilad, S. Goldberg, K. Sriram, J. Snijders, B. Maddison.
+     October 2022. (Format: HTML, TXT, PDF, XML) (Also BCP0185) (Status:
+     BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9319) 
 
 9321 Signature Validation Token. S. Santesson, R. Housley. October 2022.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
