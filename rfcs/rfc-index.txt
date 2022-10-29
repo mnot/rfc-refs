@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/28/2022.)
+(CREATED ON: 10/29/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39535,6 +39535,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9316 Intent Classification. C. Li, O. Havel, A. Olariu, P.
      Martinez-Julia, J. Nobre, D. Lopez. October 2022. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9316) 
+
+9317 Operational Considerations for Streaming Media. J. Holland, A.
+     Begen, S. Dawkins. October 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9317) 
 
 9318 IAB Workshop Report: Measuring Network Quality for End-Users. W.
      Hardaker, O. Shapira. October 2022. (Format: HTML, TXT, PDF, XML)
