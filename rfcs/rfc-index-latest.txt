@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9301 Locator/ID Separation Protocol (LISP) Control Plane. D. Farinacci,
-     F. Maino, V. Fuller, A. Cabellos, Ed.. October 2022. (Format: HTML,
-     TXT, PDF, XML) (Obsoletes RFC6830, RFC6833) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9301) 
-
 9302 Locator/ID Separation Protocol (LISP) Map-Versioning. L. Iannone, D.
      Saucez, O. Bonaventure. October 2022. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC6834) (Status: PROPOSED STANDARD) (DOI:
@@ -71,6 +66,10 @@
      Martinez-Julia, J. Nobre, D. Lopez. October 2022. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9316) 
 
+9317 Operational Considerations for Streaming Media. J. Holland, A.
+     Begen, S. Dawkins. October 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9317) 
+
 9318 IAB Workshop Report: Measuring Network Quality for End-Users. W.
      Hardaker, O. Shapira. October 2022. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9318) 
@@ -85,5 +84,5 @@
      10.17487/RFC9321) 
 
 ===========================================================================
- - This file last updated Fri 28 Oct 2022 02:30:01 AM PDT
+ - This file last updated Mon 31 Oct 2022 02:30:02 AM PDT
 
