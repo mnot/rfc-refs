@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/01/2022.)
+(CREATED ON: 11/02/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39552,3 +39552,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9321 Signature Validation Token. S. Santesson, R. Housley. October 2022.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9321) 
+
+9327 Control Messages Protocol for Use with Network Time Protocol Version
+     4. B. Haberman, Ed.. November 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: HISTORIC) (DOI: 10.17487/RFC9327) 
