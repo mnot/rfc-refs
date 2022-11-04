@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/03/2022.)
+(CREATED ON: 11/04/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -33792,7 +33792,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: EXPERIMENTAL) (DOI: 10.17487/RFC8033) 
 
 8034 Active Queue Management (AQM) Based on Proportional Integral
-     Controller Enhanced PIE) for Data-Over-Cable Service Interface
+     Controller Enhanced (PIE) for Data-Over-Cable Service Interface
      Specifications (DOCSIS) Cable Modems. G. White, R. Pan. February
      2017. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC8034) 
