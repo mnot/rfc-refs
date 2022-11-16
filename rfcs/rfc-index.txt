@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/14/2022.)
+(CREATED ON: 11/16/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39552,6 +39552,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9321 Signature Validation Token. S. Santesson, R. Housley. October 2022.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9321) 
+
+9322 In Situ Operations, Administration, and Maintenance (IOAM) Loopback
+     and Active Flags. T. Mizrahi, F. Brockners, S. Bhandari, B. Gafni,
+     M. Spiegel. November 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9322) 
+
+9326 In Situ Operations, Administration, and Maintenance (IOAM) Direct
+     Exporting. H. Song, B. Gafni, F. Brockners, S. Bhandari, T. Mizrahi.
+     November 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9326) 
 
 9327 Control Messages Protocol for Use with Network Time Protocol Version
      4. B. Haberman, Ed.. November 2022. (Format: HTML, TXT, PDF, XML)
