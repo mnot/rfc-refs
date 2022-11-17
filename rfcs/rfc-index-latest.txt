@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9303 Locator/ID Separation Protocol Security (LISP-SEC). F. Maino, V.
-     Ermagan, A. Cabellos, D. Saucez. October 2022. (Format: HTML, TXT,
-     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9303) 
-
-9304 Locator/ID Separation Protocol (LISP): Shared Extension Message and
-     IANA Registry for Packet Type Allocations. M. Boucadair, C.
-     Jacquenet. October 2022. (Format: HTML, TXT, PDF, XML) (Obsoletes
-     RFC8113) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9304) 
-
 9305 Locator/ID Separation Protocol (LISP) Generic Protocol Extension. F.
      Maino, Ed., J. Lemon, P. Agarwal, D. Lewis, M. Smith. October 2022.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -78,10 +69,20 @@
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9321) 
 
+9322 In Situ Operations, Administration, and Maintenance (IOAM) Loopback
+     and Active Flags. T. Mizrahi, F. Brockners, S. Bhandari, B. Gafni,
+     M. Spiegel. November 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9322) 
+
+9326 In Situ Operations, Administration, and Maintenance (IOAM) Direct
+     Exporting. H. Song, B. Gafni, F. Brockners, S. Bhandari, T. Mizrahi.
+     November 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9326) 
+
 9327 Control Messages Protocol for Use with Network Time Protocol Version
      4. B. Haberman, Ed.. November 2022. (Format: HTML, TXT, PDF, XML)
      (Status: HISTORIC) (DOI: 10.17487/RFC9327) 
 
 ===========================================================================
- - This file last updated Tue 15 Nov 2022 02:30:02 AM PST
+ - This file last updated Wed 16 Nov 2022 02:30:02 AM PST
 
