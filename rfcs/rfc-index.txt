@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/17/2022.)
+(CREATED ON: 11/18/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39557,6 +39557,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      and Active Flags. T. Mizrahi, F. Brockners, S. Bhandari, B. Gafni,
      M. Spiegel. November 2022. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9322) 
+
+9323 A Profile for RPKI Signed Checklists (RSCs). J. Snijders, T.
+     Harrison, B. Maddison. November 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9323) 
 
 9326 In Situ Operations, Administration, and Maintenance (IOAM) Direct
      Exporting. H. Song, B. Gafni, F. Brockners, S. Bhandari, T. Mizrahi.
