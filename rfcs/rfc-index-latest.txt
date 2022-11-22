@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9305 Locator/ID Separation Protocol (LISP) Generic Protocol Extension. F.
-     Maino, Ed., J. Lemon, P. Agarwal, D. Lewis, M. Smith. October 2022.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9305) 
-
 9306 Vendor-Specific LISP Canonical Address Format (LCAF). A.
      Rodriguez-Natal, V. Ermagan, A. Smirnov, V. Ashtaputre, D.
      Farinacci. October 2022. (Format: HTML, TXT, PDF, XML) (Updates
@@ -74,6 +69,10 @@
      M. Spiegel. November 2022. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9322) 
 
+9323 A Profile for RPKI Signed Checklists (RSCs). J. Snijders, T.
+     Harrison, B. Maddison. November 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9323) 
+
 9326 In Situ Operations, Administration, and Maintenance (IOAM) Direct
      Exporting. H. Song, B. Gafni, F. Brockners, S. Bhandari, T. Mizrahi.
      November 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -84,5 +83,5 @@
      (Status: HISTORIC) (DOI: 10.17487/RFC9327) 
 
 ===========================================================================
- - This file last updated Fri 18 Nov 2022 02:30:01 AM PST
+ - This file last updated Mon 21 Nov 2022 02:30:01 AM PST
 
