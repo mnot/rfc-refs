@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/29/2022.)
+(CREATED ON: 12/01/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -21750,8 +21750,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      STANDARD) (DOI: 10.17487/RFC5287) 
 
 5288 AES Galois Counter Mode (GCM) Cipher Suites for TLS. J. Salowey, A.
-     Choudhury, D. McGrew. August 2008. (Format: TXT, HTML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC5288) 
+     Choudhury, D. McGrew. August 2008. (Format: TXT, HTML) (Updated by
+     RFC9325) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5288) 
 
 5289 TLS Elliptic Curve Cipher Suites with SHA-256/384 and AES Galois
      Counter Mode (GCM). E. Rescorla. August 2008. (Format: TXT, HTML)
@@ -25124,8 +25124,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6066 Transport Layer Security (TLS) Extensions: Extension Definitions. D.
      Eastlake 3rd. January 2011. (Format: TXT, HTML) (Obsoletes RFC4366)
-     (Updated by RFC8446, RFC8449) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC6066) 
+     (Updated by RFC8446, RFC8449, RFC9325) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC6066) 
 
 6067 BCP 47 Extension U. M. Davis, A. Phillips, Y. Umaoka. December 2010.
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6067) 
@@ -31515,8 +31515,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7525 Recommendations for Secure Use of Transport Layer Security (TLS) and
      Datagram Transport Layer Security (DTLS). Y. Sheffer, R. Holz, P.
-     Saint-Andre. May 2015. (Format: TXT, HTML) (Updated by RFC8996)
-     (Also BCP0195) (Status: BEST CURRENT PRACTICE) (DOI:
+     Saint-Andre. May 2015. (Format: TXT, HTML) (Obsoleted by RFC9325)
+     (Updated by RFC8996) (Status: BEST CURRENT PRACTICE) (DOI:
      10.17487/RFC7525) 
 
 7526 Deprecating the Anycast Prefix for 6to4 Relay Routers. O. Troan, B.
@@ -34644,8 +34644,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC8228) 
 
 8229 TCP Encapsulation of IKE and IPsec Packets. T. Pauly, S. Touati, R.
-     Mantha. August 2017. (Format: TXT, HTML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC8229) 
+     Mantha. August 2017. (Format: TXT, HTML) (Obsoleted by RFC9329)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8229) 
 
 8230 Using RSA Algorithms with CBOR Object Signing and Encryption (COSE)
      Messages. M. Jones. September 2017. (Format: TXT, HTML) (Status:
@@ -39549,6 +39549,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      October 2022. (Format: HTML, TXT, PDF, XML) (Also BCP0185) (Status:
      BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9319) 
 
+9320 Deterministic Networking (DetNet) Bounded Latency. N. Finn, J.-Y. Le
+     Boudec, E. Mohammadpour, J. Zhang, B. Varga. November 2022. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9320) 
+
 9321 Signature Validation Token. S. Santesson, R. Housley. October 2022.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9321) 
@@ -39562,6 +39566,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Harrison, B. Maddison. November 2022. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9323) 
 
+9325 Recommendations for Secure Use of Transport Layer Security (TLS) and
+     Datagram Transport Layer Security (DTLS). Y. Sheffer, P.
+     Saint-Andre, T. Fossati. November 2022. (Format: HTML, TXT, PDF,
+     XML) (Obsoletes RFC7525) (Updates RFC5288, RFC6066) (Also BCP0195)
+     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9325) 
+
 9326 In Situ Operations, Administration, and Maintenance (IOAM) Direct
      Exporting. H. Song, B. Gafni, F. Brockners, S. Bhandari, T. Mizrahi.
      November 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -39570,3 +39580,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9327 Control Messages Protocol for Use with Network Time Protocol Version
      4. B. Haberman, Ed.. November 2022. (Format: HTML, TXT, PDF, XML)
      (Status: HISTORIC) (DOI: 10.17487/RFC9327) 
+
+9329 TCP Encapsulation of Internet Key Exchange Protocol (IKE) and IPsec
+     Packets. T. Pauly, V. Smyslov. November 2022. (Format: HTML, TXT,
+     PDF, XML) (Obsoletes RFC8229) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9329) 
