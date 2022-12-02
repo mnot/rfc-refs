@@ -4,20 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9306 Vendor-Specific LISP Canonical Address Format (LCAF). A.
-     Rodriguez-Natal, V. Ermagan, A. Smirnov, V. Ashtaputre, D.
-     Farinacci. October 2022. (Format: HTML, TXT, PDF, XML) (Updates
-     RFC8060) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9306) 
-
-9307 Report from the IAB Workshop on Analyzing IETF Data (AID) 2021. N.
-     ten Oever, C. Cath, M. Kühlewind, C. S. Perkins. September 2022.
-     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9307) 
-
-9308 Applicability of the QUIC Transport Protocol. M. Kühlewind, B.
-     Trammell. September 2022. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9308) 
-
 9309 Robots Exclusion Protocol. M. Koster, G. Illyes, H. Zeller, L.
      Sassman. September 2022. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9309) 
@@ -60,6 +46,10 @@
      October 2022. (Format: HTML, TXT, PDF, XML) (Also BCP0185) (Status:
      BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9319) 
 
+9320 Deterministic Networking (DetNet) Bounded Latency. N. Finn, J.-Y. Le
+     Boudec, E. Mohammadpour, J. Zhang, B. Varga. November 2022. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9320) 
+
 9321 Signature Validation Token. S. Santesson, R. Housley. October 2022.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9321) 
@@ -73,6 +63,12 @@
      Harrison, B. Maddison. November 2022. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9323) 
 
+9325 Recommendations for Secure Use of Transport Layer Security (TLS) and
+     Datagram Transport Layer Security (DTLS). Y. Sheffer, P.
+     Saint-Andre, T. Fossati. November 2022. (Format: HTML, TXT, PDF,
+     XML) (Obsoletes RFC7525) (Updates RFC5288, RFC6066) (Also BCP0195)
+     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9325) 
+
 9326 In Situ Operations, Administration, and Maintenance (IOAM) Direct
      Exporting. H. Song, B. Gafni, F. Brockners, S. Bhandari, T. Mizrahi.
      November 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -82,6 +78,11 @@
      4. B. Haberman, Ed.. November 2022. (Format: HTML, TXT, PDF, XML)
      (Status: HISTORIC) (DOI: 10.17487/RFC9327) 
 
+9329 TCP Encapsulation of Internet Key Exchange Protocol (IKE) and IPsec
+     Packets. T. Pauly, V. Smyslov. November 2022. (Format: HTML, TXT,
+     PDF, XML) (Obsoletes RFC8229) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9329) 
+
 ===========================================================================
- - This file last updated Wed 30 Nov 2022 02:30:01 AM PST
+ - This file last updated Thu 01 Dec 2022 02:30:02 AM PST
 
