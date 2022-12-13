@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9309 Robots Exclusion Protocol. M. Koster, G. Illyes, H. Zeller, L.
-     Sassman. September 2022. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9309) 
-
 9311 Running an IETF Hackathon. C. Eckel. September 2022. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9311) 
 
@@ -83,6 +79,10 @@
      PDF, XML) (Obsoletes RFC8229) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9329) 
 
+9337 Generating Password-Based Keys Using the GOST Algorithms. K.
+     Ekaterina, Ed.. December 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9337) 
+
 ===========================================================================
- - This file last updated Fri 09 Dec 2022 02:30:02 AM PST
+ - This file last updated Mon 12 Dec 2022 02:30:01 AM PST
 
