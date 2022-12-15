@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 12/13/2022.)
+(CREATED ON: 12/14/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39586,6 +39586,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      PDF, XML) (Obsoletes RFC8229) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9329) 
 
-9337 Generating Password-Based Keys Using the GOST Algorithms. K.
-     Ekaterina, Ed.. December 2022. (Format: HTML, TXT, PDF, XML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9337) 
+9337 Generating Password-Based Keys Using the GOST Algorithms. E.
+     Karelina, Ed.. December 2022. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9337) 
