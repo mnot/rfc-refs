@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 12/19/2022.)
+(CREATED ON: 12/21/2022.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39581,6 +39581,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9327 Control Messages Protocol for Use with Network Time Protocol Version
      4. B. Haberman, Ed.. November 2022. (Format: HTML, TXT, PDF, XML)
      (Status: HISTORIC) (DOI: 10.17487/RFC9327) 
+
+9328 RTP Payload Format for Versatile Video Coding (VVC). S. Zhao, S.
+     Wenger, Y. Sanchez, Y.-K. Wang, M. M Hannuksela. December 2022.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9328) 
 
 9329 TCP Encapsulation of Internet Key Exchange Protocol (IKE) and IPsec
      Packets. T. Pauly, V. Smyslov. November 2022. (Format: HTML, TXT,

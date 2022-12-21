@@ -4,23 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9311 Running an IETF Hackathon. C. Eckel. September 2022. (Format: HTML,
-     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9311) 
-
-9312 Manageability of the QUIC Transport Protocol. M. Kühlewind, B.
-     Trammell. September 2022. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9312) 
-
-9313 Pros and Cons of IPv6 Transition Technologies for IPv4-as-a-Service
-     (IPv4aaS). G. Lencse, J. Palet Martinez, L. Howard, R. Patterson, I.
-     Farrer. October 2022. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9313) 
-
-9314 YANG Data Model for Bidirectional Forwarding Detection (BFD). M.
-     Jethanandani, Ed., R. Rahman, Ed., L. Zheng, Ed., S. Pallagatti, G.
-     Mirsky. September 2022. (Format: HTML, TXT, PDF, XML) (Updates
-     RFC9127) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9314) 
-
 9315 Intent-Based Networking - Concepts and Definitions. A. Clemm, L.
      Ciavaglia, L. Z. Granville, J. Tantsura. October 2022. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9315) 
@@ -83,6 +66,21 @@
      Karelina, Ed.. December 2022. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9337) 
 
+9338 CBOR Object Signing and Encryption (COSE): Countersignatures. J.
+     Schaad. December 2022. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC9052) (Also STD0096) (Status: INTERNET STANDARD) (DOI:
+     10.17487/RFC9338) 
+
+9341 Alternate-Marking Method. G. Fioccola, Ed., M. Cociglio, G. Mirsky,
+     T. Mizrahi, T. Zhou. December 2022. (Format: HTML, TXT, PDF, XML)
+     (Obsoletes RFC8321) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9341) 
+
+9342 Clustered Alternate-Marking Method. G. Fioccola, Ed., M. Cociglio,
+     A. Sapio, R. Sisto, T. Zhou. December 2022. (Format: HTML, TXT, PDF,
+     XML) (Obsoletes RFC8889) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9342) 
+
 ===========================================================================
- - This file last updated Mon 19 Dec 2022 02:30:01 AM PST
+ - This file last updated Tue 20 Dec 2022 02:30:01 AM PST
 
