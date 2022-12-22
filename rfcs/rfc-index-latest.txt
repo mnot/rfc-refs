@@ -4,27 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9315 Intent-Based Networking - Concepts and Definitions. A. Clemm, L.
-     Ciavaglia, L. Z. Granville, J. Tantsura. October 2022. (Format:
-     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9315) 
-
-9316 Intent Classification. C. Li, O. Havel, A. Olariu, P.
-     Martinez-Julia, J. Nobre, D. Lopez. October 2022. (Format: HTML,
-     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9316) 
-
-9317 Operational Considerations for Streaming Media. J. Holland, A.
-     Begen, S. Dawkins. October 2022. (Format: HTML, TXT, PDF, XML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9317) 
-
-9318 IAB Workshop Report: Measuring Network Quality for End-Users. W.
-     Hardaker, O. Shapira. October 2022. (Format: HTML, TXT, PDF, XML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9318) 
-
-9319 The Use of maxLength in the Resource Public Key Infrastructure
-     (RPKI). Y. Gilad, S. Goldberg, K. Sriram, J. Snijders, B. Maddison.
-     October 2022. (Format: HTML, TXT, PDF, XML) (Also BCP0185) (Status:
-     BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9319) 
-
 9320 Deterministic Networking (DetNet) Bounded Latency. N. Finn, J.-Y. Le
      Boudec, E. Mohammadpour, J. Zhang, B. Varga. November 2022. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9320) 
@@ -42,6 +21,11 @@
      Harrison, B. Maddison. November 2022. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9323) 
 
+9324 Policy Based on the Resource Public Key Infrastructure (RPKI)
+     without Route Refresh. R. Bush, K. Patel, P. Smith, M. Tinka.
+     December 2022. (Format: HTML, TXT, PDF, XML) (Updates RFC8481)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9324) 
+
 9325 Recommendations for Secure Use of Transport Layer Security (TLS) and
      Datagram Transport Layer Security (DTLS). Y. Sheffer, P.
      Saint-Andre, T. Fossati. November 2022. (Format: HTML, TXT, PDF,
@@ -57,10 +41,20 @@
      4. B. Haberman, Ed.. November 2022. (Format: HTML, TXT, PDF, XML)
      (Status: HISTORIC) (DOI: 10.17487/RFC9327) 
 
+9328 RTP Payload Format for Versatile Video Coding (VVC). S. Zhao, S.
+     Wenger, Y. Sanchez, Y.-K. Wang, M. M Hannuksela. December 2022.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9328) 
+
 9329 TCP Encapsulation of Internet Key Exchange Protocol (IKE) and IPsec
      Packets. T. Pauly, V. Smyslov. November 2022. (Format: HTML, TXT,
      PDF, XML) (Obsoletes RFC8229) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9329) 
+
+9336 X.509 Certificate General-Purpose Extended Key Usage (EKU) for
+     Document Signing. T. Ito, T. Okubo, S. Turner. December 2022.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9336) 
 
 9337 Generating Password-Based Keys Using the GOST Algorithms. E.
      Karelina, Ed.. December 2022. (Format: HTML, TXT, PDF, XML) (Status:
@@ -70,6 +64,10 @@
      Schaad. December 2022. (Format: HTML, TXT, PDF, XML) (Updates
      RFC9052) (Also STD0096) (Status: INTERNET STANDARD) (DOI:
      10.17487/RFC9338) 
+
+9339 OSPF Reverse Metric. K. Talaulikar, Ed., P. Psenak, H. Johnston.
+     December 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9339) 
 
 9341 Alternate-Marking Method. G. Fioccola, Ed., M. Cociglio, G. Mirsky,
      T. Mizrahi, T. Zhou. December 2022. (Format: HTML, TXT, PDF, XML)
@@ -81,6 +79,10 @@
      XML) (Obsoletes RFC8889) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9342) 
 
+9343 IPv6 Application of the Alternate-Marking Method. G. Fioccola, T.
+     Zhou, M. Cociglio, F. Qin, R. Pang. December 2022. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9343) 
+
 ===========================================================================
- - This file last updated Tue 20 Dec 2022 02:30:01 AM PST
+ - This file last updated Wed 21 Dec 2022 02:30:01 AM PST
 
