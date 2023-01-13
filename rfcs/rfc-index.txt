@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/11/2023.)
+(CREATED ON: 01/12/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39511,6 +39511,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9309 Robots Exclusion Protocol. M. Koster, G. Illyes, H. Zeller, L.
      Sassman. September 2022. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9309) 
+
+9310 X.509 Certificate Extension for 5G Network Function Types. R.
+     Housley, S. Turner, J. Preuß Mattsson, D. Migault. January 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9310) 
 
 9311 Running an IETF Hackathon. C. Eckel. September 2022. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9311) 
