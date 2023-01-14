@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/12/2023.)
+(CREATED ON: 01/14/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -20888,13 +20888,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5088 OSPF Protocol Extensions for Path Computation Element (PCE)
      Discovery. JL. Le Roux, Ed., JP. Vasseur, Ed., Y. Ikejiri, R. Zhang.
-     January 2008. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC5088) 
+     January 2008. (Format: TXT, HTML) (Updated by RFC9353) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC5088) 
 
 5089 IS-IS Protocol Extensions for Path Computation Element (PCE)
      Discovery. JL. Le Roux, Ed., JP. Vasseur, Ed., Y. Ikejiri, R. Zhang.
-     January 2008. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC5089) 
+     January 2008. (Format: TXT, HTML) (Updated by RFC9353) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC5089) 
 
 5090 RADIUS Extension for Digest Authentication. B. Sterman, D.
      Sadolevsky, D. Schwartz, D. Williams, W. Beck. February 2008.
@@ -34653,8 +34653,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8231 Path Computation Element Communication Protocol (PCEP) Extensions
      for Stateful PCE. E. Crabbe, I. Minei, J. Medved, R. Varga.
-     September 2017. (Format: TXT, HTML) (Updated by RFC8786) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC8231) 
+     September 2017. (Format: TXT, HTML) (Updated by RFC8786, RFC9353)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8231) 
 
 8232 Optimizations of Label Switched Path State Synchronization
      Procedures for a Stateful PCE. E. Crabbe, I. Minei, J. Medved, R.
@@ -34995,8 +34995,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8306 Extensions to the Path Computation Element Communication Protocol
      (PCEP) for Point-to-Multipoint Traffic Engineering Label Switched
      Paths. Q. Zhao, D. Dhody, Ed., R. Palleti, D. King. November 2017.
-     (Format: TXT, HTML) (Obsoletes RFC6006) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC8306) 
+     (Format: TXT, HTML) (Obsoletes RFC6006) (Updated by RFC9353)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8306) 
 
 8307 Well-Known URIs for the WebSocket Protocol. C. Bormann. January
      2018. (Format: TXT, HTML) (Updates RFC6455) (Status: PROPOSED
@@ -39602,6 +39602,14 @@ See the RFC Editor Web page http://www.rfc-editor.org
      PDF, XML) (Obsoletes RFC8229) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9329) 
 
+9333 Minimal IP Encapsulating Security Payload (ESP). D. Migault, T.
+     Guggemos. January 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9333) 
+
+9334 Remote ATtestation procedureS (RATS) Architecture. H. Birkholz, D.
+     Thaler, M. Richardson, N. Smith, W. Pan. January 2023. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9334) 
+
 9336 X.509 Certificate General-Purpose Extended Key Usage (EKU) for
      Document Signing. T. Ito, T. Okubo, S. Turner. December 2022.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -39633,3 +39641,14 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9343 IPv6 Application of the Alternate-Marking Method. G. Fioccola, T.
      Zhou, M. Cociglio, F. Qin, R. Pang. December 2022. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9343) 
+
+9353 IGP Extension for Path Computation Element Communication Protocol
+     (PCEP) Security Capability Support in PCE Discovery (PCED). D.
+     Lopez, Q. Wu, D. Dhody, Q. Ma, D. King. January 2023. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC5088, RFC5089, RFC8231, RFC8306) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9353) 
+
+9354 Transmission of IPv6 Packets over Power Line Communication (PLC)
+     Networks. J. Hou, B. Liu, Y-G. Hong, X. Tang, C. Perkins. January
+     2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9354) 
