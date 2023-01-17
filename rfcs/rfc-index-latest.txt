@@ -4,23 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9320 Deterministic Networking (DetNet) Bounded Latency. N. Finn, J.-Y. Le
-     Boudec, E. Mohammadpour, J. Zhang, B. Varga. November 2022. (Format:
-     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9320) 
-
-9321 Signature Validation Token. S. Santesson, R. Housley. October 2022.
-     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9321) 
-
-9322 In Situ Operations, Administration, and Maintenance (IOAM) Loopback
-     and Active Flags. T. Mizrahi, F. Brockners, S. Bhandari, B. Gafni,
-     M. Spiegel. November 2022. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9322) 
-
-9323 A Profile for RPKI Signed Checklists (RSCs). J. Snijders, T.
-     Harrison, B. Maddison. November 2022. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9323) 
-
 9324 Policy Based on the Resource Public Key Infrastructure (RPKI)
      without Route Refresh. R. Bush, K. Patel, P. Smith, M. Tinka.
      December 2022. (Format: HTML, TXT, PDF, XML) (Updates RFC8481)
@@ -50,6 +33,14 @@
      Packets. T. Pauly, V. Smyslov. November 2022. (Format: HTML, TXT,
      PDF, XML) (Obsoletes RFC8229) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9329) 
+
+9333 Minimal IP Encapsulating Security Payload (ESP). D. Migault, T.
+     Guggemos. January 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9333) 
+
+9334 Remote ATtestation procedureS (RATS) Architecture. H. Birkholz, D.
+     Thaler, M. Richardson, N. Smith, W. Pan. January 2023. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9334) 
 
 9336 X.509 Certificate General-Purpose Extended Key Usage (EKU) for
      Document Signing. T. Ito, T. Okubo, S. Turner. December 2022.
@@ -83,6 +74,17 @@
      Zhou, M. Cociglio, F. Qin, R. Pang. December 2022. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9343) 
 
+9353 IGP Extension for Path Computation Element Communication Protocol
+     (PCEP) Security Capability Support in PCE Discovery (PCED). D.
+     Lopez, Q. Wu, D. Dhody, Q. Ma, D. King. January 2023. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC5088, RFC5089, RFC8231, RFC8306) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9353) 
+
+9354 Transmission of IPv6 Packets over Power Line Communication (PLC)
+     Networks. J. Hou, B. Liu, Y-G. Hong, X. Tang, C. Perkins. January
+     2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9354) 
+
 ===========================================================================
- - This file last updated Fri 13 Jan 2023 02:30:01 AM PST
+ - This file last updated Mon 16 Jan 2023 02:30:01 AM PST
 
