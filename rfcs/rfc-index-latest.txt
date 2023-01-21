@@ -4,22 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9324 Policy Based on the Resource Public Key Infrastructure (RPKI)
-     without Route Refresh. R. Bush, K. Patel, P. Smith, M. Tinka.
-     December 2022. (Format: HTML, TXT, PDF, XML) (Updates RFC8481)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9324) 
-
-9325 Recommendations for Secure Use of Transport Layer Security (TLS) and
-     Datagram Transport Layer Security (DTLS). Y. Sheffer, P.
-     Saint-Andre, T. Fossati. November 2022. (Format: HTML, TXT, PDF,
-     XML) (Obsoletes RFC7525) (Updates RFC5288, RFC6066) (Also BCP0195)
-     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9325) 
-
-9326 In Situ Operations, Administration, and Maintenance (IOAM) Direct
-     Exporting. H. Song, B. Gafni, F. Brockners, S. Bhandari, T. Mizrahi.
-     November 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9326) 
-
 9327 Control Messages Protocol for Use with Network Time Protocol Version
      4. B. Haberman, Ed.. November 2022. (Format: HTML, TXT, PDF, XML)
      (Status: HISTORIC) (DOI: 10.17487/RFC9327) 
@@ -33,6 +17,21 @@
      Packets. T. Pauly, V. Smyslov. November 2022. (Format: HTML, TXT,
      PDF, XML) (Obsoletes RFC8229) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9329) 
+
+9330 Low Latency, Low Loss, and Scalable Throughput (L4S) Internet
+     Service: Architecture. B. Briscoe, Ed., K. De Schepper, M. Bagnulo,
+     G. White. January 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9330) 
+
+9331 The Explicit Congestion Notification (ECN) Protocol for Low Latency,
+     Low Loss, and Scalable Throughput (L4S). K. De Schepper, B. Briscoe,
+     Ed.. January 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     EXPERIMENTAL) (DOI: 10.17487/RFC9331) 
+
+9332 Dual-Queue Coupled Active Queue Management (AQM) for Low Latency,
+     Low Loss, and Scalable Throughput (L4S). K. De Schepper, B. Briscoe,
+     Ed., G. White. January 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     EXPERIMENTAL) (DOI: 10.17487/RFC9332) 
 
 9333 Minimal IP Encapsulating Security Payload (ESP). D. Migault, T.
      Guggemos. January 2023. (Format: HTML, TXT, PDF, XML) (Status:
@@ -86,5 +85,5 @@
      (DOI: 10.17487/RFC9354) 
 
 ===========================================================================
- - This file last updated Thu 19 Jan 2023 02:30:02 AM PST
+ - This file last updated Fri 20 Jan 2023 02:30:02 AM PST
 
