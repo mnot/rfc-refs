@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/24/2023.)
+(CREATED ON: 01/25/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -14886,8 +14886,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 3711 The Secure Real-time Transport Protocol (SRTP). M. Baugher, D.
      McGrew, M. Naslund, E. Carrara, K. Norrman. March 2004. (Format:
-     TXT, HTML) (Updated by RFC5506, RFC6904) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC3711) 
+     TXT, HTML) (Updated by RFC5506, RFC6904, RFC9335) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC3711) 
 
 3712 Lightweight Directory Access Protocol (LDAP): Schema for Printer
      Services. P. Fleming, I. McDonald. February 2004. (Format: TXT,
@@ -38499,8 +38499,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9085 Border Gateway Protocol - Link State (BGP-LS) Extensions for Segment
      Routing. S. Previdi, K. Talaulikar, Ed., C. Filsfils, H. Gredler, M.
-     Chen. August 2021. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9085) 
+     Chen. August 2021. (Format: HTML, TXT, PDF, XML) (Updated by
+     RFC9356) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9085) 
 
 9086 Border Gateway Protocol - Link State (BGP-LS) Extensions for Segment
      Routing BGP Egress Peer Engineering. S. Previdi, K. Talaulikar, Ed.,
@@ -39625,6 +39625,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Thaler, M. Richardson, N. Smith, W. Pan. January 2023. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9334) 
 
+9335 Completely Encrypting RTP Header Extensions and Contributing
+     Sources. J. Uberti, C. Jennings, S. Murillo. January 2023. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC3711) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9335) 
+
 9336 X.509 Certificate General-Purpose Extended Key Usage (EKU) for
      Document Signing. T. Ito, T. Okubo, S. Turner. December 2022.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -39667,3 +39672,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Networks. J. Hou, B. Liu, Y-G. Hong, X. Tang, C. Perkins. January
      2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9354) 
+
+9356 Advertising Layer 2 Bundle Member Link Attributes in OSPF. K.
+     Talaulikar, Ed., P. Psenak. January 2023. (Format: HTML, TXT, PDF,
+     XML) (Updates RFC9085) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9356) 
