@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9327 Control Messages Protocol for Use with Network Time Protocol Version
-     4. B. Haberman, Ed.. November 2022. (Format: HTML, TXT, PDF, XML)
-     (Status: HISTORIC) (DOI: 10.17487/RFC9327) 
-
-9328 RTP Payload Format for Versatile Video Coding (VVC). S. Zhao, S.
-     Wenger, Y. Sanchez, Y.-K. Wang, M. M Hannuksela. December 2022.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9328) 
-
 9329 TCP Encapsulation of Internet Key Exchange Protocol (IKE) and IPsec
      Packets. T. Pauly, V. Smyslov. November 2022. (Format: HTML, TXT,
      PDF, XML) (Obsoletes RFC8229) (Status: PROPOSED STANDARD) (DOI:
@@ -40,6 +31,11 @@
 9334 Remote ATtestation procedureS (RATS) Architecture. H. Birkholz, D.
      Thaler, M. Richardson, N. Smith, W. Pan. January 2023. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9334) 
+
+9335 Completely Encrypting RTP Header Extensions and Contributing
+     Sources. J. Uberti, C. Jennings, S. Murillo. January 2023. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC3711) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9335) 
 
 9336 X.509 Certificate General-Purpose Extended Key Usage (EKU) for
      Document Signing. T. Ito, T. Okubo, S. Turner. December 2022.
@@ -84,6 +80,11 @@
      2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9354) 
 
+9356 Advertising Layer 2 Bundle Member Link Attributes in OSPF. K.
+     Talaulikar, Ed., P. Psenak. January 2023. (Format: HTML, TXT, PDF,
+     XML) (Updates RFC9085) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9356) 
+
 ===========================================================================
- - This file last updated Wed 25 Jan 2023 02:30:02 AM PST
+ - This file last updated Thu 26 Jan 2023 02:30:02 AM PST
 
