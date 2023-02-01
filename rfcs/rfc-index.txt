@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/30/2023.)
+(CREATED ON: 02/01/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39661,6 +39661,19 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9343 IPv6 Application of the Alternate-Marking Method. G. Fioccola, T.
      Zhou, M. Cociglio, F. Qin, R. Pang. December 2022. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9343) 
+
+9347 Aggregation and Fragmentation Mode for Encapsulating Security
+     Payload (ESP) and Its Use for IP Traffic Flow Security (IP-TFS). C.
+     Hopps. January 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9347) 
+
+9348 A YANG Data Model for IP Traffic Flow Security. D. Fedyk, C. Hopps.
+     January 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9348) 
+
+9349 Definitions of Managed Objects for IP Traffic Flow Security. D.
+     Fedyk, E. Kinzie. January 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9349) 
 
 9353 IGP Extension for Path Computation Element Communication Protocol
      (PCEP) Security Capability Support in PCE Discovery (PCED). D.
