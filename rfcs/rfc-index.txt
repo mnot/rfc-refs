@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/01/2023.)
+(CREATED ON: 02/02/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -21859,8 +21859,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5316 ISIS Extensions in Support of Inter-Autonomous System (AS) MPLS and
      GMPLS Traffic Engineering. M. Chen, R. Zhang, X. Duan. December
-     2008. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC5316) 
+     2008. (Format: TXT, HTML) (Obsoleted by RFC9346) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC5316) 
 
 5317 Joint Working Team (JWT) Report on MPLS Architectural Considerations
      for a Transport Profile. S. Bryant, Ed., L. Andersson, Ed.. February
@@ -39662,6 +39662,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Zhou, M. Cociglio, F. Qin, R. Pang. December 2022. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9343) 
 
+9346 IS-IS Extensions in Support of Inter-Autonomous System (AS) MPLS and
+     GMPLS Traffic Engineering. M. Chen, L. Ginsberg, S. Previdi, D.
+     Xiaodong. February 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC5316) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9346) 
+
 9347 Aggregation and Fragmentation Mode for Encapsulating Security
      Payload (ESP) and Its Use for IP Traffic Flow Security (IP-TFS). C.
      Hopps. January 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -39690,3 +39695,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Talaulikar, Ed., P. Psenak. January 2023. (Format: HTML, TXT, PDF,
      XML) (Updates RFC9085) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9356) 
+
+9357 Label Switched Path (LSP) Object Flag Extension for Stateful PCE. Q.
+     Xiong. February 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9357) 
