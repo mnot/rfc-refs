@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9332 Dual-Queue Coupled Active Queue Management (AQM) for Low Latency,
-     Low Loss, and Scalable Throughput (L4S). K. De Schepper, B. Briscoe,
-     Ed., G. White. January 2023. (Format: HTML, TXT, PDF, XML) (Status:
-     EXPERIMENTAL) (DOI: 10.17487/RFC9332) 
-
-9333 Minimal IP Encapsulating Security Payload (ESP). D. Migault, T.
-     Guggemos. January 2023. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9333) 
-
 9334 Remote ATtestation procedureS (RATS) Architecture. H. Birkholz, D.
      Thaler, M. Richardson, N. Smith, W. Pan. January 2023. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9334) 
@@ -54,6 +45,11 @@
      Zhou, M. Cociglio, F. Qin, R. Pang. December 2022. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9343) 
 
+9346 IS-IS Extensions in Support of Inter-Autonomous System (AS) MPLS and
+     GMPLS Traffic Engineering. M. Chen, L. Ginsberg, S. Previdi, D.
+     Xiaodong. February 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC5316) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9346) 
+
 9347 Aggregation and Fragmentation Mode for Encapsulating Security
      Payload (ESP) and Its Use for IP Traffic Flow Security (IP-TFS). C.
      Hopps. January 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -83,6 +79,10 @@
      XML) (Updates RFC9085) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9356) 
 
+9357 Label Switched Path (LSP) Object Flag Extension for Stateful PCE. Q.
+     Xiong. February 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9357) 
+
 ===========================================================================
- - This file last updated Wed 01 Feb 2023 02:30:01 AM PST
+ - This file last updated Thu 02 Feb 2023 02:30:01 AM PST
 
