@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/13/2023.)
+(CREATED ON: 02/14/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39699,3 +39699,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9357 Label Switched Path (LSP) Object Flag Extension for Stateful PCE. Q.
      Xiong. February 2023. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9357) 
+
+9358 Path Computation Element Communication Protocol (PCEP) Extensions
+     for Establishing Relationships between Sets of Label Switched Paths
+     and Virtual Networks. Y. Lee, H. Zheng, D. Ceccarelli. February
+     2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9358) 
+
+9364 DNS Security Extensions (DNSSEC). P. Hoffman. February 2023.
+     (Format: HTML, TXT, PDF, XML) (Also BCP0237) (Status: BEST CURRENT
+     PRACTICE) (DOI: 10.17487/RFC9364) 
