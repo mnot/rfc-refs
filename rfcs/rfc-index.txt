@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/15/2023.)
+(CREATED ON: 02/16/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39662,6 +39662,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Zhou, M. Cociglio, F. Qin, R. Pang. December 2022. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9343) 
 
+9344 CCNinfo: Discovering Content and Network Information in
+     Content-Centric Networks. H. Asaeda, A. Ooka, X. Shao. February
+     2023. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
+     10.17487/RFC9344) 
+
 9346 IS-IS Extensions in Support of Inter-Autonomous System (AS) MPLS and
      GMPLS Traffic Engineering. M. Chen, L. Ginsberg, S. Previdi, D.
      Xiaodong. February 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes
@@ -39705,6 +39710,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      and Virtual Networks. Y. Lee, H. Zheng, D. Ceccarelli. February
      2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9358) 
+
+9360 CBOR Object Signing and Encryption (COSE): Header Parameters for
+     Carrying and Referencing X.509 Certificates. J. Schaad. February
+     2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9360) 
 
 9364 DNS Security Extensions (DNSSEC). P. Hoffman. February 2023.
      (Format: HTML, TXT, PDF, XML) (Also BCP0237) (Status: BEST CURRENT
