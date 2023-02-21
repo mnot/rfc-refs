@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9338 CBOR Object Signing and Encryption (COSE): Countersignatures. J.
-     Schaad. December 2022. (Format: HTML, TXT, PDF, XML) (Updates
-     RFC9052) (Also STD0096) (Status: INTERNET STANDARD) (DOI:
-     10.17487/RFC9338) 
-
 9339 OSPF Reverse Metric. K. Talaulikar, Ed., P. Psenak, H. Johnston.
      December 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9339) 
@@ -85,6 +80,11 @@
      (Format: HTML, TXT, PDF, XML) (Also BCP0237) (Status: BEST CURRENT
      PRACTICE) (DOI: 10.17487/RFC9364) 
 
+9367 GOST Cipher Suites for Transport Layer Security (TLS) Protocol
+     Version 1.3. S. Smyshlyaev, Ed., E. Alekseev, E. Griboedova, A.
+     Babueva, L. Nikiforova. February 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9367) 
+
 ===========================================================================
- - This file last updated Fri 17 Feb 2023 02:30:02 AM PST
+ - This file last updated Mon 20 Feb 2023 02:30:01 AM PST
 
