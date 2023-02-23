@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/21/2023.)
+(CREATED ON: 02/22/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -8952,7 +8952,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 2328 OSPF Version 2. J. Moy. April 1998. (Format: TXT, HTML) (Obsoletes
      RFC2178) (Updated by RFC5709, RFC6549, RFC6845, RFC6860, RFC7474,
-     RFC8042) (Also STD0054) (Status: INTERNET STANDARD) (DOI:
+     RFC8042, RFC9355) (Also STD0054) (Status: INTERNET STANDARD) (DOI:
      10.17487/RFC2328) 
 
 2329 OSPF Standardization Report. J. Moy. April 1998. (Format: TXT, HTML)
@@ -30818,8 +30818,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC7369) 
 
 7370 Updates to the IS-IS TLV Codepoints Registry. L. Ginsberg. September
-     2014. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC7370) 
+     2014. (Format: TXT, HTML) (Updated by RFC9352) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC7370) 
 
 7371 Updates to the IPv6 Multicast Addressing Architecture. M. Boucadair,
      S. Venaas. September 2014. (Format: TXT, HTML) (Updates RFC3306,
@@ -39685,6 +39685,20 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Fedyk, E. Kinzie. January 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9349) 
 
+9350 IGP Flexible Algorithm. P. Psenak, Ed., S. Hegde, C. Filsfils, K.
+     Talaulikar, A. Gulko. February 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9350) 
+
+9351 Border Gateway Protocol - Link State (BGP-LS) Extensions for
+     Flexible Algorithm Advertisement. K. Talaulikar, Ed., P. Psenak, S.
+     Zandi, G. Dawra. February 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9351) 
+
+9352 IS-IS Extensions to Support Segment Routing over the IPv6 Data
+     Plane. P. Psenak, Ed., C. Filsfils, A. Bashandy, B. Decraene, Z. Hu.
+     February 2023. (Format: HTML, TXT, PDF, XML) (Updates RFC7370)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9352) 
+
 9353 IGP Extension for Path Computation Element Communication Protocol
      (PCEP) Security Capability Support in PCE Discovery (PCED). D.
      Lopez, Q. Wu, D. Dhody, Q. Ma, D. King. January 2023. (Format: HTML,
@@ -39695,6 +39709,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Networks. J. Hou, B. Liu, Y-G. Hong, X. Tang, C. Perkins. January
      2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9354) 
+
+9355 OSPF Bidirectional Forwarding Detection (BFD) Strict-Mode. K.
+     Talaulikar, Ed., P. Psenak, A. Fu, M. Rajesh. February 2023.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC2328) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9355) 
 
 9356 Advertising Layer 2 Bundle Member Link Attributes in OSPF. K.
      Talaulikar, Ed., P. Psenak. January 2023. (Format: HTML, TXT, PDF,
