@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9346 IS-IS Extensions in Support of Inter-Autonomous System (AS) MPLS and
-     GMPLS Traffic Engineering. M. Chen, L. Ginsberg, S. Previdi, D.
-     Xiaodong. February 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes
-     RFC5316) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9346) 
-
 9347 Aggregation and Fragmentation Mode for Encapsulating Security
      Payload (ESP) and Its Use for IP Traffic Flow Security (IP-TFS). C.
      Hopps. January 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -72,6 +67,11 @@
      2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9360) 
 
+9362 Distributed Denial-of-Service Open Threat Signaling (DOTS) Signal
+     Channel Configuration Attributes for Robust Block Transmission. M.
+     Boucadair, J. Shallow. February 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9362) 
+
 9364 DNS Security Extensions (DNSSEC). P. Hoffman. February 2023.
      (Format: HTML, TXT, PDF, XML) (Also BCP0237) (Status: BEST CURRENT
      PRACTICE) (DOI: 10.17487/RFC9364) 
@@ -82,5 +82,5 @@
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9367) 
 
 ===========================================================================
- - This file last updated Tue 28 Feb 2023 02:30:01 AM PST
+ - This file last updated Wed 01 Mar 2023 02:30:02 AM PST
 
