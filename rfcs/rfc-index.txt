@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/08/2023.)
+(CREATED ON: 03/10/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -14014,7 +14014,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 3511 Benchmarking Methodology for Firewall Performance. B. Hickman, D.
      Newman, S. Tadjudin, T. Martin. April 2003. (Format: TXT, HTML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC3511) 
+     (Obsoleted by RFC9411) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC3511) 
 
 3512 Configuring Networks and Devices with Simple Network Management
      Protocol (SNMP). M. MacFaden, D. Partain, J. Saperia, W. Tackabury.
@@ -39735,6 +39736,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9360) 
 
+9361 ICANN Trademark Clearinghouse (TMCH) Functional Specifications. G.
+     Lozano. March 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9361) 
+
 9362 Distributed Denial-of-Service Open Threat Signaling (DOTS) Signal
      Channel Configuration Attributes for Robust Block Transmission. M.
      Boucadair, J. Shallow. February 2023. (Format: HTML, TXT, PDF, XML)
@@ -39760,3 +39765,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9371 Registration Procedures for Private Enterprise Numbers (PENs). A.
      Baber, P. Hoffman. March 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9371) 
+
+9411 Benchmarking Methodology for Network Security Device Performance. B.
+     Balarajah, C. Rossenhoevel, B. Monkman. March 2023. (Format: HTML,
+     TXT, PDF, XML) (Obsoletes RFC3511) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9411) 
