@@ -4,14 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9349 Definitions of Managed Objects for IP Traffic Flow Security. D.
-     Fedyk, E. Kinzie. January 2023. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9349) 
-
-9350 IGP Flexible Algorithm. P. Psenak, Ed., S. Hegde, C. Filsfils, K.
-     Talaulikar, A. Gulko. February 2023. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9350) 
-
 9351 Border Gateway Protocol - Link State (BGP-LS) Extensions for
      Flexible Algorithm Advertisement. K. Talaulikar, Ed., P. Psenak, S.
      Zandi, G. Dawra. February 2023. (Format: HTML, TXT, PDF, XML)
@@ -58,6 +50,10 @@
      2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9360) 
 
+9361 ICANN Trademark Clearinghouse (TMCH) Functional Specifications. G.
+     Lozano. March 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9361) 
+
 9362 Distributed Denial-of-Service Open Threat Signaling (DOTS) Signal
      Channel Configuration Attributes for Robust Block Transmission. M.
      Boucadair, J. Shallow. February 2023. (Format: HTML, TXT, PDF, XML)
@@ -84,6 +80,11 @@
      Baber, P. Hoffman. March 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9371) 
 
+9411 Benchmarking Methodology for Network Security Device Performance. B.
+     Balarajah, C. Rossenhoevel, B. Monkman. March 2023. (Format: HTML,
+     TXT, PDF, XML) (Obsoletes RFC3511) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9411) 
+
 ===========================================================================
- - This file last updated Thu 09 Mar 2023 02:30:01 AM PST
+ - This file last updated Fri 10 Mar 2023 02:30:02 AM PST
 
