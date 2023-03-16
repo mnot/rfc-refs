@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/14/2023.)
+(CREATED ON: 03/15/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -30694,8 +30694,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7343 An IPv6 Prefix for Overlay Routable Cryptographic Hash Identifiers
      Version 2 (ORCHIDv2). J. Laganier, F. Dupont. September 2014.
-     (Format: TXT, HTML) (Obsoletes RFC4843) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC7343) 
+     (Format: TXT, HTML) (Obsoletes RFC4843) (Updated by RFC9374)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7343) 
 
 7344 Automating DNSSEC Delegation Trust Maintenance. W. Kumari, O.
      Gudmundsson, G. Barwood. September 2014. (Format: TXT, HTML)
@@ -30958,8 +30958,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7401 Host Identity Protocol Version 2 (HIPv2). R. Moskowitz, Ed., T.
      Heer, P. Jokela, T. Henderson. April 2015. (Format: TXT, HTML)
-     (Obsoletes RFC5201) (Updated by RFC8002) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC7401) 
+     (Obsoletes RFC5201) (Updated by RFC8002, RFC9374) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC7401) 
 
 7402 Using the Encapsulating Security Payload (ESP) Transport Format with
      the Host Identity Protocol (HIP). P. Jokela, R. Moskowitz, J. Melen.
@@ -39649,6 +39649,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      December 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9339) 
 
+9340 Architectural Principles for a Quantum Internet. W. Kozlowski, S.
+     Wehner, R. Van Meter, B. Rijsman, A. S. Cacciapuoti, M. Caleffi, S.
+     Nagayama. March 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9340) 
+
 9341 Alternate-Marking Method. G. Fioccola, Ed., M. Cociglio, G. Mirsky,
      T. Mizrahi, T. Zhou. December 2022. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC8321) (Status: PROPOSED STANDARD) (DOI:
@@ -39753,6 +39758,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Also BCP0237) (Status: BEST CURRENT
      PRACTICE) (DOI: 10.17487/RFC9364) 
 
+9365 IPv6 Wireless Access in Vehicular Environments (IPWAVE): Problem
+     Statement and Use Cases. J. Jeong, Ed.. March 2023. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9365) 
+
 9366 Multiple SIP Reason Header Field Values. R. Sparks. March 2023.
      (Format: HTML, TXT, PDF, XML) (Updates RFC3326) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9366) 
@@ -39765,6 +39774,15 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9371 Registration Procedures for Private Enterprise Numbers (PENs). A.
      Baber, P. Hoffman. March 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9371) 
+
+9373 EdDSA Value for IPSECKEY. R. Moskowitz, T. Kivinen, M. Richardson.
+     March 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9373) 
+
+9374 DRIP Entity Tag (DET) for Unmanned Aircraft System Remote ID (UAS
+     RID). R. Moskowitz, S. Card, A. Wiethuechter, A. Gurtov. March 2023.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC7343, RFC7401) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9374) 
 
 9411 Benchmarking Methodology for Network Security Device Performance. B.
      Balarajah, C. Rossenhoevel, B. Monkman. March 2023. (Format: HTML,
