@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/23/2023.)
+(CREATED ON: 03/25/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39770,6 +39770,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Baber, P. Hoffman. March 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9371) 
 
+9372 L-Band Digital Aeronautical Communications System (LDACS). N.
+     Mäurer, Ed., T. Gräupl, Ed., C. Schmitt, Ed.. March 2023. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9372) 
+
 9373 EdDSA Value for IPSECKEY. R. Moskowitz, T. Kivinen, M. Richardson.
      March 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9373) 
@@ -39778,6 +39782,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      RID). R. Moskowitz, S. Card, A. Wiethuechter, A. Gurtov. March 2023.
      (Format: HTML, TXT, PDF, XML) (Updates RFC7343, RFC7401) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9374) 
+
+9384 A BGP Cease NOTIFICATION Subcode for Bidirectional Forwarding
+     Detection (BFD). J. Haas. March 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9384) 
 
 9411 Benchmarking Methodology for Network Security Device Performance. B.
      Balarajah, C. Rossenhoevel, B. Monkman. March 2023. (Format: HTML,
