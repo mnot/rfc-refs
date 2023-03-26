@@ -39649,6 +39649,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      December 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9339) 
 
+9340 Architectural Principles for a Quantum Internet. W. Kozlowski, S.
+     Wehner, R. Van Meter, B. Rijsman, A. S. Cacciapuoti, M. Caleffi, S.
+     Nagayama. March 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9340) 
+
 9341 Alternate-Marking Method. G. Fioccola, Ed., M. Cociglio, G. Mirsky,
      T. Mizrahi, T. Zhou. December 2022. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC8321) (Status: PROPOSED STANDARD) (DOI:
