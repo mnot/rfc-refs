@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/30/2023.)
+(CREATED ON: 03/31/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39787,6 +39787,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      RID). R. Moskowitz, S. Card, A. Wiethuechter, A. Gurtov. March 2023.
      (Format: HTML, TXT, PDF, XML) (Updates RFC7343, RFC7401) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9374) 
+
+9376 Applicability of GMPLS for beyond 100 Gbit/s Optical Transport
+     Network. Q. Wang, Ed., R. Valiveti, Ed., H. Zheng, Ed., H. van
+     Helvoort, S. Belotti. March 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9376) 
 
 9384 A BGP Cease NOTIFICATION Subcode for Bidirectional Forwarding
      Detection (BFD). J. Haas. March 2023. (Format: HTML, TXT, PDF, XML)
