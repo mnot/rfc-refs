@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/31/2023.)
+(CREATED ON: 04/01/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39796,6 +39796,18 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9384 A BGP Cease NOTIFICATION Subcode for Bidirectional Forwarding
      Detection (BFD). J. Haas. March 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9384) 
+
+9401 The Addition of the Death (DTH) Flag to TCP. S. Toyosawa. 1 April
+     2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9401) 
+
+9402 Concat Notation. M. Basaglia, J. Bernards, J. Maas. 1 April 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9402) 
+
+9405 AI Sarcasm Detection: Insult Your AI without Offending It. C. GPT,
+     R. L. Barnes, Ed.. 1 April 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9405) 
 
 9411 Benchmarking Methodology for Network Security Device Performance. B.
      Balarajah, C. Rossenhoevel, B. Monkman. March 2023. (Format: HTML,
