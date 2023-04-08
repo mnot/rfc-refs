@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 04/06/2023.)
+(CREATED ON: 04/07/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39735,6 +39735,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      and Virtual Networks. Y. Lee, H. Zheng, D. Ceccarelli. February
      2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9358) 
+
+9359 Echo Request/Reply for Enabled In Situ OAM (IOAM) Capabilities. X.
+     Min, G. Mirsky, L. Bo. April 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9359) 
 
 9360 CBOR Object Signing and Encryption (COSE): Header Parameters for
      Carrying and Referencing X.509 Certificates. J. Schaad. February
