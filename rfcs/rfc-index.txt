@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 04/18/2023.)
+(CREATED ON: 04/20/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -24992,8 +24992,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC6035) 
 
 6036 Emerging Service Provider Scenarios for IPv6 Deployment. B.
-     Carpenter, S. Jiang. October 2010. (Format: TXT, HTML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC6036) 
+     Carpenter, S. Jiang. October 2010. (Format: TXT, HTML) (Obsoleted by
+     RFC9386) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6036) 
 
 6037 Cisco Systems' Solution for Multicast in BGP/MPLS IP VPNs. E. Rosen,
      Ed., Y. Cai, Ed., IJ. Wijnands. October 2010. (Format: TXT, HTML)
@@ -39804,6 +39804,14 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9384 A BGP Cease NOTIFICATION Subcode for Bidirectional Forwarding
      Detection (BFD). J. Haas. March 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9384) 
+
+9386 IPv6 Deployment Status. G. Fioccola, P. Volpato, J. Palet Martinez,
+     G. Mishra, C. Xie. April 2023. (Format: HTML, TXT, PDF, XML)
+     (Obsoletes RFC6036) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9386) 
+
+9391 Static Context Header Compression over Narrowband Internet of
+     Things. E. Ramos, A. Minaburo. April 2023. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9391) 
 
 9401 The Addition of the Death (DTH) Flag to TCP. S. Toyosawa. 1 April
      2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
