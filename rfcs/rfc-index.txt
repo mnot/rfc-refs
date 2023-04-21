@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 04/20/2023.)
+(CREATED ON: 04/21/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39808,6 +39808,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9386 IPv6 Deployment Status. G. Fioccola, P. Volpato, J. Palet Martinez,
      G. Mishra, C. Xie. April 2023. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC6036) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9386) 
+
+9387 Use Cases for DDoS Open Threat Signaling (DOTS) Telemetry. Y.
+     Hayashi, M. Chen, L. Su. April 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9387) 
 
 9391 Static Context Header Compression over Narrowband Internet of
      Things. E. Ramos, A. Minaburo. April 2023. (Format: HTML, TXT, PDF,
