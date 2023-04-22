@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9362 Distributed Denial-of-Service Open Threat Signaling (DOTS) Signal
-     Channel Configuration Attributes for Robust Block Transmission. M.
-     Boucadair, J. Shallow. February 2023. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9362) 
-
 9363 A YANG Data Model for Static Context Header Compression (SCHC). A.
      Minaburo, L. Toutain. March 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9363) 
@@ -64,6 +59,10 @@
      G. Mishra, C. Xie. April 2023. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC6036) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9386) 
 
+9387 Use Cases for DDoS Open Threat Signaling (DOTS) Telemetry. Y.
+     Hayashi, M. Chen, L. Su. April 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9387) 
+
 9391 Static Context Header Compression over Narrowband Internet of
      Things. E. Ramos, A. Minaburo. April 2023. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9391) 
@@ -86,5 +85,5 @@
      10.17487/RFC9411) 
 
 ===========================================================================
- - This file last updated Thu 20 Apr 2023 02:30:01 AM PDT
+ - This file last updated Fri 21 Apr 2023 02:30:01 AM PDT
 
