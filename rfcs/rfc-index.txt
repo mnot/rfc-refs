@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 04/23/2023.)
+(CREATED ON: 04/24/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -9278,16 +9278,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 2407 The Internet IP Security Domain of Interpretation for ISAKMP. D.
      Piper. November 1998. (Format: TXT, HTML) (Obsoleted by RFC4306)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC2407) 
+     (Status: HISTORIC) (DOI: 10.17487/RFC2407) 
 
 2408 Internet Security Association and Key Management Protocol (ISAKMP).
      D. Maughan, M. Schertler, M. Schneider, J. Turner. November 1998.
-     (Format: TXT, HTML) (Obsoleted by RFC4306) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC2408) 
+     (Format: TXT, HTML) (Obsoleted by RFC4306) (Status: HISTORIC) (DOI:
+     10.17487/RFC2408) 
 
 2409 The Internet Key Exchange (IKE). D. Harkins, D. Carrel. November
      1998. (Format: TXT, HTML) (Obsoleted by RFC4306) (Updated by
-     RFC4109) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC2409) 
+     RFC4109) (Status: HISTORIC) (DOI: 10.17487/RFC2409) 
 
 2410 The NULL Encryption Algorithm and Its Use With IPsec. R. Glenn, S.
      Kent. November 1998. (Format: TXT, HTML) (Status: PROPOSED STANDARD)
@@ -34612,7 +34612,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Guidance for Encapsulating Security Payload (ESP) and Authentication
      Header (AH). P. Wouters, D. Migault, J. Mattsson, Y. Nir, T.
      Kivinen. October 2017. (Format: TXT, HTML) (Obsoletes RFC7321)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8221) 
+     (Updated by RFC9395) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8221) 
 
 8222 Selecting Labels for Use with Conventional DNS and Other Resolution
      Systems in DNS-Based Service Discovery. A. Sullivan. September 2017.
@@ -34726,8 +34727,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8247 Algorithm Implementation Requirements and Usage Guidance for the
      Internet Key Exchange Protocol Version 2 (IKEv2). Y. Nir, T.
      Kivinen, P. Wouters, D. Migault. September 2017. (Format: TXT, HTML)
-     (Obsoletes RFC4307) (Updates RFC7296) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC8247) 
+     (Obsoletes RFC4307) (Updates RFC7296) (Updated by RFC9395) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8247) 
 
 8248 Security Automation and Continuous Monitoring (SACM) Requirements.
      N. Cam-Winget, L. Lorenzin. September 2017. (Format: TXT, HTML)
@@ -39816,6 +39817,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9391 Static Context Header Compression over Narrowband Internet of
      Things. E. Ramos, A. Minaburo. April 2023. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9391) 
+
+9395 Deprecation of the Internet Key Exchange Version 1 (IKEv1) Protocol
+     and Obsoleted Algorithms. P. Wouters, Ed.. April 2023. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC8221, RFC8247) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9395) 
 
 9401 The Addition of the Death (DTH) Flag to TCP. S. Toyosawa. 1 April
      2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
