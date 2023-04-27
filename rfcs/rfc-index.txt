@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 04/26/2023.)
+(CREATED ON: 04/27/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39793,6 +39793,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Updates RFC7343, RFC7401) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9374) 
 
+9375 A YANG Data Model for Network and VPN Service Performance
+     Monitoring. B. Wu, Ed., Q. Wu, Ed., M. Boucadair, Ed., O. Gonzalez
+     de Dios, B. Wen. April 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9375) 
+
 9376 Applicability of GMPLS for beyond 100 Gbit/s Optical Transport
      Network. Q. Wang, Ed., R. Valiveti, Ed., H. Zheng, Ed., H. van
      Helvoort, S. Belotti. March 2023. (Format: HTML, TXT, PDF, XML)
@@ -39801,6 +39806,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9377 IS-IS Flood Reflection. T. Przygienda, Ed., C. Bowers, Y. Lee, A.
      Sharma, R. White. April 2023. (Format: HTML, TXT, PDF, XML) (Status:
      EXPERIMENTAL) (DOI: 10.17487/RFC9377) 
+
+9378 In Situ Operations, Administration, and Maintenance (IOAM)
+     Deployment. F. Brockners, Ed., S. Bhandari, Ed., D. Bernier, T.
+     Mizrahi, Ed.. April 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9378) 
 
 9384 A BGP Cease NOTIFICATION Subcode for Bidirectional Forwarding
      Detection (BFD). J. Haas. March 2023. (Format: HTML, TXT, PDF, XML)
@@ -39821,6 +39831,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9391 Static Context Header Compression over Narrowband Internet of
      Things. E. Ramos, A. Minaburo. April 2023. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9391) 
+
+9392 Sending RTP Control Protocol (RTCP) Feedback for Congestion Control
+     in Interactive Multimedia Conferences. C. Perkins. April 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9392) 
 
 9395 Deprecation of the Internet Key Exchange Version 1 (IKEv1) Protocol
      and Obsoleted Algorithms. P. Wouters, Ed.. April 2023. (Format:
