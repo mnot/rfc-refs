@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/04/2023.)
+(CREATED ON: 05/05/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -14878,8 +14878,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 3709 Internet X.509 Public Key Infrastructure: Logotypes in X.509
      Certificates. S. Santesson, R. Housley, T. Freeman. February 2004.
-     (Format: TXT, HTML) (Updated by RFC6170) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC3709) 
+     (Format: TXT, HTML) (Obsoleted by RFC9399) (Updated by RFC6170)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC3709) 
 
 3710 An IESG charter. H. Alvestrand. February 2004. (Format: TXT, HTML)
      (Updated by RFC3932, RFC5742, RFC8717) (Status: INFORMATIONAL) (DOI:
@@ -25579,8 +25579,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6170 Internet X.509 Public Key Infrastructure -- Certificate Image. S.
      Santesson, R. Housley, S. Bajaj, L. Rosenthol. May 2011. (Format:
-     TXT, HTML) (Updates RFC3709) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC6170) 
+     TXT, HTML) (Obsoleted by RFC9399) (Updates RFC3709) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC6170) 
 
 6171 The Lightweight Directory Access Protocol (LDAP) Don't Use Copy
      Control. K. Zeilenga. March 2011. (Format: TXT, HTML) (Status:
@@ -39851,6 +39851,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      and Obsoleted Algorithms. P. Wouters, Ed.. April 2023. (Format:
      HTML, TXT, PDF, XML) (Updates RFC8221, RFC8247) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9395) 
+
+9399 Internet X.509 Public Key Infrastructure: Logotypes in X.509
+     Certificates. S. Santesson, R. Housley, T. Freeman, L. Rosenthol.
+     May 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3709, RFC6170)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9399) 
 
 9401 The Addition of the Death (DTH) Flag to TCP. S. Toyosawa. 1 April
      2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
