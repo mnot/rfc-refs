@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9373 EdDSA Value for IPSECKEY. R. Moskowitz, T. Kivinen, M. Richardson.
-     March 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9373) 
-
 9374 DRIP Entity Tag (DET) for Unmanned Aircraft System Remote ID (UAS
      RID). R. Moskowitz, S. Card, A. Wiethuechter, A. Gurtov. March 2023.
      (Format: HTML, TXT, PDF, XML) (Updates RFC7343, RFC7401) (Status:
@@ -67,6 +63,11 @@
      HTML, TXT, PDF, XML) (Updates RFC8221, RFC8247) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9395) 
 
+9399 Internet X.509 Public Key Infrastructure: Logotypes in X.509
+     Certificates. S. Santesson, R. Housley, T. Freeman, L. Rosenthol.
+     May 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3709, RFC6170)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9399) 
+
 9401 The Addition of the Death (DTH) Flag to TCP. S. Toyosawa. 1 April
      2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9401) 
@@ -85,5 +86,5 @@
      10.17487/RFC9411) 
 
 ===========================================================================
- - This file last updated Fri 05 May 2023 02:30:01 AM PDT
+ - This file last updated Mon 08 May 2023 02:30:01 AM PDT
 
