@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/14/2023.)
+(CREATED ON: 05/15/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39868,6 +39868,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9405 AI Sarcasm Detection: Insult Your AI without Offending It. C. GPT,
      R. L. Barnes, Ed.. 1 April 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9405) 
+
+9406 HyStart++: Modified Slow Start for TCP. P. Balasubramanian, Y.
+     Huang, M. Olson. May 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9406) 
 
 9411 Benchmarking Methodology for Network Security Device Performance. B.
      Balarajah, C. Rossenhoevel, B. Monkman. March 2023. (Format: HTML,
