@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9374 DRIP Entity Tag (DET) for Unmanned Aircraft System Remote ID (UAS
-     RID). R. Moskowitz, S. Card, A. Wiethuechter, A. Gurtov. March 2023.
-     (Format: HTML, TXT, PDF, XML) (Updates RFC7343, RFC7401) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9374) 
-
 9375 A YANG Data Model for Network and VPN Service Performance
      Monitoring. B. Wu, Ed., Q. Wu, Ed., M. Boucadair, Ed., O. Gonzalez
      de Dios, B. Wen. April 2023. (Format: HTML, TXT, PDF, XML) (Status:
@@ -80,11 +75,15 @@
      R. L. Barnes, Ed.. 1 April 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9405) 
 
+9406 HyStart++: Modified Slow Start for TCP. P. Balasubramanian, Y.
+     Huang, M. Olson. May 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9406) 
+
 9411 Benchmarking Methodology for Network Security Device Performance. B.
      Balarajah, C. Rossenhoevel, B. Monkman. March 2023. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC3511) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9411) 
 
 ===========================================================================
- - This file last updated Mon 15 May 2023 02:30:01 AM PDT
+ - This file last updated Tue 16 May 2023 02:30:01 AM PDT
 
