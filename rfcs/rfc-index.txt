@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/16/2023.)
+(CREATED ON: 05/17/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -87,10 +87,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: UNKNOWN) (DOI: 10.17487/RFC0007) 
 
 0008 ARPA Network Functional Specifications. G. Deloche. May 1969.
-     (Format: PDF, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0008) 
+     (Format: PDF) (Status: UNKNOWN) (DOI: 10.17487/RFC0008) 
 
-0009 Host Software. G. Deloche. May 1969. (Format: PDF, HTML) (Status:
-     UNKNOWN) (DOI: 10.17487/RFC0009) 
+0009 Host Software. G. Deloche. May 1969. (Format: PDF) (Status: UNKNOWN)
+     (DOI: 10.17487/RFC0009) 
 
 0010 Documentation conventions. S.D. Crocker. July 1969. (Format: TXT,
      HTML) (Obsoletes RFC0003) (Obsoleted by RFC0016) (Updated by
@@ -231,7 +231,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0050) 
 
 0051 Proposal for a Network Interchange Language. M. Elie. May 1970.
-     (Format: PDF, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0051) 
+     (Format: PDF) (Status: UNKNOWN) (DOI: 10.17487/RFC0051) 
 
 0052 Updated distribution list. J. Postel, S.D. Crocker. July 1970.
      (Format: TXT, HTML) (Updated by RFC0069) (Status: UNKNOWN) (DOI:
@@ -1518,7 +1518,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0417) 
 
 0418 Server File Transfer Under TSS/360 At NASA-Ames Research Center. W.
-     Hathaway. November 1972. (Format: PDF, HTML) (Status: UNKNOWN) (DOI:
+     Hathaway. November 1972. (Format: PDF) (Status: UNKNOWN) (DOI:
      10.17487/RFC0418) 
 
 0419 To: Network liaisons and station agents. A. Vezza. December 1972.
@@ -1782,8 +1782,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: UNKNOWN) (DOI: 10.17487/RFC0499) 
 
 0500 Integration of data management systems on a computer network. A.
-     Shoshani, I. Spiegler. April 1973. (Format: PDF, HTML) (Status:
-     UNKNOWN) (DOI: 10.17487/RFC0500) 
+     Shoshani, I. Spiegler. April 1973. (Format: PDF) (Status: UNKNOWN)
+     (DOI: 10.17487/RFC0500) 
 
 0501 Un-muddling "free file transfer". K.T. Pogran. May 1973. (Format:
      TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0501) 
@@ -1877,9 +1877,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Tomlinson, K.T. Pogran. June 1973. (Format: TXT, HTML) (Status:
      UNKNOWN) (DOI: 10.17487/RFC0529) 
 
-0530 Report on the Survey Project. A.K. Bhushan. June 1973. (Format: PDF,
-     HTML) (Updates RFC0308, RFC0523) (Status: UNKNOWN) (DOI:
-     10.17487/RFC0530) 
+0530 Report on the Survey Project. A.K. Bhushan. June 1973. (Format: PDF)
+     (Updates RFC0308, RFC0523) (Status: UNKNOWN) (DOI: 10.17487/RFC0530) 
 
 0531 Feast or famine? A response to two recent RFC's about network
      information. M.A. Padlipsky. June 1973. (Format: TXT, HTML) (Status:
@@ -2109,8 +2108,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML) (Updated by RFC0603) (Status: UNKNOWN) (DOI: 10.17487/RFC0597) 
 
 0598 RFC index - December 5, 1973. Network Information Center. Stanford
-     Research Institute. December 1973. (Format: PDF, HTML) (Status:
-     UNKNOWN) (DOI: 10.17487/RFC0598) 
+     Research Institute. December 1973. (Format: PDF) (Status: UNKNOWN)
+     (DOI: 10.17487/RFC0598) 
 
 0599 Update on NETRJS. R.T. Braden. December 1973. (Format: TXT, HTML)
      (Obsoletes RFC0189) (Obsoleted by RFC0740) (Status: UNKNOWN) (DOI:
