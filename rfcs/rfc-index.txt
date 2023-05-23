@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/21/2023.)
+(CREATED ON: 05/22/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -30492,7 +30492,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 7296 Internet Key Exchange Protocol Version 2 (IKEv2). C. Kaufman, P.
      Hoffman, Y. Nir, P. Eronen, T. Kivinen. October 2014. (Format: TXT,
      HTML) (Obsoletes RFC5996) (Updated by RFC7427, RFC7670, RFC8247,
-     RFC8983) (Also STD0079) (Status: INTERNET STANDARD) (DOI:
+     RFC8983, RFC9370) (Also STD0079) (Status: INTERNET STANDARD) (DOI:
      10.17487/RFC7296) 
 
 7297 IP Connectivity Provisioning Profile (CPP). M. Boucadair, C.
@@ -39780,6 +39780,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Babueva, L. Nikiforova. February 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9367) 
 
+9370 Multiple Key Exchanges in the Internet Key Exchange Protocol Version
+     2 (IKEv2). CJ. Tjhai, M. Tomlinson, G. Bartlett, S. Fluhrer, D. Van
+     Geest, O. Garcia-Morchon, V. Smyslov. May 2023. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC7296) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9370) 
+
 9371 Registration Procedures for Private Enterprise Numbers (PENs). A.
      Baber, P. Hoffman. March 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9371) 
@@ -39819,6 +39825,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9384 A BGP Cease NOTIFICATION Subcode for Bidirectional Forwarding
      Detection (BFD). J. Haas. March 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9384) 
+
+9385 Using GOST Cryptographic Algorithms in the Internet Key Exchange
+     Protocol Version 2 (IKEv2). V. Smyslov. May 2023. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9385) 
 
 9386 IPv6 Deployment Status. G. Fioccola, P. Volpato, J. Palet Martinez,
      G. Mishra, C. Xie. April 2023. (Format: HTML, TXT, PDF, XML)
