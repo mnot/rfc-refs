@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9375 A YANG Data Model for Network and VPN Service Performance
-     Monitoring. B. Wu, Ed., Q. Wu, Ed., M. Boucadair, Ed., O. Gonzalez
-     de Dios, B. Wen. April 2023. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9375) 
-
 9376 Applicability of GMPLS for beyond 100 Gbit/s Optical Transport
      Network. Q. Wang, Ed., R. Valiveti, Ed., H. Zheng, Ed., H. van
      Helvoort, S. Belotti. March 2023. (Format: HTML, TXT, PDF, XML)
@@ -26,6 +21,10 @@
 9384 A BGP Cease NOTIFICATION Subcode for Bidirectional Forwarding
      Detection (BFD). J. Haas. March 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9384) 
+
+9385 Using GOST Cryptographic Algorithms in the Internet Key Exchange
+     Protocol Version 2 (IKEv2). V. Smyslov. May 2023. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9385) 
 
 9386 IPv6 Deployment Status. G. Fioccola, P. Volpato, J. Palet Martinez,
      G. Mishra, C. Xie. April 2023. (Format: HTML, TXT, PDF, XML)
@@ -85,5 +84,5 @@
      10.17487/RFC9411) 
 
 ===========================================================================
- - This file last updated Mon 22 May 2023 02:30:01 AM PDT
+ - This file last updated Tue 23 May 2023 02:30:01 AM PDT
 
