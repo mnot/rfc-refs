@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/29/2023.)
+(CREATED ON: 05/30/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39860,6 +39860,15 @@ See the RFC Editor Web page http://www.rfc-editor.org
      and Obsoleted Algorithms. P. Wouters, Ed.. April 2023. (Format:
      HTML, TXT, PDF, XML) (Updates RFC8221, RFC8247) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9395) 
+
+9396 OAuth 2.0 Rich Authorization Requests. T. Lodderstedt, J. Richer, B.
+     Campbell. May 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9396) 
+
+9398 A YANG Data Model for Internet Group Management Protocol (IGMP) and
+     Multicast Listener Discovery (MLD) Proxy Devices. H. Zhao, X. Liu,
+     Y. Liu, M. Panchanathan, M. Sivakumar. May 2023. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9398) 
 
 9399 Internet X.509 Public Key Infrastructure: Logotypes in X.509
      Certificates. S. Santesson, R. Housley, T. Freeman, L. Rosenthol.
