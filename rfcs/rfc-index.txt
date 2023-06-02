@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/31/2023.)
+(CREATED ON: 06/01/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -17638,8 +17638,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 4343 Domain Name System (DNS) Case Insensitivity Clarification. D.
      Eastlake 3rd. January 2006. (Format: TXT, HTML) (Updates RFC1034,
-     RFC1035, RFC2181) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC4343) 
+     RFC1035, RFC2181) (Updated by RFC5890) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC4343) 
 
 4344 The Secure Shell (SSH) Transport Layer Encryption Modes. M. Bellare,
      T. Kohno, C. Namprempre. January 2006. (Format: TXT, HTML) (Status:
@@ -24366,8 +24366,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5890 Internationalized Domain Names for Applications (IDNA): Definitions
      and Document Framework. J. Klensin. August 2010. (Format: TXT, HTML)
-     (Obsoletes RFC3490) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC5890) 
+     (Obsoletes RFC3490) (Updates RFC4343) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC5890) 
 
 5891 Internationalized Domain Names in Applications (IDNA): Protocol. J.
      Klensin. August 2010. (Format: TXT, HTML) (Obsoletes RFC3490,
