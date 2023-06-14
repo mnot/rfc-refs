@@ -4,23 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9378 In Situ Operations, Administration, and Maintenance (IOAM)
-     Deployment. F. Brockners, Ed., S. Bhandari, Ed., D. Bernier, T.
-     Mizrahi, Ed.. April 2023. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9378) 
-
-9384 A BGP Cease NOTIFICATION Subcode for Bidirectional Forwarding
-     Detection (BFD). J. Haas. March 2023. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9384) 
-
-9385 Using GOST Cryptographic Algorithms in the Internet Key Exchange
-     Protocol Version 2 (IKEv2). V. Smyslov. May 2023. (Format: HTML,
-     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9385) 
-
-9386 IPv6 Deployment Status. G. Fioccola, P. Volpato, J. Palet Martinez,
-     G. Mishra, C. Xie. April 2023. (Format: HTML, TXT, PDF, XML)
-     (Obsoletes RFC6036) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9386) 
-
 9387 Use Cases for DDoS Open Threat Signaling (DOTS) Telemetry. Y.
      Hayashi, M. Chen, L. Su. April 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9387) 
@@ -43,6 +26,11 @@
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9392) 
 
+9394 IMAP PARTIAL Extension for Paged SEARCH and FETCH. A. Melnikov, A.
+     P. Achuthan, V. Nagulakonda, L. Alves. June 2023. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC4731, RFC5267) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9394) 
+
 9395 Deprecation of the Internet Key Exchange Version 1 (IKEv1) Protocol
      and Obsoleted Algorithms. P. Wouters, Ed.. April 2023. (Format:
      HTML, TXT, PDF, XML) (Updates RFC8221, RFC8247) (Status: PROPOSED
@@ -62,6 +50,10 @@
      May 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3709, RFC6170)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9399) 
 
+9400 Guidelines for the Organization of Fully Online Meetings. M.
+     Kühlewind, M. Duke. June 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9400) 
+
 9401 The Addition of the Death (DTH) Flag to TCP. S. Toyosawa. 1 April
      2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9401) 
@@ -78,11 +70,18 @@
      Huang, M. Olson. May 2023. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9406) 
 
+9407 Tetrys: An On-the-Fly Network Coding Protocol. J. Detchart, E.
+     Lochin, J. Lacan, V. Roca. June 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9407) 
+
 9411 Benchmarking Methodology for Network Security Device Performance. B.
      Balarajah, C. Rossenhoevel, B. Monkman. March 2023. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC3511) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9411) 
 
+9412 The ORIGIN Extension in HTTP/3. M. Bishop. June 2023. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9412) 
+
 ===========================================================================
- - This file last updated Mon 12 Jun 2023 02:30:02 AM PDT
+ - This file last updated Tue 13 Jun 2023 02:30:01 AM PDT
 
