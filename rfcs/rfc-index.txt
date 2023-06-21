@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/19/2023.)
+(CREATED ON: 06/21/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39911,6 +39911,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Lochin, J. Lacan, V. Roca. June 2023. (Format: HTML, TXT, PDF, XML)
      (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9407) 
 
+9408 A YANG Network Data Model for Service Attachment Points (SAPs). M.
+     Boucadair, Ed., O. Gonzalez de Dios, S. Barguil, Q. Wu, V. Lopez.
+     June 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9408) 
+
 9411 Benchmarking Methodology for Network Security Device Performance. B.
      Balarajah, C. Rossenhoevel, B. Monkman. March 2023. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC3511) (Status: INFORMATIONAL) (DOI:
@@ -39918,3 +39923,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9412 The ORIGIN Extension in HTTP/3. M. Bishop. June 2023. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9412) 
+
+9425 JSON Meta Application Protocol (JMAP) for Quotas. R. Cordier, Ed..
+     June 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9425) 
