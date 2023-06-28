@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/26/2023.)
+(CREATED ON: 06/28/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -19865,7 +19865,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 4851 The Flexible Authentication via Secure Tunneling Extensible
      Authentication Protocol Method (EAP-FAST). N. Cam-Winget, D. McGrew,
      J. Salowey, H. Zhou. May 2007. (Format: TXT, HTML) (Updated by
-     RFC8996) (Status: INFORMATIONAL) (DOI: 10.17487/RFC4851) 
+     RFC8996, RFC9427) (Status: INFORMATIONAL) (DOI: 10.17487/RFC4851) 
 
 4852 IPv6 Enterprise Network Analysis - IP Layer 3 Focus. J. Bound, Y.
      Pouffary, S. Klynsma, T. Chown, D. Green. April 2007. (Format: TXT,
@@ -21719,8 +21719,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5281 Extensible Authentication Protocol Tunneled Transport Layer Security
      Authenticated Protocol Version 0 (EAP-TTLSv0). P. Funk, S.
-     Blake-Wilson. August 2008. (Format: TXT, HTML) (Updated by RFC8996)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC5281) 
+     Blake-Wilson. August 2008. (Format: TXT, HTML) (Updated by RFC8996,
+     RFC9427) (Status: INFORMATIONAL) (DOI: 10.17487/RFC5281) 
 
 5282 Using Authenticated Encryption Algorithms with the Encrypted Payload
      of the Internet Key Exchange version 2 (IKEv2) Protocol. D. Black,
@@ -29921,7 +29921,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7170 Tunnel Extensible Authentication Protocol (TEAP) Version 1. H. Zhou,
      N. Cam-Winget, J. Salowey, S. Hanna. May 2014. (Format: TXT, HTML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7170) 
+     (Updated by RFC9427) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC7170) 
 
 7171 PT-EAP: Posture Transport (PT) Protocol for Extensible
      Authentication Protocol (EAP) Tunnel Methods. N. Cam-Winget, P.
@@ -38669,6 +38670,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2023. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC1528) (Updates
      RFC1706) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9121) 
 
+9122 IANA Registry for Sieve Actions. A. Melnikov, K. Murchison. June
+     2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9122) 
+
 9124 A Manifest Information Model for Firmware Updates in Internet of
      Things (IoT) Devices. B. Moran, H. Tschofenig, H. Birkholz. January
      2022. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
@@ -39924,6 +39929,15 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9412 The ORIGIN Extension in HTTP/3. M. Bishop. June 2023. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9412) 
 
+9413 Maintaining Robust Protocols. M. Thomson, D. Schinazi. June 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9413) 
+
 9425 JSON Meta Application Protocol (JMAP) for Quotas. R. Cordier, Ed..
      June 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9425) 
+
+9427 TLS-Based Extensible Authentication Protocol (EAP) Types for Use
+     with TLS 1.3. A. DeKok. June 2023. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC4851, RFC5281, RFC7170) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9427) 
