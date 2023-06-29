@@ -4,14 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9390 Diameter Group Signaling. M. Jones, M. Liebsch, L. Morand. April
-     2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9390) 
-
-9391 Static Context Header Compression over Narrowband Internet of
-     Things. E. Ramos, A. Minaburo. April 2023. (Format: HTML, TXT, PDF,
-     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9391) 
-
 9392 Sending RTP Control Protocol (RTCP) Feedback for Congestion Control
      in Interactive Multimedia Conferences. C. Perkins. April 2023.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
@@ -78,10 +70,19 @@
 9412 The ORIGIN Extension in HTTP/3. M. Bishop. June 2023. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9412) 
 
+9413 Maintaining Robust Protocols. M. Thomson, D. Schinazi. June 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9413) 
+
 9425 JSON Meta Application Protocol (JMAP) for Quotas. R. Cordier, Ed..
      June 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9425) 
 
+9427 TLS-Based Extensible Authentication Protocol (EAP) Types for Use
+     with TLS 1.3. A. DeKok. June 2023. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC4851, RFC5281, RFC7170) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9427) 
+
 ===========================================================================
- - This file last updated Tue 27 Jun 2023 02:30:01 AM PDT
+ - This file last updated Wed 28 Jun 2023 02:30:01 AM PDT
 

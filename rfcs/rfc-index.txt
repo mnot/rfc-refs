@@ -39868,6 +39868,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9392) 
 
+9393 Concise Software Identification Tags. H. Birkholz, J.
+     Fitzgerald-McKay, C. Schmidt, D. Waltermire. June 2023. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9393) 
+
 9394 IMAP PARTIAL Extension for Paged SEARCH and FETCH. A. Melnikov, A.
      P. Achuthan, V. Nagulakonda, L. Alves. June 2023. (Format: HTML,
      TXT, PDF, XML) (Updates RFC4731, RFC5267) (Status: PROPOSED
