@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/02/2023.)
+(CREATED ON: 07/03/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -12912,10 +12912,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (DOI: 10.17487/RFC3269) 
 
 3270 Multi-Protocol Label Switching (MPLS) Support of Differentiated
-     Services. F. Le Faucheur, L. Wu, B. Davie, S. Davari, P. Vaananen,
-     R. Krishnan, P. Cheval, J. Heinanen. May 2002. (Format: TXT, HTML)
-     (Updates RFC3032) (Updated by RFC5462) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC3270) 
+     Services. F. Le Faucheur, Ed., L. Wu, B. Davie, S. Davari, P.
+     Vaananen, R. Krishnan, P. Cheval, J. Heinanen. May 2002. (Format:
+     TXT, HTML) (Updates RFC3032) (Updated by RFC5462) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC3270) 
 
 3271 The Internet is for Everyone. V. Cerf. April 2002. (Format: TXT,
      HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC3271) 
