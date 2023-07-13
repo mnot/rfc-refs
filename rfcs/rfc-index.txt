@@ -23815,8 +23815,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5764 Datagram Transport Layer Security (DTLS) Extension to Establish Keys
      for the Secure Real-time Transport Protocol (SRTP). D. McGrew, E.
-     Rescorla. May 2010. (Format: TXT, HTML) (Updated by RFC7983)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5764) 
+     Rescorla. May 2010. (Format: TXT, HTML) (Updated by RFC7983,
+     RFC9443) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5764) 
 
 5765 Security Issues and Solutions in Peer-to-Peer Systems for Realtime
      Communications. H. Schulzrinne, E. Marocco, E. Ivov. February 2010.
@@ -33570,8 +33570,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 7983 Multiplexing Scheme Updates for Secure Real-time Transport Protocol
      (SRTP) Extension for Datagram Transport Layer Security (DTLS). M.
      Petit-Huguenin, G. Salgueiro. September 2016. (Format: TXT, HTML)
-     (Updates RFC5764) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC7983) 
+     (Updates RFC5764) (Updated by RFC9443) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC7983) 
 
 7984 Locating Session Initiation Protocol (SIP) Servers in a Dual-Stack
      IP Network. O. Johansson, G. Salgueiro, V. Gurbani, D. Worley, Ed..
@@ -39977,3 +39977,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9432 DNS Catalog Zones. P. van Dijk, L. Peltan, O. Surý, W. Toorop, C.R.
      Monshouwer, P. Thomassen, A. Sargsyan. July 2023. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9432) 
+
+9443 Multiplexing Scheme Updates for QUIC. B. Aboba, G. Salgueiro, C.
+     Perkins. July 2023. (Format: HTML, TXT, PDF, XML) (Updates RFC5764,
+     RFC7983) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9443) 
