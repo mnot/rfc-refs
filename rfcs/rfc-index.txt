@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/12/2023.)
+(CREATED ON: 07/13/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39682,6 +39682,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Content-Centric Networks. H. Asaeda, A. Ooka, X. Shao. February
      2023. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC9344) 
+
+9345 Delegated Credentials for TLS and DTLS. R. Barnes, S. Iyengar, N.
+     Sullivan, E. Rescorla. July 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9345) 
 
 9346 IS-IS Extensions in Support of Inter-Autonomous System (AS) MPLS and
      GMPLS Traffic Engineering. M. Chen, L. Ginsberg, S. Previdi, D.
