@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/13/2023.)
+(CREATED ON: 07/14/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39929,6 +39929,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Boucadair, Ed., O. Gonzalez de Dios, S. Barguil, Q. Wu, V. Lopez.
      June 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9408) 
+
+9409 The 'sip-trunking-capability' Link Relation Type. K. Inamdar, S.
+     Narayanan, D. Engi, G. Salgueiro. July 2023. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9409) 
 
 9411 Benchmarking Methodology for Network Security Device Performance. B.
      Balarajah, C. Rossenhoevel, B. Monkman. March 2023. (Format: HTML,
