@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/16/2023.)
+(CREATED ON: 07/18/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39985,6 +39985,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9432 DNS Catalog Zones. P. van Dijk, L. Peltan, O. Surý, W. Toorop, C.R.
      Monshouwer, P. Thomassen, A. Sargsyan. July 2023. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9432) 
+
+9434 Drone Remote Identification Protocol (DRIP) Architecture. S. Card,
+     A. Wiethuechter, R. Moskowitz, S. Zhao, Ed., A. Gurtov. July 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9434) 
 
 9443 Multiplexing Scheme Updates for QUIC. B. Aboba, G. Salgueiro, C.
      Perkins. July 2023. (Format: HTML, TXT, PDF, XML) (Updates RFC5764,
