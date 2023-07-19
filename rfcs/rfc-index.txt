@@ -39960,6 +39960,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9419) 
 
+9420 The Messaging Layer Security (MLS) Protocol. R. Barnes, B.
+     Beurdouche, R. Robert, J. Millican, E. Omara, K. Cohn-Gordon. July
+     2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9420) 
+
 9425 JSON Meta Application Protocol (JMAP) for Quotas. R. Cordier, Ed..
      June 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9425) 

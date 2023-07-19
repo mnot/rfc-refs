@@ -4,14 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9402 Concat Notation. M. Basaglia, J. Bernards, J. Maas. 1 April 2023.
-     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9402) 
-
-9405 AI Sarcasm Detection: Insult Your AI without Offending It. C. GPT,
-     R. L. Barnes, Ed.. 1 April 2023. (Format: HTML, TXT, PDF, XML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9405) 
-
 9406 HyStart++: Modified Slow Start for TCP. P. Balasubramanian, Y.
      Huang, M. Olson. May 2023. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9406) 
@@ -81,10 +73,15 @@
      Monshouwer, P. Thomassen, A. Sargsyan. July 2023. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9432) 
 
+9434 Drone Remote Identification Protocol (DRIP) Architecture. S. Card,
+     A. Wiethuechter, R. Moskowitz, S. Zhao, Ed., A. Gurtov. July 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9434) 
+
 9443 Multiplexing Scheme Updates for QUIC. B. Aboba, G. Salgueiro, C.
      Perkins. July 2023. (Format: HTML, TXT, PDF, XML) (Updates RFC5764,
      RFC7983) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9443) 
 
 ===========================================================================
- - This file last updated Mon 17 Jul 2023 02:30:01 AM PDT
+ - This file last updated Tue 18 Jul 2023 02:30:01 AM PDT
 
