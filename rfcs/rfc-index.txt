@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/19/2023.)
+(CREATED ON: 07/21/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -33673,7 +33673,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8008 Content Delivery Network Interconnection (CDNI) Request Routing:
      Footprint and Capabilities Semantics. J. Seedorf, J. Peterson, S.
      Previdi, R. van Brandenburg, K. Ma. December 2016. (Format: TXT,
-     HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8008) 
+     HTML) (Updated by RFC9388) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8008) 
 
 8009 AES Encryption with HMAC-SHA2 for Kerberos 5. M. Jenkins, M. Peck,
      K. Burgin. October 2016. (Format: TXT, HTML) (Status: INFORMATIONAL)
@@ -39854,6 +39855,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Hayashi, M. Chen, L. Su. April 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9387) 
 
+9388 Content Delivery Network Interconnection (CDNI) Footprint Types:
+     Country Subdivision Code and Footprint Union. N. Sopher, S. Mishra.
+     July 2023. (Format: HTML, TXT, PDF, XML) (Updates RFC8008) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9388) 
+
 9389 Nominating Committee Eligibility. M. Duke. April 2023. (Format:
      HTML, TXT, PDF, XML) (Obsoletes RFC8788, RFC8989) (Updates RFC8713)
      (Also BCP0010) (Status: BEST CURRENT PRACTICE) (DOI:
@@ -39974,6 +39980,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Updates RFC4851, RFC5281, RFC7170) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9427) 
 
+9428 Transmission of IPv6 Packets over Near Field Communication. Y. Choi,
+     Ed., Y-G. Hong, J-S. Youn. July 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9428) 
+
 9430 Extension of the Datagram Transport Layer Security (DTLS) Profile
      for Authentication and Authorization for Constrained Environments
      (ACE) to Transport Layer Security (TLS). O. Bergmann, J. Preuß
@@ -39996,6 +40006,15 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9434) 
 
+9435 Considerations for Assigning a New Recommended Differentiated
+     Services Code Point (DSCP). A. Custura, G. Fairhurst, R. Secchi.
+     July 2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9435) 
+
 9443 Multiplexing Scheme Updates for QUIC. B. Aboba, G. Salgueiro, C.
      Perkins. July 2023. (Format: HTML, TXT, PDF, XML) (Updates RFC5764,
      RFC7983) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9443) 
+
+9446 Reflections on Ten Years Past the Snowden Revelations. S. Farrell,
+     F. Badii, B. Schneier, S. M. Bellovin. July 2023. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9446) 
