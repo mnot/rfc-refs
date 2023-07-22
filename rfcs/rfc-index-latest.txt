@@ -4,19 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9407 Tetrys: An On-the-Fly Network Coding Protocol. J. Detchart, E.
-     Lochin, J. Lacan, V. Roca. June 2023. (Format: HTML, TXT, PDF, XML)
-     (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9407) 
-
-9408 A YANG Network Data Model for Service Attachment Points (SAPs). M.
-     Boucadair, Ed., O. Gonzalez de Dios, S. Barguil, Q. Wu, V. Lopez.
-     June 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9408) 
-
-9409 The 'sip-trunking-capability' Link Relation Type. K. Inamdar, S.
-     Narayanan, D. Engi, G. Salgueiro. July 2023. (Format: HTML, TXT,
-     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9409) 
-
 9411 Benchmarking Methodology for Network Security Device Performance. B.
      Balarajah, C. Rossenhoevel, B. Monkman. March 2023. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC3511) (Status: INFORMATIONAL) (DOI:
@@ -57,6 +44,10 @@
      (Updates RFC4851, RFC5281, RFC7170) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9427) 
 
+9428 Transmission of IPv6 Packets over Near Field Communication. Y. Choi,
+     Ed., Y-G. Hong, J-S. Youn. July 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9428) 
+
 9430 Extension of the Datagram Transport Layer Security (DTLS) Profile
      for Authentication and Authorization for Constrained Environments
      (ACE) to Transport Layer Security (TLS). O. Bergmann, J. Preuß
@@ -79,10 +70,19 @@
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9434) 
 
+9435 Considerations for Assigning a New Recommended Differentiated
+     Services Code Point (DSCP). A. Custura, G. Fairhurst, R. Secchi.
+     July 2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9435) 
+
 9443 Multiplexing Scheme Updates for QUIC. B. Aboba, G. Salgueiro, C.
      Perkins. July 2023. (Format: HTML, TXT, PDF, XML) (Updates RFC5764,
      RFC7983) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9443) 
 
+9446 Reflections on Ten Years Past the Snowden Revelations. S. Farrell,
+     F. Badii, B. Schneier, S. M. Bellovin. July 2023. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9446) 
+
 ===========================================================================
- - This file last updated Thu 20 Jul 2023 02:30:01 AM PDT
+ - This file last updated Fri 21 Jul 2023 02:30:02 AM PDT
 

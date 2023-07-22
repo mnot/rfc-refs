@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/21/2023.)
+(CREATED ON: 07/22/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -14192,8 +14192,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 3552 Guidelines for Writing RFC Text on Security Considerations. E.
      Rescorla, B. Korver. July 2003. (Format: TXT, HTML) (Updated by
-     RFC8996) (Also BCP0072) (Status: BEST CURRENT PRACTICE) (DOI:
-     10.17487/RFC3552) 
+     RFC8996, RFC9416) (Also BCP0072) (Status: BEST CURRENT PRACTICE)
+     (DOI: 10.17487/RFC3552) 
 
 3553 An IETF URN Sub-namespace for Registered Protocol Parameters. M.
      Mealling, L. Masinter, T. Hardie, G. Klyne. June 2003. (Format: TXT,
@@ -39897,6 +39897,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Campbell. May 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9396) 
 
+9397 Trusted Execution Environment Provisioning (TEEP) Architecture. M.
+     Pei, H. Tschofenig, D. Thaler, D. Wheeler. July 2023. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9397) 
+
 9398 A YANG Data Model for Internet Group Management Protocol (IGMP) and
      Multicast Listener Discovery (MLD) Proxy Devices. H. Zhao, X. Liu,
      Y. Liu, M. Panchanathan, M. Sivakumar. May 2023. (Format: HTML, TXT,
@@ -39952,6 +39956,15 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9413) 
 
+9414 Unfortunate History of Transient Numeric Identifiers. F. Gont, I.
+     Arce. July 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9414) 
+
+9416 Security Considerations for Transient Numeric Identifiers Employed
+     in Network Protocols. F. Gont, I. Arce. July 2023. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC3552) (Also BCP0072) (Status: BEST
+     CURRENT PRACTICE) (DOI: 10.17487/RFC9416) 
+
 9417 Service Assurance for Intent-Based Networking Architecture. B.
      Claise, J. Quilbeuf, D. Lopez, D. Voyer, T. Arumugam. July 2023.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
@@ -40000,6 +40013,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9432 DNS Catalog Zones. P. van Dijk, L. Peltan, O. Surý, W. Toorop, C.R.
      Monshouwer, P. Thomassen, A. Sargsyan. July 2023. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9432) 
+
+9433 Segment Routing over IPv6 for the Mobile User Plane. S. Matsushima,
+     Ed., C. Filsfils, M. Kohno, P. Camarillo, Ed., D. Voyer. July 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9433) 
 
 9434 Drone Remote Identification Protocol (DRIP) Architecture. S. Card,
      A. Wiethuechter, R. Moskowitz, S. Zhao, Ed., A. Gurtov. July 2023.
