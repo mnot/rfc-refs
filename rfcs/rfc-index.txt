@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/30/2023.)
+(CREATED ON: 08/01/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -32794,8 +32794,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC7806) 
 
 7807 Problem Details for HTTP APIs. M. Nottingham, E. Wilde. March 2016.
-     (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC7807) 
+     (Format: TXT, HTML) (Obsoleted by RFC9457) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC7807) 
 
 7808 Time Zone Data Distribution Service. M. Douglass, C. Daboo. March
      2016. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
@@ -39945,6 +39945,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Narayanan, D. Engi, G. Salgueiro. July 2023. (Format: HTML, TXT,
      PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9409) 
 
+9410 Handling of Identity Header Errors for Secure Telephone Identity
+     Revisited (STIR). C. Wendt. July 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9410) 
+
 9411 Benchmarking Methodology for Network Security Device Performance. B.
      Balarajah, C. Rossenhoevel, B. Monkman. March 2023. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC3511) (Status: INFORMATIONAL) (DOI:
@@ -40059,3 +40063,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9446 Reflections on Ten Years Past the Snowden Revelations. S. Farrell,
      F. Badii, B. Schneier, S. M. Bellovin. July 2023. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9446) 
+
+9457 Problem Details for HTTP APIs. M. Nottingham, E. Wilde, S. Dalal.
+     July 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7807)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9457) 
