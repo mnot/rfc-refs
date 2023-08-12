@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/10/2023.)
+(CREATED ON: 08/12/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -23453,8 +23453,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      PRACTICE) (DOI: 10.17487/RFC5680) 
 
 5681 TCP Congestion Control. M. Allman, V. Paxson, E. Blanton. September
-     2009. (Format: TXT, HTML) (Obsoletes RFC2581) (Status: DRAFT
-     STANDARD) (DOI: 10.17487/RFC5681) 
+     2009. (Format: TXT, HTML) (Obsoletes RFC2581) (Updated by RFC9438)
+     (Status: DRAFT STANDARD) (DOI: 10.17487/RFC5681) 
 
 5682 Forward RTO-Recovery (F-RTO): An Algorithm for Detecting Spurious
      Retransmission Timeouts with TCP. P. Sarolahti, M. Kojo, K.
@@ -34970,8 +34970,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC8299) 
 
 8300 Network Service Header (NSH). P. Quinn, Ed., U. Elzur, Ed., C.
-     Pignataro, Ed.. January 2018. (Format: TXT, HTML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8300) 
+     Pignataro, Ed.. January 2018. (Format: TXT, HTML) (Updated by
+     RFC9451) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8300) 
 
 8301 Cryptographic Algorithm and Key Usage Update to DomainKeys
      Identified Mail (DKIM). S. Kitterman. January 2018. (Format: TXT,
@@ -35023,7 +35023,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8312 CUBIC for Fast Long-Distance Networks. I. Rhee, L. Xu, S. Ha, A.
      Zimmermann, L. Eggert, R. Scheffenegger. February 2018. (Format:
-     TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC8312) 
+     TXT, HTML) (Obsoleted by RFC9438) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC8312) 
 
 8313 Use of Multicast across Inter-domain Peering Points. P. Tarapore,
      Ed., R. Sayko, G. Shepherd, T. Eckert, Ed., R. Krishnan. January
@@ -39840,6 +39841,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Mizrahi, Ed.. April 2023. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9378) 
 
+9380 Hashing to Elliptic Curves. A. Faz-Hernandez, S. Scott, N. Sullivan,
+     R. S. Wahby, C. A. Wood. August 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9380) 
+
 9384 A BGP Cease NOTIFICATION Subcode for Bidirectional Forwarding
      Detection (BFD). J. Haas. March 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9384) 
@@ -39993,6 +39998,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9420) 
 
+9424 Indicators of Compromise (IoCs) and Their Role in Attack Defence. K.
+     Paine, O. Whitehouse, J. Sellwood, A. Shaw. August 2023. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9424) 
+
 9425 JSON Meta Application Protocol (JMAP) for Quotas. R. Cordier, Ed..
      June 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9425) 
@@ -40047,6 +40056,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Barkai, M. Boucadair. August 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9437) 
 
+9438 CUBIC for Fast and Long-Distance Networks. L. Xu, S. Ha, I. Rhee, V.
+     Goel, L. Eggert, Ed.. August 2023. (Format: HTML, TXT, PDF, XML)
+     (Obsoletes RFC8312) (Updates RFC5681) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9438) 
+
+9439 Application-Layer Traffic Optimization (ALTO) Performance Cost
+     Metrics. Q. Wu, Y. Yang, Y. Lee, D. Dhody, S. Randriamasy, L.
+     Contreras. August 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9439) 
+
 9440 Client-Cert HTTP Header Field. B. Campbell, M. Bishop. July 2023.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9440) 
@@ -40068,6 +40087,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9446 Reflections on Ten Years Past the Snowden Revelations. S. Farrell,
      F. Badii, B. Schneier, S. M. Bellovin. July 2023. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9446) 
+
+9451 Operations, Administration, and Maintenance (OAM) Packet and
+     Behavior in the Network Service Header (NSH). M. Boucadair. August
+     2023. (Format: HTML, TXT, PDF, XML) (Updates RFC8300) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9451) 
 
 9457 Problem Details for HTTP APIs. M. Nottingham, E. Wilde, S. Dalal.
      July 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7807)
