@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/15/2023.)
+(CREATED ON: 08/16/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -8951,8 +8951,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 2328 OSPF Version 2. J. Moy. April 1998. (Format: TXT, HTML) (Obsoletes
      RFC2178) (Updated by RFC5709, RFC6549, RFC6845, RFC6860, RFC7474,
-     RFC8042, RFC9355) (Also STD0054) (Status: INTERNET STANDARD) (DOI:
-     10.17487/RFC2328) 
+     RFC8042, RFC9355, RFC9454) (Also STD0054) (Status: INTERNET
+     STANDARD) (DOI: 10.17487/RFC2328) 
 
 2329 OSPF Standardization Report. J. Moy. April 1998. (Format: TXT, HTML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC2329) 
@@ -16201,8 +16201,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 4014 Remote Authentication Dial-In User Service (RADIUS) Attributes
      Suboption for the Dynamic Host Configuration Protocol (DHCP) Relay
      Agent Information Option. R. Droms, J. Schnizlein. February 2005.
-     (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC4014) 
+     (Format: TXT, HTML) (Updated by RFC9445) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC4014) 
 
 4015 The Eifel Response Algorithm for TCP. R. Ludwig, A. Gurtov. February
      2005. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
@@ -17109,8 +17109,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 4222 Prioritized Treatment of Specific OSPF Version 2 Packets and
      Congestion Avoidance. G. Choudhury, Ed.. October 2005. (Format: TXT,
-     HTML) (Also BCP0112) (Status: BEST CURRENT PRACTICE) (DOI:
-     10.17487/RFC4222) 
+     HTML) (Updated by RFC9454) (Also BCP0112) (Status: BEST CURRENT
+     PRACTICE) (DOI: 10.17487/RFC4222) 
 
 4223 Reclassification of RFC 1863 to Historic. P. Savola. October 2005.
      (Format: TXT, HTML) (Obsoletes RFC1863) (Status: INFORMATIONAL)
@@ -19690,8 +19690,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (DOI: 10.17487/RFC4810) 
 
 4811 OSPF Out-of-Band Link State Database (LSDB) Resynchronization. L.
-     Nguyen, A. Roy, A. Zinin. March 2007. (Format: TXT, HTML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC4811) 
+     Nguyen, A. Roy, A. Zinin. March 2007. (Format: TXT, HTML) (Updated
+     by RFC9454) (Status: INFORMATIONAL) (DOI: 10.17487/RFC4811) 
 
 4812 OSPF Restart Signaling. L. Nguyen, A. Roy, A. Zinin. March 2007.
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC4812) 
@@ -21551,8 +21551,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC5242) 
 
 5243 OSPF Database Exchange Summary List Optimization. R. Ogier. May
-     2008. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC5243) 
+     2008. (Format: TXT, HTML) (Updated by RFC9454) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC5243) 
 
 5244 Definition of Events for Channel-Oriented Telephony Signalling. H.
      Schulzrinne, T. Taylor. June 2008. (Format: TXT, HTML) (Updates
@@ -21964,8 +21964,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5340 OSPF for IPv6. R. Coltun, D. Ferguson, J. Moy, A. Lindem. July 2008.
      (Format: TXT, HTML) (Obsoletes RFC2740) (Updated by RFC6845,
-     RFC6860, RFC7503, RFC8362) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC5340) 
+     RFC6860, RFC7503, RFC8362, RFC9454) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC5340) 
 
 5341 The Internet Assigned Number Authority (IANA) tel Uniform Resource
      Identifier (URI) Parameter Registry. C. Jennings, V. Gurbani.
@@ -23158,8 +23158,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5614 Mobile Ad Hoc Network (MANET) Extension of OSPF Using Connected
      Dominating Set (CDS) Flooding. R. Ogier, P. Spagnolo. August 2009.
-     (Format: TXT, HTML) (Updated by RFC7038) (Status: EXPERIMENTAL)
-     (DOI: 10.17487/RFC5614) 
+     (Format: TXT, HTML) (Updated by RFC7038, RFC9454) (Status:
+     EXPERIMENTAL) (DOI: 10.17487/RFC5614) 
 
 5615 H.248/MEGACO Registration Procedures. C. Groves, Y. Lin. August
      2009. (Format: TXT, HTML) (Also BCP0151) (Status: BEST CURRENT
@@ -24135,8 +24135,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5838 Support of Address Families in OSPFv3. A. Lindem, Ed., S. Mirtorabi,
      A. Roy, M. Barnes, R. Aggarwal. April 2010. (Format: TXT, HTML)
-     (Updated by RFC6969, RFC7949, RFC8362) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC5838) 
+     (Updated by RFC6969, RFC7949, RFC8362, RFC9454) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC5838) 
 
 5839 An Extension to Session Initiation Protocol (SIP) Events for
      Conditional Event Notification. A. Niemi, D. Willis, Ed.. May 2010.
@@ -36394,8 +36394,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8619) 
 
 8620 The JSON Meta Application Protocol (JMAP). N. Jenkins, C. Newman.
-     July 2019. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8620) 
+     July 2019. (Format: TXT, HTML) (Updated by RFC9404) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8620) 
 
 8621 The JSON Meta Application Protocol (JMAP) for Mail. N. Jenkins, C.
      Newman. August 2019. (Format: TXT, HTML) (Updates RFC5788) (Status:
@@ -39929,6 +39929,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9402) 
 
+9404 JSON Meta Application Protocol (JMAP) Blob Management Extension. B.
+     Gondwana, Ed.. August 2023. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC8620) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9404) 
+
 9405 AI Sarcasm Detection: Insult Your AI without Offending It. C. GPT,
      R. L. Barnes, Ed.. 1 April 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9405) 
@@ -40084,6 +40088,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Perkins. July 2023. (Format: HTML, TXT, PDF, XML) (Updates RFC5764,
      RFC7983) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9443) 
 
+9445 RADIUS Extensions for DHCP-Configured Services. M. Boucadair, T.
+     Reddy.K, A. DeKok. August 2023. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC4014) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9445) 
+
 9446 Reflections on Ten Years Past the Snowden Revelations. S. Farrell,
      F. Badii, B. Schneier, S. M. Bellovin. July 2023. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9446) 
@@ -40092,6 +40101,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Behavior in the Network Service Header (NSH). M. Boucadair. August
      2023. (Format: HTML, TXT, PDF, XML) (Updates RFC8300) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9451) 
+
+9454 Update to OSPF Terminology. M. Fox, A. Lindem, A. Retana. August
+     2023. (Format: HTML, TXT, PDF, XML) (Updates RFC2328, RFC4222,
+     RFC4811, RFC5243, RFC5340, RFC5614, RFC5838) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9454) 
 
 9457 Problem Details for HTTP APIs. M. Nottingham, E. Wilde, S. Dalal.
      July 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7807)
