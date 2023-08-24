@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/22/2023.)
+(CREATED ON: 08/24/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39845,6 +39845,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      R. S. Wahby, C. A. Wood. August 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9380) 
 
+9381 Verifiable Random Functions (VRFs). S. Goldberg, L. Reyzin, D.
+     Papadopoulos, J. Včelák. August 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9381) 
+
 9384 A BGP Cease NOTIFICATION Subcode for Bidirectional Forwarding
      Detection (BFD). J. Haas. March 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9384) 
@@ -40088,6 +40092,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Perkins. July 2023. (Format: HTML, TXT, PDF, XML) (Updates RFC5764,
      RFC7983) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9443) 
 
+9444 Automated Certificate Management Environment (ACME) for Subdomains.
+     O. Friel, R. Barnes, T. Hollebeek, M. Richardson. August 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9444) 
+
 9445 RADIUS Extensions for DHCP-Configured Services. M. Boucadair, T.
      Reddy.K, A. DeKok. August 2023. (Format: HTML, TXT, PDF, XML)
      (Updates RFC4014) (Status: PROPOSED STANDARD) (DOI:
@@ -40097,15 +40106,29 @@ See the RFC Editor Web page http://www.rfc-editor.org
      F. Badii, B. Schneier, S. M. Bellovin. July 2023. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9446) 
 
+9450 Reliable and Available Wireless (RAW) Use Cases. CJ. Bernardos, Ed.,
+     G. Papadopoulos, P. Thubert, F. Theoleyre. August 2023. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9450) 
+
 9451 Operations, Administration, and Maintenance (OAM) Packet and
      Behavior in the Network Service Header (NSH). M. Boucadair. August
      2023. (Format: HTML, TXT, PDF, XML) (Updates RFC8300) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9451) 
 
+9452 Network Service Header (NSH) Encapsulation for In Situ OAM (IOAM)
+     Data. F. Brockners, Ed., S. Bhandari, Ed.. August 2023. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9452) 
+
 9454 Update to OSPF Terminology. M. Fox, A. Lindem, A. Retana. August
      2023. (Format: HTML, TXT, PDF, XML) (Updates RFC2328, RFC4222,
      RFC4811, RFC5243, RFC5340, RFC5614, RFC5838) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9454) 
+
+9455 Avoiding Route Origin Authorizations (ROAs) Containing Multiple IP
+     Prefixes. Z. Yan, R. Bush, G. Geng, T. de Kock, J. Yao. August 2023.
+     (Format: HTML, TXT, PDF, XML) (Also BCP0238) (Status: BEST CURRENT
+     PRACTICE) (DOI: 10.17487/RFC9455) 
 
 9457 Problem Details for HTTP APIs. M. Nottingham, E. Wilde, S. Dalal.
      July 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7807)
