@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/30/2023.)
+(CREATED ON: 09/01/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -16020,7 +16020,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 3973 Protocol Independent Multicast - Dense Mode (PIM-DM): Protocol
      Specification (Revised). A. Adams, J. Nicholas, W. Siadak. January
-     2005. (Format: TXT, HTML) (Updated by RFC8736) (Status:
+     2005. (Format: TXT, HTML) (Updated by RFC8736, RFC9436) (Status:
      EXPERIMENTAL) (DOI: 10.17487/RFC3973) 
 
 3974 SMTP Operational Experience in Mixed IPv4/v6 Environments. M.
@@ -20560,8 +20560,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5015 Bidirectional Protocol Independent Multicast (BIDIR-PIM). M.
      Handley, I. Kouvelas, T. Speakman, L. Vicisano. October 2007.
-     (Format: TXT, HTML) (Updated by RFC8736) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC5015) 
+     (Format: TXT, HTML) (Updated by RFC8736, RFC9436) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC5015) 
 
 5016 Requirements for a DomainKeys Identified Mail (DKIM) Signing
      Practices Protocol. M. Thomas. October 2007. (Format: TXT, HTML)
@@ -20755,7 +20755,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 5059 Bootstrap Router (BSR) Mechanism for Protocol Independent Multicast
      (PIM). N. Bhaskar, A. Gall, J. Lingard, S. Venaas. January 2008.
      (Format: TXT, PDF, HTML) (Obsoletes RFC2362) (Updates RFC4601)
-     (Updated by RFC8736) (Status: PROPOSED STANDARD) (DOI:
+     (Updated by RFC8736, RFC9436) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC5059) 
 
 5060 Protocol Independent Multicast MIB. R. Sivaramu, J. Lingard, D.
@@ -28083,8 +28083,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6754 Protocol Independent Multicast Equal-Cost Multipath (ECMP) Redirect.
      Y. Cai, L. Wei, H. Ou, V. Arya, S. Jethwani. October 2012. (Format:
-     TXT, HTML) (Updated by RFC8736) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC6754) 
+     TXT, HTML) (Updated by RFC8736, RFC9436) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC6754) 
 
 6755 An IETF URN Sub-Namespace for OAuth. B. Campbell, H. Tschofenig.
      October 2012. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
@@ -32585,8 +32585,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 7761 Protocol Independent Multicast - Sparse Mode (PIM-SM): Protocol
      Specification (Revised). B. Fenner, M. Handley, H. Holbrook, I.
      Kouvelas, R. Parekh, Z. Zhang, L. Zheng. March 2016. (Format: TXT,
-     HTML) (Obsoletes RFC4601) (Updated by RFC8736) (Also STD0083)
-     (Status: INTERNET STANDARD) (DOI: 10.17487/RFC7761) 
+     HTML) (Obsoletes RFC4601) (Updated by RFC8736, RFC9436) (Also
+     STD0083) (Status: INTERNET STANDARD) (DOI: 10.17487/RFC7761) 
 
 7762 Initial Assignment for the Content Security Policy Directives
      Registry. M. West. January 2016. (Format: TXT, HTML) (Status:
@@ -35267,7 +35267,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8364 PIM Flooding Mechanism (PFM) and Source Discovery (SD). IJ.
      Wijnands, S. Venaas, M. Brig, A. Jonasson. March 2018. (Format: TXT,
-     HTML) (Updated by RFC8736) (Status: EXPERIMENTAL) (DOI:
+     HTML) (Updated by RFC8736, RFC9436) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC8364) 
 
 8365 A Network Virtualization Overlay Solution Using Ethernet VPN (EVPN).
@@ -36918,8 +36918,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8736 PIM Message Type Space Extension and Reserved Bits. S. Venaas, A.
      Retana. February 2020. (Format: HTML, TXT, PDF, XML) (Obsoletes
-     RFC6166) (Updates RFC3973, RFC5015, RFC5059, RFC6754, RFC7761,
-     RFC8364) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8736) 
+     RFC6166) (Obsoleted by RFC9436) (Updates RFC3973, RFC5015, RFC5059,
+     RFC6754, RFC7761, RFC8364) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8736) 
 
 8737 Automated Certificate Management Environment (ACME) TLS
      Application-Layer Protocol Negotiation (ALPN) Challenge Extension.
@@ -40059,6 +40060,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      July 2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC9435) 
 
+9436 PIM Message Type Space Extension and Reserved Bits. S. Venaas, A.
+     Retana. August 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC8736) (Updates RFC3973, RFC5015, RFC5059, RFC6754, RFC7761,
+     RFC8364) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9436) 
+
 9437 Publish/Subscribe Functionality for the Locator/ID Separation
      Protocol (LISP). A. Rodriguez-Natal, V. Ermagan, A. Cabellos, S.
      Barkai, M. Boucadair. August 2023. (Format: HTML, TXT, PDF, XML)
@@ -40133,3 +40139,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9457 Problem Details for HTTP APIs. M. Nottingham, E. Wilde, S. Dalal.
      July 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7807)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9457) 
+
+9468 Unsolicited Bidirectional Forwarding Detection (BFD) for Sessionless
+     Applications. E. Chen, N. Shen, R. Raszuk, R. Rahman. August 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9468) 
