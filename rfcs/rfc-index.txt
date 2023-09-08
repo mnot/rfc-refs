@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/06/2023.)
+(CREATED ON: 09/07/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -38058,6 +38058,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Kottapalli, M. Hunek, R. Patterson. February 2021. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8987) 
 
+8988 Not Issued. 
+
 8989 Additional Criteria for Nominating Committee Eligibility. B.
      Carpenter, S. Farrell. February 2021. (Format: HTML, TXT, PDF, XML)
      (Obsoleted by RFC9389) (Status: EXPERIMENTAL) (DOI:
@@ -40111,6 +40113,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9446 Reflections on Ten Years Past the Snowden Revelations. S. Farrell,
      F. Badii, B. Schneier, S. M. Bellovin. July 2023. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9446) 
+
+9449 OAuth 2.0 Demonstrating Proof of Possession (DPoP). D. Fett, B.
+     Campbell, J. Bradley, T. Lodderstedt, M. Jones, D. Waite. September
+     2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9449) 
 
 9450 Reliable and Available Wireless (RAW) Use Cases. CJ. Bernardos, Ed.,
      G. Papadopoulos, P. Thubert, F. Theoleyre. August 2023. (Format:
