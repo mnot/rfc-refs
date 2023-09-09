@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/07/2023.)
+(CREATED ON: 09/08/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40151,3 +40151,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Applications. E. Chen, N. Shen, R. Raszuk, R. Rahman. August 2023.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9468) 
+
+9470 OAuth 2.0 Step Up Authentication Challenge Protocol. V. Bertocci, B.
+     Campbell. September 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9470) 
