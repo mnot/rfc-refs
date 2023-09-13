@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/11/2023.)
+(CREATED ON: 09/13/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40113,6 +40113,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9446 Reflections on Ten Years Past the Snowden Revelations. S. Farrell,
      F. Badii, B. Schneier, S. M. Bellovin. July 2023. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9446) 
+
+9447 Automated Certificate Management Environment (ACME) Challenges Using
+     an Authority Token. J. Peterson, M. Barnes, D. Hancock, C. Wendt.
+     September 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9447) 
+
+9448 TNAuthList Profile of Automated Certificate Management Environment
+     (ACME) Authority Token. C. Wendt, D. Hancock, M. Barnes, J.
+     Peterson. September 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9448) 
 
 9449 OAuth 2.0 Demonstrating Proof of Possession (DPoP). D. Fett, B.
      Campbell, J. Bradley, T. Lodderstedt, M. Jones, D. Waite. September
