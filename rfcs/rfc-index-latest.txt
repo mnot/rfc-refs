@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9439 Application-Layer Traffic Optimization (ALTO) Performance Cost
-     Metrics. Q. Wu, Y. Yang, Y. Lee, D. Dhody, S. Randriamasy, L.
-     Contreras. August 2023. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9439) 
-
-9440 Client-Cert HTTP Header Field. B. Campbell, M. Bishop. July 2023.
-     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9440) 
-
 9441 Static Context Header Compression (SCHC) Compound Acknowledgement
      (ACK). J. Zúñiga, C. Gomez, S. Aguilar, L. Toutain, S. Céspedes, D.
      Wistuba. July 2023. (Format: HTML, TXT, PDF, XML) (Updates RFC8724,
@@ -40,6 +31,16 @@
 9446 Reflections on Ten Years Past the Snowden Revelations. S. Farrell,
      F. Badii, B. Schneier, S. M. Bellovin. July 2023. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9446) 
+
+9447 Automated Certificate Management Environment (ACME) Challenges Using
+     an Authority Token. J. Peterson, M. Barnes, D. Hancock, C. Wendt.
+     September 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9447) 
+
+9448 TNAuthList Profile of Automated Certificate Management Environment
+     (ACME) Authority Token. C. Wendt, D. Hancock, M. Barnes, J.
+     Peterson. September 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9448) 
 
 9449 OAuth 2.0 Demonstrating Proof of Possession (DPoP). D. Fett, B.
      Campbell, J. Bradley, T. Lodderstedt, M. Jones, D. Waite. September
@@ -84,5 +85,5 @@
      PROPOSED STANDARD) (DOI: 10.17487/RFC9470) 
 
 ===========================================================================
- - This file last updated Tue 12 Sep 2023 02:30:01 AM PDT
+ - This file last updated Wed 13 Sep 2023 02:30:02 AM PDT
 
