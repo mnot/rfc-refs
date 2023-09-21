@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/19/2023.)
+(CREATED ON: 09/21/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40165,6 +40165,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Applications. E. Chen, N. Shen, R. Raszuk, R. Rahman. August 2023.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9468) 
+
+9469 Applicability of Ethernet Virtual Private Network (EVPN) to Network
+     Virtualization over Layer 3 (NVO3) Networks. J. Rabadan, Ed., M.
+     Bocci, S. Boutros, A. Sajassi. September 2023. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9469) 
 
 9470 OAuth 2.0 Step Up Authentication Challenge Protocol. V. Bertocci, B.
      Campbell. September 2023. (Format: HTML, TXT, PDF, XML) (Status:
