@@ -40143,6 +40143,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9452) 
 
+9453 Applicability and Use Cases for IPv6 over Networks of
+     Resource-constrained Nodes (6lo). Y. Hong, C. Gomez, Y. Choi, A.
+     Sangi, S. Chakrabarti. September 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9453) 
+
 9454 Update to OSPF Terminology. M. Fox, A. Lindem, A. Retana. August
      2023. (Format: HTML, TXT, PDF, XML) (Updates RFC2328, RFC4222,
      RFC4811, RFC5243, RFC5340, RFC5614, RFC5838) (Status: PROPOSED
