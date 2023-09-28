@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/26/2023.)
+(CREATED ON: 09/28/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40187,3 +40187,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9476 The .alt Special-Use Top-Level Domain. W. Kumari, P. Hoffman.
      September 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9476) 
+
+9477 Complaint Feedback Loop Address Header. J. Benecke. September 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
+     10.17487/RFC9477) 
