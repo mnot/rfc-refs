@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9446 Reflections on Ten Years Past the Snowden Revelations. S. Farrell,
-     F. Badii, B. Schneier, S. M. Bellovin. July 2023. (Format: HTML,
-     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9446) 
-
 9447 Automated Certificate Management Environment (ACME) Challenges Using
      an Authority Token. J. Peterson, M. Barnes, D. Hancock, C. Wendt.
      September 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -82,6 +78,10 @@
      September 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9476) 
 
+9477 Complaint Feedback Loop Address Header. J. Benecke. September 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
+     10.17487/RFC9477) 
+
 ===========================================================================
- - This file last updated Wed 27 Sep 2023 02:30:01 AM PDT
+ - This file last updated Thu 28 Sep 2023 02:30:01 AM PDT
 
