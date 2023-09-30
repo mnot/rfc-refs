@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/28/2023.)
+(CREATED ON: 09/29/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40166,6 +40166,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Housley, H. Tschofenig. September 2023. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9459) 
 
+9465 PIM Null-Register Packing. V. Kamath, R. Chokkanathapuram Sundaram,
+     R. Banthia, A. Gopal. September 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9465) 
+
 9468 Unsolicited Bidirectional Forwarding Detection (BFD) for Sessionless
      Applications. E. Chen, N. Shen, R. Raszuk, R. Rahman. August 2023.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -40191,3 +40195,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9477 Complaint Feedback Loop Address Header. J. Benecke. September 2023.
      (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC9477) 
+
+9486 IPv6 Options for In Situ Operations, Administration, and Maintenance
+     (IOAM). S. Bhandari, Ed., F. Brockners, Ed.. September 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9486) 
