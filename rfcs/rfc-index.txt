@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/29/2023.)
+(CREATED ON: 09/30/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -3682,8 +3682,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      1987. (Format: TXT, HTML) (Obsoletes RFC0973, RFC0882, RFC0883)
      (Updated by RFC1101, RFC1183, RFC1348, RFC1876, RFC1982, RFC2065,
      RFC2181, RFC2308, RFC2535, RFC4033, RFC4034, RFC4035, RFC4343,
-     RFC4035, RFC4592, RFC5936, RFC8020, RFC8482, RFC8767) (Also STD0013)
-     (Status: INTERNET STANDARD) (DOI: 10.17487/RFC1034) 
+     RFC4035, RFC4592, RFC5936, RFC8020, RFC8482, RFC8767, RFC9471) (Also
+     STD0013) (Status: INTERNET STANDARD) (DOI: 10.17487/RFC1034) 
 
 1035 Domain names - implementation and specification. P. Mockapetris.
      November 1987. (Format: TXT, HTML) (Obsoletes RFC0973, RFC0882,
@@ -39852,6 +39852,14 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Papadopoulos, J. Včelák. August 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9381) 
 
+9382 SPAKE2, a Password-Authenticated Key Exchange. W. Ladd. September
+     2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9382) 
+
+9383 SPAKE2+, an Augmented Password-Authenticated Key Exchange (PAKE)
+     Protocol. T. Taubert, C. A. Wood. September 2023. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9383) 
+
 9384 A BGP Cease NOTIFICATION Subcode for Bidirectional Forwarding
      Detection (BFD). J. Haas. March 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9384) 
@@ -40183,6 +40191,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9470 OAuth 2.0 Step Up Authentication Challenge Protocol. V. Bertocci, B.
      Campbell. September 2023. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9470) 
+
+9471 DNS Glue Requirements in Referral Responses. M. Andrews, S. Huque,
+     P. Wouters, D. Wessels. September 2023. (Format: HTML, TXT, PDF,
+     XML) (Updates RFC1034) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9471) 
 
 9473 A Vocabulary of Path Properties. R. Enghardt, C. Krähenbühl.
      September 2023. (Format: HTML, TXT, PDF, XML) (Status:
