@@ -4,21 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9447 Automated Certificate Management Environment (ACME) Challenges Using
-     an Authority Token. J. Peterson, M. Barnes, D. Hancock, C. Wendt.
-     September 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9447) 
-
-9448 TNAuthList Profile of Automated Certificate Management Environment
-     (ACME) Authority Token. C. Wendt, D. Hancock, M. Barnes, J.
-     Peterson. September 2023. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9448) 
-
-9449 OAuth 2.0 Demonstrating Proof of Possession (DPoP). D. Fett, B.
-     Campbell, J. Bradley, T. Lodderstedt, M. Jones, D. Waite. September
-     2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9449) 
-
 9450 Reliable and Available Wireless (RAW) Use Cases. CJ. Bernardos, Ed.,
      G. Papadopoulos, P. Thubert, F. Theoleyre. August 2023. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9450) 
@@ -56,6 +41,10 @@
      Housley, H. Tschofenig. September 2023. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9459) 
 
+9465 PIM Null-Register Packing. V. Kamath, R. Chokkanathapuram Sundaram,
+     R. Banthia, A. Gopal. September 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9465) 
+
 9468 Unsolicited Bidirectional Forwarding Detection (BFD) for Sessionless
      Applications. E. Chen, N. Shen, R. Raszuk, R. Rahman. August 2023.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -70,6 +59,11 @@
      Campbell. September 2023. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9470) 
 
+9471 DNS Glue Requirements in Referral Responses. M. Andrews, S. Huque,
+     P. Wouters, D. Wessels. September 2023. (Format: HTML, TXT, PDF,
+     XML) (Updates RFC1034) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9471) 
+
 9473 A Vocabulary of Path Properties. R. Enghardt, C. Krähenbühl.
      September 2023. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9473) 
@@ -82,6 +76,11 @@
      (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC9477) 
 
+9486 IPv6 Options for In Situ Operations, Administration, and Maintenance
+     (IOAM). S. Bhandari, Ed., F. Brockners, Ed.. September 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9486) 
+
 ===========================================================================
- - This file last updated Fri 29 Sep 2023 02:30:01 AM PDT
+ - This file last updated Mon 02 Oct 2023 02:30:01 AM PDT
 
