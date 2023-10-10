@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/08/2023.)
+(CREATED ON: 10/09/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -11188,10 +11188,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Roberts. June 2000. (Format: TXT, HTML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC2860) 
 
-2861 TCP Congestion Window Validation. M. Handley, J. Padhye, S. Floyd.
-     June 2000. (Format: TXT, HTML) (Obsoleted by RFC7661) (Status:
-     HISTORIC) (DOI: 10.17487/RFC2861) 
-
 2862 RTP Payload Format for Real-Time Pointers. M. Civanlar, G. Cash.
      June 2000. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC2862) 
@@ -11279,10 +11275,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 2882 Network Access Servers Requirements: Extended RADIUS Practices. D.
      Mitton. July 2000. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC2882) 
-
-2883 An Extension to the Selective Acknowledgement (SACK) Option for TCP.
-     S. Floyd, J. Mahdavi, M. Mathis, M. Podolsky. July 2000. (Format:
-     TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC2883) 
 
 2884 Performance Evaluation of Explicit Congestion Notification (ECN) in
      IP Networks. J. Hadi Salim, U. Ahmed. July 2000. (Format: TXT, HTML)
@@ -11707,10 +11699,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Hoffman. November 2000. (Format: TXT, HTML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC2987) 
 
-2988 Computing TCP's Retransmission Timer. V. Paxson, M. Allman. November
-     2000. (Format: TXT, HTML) (Obsoleted by RFC6298) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC2988) 
-
 2989 Criteria for Evaluating AAA Protocols for Network Access. B. Aboba,
      P. Calhoun, S. Glass, T. Hiller, P. McCann, H. Shiino, P. Walsh, G.
      Zorn, G. Dommety, C. Perkins, B. Patil, D. Mitton, S. Manning, M.
@@ -11943,10 +11931,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 3041 Privacy Extensions for Stateless Address Autoconfiguration in IPv6.
      T. Narten, R. Draves. January 2001. (Format: TXT, HTML) (Obsoleted
      by RFC4941) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC3041) 
-
-3042 Enhancing TCP's Loss Recovery Using Limited Transmit. M. Allman, H.
-     Balakrishnan, S. Floyd. January 2001. (Format: TXT, HTML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC3042) 
 
 3043 The Network Solutions Personal Internet Name (PIN): A URN Namespace
      for People and Organizations. M. Mealling. January 2001. (Format:
@@ -13089,11 +13073,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2002. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC3308) 
 
-3309 Stream Control Transmission Protocol (SCTP) Checksum Change. J.
-     Stone, R. Stewart, D. Otis. September 2002. (Format: TXT, HTML)
-     (Obsoleted by RFC4960) (Updates RFC2960) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC3309) 
-
 3310 Hypertext Transfer Protocol (HTTP) Digest Authentication Using
      Authentication and Key Agreement (AKA). A. Niemi, J. Arkko, V.
      Torvinen. September 2002. (Format: TXT, HTML) (Status:
@@ -13453,10 +13432,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      R. Zopf. September 2002. (Format: TXT, HTML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC3389) 
 
-3390 Increasing TCP's Initial Window. M. Allman, S. Floyd, C. Partridge.
-     October 2002. (Format: TXT, HTML) (Obsoletes RFC2414) (Updates
-     RFC2581) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC3390) 
-
 3391 The MIME Application/Vnd.pwg-multiplexed Content-Type. R. Herriot.
      December 2002. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC3391) 
@@ -13660,11 +13635,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Foster. January 2003. (Format: TXT, HTML) (Obsoletes RFC2705)
      (Updated by RFC3661) (Status: INFORMATIONAL) (DOI: 10.17487/RFC3435) 
 
-3436 Transport Layer Security over Stream Control Transmission Protocol.
-     A. Jungmaier, E. Rescorla, M. Tuexen. December 2002. (Format: TXT,
-     HTML) (Updated by RFC8996) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC3436) 
-
 3437 Layer-Two Tunneling Protocol Extensions for PPP Link Control
      Protocol Negotiation. W. Palter, W. Townsley. December 2002.
      (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
@@ -13715,11 +13685,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Specifications Version 2.1. J. Jonsson, B. Kaliski. February 2003.
      (Format: TXT, HTML) (Obsoletes RFC2437) (Obsoleted by RFC8017)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC3447) 
-
-3448 TCP Friendly Rate Control (TFRC): Protocol Specification. M.
-     Handley, S. Floyd, J. Padhye, J. Widmer. January 2003. (Format: TXT,
-     HTML) (Obsoleted by RFC5348) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC3448) 
 
 3449 TCP Performance Implications of Network Path Asymmetry. H.
      Balakrishnan, V. Padmanabhan, G. Fairhurst, M. Sooriyabandara.
@@ -14037,11 +14002,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, HTML) (Updated by RFC4466) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC3516) 
 
-3517 A Conservative Selective Acknowledgment (SACK)-based Loss Recovery
-     Algorithm for TCP. E. Blanton, M. Allman, K. Fall, L. Wang. April
-     2003. (Format: TXT, HTML) (Obsoleted by RFC6675) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC3517) 
-
 3518 Point-to-Point Protocol (PPP) Bridging Control Protocol (BCP). M.
      Higashiyama, F. Baker, T. Liao. April 2003. (Format: TXT, HTML)
      (Obsoletes RFC2878) (Status: PROPOSED STANDARD) (DOI:
@@ -14058,10 +14018,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 3521 Framework for Session Set-up with Media Authorization. L-N. Hamer,
      B. Gage, H. Shieh. April 2003. (Format: TXT, HTML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC3521) 
-
-3522 The Eifel Detection Algorithm for TCP. R. Ludwig, M. Meyer. April
-     2003. (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI:
-     10.17487/RFC3522) 
 
 3523 Internet Emergency Preparedness (IEPREP) Telephony Topology
      Terminology. J. Polk. April 2003. (Format: TXT, HTML) (Status:
@@ -14134,10 +14090,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 3539 Authentication, Authorization and Accounting (AAA) Transport
      Profile. B. Aboba, J. Wood. June 2003. (Format: TXT, HTML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC3539) 
-
-3540 Robust Explicit Congestion Notification (ECN) Signaling with Nonces.
-     N. Spring, D. Wetherall, D. Ely. June 2003. (Format: TXT, HTML)
-     (Status: HISTORIC) (DOI: 10.17487/RFC3540) 
 
 3541 A Uniform Resource Name (URN) Namespace for the Web3D Consortium
      (Web3D). A. Walsh. May 2003. (Format: TXT, HTML) (Status:
@@ -14623,9 +14575,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC3648) 
 
-3649 HighSpeed TCP for Large Congestion Windows. S. Floyd. December 2003.
-     (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC3649) 
-
 3650 Handle System Overview. S. Sun, L. Lannom, B. Boesch. November 2003.
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC3650) 
 
@@ -14869,12 +14818,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Newton. February 2004. (Format: TXT, HTML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC3707) 
 
-3708 Using TCP Duplicate Selective Acknowledgement (DSACKs) and Stream
-     Control Transmission Protocol (SCTP) Duplicate Transmission Sequence
-     Numbers (TSNs) to Detect Spurious Retransmissions. E. Blanton, M.
-     Allman. February 2004. (Format: TXT, HTML) (Status: EXPERIMENTAL)
-     (DOI: 10.17487/RFC3708) 
-
 3709 Internet X.509 Public Key Infrastructure: Logotypes in X.509
      Certificates. S. Santesson, R. Housley, T. Freeman. February 2004.
      (Format: TXT, HTML) (Obsoleted by RFC9399) (Updated by RFC6170)
@@ -15016,10 +14959,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      3rd, J. Reagle. March 2004. (Format: TXT, HTML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC3741) 
 
-3742 Limited Slow-Start for TCP with Large Congestion Windows. S. Floyd.
-     March 2004. (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI:
-     10.17487/RFC3742) 
-
 3743 Joint Engineering Team (JET) Guidelines for Internationalized Domain
      Names (IDN) Registration and Administration for Chinese, Japanese,
      and Korean. K. Konishi, K. Huang, H. Qian, Y. Ko. April 2004.
@@ -15085,11 +15024,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: TXT, HTML) (Obsoleted by RFC4033, RFC4034, RFC4035)
      (Updates RFC3755, RFC2535) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC3757) 
-
-3758 Stream Control Transmission Protocol (SCTP) Partial Reliability
-     Extension. R. Stewart, M. Ramalho, Q. Xie, M. Tuexen, P. Conrad. May
-     2004. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC3758) 
 
 3759 RObust Header Compression (ROHC): Terminology and Channel Mapping
      Examples. L-E. Jonsson. April 2004. (Format: TXT, HTML) (Updates
@@ -15191,11 +15125,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      to the Simple Network Management Protocol (SNMP). F. Strauss, J.
      Schoenwaelder. May 2004. (Format: TXT, HTML) (Status: EXPERIMENTAL)
      (DOI: 10.17487/RFC3781) 
-
-3782 The NewReno Modification to TCP's Fast Recovery Algorithm. S. Floyd,
-     T. Henderson, A. Gurtov. April 2004. (Format: TXT, HTML) (Obsoletes
-     RFC2582) (Obsoleted by RFC6582) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC3782) 
 
 3783 Small Computer Systems Interface (SCSI) Command Ordering
      Considerations with iSCSI. M. Chadalapaka, R. Elliott. May 2004.
@@ -15395,11 +15324,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 3827 Additional Snoop Datalink Types. K. Sarcar. June 2004. (Format: TXT,
      HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC3827) 
-
-3828 The Lightweight User Datagram Protocol (UDP-Lite). L-A. Larzon, M.
-     Degermark, S. Pink, L-E. Jonsson, Ed., G. Fairhurst, Ed.. July 2004.
-     (Format: TXT, HTML) (Updated by RFC6335) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC3828) 
 
 3829 Lightweight Directory Access Protocol (LDAP) Authorization Identity
      Request and Response Controls. R. Weltman, M. Smith, M. Wahl. July
@@ -16203,10 +16127,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Agent Information Option. R. Droms, J. Schnizlein. February 2005.
      (Format: TXT, HTML) (Updated by RFC9445) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC4014) 
-
-4015 The Eifel Response Algorithm for TCP. R. Ludwig, A. Gurtov. February
-     2005. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC4015) 
 
 4016 Protocol for Carrying Authentication and Network Access (PANA)
      Threat Analysis and Security Requirements. M. Parthasarathy. March
@@ -18154,11 +18074,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Savola. April 2006. (Format: TXT, HTML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC4459) 
 
-4460 Stream Control Transmission Protocol (SCTP) Specification Errata and
-     Issues. R. Stewart, I. Arias-Rodriguez, K. Poon, A. Caro, M. Tuexen.
-     April 2006. (Format: TXT, HTML) (Obsoleted by RFC9260) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC4460) 
-
 4461 Signaling Requirements for Point-to-Multipoint Traffic-Engineered
      MPLS Label Switched Paths (LSPs). S. Yasukawa, Ed.. April 2006.
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC4461) 
@@ -18307,11 +18222,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 4494 The AES-CMAC-96 Algorithm and Its Use with IPsec. JH. Song, R.
      Poovendran, J. Lee. June 2006. (Format: TXT, HTML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC4494) 
-
-4495 A Resource Reservation Protocol (RSVP) Extension for the Reduction
-     of Bandwidth of a Reservation Flow. J. Polk, S. Dhesikan. May 2006.
-     (Format: TXT, HTML) (Updates RFC2205) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC4495) 
 
 4496 Open Pluggable Edge Services (OPES) SMTP Use Cases. M. Stecher, A.
      Barbir. May 2006. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
@@ -18508,11 +18418,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Multicast Listener Discovery (MLD) Snooping Switches. M.
      Christensen, K. Kimball, F. Solensky. May 2006. (Format: TXT, HTML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC4541) 
-
-4542 Implementing an Emergency Telecommunications Service (ETS) for
-     Real-Time Services in the Internet Protocol Suite. F. Baker, J.
-     Polk. May 2006. (Format: TXT, HTML) (Updated by RFC5865) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC4542) 
 
 4543 The Use of Galois Message Authentication Code (GMAC) in IPsec ESP
      and AH. D. McGrew, J. Viega. May 2006. (Format: TXT, HTML) (Status:
@@ -18750,10 +18655,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 4593 Generic Threats to Routing Protocols. A. Barbir, S. Murphy, Y. Yang.
      October 2006. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC4593) 
-
-4594 Configuration Guidelines for DiffServ Service Classes. J. Babiarz,
-     K. Chan, F. Baker. August 2006. (Format: TXT, HTML) (Updated by
-     RFC5865, RFC8622) (Status: INFORMATIONAL) (DOI: 10.17487/RFC4594) 
 
 4595 Use of IKEv2 in the Fibre Channel Security Association Management
      Protocol. F. Maino, D. Black. July 2006. (Format: TXT, HTML)
@@ -19567,10 +19468,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Aggarwal. January 2007. (Format: TXT, HTML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC4781) 
 
-4782 Quick-Start for TCP and IP. S. Floyd, M. Allman, A. Jain, P.
-     Sarolahti. January 2007. (Format: TXT, HTML) (Status: EXPERIMENTAL)
-     (DOI: 10.17487/RFC4782) 
-
 4783 GMPLS - Communication of Alarm Information. L. Berger, Ed.. December
      2006. (Format: TXT, HTML) (Updates RFC3473) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC4783) 
@@ -19660,11 +19557,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Ed.. February 2007. (Format: TXT, HTML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC4803) 
 
-4804 Aggregation of Resource ReSerVation Protocol (RSVP) Reservations
-     over MPLS TE/DS-TE Tunnels. F. Le Faucheur, Ed.. February 2007.
-     (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC4804) 
-
 4805 Definitions of Managed Objects for the DS1, J1, E1, DS2, and E2
      Interface Types. O. Nicklass, Ed.. March 2007. (Format: TXT, HTML)
      (Obsoletes RFC3895) (Status: PROPOSED STANDARD) (DOI:
@@ -19727,10 +19619,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 4819 Secure Shell Public Key Subsystem. J. Galbraith, J. Van Dyke, J.
      Bright. March 2007. (Format: TXT, HTML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC4819) 
-
-4820 Padding Chunk and Parameter for the Stream Control Transmission
-     Protocol (SCTP). M. Tuexen, R. Stewart, P. Lei. March 2007. (Format:
-     TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4820) 
 
 4821 Packetization Layer Path MTU Discovery. M. Mathis, J. Heffner. March
      2007. (Format: TXT, HTML) (Updated by RFC8899) (Status: PROPOSED
@@ -19902,11 +19790,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Farrel. April 2007. (Format: TXT, HTML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC4859) 
 
-4860 Generic Aggregate Resource ReSerVation Protocol (RSVP) Reservations.
-     F. Le Faucheur, B. Davie, P. Bose, C. Christou, M. Davenport. May
-     2007. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC4860) 
-
 4861 Neighbor Discovery for IP version 6 (IPv6). T. Narten, E. Nordmark,
      W. Simpson, H. Soliman. September 2007. (Format: TXT, HTML)
      (Obsoletes RFC2461) (Updated by RFC5942, RFC6980, RFC7048, RFC7527,
@@ -20059,11 +19942,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Hoffman. May 2007. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC4894) 
 
-4895 Authenticated Chunks for the Stream Control Transmission Protocol
-     (SCTP). M. Tuexen, R. Stewart, P. Lei, E. Rescorla. August 2007.
-     (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC4895) 
-
 4896 Signaling Compression (SigComp) Corrections and Clarifications. A.
      Surtees, M. West, A.B. Roach. June 2007. (Format: TXT, HTML)
      (Updates RFC3320, RFC3321, RFC3485) (Status: PROPOSED STANDARD)
@@ -20073,10 +19951,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Klensin, S. Hartman. June 2007. (Format: TXT, HTML) (Updates
      RFC3967) (Also BCP0097) (Status: BEST CURRENT PRACTICE) (DOI:
      10.17487/RFC4897) 
-
-4898 TCP Extended Statistics MIB. M. Mathis, J. Heffner, R. Raghunarayan.
-     May 2007. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC4898) 
 
 4899 Not Issued. 
 
@@ -20169,10 +20043,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 4921 Not Issued. 
 
 4922 Not Issued. 
-
-4923 Quality of Service (QoS) Signaling in a Nested Virtual Private
-     Network. F. Baker, P. Bose. August 2007. (Format: TXT, HTML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC4923) 
 
 4924 Reflections on Internet Transparency. B. Aboba, Ed., E. Davies. July
      2007. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
@@ -20325,11 +20195,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Initial Client Response. R. Siemborski, A. Gulbrandsen. September
      2007. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC4959) 
-
-4960 Stream Control Transmission Protocol. R. Stewart, Ed.. September
-     2007. (Format: TXT, HTML) (Obsoletes RFC2960, RFC3309) (Obsoleted by
-     RFC9260) (Updated by RFC6096, RFC6335, RFC7053, RFC8899) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC4960) 
 
 4961 Symmetric RTP / RTP Control Protocol (RTCP). D. Wing. July 2007.
      (Format: TXT, HTML) (Also BCP0131) (Status: BEST CURRENT PRACTICE)
@@ -20635,10 +20500,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      September 2007. (Format: TXT, HTML) (Updates RFC3501) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC5032) 
 
-5033 Specifying New Congestion Control Algorithms. S. Floyd, M. Allman.
-     August 2007. (Format: TXT, HTML) (Also BCP0133) (Status: BEST
-     CURRENT PRACTICE) (DOI: 10.17487/RFC5033) 
-
 5034 The Post Office Protocol (POP3) Simple Authentication and Security
      Layer (SASL) Authentication Mechanism. R. Siemborski, A. Menon-Sen.
      July 2007. (Format: TXT, HTML) (Obsoletes RFC1734) (Updates RFC2449)
@@ -20761,16 +20622,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 5060 Protocol Independent Multicast MIB. R. Sivaramu, J. Lingard, D.
      McWalter, B. Joshi, A. Kessler. January 2008. (Format: TXT, HTML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5060) 
-
-5061 Stream Control Transmission Protocol (SCTP) Dynamic Address
-     Reconfiguration. R. Stewart, Q. Xie, M. Tuexen, S. Maruyama, M.
-     Kozuka. September 2007. (Format: TXT, HTML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC5061) 
-
-5062 Security Attacks Found Against the Stream Control Transmission
-     Protocol (SCTP) and Current Countermeasures. R. Stewart, M. Tuexen,
-     G. Camarillo. September 2007. (Format: TXT, HTML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC5062) 
 
 5063 Extensions to GMPLS Resource Reservation Protocol (RSVP) Graceful
      Restart. A. Satyanarayana, Ed., R. Rahman, Ed.. October 2007.
@@ -20927,10 +20778,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC5096) 
 
-5097 MIB for the UDP-Lite protocol. G. Renker, G. Fairhurst. January
-     2008. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC5097) 
-
 5098 Signaling MIB for PacketCable and IPCablecom Multimedia Terminal
      Adapters (MTAs). G. Beacham, S. Kumar, S. Channabasappa. February
      2008. (Format: TXT, HTML) (Updated by RFC9141) (Status: PROPOSED
@@ -21052,17 +20899,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Ross. March 2008. (Format: TXT, HTML) (Obsoletes RFC3126) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC5126) 
 
-5127 Aggregation of Diffserv Service Classes. K. Chan, J. Babiarz, F.
-     Baker. February 2008. (Format: TXT, HTML) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC5127) 
-
 5128 State of Peer-to-Peer (P2P) Communication across Network Address
      Translators (NATs). P. Srisuresh, B. Ford, D. Kegel. March 2008.
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC5128) 
-
-5129 Explicit Congestion Marking in MPLS. B. Davie, B. Briscoe, J. Tay.
-     January 2008. (Format: TXT, HTML) (Updates RFC3032) (Updated by
-     RFC5462) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5129) 
 
 5130 A Policy Control Mechanism in IS-IS Using Administrative Tags. S.
      Previdi, M. Shand, Ed., C. Martin. February 2008. (Format: TXT,
@@ -21731,10 +21570,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Decraene, JL. Le Roux, I. Minei. July 2008. (Format: TXT, HTML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5283) 
 
-5284 User-Defined Errors for RSVP. G. Swallow, A. Farrel. August 2008.
-     (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC5284) 
-
 5285 A General Mechanism for RTP Header Extensions. D. Singer, H.
      Desineni. July 2008. (Format: TXT, HTML) (Obsoleted by RFC8285)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5285) 
@@ -22247,10 +22082,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 5404 RTP Payload Format for G.719. M. Westerlund, I. Johansson. January
      2009. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC5404) 
-
-5405 Unicast UDP Usage Guidelines for Application Designers. L. Eggert,
-     G. Fairhurst. November 2008. (Format: TXT, HTML) (Obsoleted by
-     RFC8085) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC5405) 
 
 5406 Guidelines for Specifying the Use of IPsec Version 2. S. Bellovin.
      February 2009. (Format: TXT, HTML) (Also BCP0146) (Status: BEST
@@ -24254,11 +24085,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, HTML) (Updates RFC1183) (Updated by RFC8553) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC5864) 
 
-5865 A Differentiated Services Code Point (DSCP) for Capacity-Admitted
-     Traffic. F. Baker, J. Polk, M. Dolly. May 2010. (Format: TXT, HTML)
-     (Updates RFC4542, RFC4594) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC5865) 
-
 5866 Diameter Quality-of-Service Application. D. Sun, Ed., P. McCann, H.
      Tschofenig, T. Tsou, A. Doria, G. Zorn, Ed.. May 2010. (Format: TXT,
      HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5866) 
@@ -24596,15 +24422,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2010. (Format: TXT, HTML) (Obsoletes RFC3344) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC5944) 
 
-5945 Resource Reservation Protocol (RSVP) Proxy Approaches. F. Le
-     Faucheur, J. Manner, D. Wing, A. Guillou. October 2010. (Format:
-     TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC5945) 
-
-5946 Resource Reservation Protocol (RSVP) Extensions for Path-Triggered
-     RSVP Receiver Proxy. F. Le Faucheur, J. Manner, A. Narayanan, A.
-     Guillou, H. Malik. October 2010. (Format: TXT, HTML) (Updates
-     RFC2205) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5946) 
-
 5947 Requirements for Multiple Address of Record (AOR) Reachability
      Information in the Session Initiation Protocol (SIP). J. Elwell, H.
      Kaplan. September 2010. (Format: TXT, HTML) (Status: INFORMATIONAL)
@@ -24907,10 +24724,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Correction (FEC). A. Begen. October 2010. (Format: TXT, HTML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6015) 
 
-6016 Support for the Resource Reservation Protocol (RSVP) in Layer 3
-     VPNs. B. Davie, F. Le Faucheur, A. Narayanan. October 2010. (Format:
-     TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6016) 
-
 6017 Electronic Data Interchange - Internet Integration (EDIINT) Features
      Header Field. K. Meadors, Ed.. September 2010. (Format: TXT, HTML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC6017) 
@@ -25007,10 +24820,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Protocols. V. Manral, M. Bhatia, J. Jaeggli, R. White. October 2010.
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6039) 
 
-6040 Tunnelling of Explicit Congestion Notification. B. Briscoe. November
-     2010. (Format: TXT, HTML) (Updates RFC3168, RFC4301, RFC4774)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6040) 
-
 6041 Forwarding and Control Element Separation (ForCES) Applicability
      Statement. A. Crouch, H. Khosravi, A. Doria, Ed., X. Wang, K. Ogawa.
      October 2010. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
@@ -25076,10 +24885,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 6055 IAB Thoughts on Encodings for Internationalized Domain Names. D.
      Thaler, J. Klensin, S. Cheshire. February 2011. (Format: TXT, HTML)
      (Updates RFC2130) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6055) 
-
-6056 Recommendations for Transport-Protocol Port Randomization. M.
-     Larsen, F. Gont. January 2011. (Format: TXT, HTML) (Also BCP0156)
-     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC6056) 
 
 6057 Comcast's Protocol-Agnostic Congestion Management System. C.
      Bastian, T. Klieber, J. Livingood, J. Mills, R. Woundy. December
@@ -25195,11 +25000,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      November 2010. (Format: TXT, HTML) (Obsoletes RFC2482) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC6082) 
 
-6083 Datagram Transport Layer Security (DTLS) for Stream Control
-     Transmission Protocol (SCTP). M. Tuexen, R. Seggelmann, E. Rescorla.
-     January 2011. (Format: TXT, HTML) (Updated by RFC8996) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC6083) 
-
 6084 General Internet Signaling Transport (GIST) over Stream Control
      Transmission Protocol (SCTP) and Datagram Transport Layer Security
      (DTLS). X. Fu, C. Dickmann, J. Crowcroft. January 2011. (Format:
@@ -25256,11 +25056,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 6095 Extending YANG with Language Abstractions. B. Linowski, M. Ersue, S.
      Kuryla. March 2011. (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC6095) 
-
-6096 Stream Control Transmission Protocol (SCTP) Chunk Flags
-     Registration. M. Tuexen, R. Stewart. January 2011. (Format: TXT,
-     HTML) (Obsoleted by RFC9260) (Updates RFC4960) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC6096) 
 
 6097 Local Mobility Anchor (LMA) Discovery for Proxy Mobile IPv6. J.
      Korhonen, V. Devarapalli. February 2011. (Format: TXT, HTML)
@@ -26277,13 +26072,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Dual-Stack Lite. D. Hankins, T. Mrugalski. August 2011. (Format:
      TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6334) 
 
-6335 Internet Assigned Numbers Authority (IANA) Procedures for the
-     Management of the Service Name and Transport Protocol Port Number
-     Registry. M. Cotton, L. Eggert, J. Touch, M. Westerlund, S.
-     Cheshire. August 2011. (Format: TXT, HTML) (Updates RFC2780,
-     RFC2782, RFC3828, RFC4340, RFC4960, RFC5595) (Also BCP0165) (Status:
-     BEST CURRENT PRACTICE) (DOI: 10.17487/RFC6335) 
-
 6336 IANA Registry for Interactive Connectivity Establishment (ICE)
      Options. M. Westerlund, C. Perkins. July 2011. (Format: TXT, HTML)
      (Obsoleted by RFC8839) (Updates RFC5245) (Status: PROPOSED STANDARD)
@@ -26563,10 +26351,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6400 Not Issued. 
 
-6401 RSVP Extensions for Admission Priority. F. Le Faucheur, J. Polk, K.
-     Carlberg. October 2011. (Format: TXT, HTML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC6401) 
-
 6402 Certificate Management over CMS (CMC) Updates. J. Schaad. November
      2011. (Format: TXT, HTML) (Updates RFC5272, RFC5273, RFC5274)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6402) 
@@ -26605,10 +26389,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Crocker, E. Burger. October 2011. (Format: TXT, HTML) (Updates
      RFC2026) (Also BCP0009) (Status: BEST CURRENT PRACTICE) (DOI:
      10.17487/RFC6410) 
-
-6411 Applicability of Keying Methods for RSVP Security. M. Behringer, F.
-     Le Faucheur, B. Weis. October 2011. (Format: TXT, HTML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC6411) 
 
 6412 Terminology for Benchmarking Link-State IGP Data-Plane Route
      Convergence. S. Poretsky, B. Imhoff, K. Michielsen. November 2011.
@@ -26813,11 +26593,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 6457 PCC-PCE Communication and PCE Discovery Requirements for Inter-Layer
      Traffic Engineering. T. Takeda, Ed., A. Farrel. December 2011.
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6457) 
-
-6458 Sockets API Extensions for the Stream Control Transmission Protocol
-     (SCTP). R. Stewart, M. Tuexen, K. Poon, P. Lei, V. Yasevich.
-     December 2011. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC6458) 
 
 6459 IPv6 in 3rd Generation Partnership Project (3GPP) Evolved Packet
      System (EPS). J. Korhonen, Ed., J. Soininen, B. Patil, T.
@@ -27101,10 +26876,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 6523 Not Issued. 
 
 6524 Not Issued. 
-
-6525 Stream Control Transmission Protocol (SCTP) Stream Reconfiguration.
-     R. Stewart, M. Tuexen, P. Lei. February 2012. (Format: TXT, HTML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6525) 
 
 6526 IP Flow Information Export (IPFIX) Per Stream Control Transmission
      Protocol (SCTP) Stream. B. Claise, P. Aitken, A. Johnson, G. Muenz.
@@ -27565,10 +27336,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 6632 An Overview of the IETF Network Management Standards. M. Ersue, Ed.,
      B. Claise. June 2012. (Format: TXT, HTML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC6632) 
-
-6633 Deprecation of ICMP Source Quench Messages. F. Gont. May 2012.
-     (Format: TXT, HTML) (Updates RFC0792, RFC1122, RFC1812) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC6633) 
 
 6634 Not Issued. 
 
@@ -28949,11 +28716,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Peterson, O. Kolkman, H. Tschofenig, B. Aboba. October 2013.
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6950) 
 
-6951 UDP Encapsulation of Stream Control Transmission Protocol (SCTP)
-     Packets for End-Host to End-Host Communication. M. Tuexen, R.
-     Stewart. May 2013. (Format: TXT, HTML) (Updated by RFC8899) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC6951) 
-
 6952 Analysis of BGP, LDP, PCEP, and MSDP Issues According to the Keying
      and Authentication for Routing Protocols (KARP) Design Guide. M.
      Jethanandani, K. Patel, L. Zheng. May 2013. (Format: TXT, HTML)
@@ -29398,11 +29160,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Moreno. October 2013. (Format: TXT, HTML) (Status: EXPERIMENTAL)
      (DOI: 10.17487/RFC7052) 
 
-7053 SACK-IMMEDIATELY Extension for the Stream Control Transmission
-     Protocol. M. Tuexen, I. Ruengeler, R. Stewart. November 2013.
-     (Format: TXT, HTML) (Obsoleted by RFC9260) (Updates RFC4960)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7053) 
-
 7054 Addressing Requirements and Design Considerations for Per-Interface
      Maintenance Entity Group Intermediate Points (MIPs). A. Farrel, H.
      Endo, R. Winter, Y. Koike, M. Paul. November 2013. (Format: TXT,
@@ -29787,10 +29544,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Jin, F. Jounay, IJ. Wijnands, N. Leymann. March 2014. (Format: TXT,
      HTML) (Updated by RFC7358) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC7140) 
-
-7141 Byte and Packet Congestion Notification. B. Briscoe, J. Manner.
-     February 2014. (Format: TXT, HTML) (Updates RFC2309, RFC2914) (Also
-     BCP0041) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC7141) 
 
 7142 Reclassification of RFC 1142 to Historic. M. Shand, L. Ginsberg.
      February 2014. (Format: TXT, HTML) (Obsoletes RFC1142) (Status:
@@ -31028,11 +30781,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Daza, A. Lozano, M. Richardson, Ed.. January 2015. (Format: TXT,
      HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC7416) 
 
-7417 Extensions to Generic Aggregate RSVP for IPv4 and IPv6 Reservations
-     over Pre-Congestion Notification (PCN) Domains. G. Karagiannis, A.
-     Bhargava. December 2014. (Format: TXT, HTML) (Status: EXPERIMENTAL)
-     (DOI: 10.17487/RFC7417) 
-
 7418 An IRTF Primer for IETF Participants. S. Dawkins, Ed.. December
      2014. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC7418) 
@@ -31388,11 +31136,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Exchange Format (IODEF). A. Montville, D. Black. March 2015.
      (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC7495) 
-
-7496 Additional Policies for the Partially Reliable Stream Control
-     Transmission Protocol Extension. M. Tuexen, R. Seggelmann, R.
-     Stewart, S. Loreto. April 2015. (Format: TXT, HTML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC7496) 
 
 7497 Rate Measurement Test Protocol Problem Statement and Requirements.
      A. Morton. April 2015. (Format: TXT, HTML) (Status: INFORMATIONAL)
@@ -31877,10 +31620,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Controlled by the Real-Time Streaming Protocol (RTSP). M.
      Westerlund, T. Zeng. September 2015. (Format: TXT, HTML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC7604) 
-
-7605 Recommendations on Using Assigned Transport Port Numbers. J. Touch.
-     August 2015. (Format: TXT, HTML) (Also BCP0165) (Status: BEST
-     CURRENT PRACTICE) (DOI: 10.17487/RFC7605) 
 
 7606 Revised Error Handling for BGP UPDATE Messages. E. Chen, Ed., J.
      Scudder, Ed., P. Mohapatra, K. Patel. August 2015. (Format: TXT,
@@ -32887,11 +32626,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Dickinson, R. Bellis. April 2016. (Format: TXT, HTML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC7828) 
 
-7829 SCTP-PF: A Quick Failover Algorithm for the Stream Control
-     Transmission Protocol. Y. Nishida, P. Natarajan, A. Caro, P. Amer,
-     K. Nielsen. April 2016. (Format: TXT, HTML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC7829) 
-
 7830 The EDNS(0) Padding Option. A. Mayrhofer. May 2016. (Format: TXT,
      HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7830) 
 
@@ -33009,12 +32743,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 7856 Softwire Mesh Management Information Base (MIB). Y. Cui, J. Dong, P.
      Wu, M. Xu, A. Yla-Jaaski. May 2016. (Format: TXT, HTML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC7856) 
-
-7857 Updates to Network Address Translation (NAT) Behavioral
-     Requirements. R. Penno, S. Perreault, M. Boucadair, Ed., S.
-     Sivakumar, K. Naito. April 2016. (Format: TXT, HTML) (Updates
-     RFC4787, RFC5382, RFC5508) (Also BCP0127) (Status: BEST CURRENT
-     PRACTICE) (DOI: 10.17487/RFC7857) 
 
 7858 Specification for DNS over Transport Layer Security (TLS). Z. Hu, L.
      Zhu, J. Heidemann, A. Mankin, D. Wessels, P. Hoffman. May 2016.
@@ -34017,19 +33745,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Updates RFC3550) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC8083) 
 
-8084 Network Transport Circuit Breakers. G. Fairhurst. March 2017.
-     (Format: TXT, HTML) (Also BCP0208) (Status: BEST CURRENT PRACTICE)
-     (DOI: 10.17487/RFC8084) 
-
-8085 UDP Usage Guidelines. L. Eggert, G. Fairhurst, G. Shepherd. March
-     2017. (Format: TXT, HTML) (Obsoletes RFC5405) (Updated by RFC8899)
-     (Also BCP0145) (Status: BEST CURRENT PRACTICE) (DOI:
-     10.17487/RFC8085) 
-
-8086 GRE-in-UDP Encapsulation. L. Yong, Ed., E. Crabbe, X. Xu, T.
-     Herbert. March 2017. (Format: TXT, HTML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC8086) 
-
 8087 The Benefits of Using Explicit Congestion Notification (ECN). G.
      Fairhurst, M. Welzl. March 2017. (Format: TXT, HTML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC8087) 
@@ -34083,10 +33798,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8099 OSPF Topology-Transparent Zone. H. Chen, R. Li, A. Retana, Y. Yang,
      Z. Liu. February 2017. (Format: TXT, HTML) (Status: EXPERIMENTAL)
      (DOI: 10.17487/RFC8099) 
-
-8100 Diffserv-Interconnection Classes and Practice. R. Geib, Ed., D.
-     Black. March 2017. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC8100) 
 
 8101 IANA Registration of New Session Initiation Protocol (SIP)
      Resource-Priority Namespace for Mission Critical Push To Talk
@@ -34787,16 +34498,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Bray, Ed.. December 2017. (Format: TXT, HTML) (Obsoletes RFC7159)
      (Also STD0090) (Status: INTERNET STANDARD) (DOI: 10.17487/RFC8259) 
 
-8260 Stream Schedulers and User Message Interleaving for the Stream
-     Control Transmission Protocol. R. Stewart, M. Tuexen, S. Loreto, R.
-     Seggelmann. November 2017. (Format: TXT, HTML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8260) 
-
-8261 Datagram Transport Layer Security (DTLS) Encapsulation of SCTP
-     Packets. M. Tuexen, R. Stewart, R. Jesup, S. Loreto. November 2017.
-     (Format: TXT, HTML) (Updated by RFC8899, RFC8996) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8261) 
-
 8262 Content-ID Header Field in the Session Initiation Protocol (SIP). C.
      Holmberg, I. Sedlacek. October 2017. (Format: TXT, HTML) (Updates
      RFC5621, RFC5368, RFC6442) (Status: PROPOSED STANDARD) (DOI:
@@ -35087,10 +34788,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Matching, and Root Structure: Time for Another Look?. J. Klensin.
      February 2018. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC8324) 
-
-8325 Mapping Diffserv to IEEE 802.11. T. Szigeti, J. Henry, F. Baker.
-     February 2018. (Format: TXT, HTML) (Updated by RFC8622) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC8325) 
 
 8326 Graceful BGP Session Shutdown. P. Francois, Ed., B. Decraene, Ed.,
      C. Pelsser, K. Patel, C. Filsfils. March 2018. (Format: TXT, HTML)
@@ -35592,11 +35289,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      August 2018. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC8435) 
 
-8436 Update to IANA Registration Procedures for Pool 3 Values in the
-     Differentiated Services Field Codepoints (DSCP) Registry. G.
-     Fairhurst. August 2018. (Format: TXT, HTML) (Updates RFC2474)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8436) 
-
 8437 IMAP UNAUTHENTICATE Extension for Connection Reuse. C. Newman.
      August 2018. (Format: TXT, HTML) (Updates RFC3501) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC8437) 
@@ -36038,11 +35730,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Y. Cui, L. Sun. March 2019. (Format: TXT, HTML) (Updates RFC7598)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8539) 
 
-8540 Stream Control Transmission Protocol: Errata and Issues in RFC 4960.
-     R. Stewart, M. Tuexen, M. Proshin. February 2019. (Format: TXT,
-     HTML) (Obsoleted by RFC9260) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC8540) 
-
 8541 Impact of Shortest Path First (SPF) Trigger and Delay Strategies on
      IGP Micro-loops. S. Litkowski, B. Decraene, M. Horneffer. March
      2019. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
@@ -36401,11 +36088,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Newman. August 2019. (Format: TXT, HTML) (Updates RFC5788) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC8621) 
 
-8622 A Lower-Effort Per-Hop Behavior (LE PHB) for Differentiated
-     Services. R. Bless. June 2019. (Format: TXT, HTML) (Obsoletes
-     RFC3662) (Updates RFC4594, RFC8325) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC8622) 
-
 8623 Stateful Path Computation Element (PCE) Protocol Extensions for
      Usage with Point-to-Multipoint TE Label Switched Paths (LSPs). U.
      Palle, D. Dhody, Y. Tanaka, V. Beeram. June 2019. (Format: TXT,
@@ -36650,20 +36332,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Decraene, H. Gredler, C. Michel, H. Chen. December 2019. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC8679) 
-
-8680 Forward Error Correction (FEC) Framework Extension to Sliding Window
-     Codes. V. Roca, A. Begen. January 2020. (Format: HTML, TXT, PDF,
-     XML) (Updates RFC6363) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8680) 
-
-8681 Sliding Window Random Linear Code (RLC) Forward Erasure Correction
-     (FEC) Schemes for FECFRAME. V. Roca, B. Teibi. January 2020.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8681) 
-
-8682 TinyMT32 Pseudorandom Number Generator (PRNG). M. Saito, M.
-     Matsumoto, V. Roca, Ed., E. Baccelli. January 2020. (Format: HTML,
-     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8682) 
 
 8683 Additional Deployment Guidelines for NAT64/464XLAT in Operator and
      Enterprise Networks. J. Palet Martinez. November 2019. (Format:
@@ -37365,11 +37033,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Jesup, Z. Sarker, Ed.. January 2021. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC8836) 
 
-8837 Differentiated Services Code Point (DSCP) Packet Markings for WebRTC
-     QoS. P. Jones, S. Dhesikan, C. Jennings, D. Druta. January 2021.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8837) 
-
 8838 Trickle ICE: Incremental Provisioning of Candidates for the
      Interactive Connectivity Establishment (ICE) Protocol. E. Ivov, J.
      Uberti, P. Saint-Andre. January 2021. (Format: HTML, TXT, PDF, XML)
@@ -37655,12 +37318,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Initiation Protocol (SIP). R. Shekh-Yusef, C. Holmberg, V. Pascual.
      September 2020. (Format: HTML, TXT, PDF, XML) (Updates RFC3261)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8898) 
-
-8899 Packetization Layer Path MTU Discovery for Datagram Transports. G.
-     Fairhurst, T. Jones, M. Tüxen, I. Rüngeler, T. Völker. September
-     2020. (Format: HTML, TXT, PDF, XML) (Updates RFC4821, RFC4960,
-     RFC6951, RFC8085, RFC8261) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8899) 
 
 8900 IP Fragmentation Considered Fragile. R. Bonica, F. Baker, G. Huston,
      R. Hinden, O. Troan, F. Gont. September 2020. (Format: HTML, TXT,
@@ -38417,11 +38074,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      CCNx-Like Information-Centric Networking Protocols. D. Oran. June
      2021. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9064) 
-
-9065 Considerations around Transport Header Confidentiality, Network
-     Operations, and the Evolution of Internet Transport Protocols. G.
-     Fairhurst, C. Perkins. July 2021. (Format: HTML, TXT, PDF, XML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9065) 
 
 9066 Distributed Denial-of-Service Open Threat Signaling (DOTS) Signal
      Channel Call Home. T. Reddy.K, M. Boucadair, Ed., J. Shallow.
@@ -39302,11 +38954,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Chen. June 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9259) 
 
-9260 Stream Control Transmission Protocol. R. Stewart, M. Tüxen, K.
-     Nielsen. June 2022. (Format: HTML, TXT, PDF, XML) (Obsoletes
-     RFC4460, RFC4960, RFC6096, RFC7053, RFC8540) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9260) 
-
 9261 Exported Authenticators in TLS. N. Sullivan. July 2022. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9261) 
@@ -39617,21 +39264,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Packets. T. Pauly, V. Smyslov. November 2022. (Format: HTML, TXT,
      PDF, XML) (Obsoletes RFC8229) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9329) 
-
-9330 Low Latency, Low Loss, and Scalable Throughput (L4S) Internet
-     Service: Architecture. B. Briscoe, Ed., K. De Schepper, M. Bagnulo,
-     G. White. January 2023. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9330) 
-
-9331 The Explicit Congestion Notification (ECN) Protocol for Low Latency,
-     Low Loss, and Scalable Throughput (L4S). K. De Schepper, B. Briscoe,
-     Ed.. January 2023. (Format: HTML, TXT, PDF, XML) (Status:
-     EXPERIMENTAL) (DOI: 10.17487/RFC9331) 
-
-9332 Dual-Queue Coupled Active Queue Management (AQM) for Low Latency,
-     Low Loss, and Scalable Throughput (L4S). K. De Schepper, B. Briscoe,
-     Ed., G. White. January 2023. (Format: HTML, TXT, PDF, XML) (Status:
-     EXPERIMENTAL) (DOI: 10.17487/RFC9332) 
 
 9333 Minimal IP Encapsulating Security Payload (ESP). D. Migault, T.
      Guggemos. January 2023. (Format: HTML, TXT, PDF, XML) (Status:
@@ -40064,11 +39696,6 @@ See the RFC Editor Web page http://www.rfc-editor.org
      A. Wiethuechter, R. Moskowitz, S. Zhao, Ed., A. Gurtov. July 2023.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9434) 
-
-9435 Considerations for Assigning a New Recommended Differentiated
-     Services Code Point (DSCP). A. Custura, G. Fairhurst, R. Secchi.
-     July 2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC9435) 
 
 9436 PIM Message Type Space Extension and Reserved Bits. S. Venaas, A.
      Retana. August 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes
