@@ -4,30 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9450 Reliable and Available Wireless (RAW) Use Cases. CJ. Bernardos, Ed.,
-     G. Papadopoulos, P. Thubert, F. Theoleyre. August 2023. (Format:
-     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9450) 
-
-9451 Operations, Administration, and Maintenance (OAM) Packet and
-     Behavior in the Network Service Header (NSH). M. Boucadair. August
-     2023. (Format: HTML, TXT, PDF, XML) (Updates RFC8300) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9451) 
-
-9452 Network Service Header (NSH) Encapsulation for In Situ OAM (IOAM)
-     Data. F. Brockners, Ed., S. Bhandari, Ed.. August 2023. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9452) 
-
-9453 Applicability and Use Cases for IPv6 over Networks of
-     Resource-constrained Nodes (6lo). Y. Hong, C. Gomez, Y. Choi, A.
-     Sangi, S. Chakrabarti. September 2023. (Format: HTML, TXT, PDF, XML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9453) 
-
-9454 Update to OSPF Terminology. M. Fox, A. Lindem, A. Retana. August
-     2023. (Format: HTML, TXT, PDF, XML) (Updates RFC2328, RFC4222,
-     RFC4811, RFC5243, RFC5340, RFC5614, RFC5838) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9454) 
-
 9455 Avoiding Route Origin Authorizations (ROAs) Containing Multiple IP
      Prefixes. Z. Yan, R. Bush, G. Geng, T. de Kock, J. Yao. August 2023.
      (Format: HTML, TXT, PDF, XML) (Also BCP0238) (Status: BEST CURRENT
@@ -64,9 +40,18 @@
      XML) (Updates RFC1034) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9471) 
 
+9472 A YANG Data Model for Reporting Software Bills of Materials (SBOMs)
+     and Vulnerability Information. E. Lear, S. Rose. October 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9472) 
+
 9473 A Vocabulary of Path Properties. R. Enghardt, C. Krähenbühl.
      September 2023. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9473) 
+
+9474 RSA Blind Signatures. F. Denis, F. Jacobs, C. A. Wood. October 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9474) 
 
 9476 The .alt Special-Use Top-Level Domain. W. Kumari, P. Hoffman.
      September 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -76,11 +61,26 @@
      (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC9477) 
 
+9478 Labeled IPsec Traffic Selector Support for the Internet Key Exchange
+     Protocol Version 2 (IKEv2). P. Wouters, S. Prasad. October 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9478) 
+
+9479 IS-IS Application-Specific Link Attributes. L. Ginsberg, P. Psenak,
+     S. Previdi, W. Henderickx, J. Drake. October 2023. (Format: HTML,
+     TXT, PDF, XML) (Obsoletes RFC8919) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9479) 
+
 9486 IPv6 Options for In Situ Operations, Administration, and Maintenance
      (IOAM). S. Bhandari, Ed., F. Brockners, Ed.. September 2023.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9486) 
 
+9492 OSPF Application-Specific Link Attributes. P. Psenak, Ed., L.
+     Ginsberg, W. Henderickx, J. Tantsura, J. Drake. October 2023.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8920) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9492) 
+
 ===========================================================================
- - This file last updated Tue 10 Oct 2023 02:30:01 AM PDT
+ - This file last updated Wed 11 Oct 2023 02:30:02 AM PDT
 
