@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9455 Avoiding Route Origin Authorizations (ROAs) Containing Multiple IP
-     Prefixes. Z. Yan, R. Bush, G. Geng, T. de Kock, J. Yao. August 2023.
-     (Format: HTML, TXT, PDF, XML) (Also BCP0238) (Status: BEST CURRENT
-     PRACTICE) (DOI: 10.17487/RFC9455) 
-
-9457 Problem Details for HTTP APIs. M. Nottingham, E. Wilde, S. Dalal.
-     July 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7807)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9457) 
-
 9459 CBOR Object Signing and Encryption (COSE): AES-CTR and AES-CBC. R.
      Housley, H. Tschofenig. September 2023. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9459) 
@@ -20,6 +11,10 @@
 9465 PIM Null-Register Packing. V. Kamath, R. Chokkanathapuram Sundaram,
      R. Banthia, A. Gopal. September 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9465) 
+
+9466 PIM Assert Message Packing. Y. Liu, Ed., T. Eckert, Ed., M. McBride,
+     Z. Zhang. October 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9466) 
 
 9468 Unsolicited Bidirectional Forwarding Detection (BFD) for Sessionless
      Applications. E. Chen, N. Shen, R. Raszuk, R. Rahman. August 2023.
@@ -71,6 +66,10 @@
      TXT, PDF, XML) (Obsoletes RFC8919) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9479) 
 
+9485 I-Regexp: An Interoperable Regular Expression Format. C. Bormann, T.
+     Bray. October 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9485) 
+
 9486 IPv6 Options for In Situ Operations, Administration, and Maintenance
      (IOAM). S. Bhandari, Ed., F. Brockners, Ed.. September 2023.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -81,6 +80,10 @@
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8920) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9492) 
 
+9495 Certification Authority Authorization (CAA) Processing for Email
+     Addresses. C. Bonnell. October 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9495) 
+
 ===========================================================================
- - This file last updated Fri 13 Oct 2023 02:30:01 AM PDT
+ - This file last updated Mon 16 Oct 2023 02:30:01 AM PDT
 
