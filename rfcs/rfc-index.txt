@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/17/2023.)
+(CREATED ON: 10/18/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -22406,8 +22406,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5440 Path Computation Element (PCE) Communication Protocol (PCEP). JP.
      Vasseur, Ed., JL. Le Roux, Ed.. March 2009. (Format: TXT, HTML)
-     (Updated by RFC7896, RFC8253, RFC8356) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC5440) 
+     (Updated by RFC7896, RFC8253, RFC8356, RFC9488) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC5440) 
 
 5441 A Backward-Recursive PCE-Based Computation (BRPC) Procedure to
      Compute Shortest Constrained Inter-Domain Traffic Engineering Label
@@ -40241,6 +40241,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (IOAM). S. Bhandari, Ed., F. Brockners, Ed.. September 2023.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9486) 
+
+9488 Local Protection Enforcement in the Path Computation Element
+     Communication Protocol (PCEP). A. Stone, M. Aissaoui, S. Sidor, S.
+     Sivabalan. October 2023. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC5440) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9488) 
 
 9492 OSPF Application-Specific Link Attributes. P. Psenak, Ed., L.
      Ginsberg, W. Henderickx, J. Tantsura, J. Drake. October 2023.
