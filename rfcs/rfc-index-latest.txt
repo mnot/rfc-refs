@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9459 CBOR Object Signing and Encryption (COSE): AES-CTR and AES-CBC. R.
-     Housley, H. Tschofenig. September 2023. (Format: HTML, TXT, PDF,
-     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9459) 
-
 9465 PIM Null-Register Packing. V. Kamath, R. Chokkanathapuram Sundaram,
      R. Banthia, A. Gopal. September 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9465) 
@@ -75,6 +71,11 @@
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9486) 
 
+9488 Local Protection Enforcement in the Path Computation Element
+     Communication Protocol (PCEP). A. Stone, M. Aissaoui, S. Sidor, S.
+     Sivabalan. October 2023. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC5440) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9488) 
+
 9492 OSPF Application-Specific Link Attributes. P. Psenak, Ed., L.
      Ginsberg, W. Henderickx, J. Tantsura, J. Drake. October 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8920) (Status: PROPOSED
@@ -85,5 +86,5 @@
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9495) 
 
 ===========================================================================
- - This file last updated Wed 18 Oct 2023 02:30:01 AM PDT
+ - This file last updated Thu 19 Oct 2023 02:30:01 AM PDT
 

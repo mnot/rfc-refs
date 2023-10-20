@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/18/2023.)
+(CREATED ON: 10/19/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39476,7 +39476,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      STANDARD) (DOI: 10.17487/RFC9297) 
 
 9298 Proxying UDP in HTTP. D. Schinazi. August 2022. (Format: HTML, TXT,
-     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9298) 
+     PDF, XML) (Updated by RFC9484) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9298) 
 
 9299 An Architectural Introduction to the Locator/ID Separation Protocol
      (LISP). A. Cabellos, D. Saucez, Ed.. October 2022. (Format: HTML,
@@ -40232,6 +40233,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      S. Previdi, W. Henderickx, J. Drake. October 2023. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC8919) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9479) 
+
+9484 Proxying IP in HTTP. T. Pauly, Ed., D. Schinazi, A. Chernyakhovsky,
+     M. Kühlewind, M. Westerlund. October 2023. (Format: HTML, TXT, PDF,
+     XML) (Updates RFC9298) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9484) 
 
 9485 I-Regexp: An Interoperable Regular Expression Format. C. Bormann, T.
      Bray. October 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
