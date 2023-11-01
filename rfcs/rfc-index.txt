@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/30/2023.)
+(CREATED ON: 11/01/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40261,3 +40261,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9495 Certification Authority Authorization (CAA) Processing for Email
      Addresses. C. Bonnell. October 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9495) 
+
+9503 Simple Two-Way Active Measurement Protocol (STAMP) Extensions for
+     Segment Routing Networks. R. Gandhi, Ed., C. Filsfils, M. Chen, B.
+     Janssens, R. Foote. October 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9503) 
+
+9506 Explicit Host-to-Network Flow Measurements Techniques. M. Cociglio,
+     A. Ferrieux, G. Fioccola, I. Lubashev, F. Bulgarella, M. Nilo, I.
+     Hamchaoui, R. Sisto. October 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9506) 
