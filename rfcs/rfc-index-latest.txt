@@ -4,16 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9468 Unsolicited Bidirectional Forwarding Detection (BFD) for Sessionless
-     Applications. E. Chen, N. Shen, R. Raszuk, R. Rahman. August 2023.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9468) 
-
-9469 Applicability of Ethernet Virtual Private Network (EVPN) to Network
-     Virtualization over Layer 3 (NVO3) Networks. J. Rabadan, Ed., M.
-     Bocci, S. Boutros, A. Sajassi. September 2023. (Format: HTML, TXT,
-     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9469) 
-
 9470 OAuth 2.0 Step Up Authentication Challenge Protocol. V. Bertocci, B.
      Campbell. September 2023. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9470) 
@@ -82,6 +72,16 @@
      Addresses. C. Bonnell. October 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9495) 
 
+9503 Simple Two-Way Active Measurement Protocol (STAMP) Extensions for
+     Segment Routing Networks. R. Gandhi, Ed., C. Filsfils, M. Chen, B.
+     Janssens, R. Foote. October 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9503) 
+
+9506 Explicit Host-to-Network Flow Measurements Techniques. M. Cociglio,
+     A. Ferrieux, G. Fioccola, I. Lubashev, F. Bulgarella, M. Nilo, I.
+     Hamchaoui, R. Sisto. October 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9506) 
+
 ===========================================================================
- - This file last updated Tue 31 Oct 2023 02:30:02 AM PDT
+ - This file last updated Wed 01 Nov 2023 02:30:03 AM PDT
 
