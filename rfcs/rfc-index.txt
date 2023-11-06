@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/04/2023.)
+(CREATED ON: 11/05/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -17058,7 +17058,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 4210 Internet X.509 Public Key Infrastructure Certificate Management
      Protocol (CMP). C. Adams, S. Farrell, T. Kause, T. Mononen.
      September 2005. (Format: TXT, HTML) (Obsoletes RFC2510) (Updated by
-     RFC6712) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4210) 
+     RFC6712, RFC9480, RFC9481) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC4210) 
 
 4211 Internet X.509 Public Key Infrastructure Certificate Request Message
      Format (CRMF). J. Schaad. September 2005. (Format: TXT, HTML)
@@ -24460,7 +24461,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5912 New ASN.1 Modules for the Public Key Infrastructure Using X.509
      (PKIX). P. Hoffman, J. Schaad. June 2010. (Format: TXT, HTML)
-     (Updated by RFC6960) (Status: INFORMATIONAL) (DOI: 10.17487/RFC5912) 
+     (Updated by RFC6960, RFC9480) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC5912) 
 
 5913 Clearance Attribute and Authority Clearance Constraints Certificate
      Extension. S. Turner, S. Chokhani. June 2010. (Format: TXT, HTML)
@@ -27903,8 +27905,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6712 Internet X.509 Public Key Infrastructure -- HTTP Transfer for the
      Certificate Management Protocol (CMP). T. Kause, M. Peylo. September
-     2012. (Format: TXT, HTML) (Updates RFC4210) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC6712) 
+     2012. (Format: TXT, HTML) (Updates RFC4210) (Updated by RFC9480)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6712) 
 
 6713 The 'application/zlib' and 'application/gzip' Media Types. J.
      Levine. August 2012. (Format: TXT, HTML) (Status: INFORMATIONAL)
@@ -40233,6 +40235,25 @@ See the RFC Editor Web page http://www.rfc-editor.org
      S. Previdi, W. Henderickx, J. Drake. October 2023. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC8919) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9479) 
+
+9480 Certificate Management Protocol (CMP) Updates. H. Brockhaus, D. von
+     Oheimb, J. Gray. November 2023. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC4210, RFC5912, RFC6712) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9480) 
+
+9481 Certificate Management Protocol (CMP) Algorithms. H. Brockhaus, H.
+     Aschauer, M. Ounsworth, J. Gray. November 2023. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC4210) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9481) 
+
+9482 Constrained Application Protocol (CoAP) Transfer for the Certificate
+     Management Protocol. M. Sahni, Ed., S. Tripathi, Ed.. November 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9482) 
+
+9483 Lightweight Certificate Management Protocol (CMP) Profile. H.
+     Brockhaus, D. von Oheimb, S. Fries. November 2023. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9483) 
 
 9484 Proxying IP in HTTP. T. Pauly, Ed., D. Schinazi, A. Chernyakhovsky,
      M. Kühlewind, M. Westerlund. October 2023. (Format: HTML, TXT, PDF,
