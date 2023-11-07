@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/05/2023.)
+(CREATED ON: 11/06/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40177,6 +40177,29 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9459 CBOR Object Signing and Encryption (COSE): AES-CTR and AES-CBC. R.
      Housley, H. Tschofenig. September 2023. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9459) 
+
+9460 Service Binding and Parameter Specification via the DNS (SVCB and
+     HTTPS Resource Records). B. Schwartz, M. Bishop, E. Nygren. November
+     2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9460) 
+
+9461 Service Binding Mapping for DNS Servers. B. Schwartz. November 2023.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9461) 
+
+9462 Discovery of Designated Resolvers. T. Pauly, E. Kinnear, C. A. Wood,
+     P. McManus, T. Jensen. November 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9462) 
+
+9463 DHCP and Router Advertisement Options for the Discovery of
+     Network-designated Resolvers (DNR). M. Boucadair, Ed., T. Reddy.K,
+     Ed., D. Wing, N. Cook, T. Jensen. November 2023. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9463) 
+
+9464 Internet Key Exchange Protocol Version 2 (IKEv2) Configuration for
+     Encrypted DNS. M. Boucadair, T. Reddy.K, D. Wing, V. Smyslov.
+     November 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9464) 
 
 9465 PIM Null-Register Packing. V. Kamath, R. Chokkanathapuram Sundaram,
      R. Banthia, A. Gopal. September 2023. (Format: HTML, TXT, PDF, XML)
