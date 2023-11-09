@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/07/2023.)
+(CREATED ON: 11/08/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -25382,7 +25382,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Identity within Internet Public Key Infrastructure Using X.509
      (PKIX) Certificates in the Context of Transport Layer Security
      (TLS). P. Saint-Andre, J. Hodges. March 2011. (Format: TXT, HTML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6125) 
+     (Obsoleted by RFC9525) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC6125) 
 
 6126 The Babel Routing Protocol. J. Chroboczek. April 2011. (Format: TXT,
      HTML) (Obsoleted by RFC8966) (Updated by RFC7298, RFC7557) (Status:
@@ -26363,8 +26364,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6353 Transport Layer Security (TLS) Transport Model for the Simple
      Network Management Protocol (SNMP). W. Hardaker. July 2011. (Format:
-     TXT, HTML) (Obsoletes RFC5953) (Updated by RFC8996) (Also STD0078)
-     (Status: INTERNET STANDARD) (DOI: 10.17487/RFC6353) 
+     TXT, HTML) (Obsoletes RFC5953) (Updated by RFC8996, RFC9456) (Also
+     STD0078) (Status: INTERNET STANDARD) (DOI: 10.17487/RFC6353) 
 
 6354 Forward-Shifted RTP Redundancy Payload Support. Q. Xie. August 2011.
      (Format: TXT, HTML) (Updates RFC2198, RFC4102) (Status: PROPOSED
@@ -40170,6 +40171,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Also BCP0238) (Status: BEST CURRENT
      PRACTICE) (DOI: 10.17487/RFC9455) 
 
+9456 Updates to the TLS Transport Model for SNMP. K. Vaughn, Ed..
+     November 2023. (Format: HTML, TXT, PDF, XML) (Updates RFC6353)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9456) 
+
 9457 Problem Details for HTTP APIs. M. Nottingham, E. Wilde, S. Dalal.
      July 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7807)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9457) 
@@ -40292,6 +40297,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9486) 
 
+9487 Export of Segment Routing over IPv6 Information in IP Flow
+     Information Export (IPFIX). T. Graf, B. Claise, P. Francois.
+     November 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9487) 
+
 9488 Local Protection Enforcement in the Path Computation Element
      Communication Protocol (PCEP). A. Stone, M. Aissaoui, S. Sidor, S.
      Sivabalan. October 2023. (Format: HTML, TXT, PDF, XML) (Updates
@@ -40320,3 +40330,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      A. Ferrieux, G. Fioccola, I. Lubashev, F. Bulgarella, M. Nilo, I.
      Hamchaoui, R. Sisto. October 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9506) 
+
+9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9525) 

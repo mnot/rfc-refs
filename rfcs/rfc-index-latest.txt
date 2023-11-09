@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9474 RSA Blind Signatures. F. Denis, F. Jacobs, C. A. Wood. October 2023.
-     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9474) 
-
 9476 The .alt Special-Use Top-Level Domain. W. Kumari, P. Hoffman.
      September 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9476) 
@@ -64,6 +60,11 @@
      Sivabalan. October 2023. (Format: HTML, TXT, PDF, XML) (Updates
      RFC5440) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9488) 
 
+9491 Integration of the Network Service Header (NSH) and Segment Routing
+     for Service Function Chaining (SFC). J. Guichard, Ed., J. Tantsura,
+     Ed.. November 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9491) 
+
 9492 OSPF Application-Specific Link Attributes. P. Psenak, Ed., L.
      Ginsberg, W. Henderickx, J. Tantsura, J. Drake. October 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8920) (Status: PROPOSED
@@ -84,5 +85,5 @@
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9506) 
 
 ===========================================================================
- - This file last updated Tue 07 Nov 2023 02:30:02 AM PST
+ - This file last updated Wed 08 Nov 2023 02:30:02 AM PST
 
