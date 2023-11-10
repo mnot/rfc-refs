@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/08/2023.)
+(CREATED ON: 11/09/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40306,6 +40306,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Communication Protocol (PCEP). A. Stone, M. Aissaoui, S. Sidor, S.
      Sivabalan. October 2023. (Format: HTML, TXT, PDF, XML) (Updates
      RFC5440) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9488) 
+
+9489 Label Switched Path (LSP) Ping Mechanisms for EVPN and Provider
+     Backbone Bridging EVPN (PBB-EVPN). P. Jain, A. Sajassi, S. Salam, S.
+     Boutros, G. Mirsky. November 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9489) 
 
 9491 Integration of the Network Service Header (NSH) and Segment Routing
      for Service Function Chaining (SFC). J. Guichard, Ed., J. Tantsura,

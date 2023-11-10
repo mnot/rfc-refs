@@ -4,19 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9476 The .alt Special-Use Top-Level Domain. W. Kumari, P. Hoffman.
-     September 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9476) 
-
-9477 Complaint Feedback Loop Address Header. J. Benecke. September 2023.
-     (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
-     10.17487/RFC9477) 
-
-9478 Labeled IPsec Traffic Selector Support for the Internet Key Exchange
-     Protocol Version 2 (IKEv2). P. Wouters, S. Prasad. October 2023.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9478) 
-
 9479 IS-IS Application-Specific Link Attributes. L. Ginsberg, P. Psenak,
      S. Previdi, W. Henderickx, J. Drake. October 2023. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC8919) (Status: PROPOSED STANDARD) (DOI:
@@ -55,10 +42,20 @@
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9486) 
 
+9487 Export of Segment Routing over IPv6 Information in IP Flow
+     Information Export (IPFIX). T. Graf, B. Claise, P. Francois.
+     November 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9487) 
+
 9488 Local Protection Enforcement in the Path Computation Element
      Communication Protocol (PCEP). A. Stone, M. Aissaoui, S. Sidor, S.
      Sivabalan. October 2023. (Format: HTML, TXT, PDF, XML) (Updates
      RFC5440) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9488) 
+
+9489 Label Switched Path (LSP) Ping Mechanisms for EVPN and Provider
+     Backbone Bridging EVPN (PBB-EVPN). P. Jain, A. Sajassi, S. Salam, S.
+     Boutros, G. Mirsky. November 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9489) 
 
 9491 Integration of the Network Service Header (NSH) and Segment Routing
      for Service Function Chaining (SFC). J. Guichard, Ed., J. Tantsura,
@@ -84,6 +81,10 @@
      Hamchaoui, R. Sisto. October 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9506) 
 
+9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9525) 
+
 ===========================================================================
- - This file last updated Wed 08 Nov 2023 02:30:02 AM PST
+ - This file last updated Thu 09 Nov 2023 02:30:01 AM PST
 
