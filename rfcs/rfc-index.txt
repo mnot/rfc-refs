@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/19/2023.)
+(CREATED ON: 11/21/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39949,6 +39949,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9402) 
 
+9403 A YANG Data Model for RIB Extensions. A. Lindem, Y. Qu. November
+     2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9403) 
+
 9404 JSON Meta Application Protocol (JMAP) Blob Management Extension. B.
      Gondwana, Ed.. August 2023. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8620) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9404) 
@@ -40326,6 +40330,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Addresses. C. Bonnell. October 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9495) 
 
+9498 The GNU Name System. M. Schanzenbach, C. Grothoff, B. Fix. November
+     2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9498) 
+
 9503 Simple Two-Way Active Measurement Protocol (STAMP) Extensions for
      Segment Routing Networks. R. Gandhi, Ed., C. Filsfils, M. Chen, B.
      Janssens, R. Foote. October 2023. (Format: HTML, TXT, PDF, XML)
@@ -40335,6 +40343,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      A. Ferrieux, G. Fioccola, I. Lubashev, F. Bulgarella, M. Nilo, I.
      Hamchaoui, R. Sisto. October 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9506) 
+
+9516 Active Operations, Administration, and Maintenance (OAM) for Service
+     Function Chaining (SFC). G. Mirsky, W. Meng, T. Ao, B. Khasnabish,
+     K. Leung, G. Mishra. November 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9516) 
 
 9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
