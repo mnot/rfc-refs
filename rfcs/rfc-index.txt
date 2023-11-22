@@ -40339,6 +40339,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Janssens, R. Foote. October 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9503) 
 
+9505 A Survey of Worldwide Censorship Techniques. J. L. Hall, M. D.
+     Aaron, A. Andersdotter, B. Jones, N. Feamster, M. Knodel. November
+     2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9505) 
+
 9506 Explicit Host-to-Network Flow Measurements Techniques. M. Cociglio,
      A. Ferrieux, G. Fioccola, I. Lubashev, F. Bulgarella, M. Nilo, I.
      Hamchaoui, R. Sisto. October 2023. (Format: HTML, TXT, PDF, XML)

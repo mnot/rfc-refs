@@ -4,21 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9479 IS-IS Application-Specific Link Attributes. L. Ginsberg, P. Psenak,
-     S. Previdi, W. Henderickx, J. Drake. October 2023. (Format: HTML,
-     TXT, PDF, XML) (Obsoletes RFC8919) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9479) 
-
-9480 Certificate Management Protocol (CMP) Updates. H. Brockhaus, D. von
-     Oheimb, J. Gray. November 2023. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC4210, RFC5912, RFC6712) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9480) 
-
-9481 Certificate Management Protocol (CMP) Algorithms. H. Brockhaus, H.
-     Aschauer, M. Ounsworth, J. Gray. November 2023. (Format: HTML, TXT,
-     PDF, XML) (Updates RFC4210) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9481) 
-
 9482 Constrained Application Protocol (CoAP) Transfer for the Certificate
      Management Protocol. M. Sahni, Ed., S. Tripathi, Ed.. November 2023.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -71,20 +56,34 @@
      Addresses. C. Bonnell. October 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9495) 
 
+9498 The GNU Name System. M. Schanzenbach, C. Grothoff, B. Fix. November
+     2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9498) 
+
 9503 Simple Two-Way Active Measurement Protocol (STAMP) Extensions for
      Segment Routing Networks. R. Gandhi, Ed., C. Filsfils, M. Chen, B.
      Janssens, R. Foote. October 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9503) 
+
+9505 A Survey of Worldwide Censorship Techniques. J. L. Hall, M. D.
+     Aaron, A. Andersdotter, B. Jones, N. Feamster, M. Knodel. November
+     2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9505) 
 
 9506 Explicit Host-to-Network Flow Measurements Techniques. M. Cociglio,
      A. Ferrieux, G. Fioccola, I. Lubashev, F. Bulgarella, M. Nilo, I.
      Hamchaoui, R. Sisto. October 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9506) 
 
+9516 Active Operations, Administration, and Maintenance (OAM) for Service
+     Function Chaining (SFC). G. Mirsky, W. Meng, T. Ao, B. Khasnabish,
+     K. Leung, G. Mishra. November 2023. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9516) 
+
 9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9525) 
 
 ===========================================================================
- - This file last updated Mon 20 Nov 2023 02:30:02 AM PST
+ - This file last updated Tue 21 Nov 2023 02:30:01 AM PST
 
