@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/21/2023.)
+(CREATED ON: 11/22/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40333,6 +40333,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9498 The GNU Name System. M. Schanzenbach, C. Grothoff, B. Fix. November
      2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9498) 
+
+9502 IGP Flexible Algorithm in IP Networks. W. Britto, S. Hegde, P.
+     Kaneriya, R. Shetty, R. Bonica, P. Psenak. November 2023. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9502) 
 
 9503 Simple Two-Way Active Measurement Protocol (STAMP) Extensions for
      Segment Routing Networks. R. Gandhi, Ed., C. Filsfils, M. Chen, B.
