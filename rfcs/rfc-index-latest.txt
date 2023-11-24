@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9482 Constrained Application Protocol (CoAP) Transfer for the Certificate
-     Management Protocol. M. Sahni, Ed., S. Tripathi, Ed.. November 2023.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9482) 
-
 9483 Lightweight Certificate Management Protocol (CMP) Profile. H.
      Brockhaus, D. von Oheimb, S. Fries. November 2023. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9483) 
@@ -60,6 +55,11 @@
      2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9498) 
 
+9502 IGP Flexible Algorithm in IP Networks. W. Britto, S. Hegde, P.
+     Kaneriya, R. Shetty, R. Bonica, P. Psenak. November 2023. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9502) 
+
 9503 Simple Two-Way Active Measurement Protocol (STAMP) Extensions for
      Segment Routing Networks. R. Gandhi, Ed., C. Filsfils, M. Chen, B.
      Janssens, R. Foote. October 2023. (Format: HTML, TXT, PDF, XML)
@@ -85,5 +85,5 @@
      STANDARD) (DOI: 10.17487/RFC9525) 
 
 ===========================================================================
- - This file last updated Wed 22 Nov 2023 02:30:02 AM PST
+ - This file last updated Thu 23 Nov 2023 02:30:02 AM PST
 
