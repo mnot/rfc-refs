@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/27/2023.)
+(CREATED ON: 11/29/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40353,6 +40353,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      A. Ferrieux, G. Fioccola, I. Lubashev, F. Bulgarella, M. Nilo, I.
      Hamchaoui, R. Sisto. October 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9506) 
+
+9511 Attribution of Internet Probes. É. Vyncke, B. Donnet, J. Iurman.
+     November 2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9511) 
 
 9516 Active Operations, Administration, and Maintenance (OAM) for Service
      Function Chaining (SFC). G. Mirsky, W. Meng, T. Ao, B. Khasnabish,
