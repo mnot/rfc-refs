@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9483 Lightweight Certificate Management Protocol (CMP) Profile. H.
-     Brockhaus, D. von Oheimb, S. Fries. November 2023. (Format: HTML,
-     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9483) 
-
 9484 Proxying IP in HTTP. T. Pauly, Ed., D. Schinazi, A. Chernyakhovsky,
      M. Kühlewind, M. Westerlund. October 2023. (Format: HTML, TXT, PDF,
      XML) (Updates RFC9298) (Status: PROPOSED STANDARD) (DOI:
@@ -75,6 +71,10 @@
      Hamchaoui, R. Sisto. October 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9506) 
 
+9511 Attribution of Internet Probes. É. Vyncke, B. Donnet, J. Iurman.
+     November 2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9511) 
+
 9516 Active Operations, Administration, and Maintenance (OAM) for Service
      Function Chaining (SFC). G. Mirsky, W. Meng, T. Ao, B. Khasnabish,
      K. Leung, G. Mishra. November 2023. (Format: HTML, TXT, PDF, XML)
@@ -85,5 +85,5 @@
      STANDARD) (DOI: 10.17487/RFC9525) 
 
 ===========================================================================
- - This file last updated Tue 28 Nov 2023 02:30:01 AM PST
+ - This file last updated Wed 29 Nov 2023 02:30:01 AM PST
 

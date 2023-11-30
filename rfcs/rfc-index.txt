@@ -26426,7 +26426,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 6368 Internal BGP as the Provider/Customer Edge Protocol for BGP/MPLS IP
      Virtual Private Networks (VPNs). P. Marques, R. Raszuk, K. Patel, K.
      Kumaki, T. Yamagata. September 2011. (Format: TXT, HTML) (Updated by
-     RFC7606) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6368) 
+     RFC7606, RFC9494) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC6368) 
 
 6369 Forwarding and Control Element Separation (ForCES) Implementation
      Experience. E. Haleplidis, O. Koufopavlou, S. Denazis. September
@@ -40325,6 +40326,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Ginsberg, W. Henderickx, J. Tantsura, J. Drake. October 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8920) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9492) 
+
+9494 Long-Lived Graceful Restart for BGP. J. Uttaro, E. Chen, B.
+     Decraene, J. Scudder. November 2023. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC6368) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9494) 
 
 9495 Certification Authority Authorization (CAA) Processing for Email
      Addresses. C. Bonnell. October 2023. (Format: HTML, TXT, PDF, XML)
