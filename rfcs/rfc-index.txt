@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/29/2023.)
+(CREATED ON: 12/01/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -33436,12 +33436,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7954 Locator/ID Separation Protocol (LISP) Endpoint Identifier (EID)
      Block. L. Iannone, D. Lewis, D. Meyer, V. Fuller. September 2016.
-     (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC7954) 
+     (Format: TXT, HTML) (Status: HISTORIC) (DOI: 10.17487/RFC7954) 
 
 7955 Management Guidelines for the Locator/ID Separation Protocol (LISP)
      Endpoint Identifier (EID) Block. L. Iannone, R. Jorgensen, D.
      Conrad, G. Huston. September 2016. (Format: TXT, HTML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC7955) 
+     HISTORIC) (DOI: 10.17487/RFC7955) 
 
 7956 Transparent Interconnection of Lots of Links (TRILL) Distributed
      Layer 3 Gateway. W. Hao, Y. Li, A. Qu, M. Durrani, P. Sivamurugan.

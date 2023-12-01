@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9484 Proxying IP in HTTP. T. Pauly, Ed., D. Schinazi, A. Chernyakhovsky,
-     M. Kühlewind, M. Westerlund. October 2023. (Format: HTML, TXT, PDF,
-     XML) (Updates RFC9298) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9484) 
-
 9485 I-Regexp: An Interoperable Regular Expression Format. C. Bormann, T.
      Bray. October 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9485) 
@@ -42,6 +37,11 @@
      Ginsberg, W. Henderickx, J. Tantsura, J. Drake. October 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8920) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9492) 
+
+9494 Long-Lived Graceful Restart for BGP. J. Uttaro, E. Chen, B.
+     Decraene, J. Scudder. November 2023. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC6368) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9494) 
 
 9495 Certification Authority Authorization (CAA) Processing for Email
      Addresses. C. Bonnell. October 2023. (Format: HTML, TXT, PDF, XML)
@@ -85,5 +85,5 @@
      STANDARD) (DOI: 10.17487/RFC9525) 
 
 ===========================================================================
- - This file last updated Wed 29 Nov 2023 02:30:01 AM PST
+ - This file last updated Thu 30 Nov 2023 02:30:02 AM PST
 
