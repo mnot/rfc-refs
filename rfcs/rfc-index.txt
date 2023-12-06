@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 12/04/2023.)
+(CREATED ON: 12/06/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40363,6 +40363,15 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9511 Attribution of Internet Probes. É. Vyncke, B. Donnet, J. Iurman.
      November 2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC9511) 
+
+9513 OSPFv3 Extensions for Segment Routing over IPv6 (SRv6). Z. Li, Z.
+     Hu, K. Talaulikar, Ed., P. Psenak. December 2023. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9513) 
+
+9514 Border Gateway Protocol - Link State (BGP-LS) Extensions for Segment
+     Routing over IPv6 (SRv6). G. Dawra, C. Filsfils, K. Talaulikar, Ed.,
+     M. Chen, D. Bernier, B. Decraene. December 2023. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9514) 
 
 9516 Active Operations, Administration, and Maintenance (OAM) for Service
      Function Chaining (SFC). G. Mirsky, W. Meng, T. Ao, B. Khasnabish,
