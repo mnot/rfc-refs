@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9485 I-Regexp: An Interoperable Regular Expression Format. C. Bormann, T.
-     Bray. October 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9485) 
-
-9486 IPv6 Options for In Situ Operations, Administration, and Maintenance
-     (IOAM). S. Bhandari, Ed., F. Brockners, Ed.. September 2023.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9486) 
-
 9487 Export of Segment Routing over IPv6 Information in IP Flow
      Information Export (IPFIX). T. Graf, B. Claise, P. Francois.
      November 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -75,6 +66,15 @@
      November 2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC9511) 
 
+9513 OSPFv3 Extensions for Segment Routing over IPv6 (SRv6). Z. Li, Z.
+     Hu, K. Talaulikar, Ed., P. Psenak. December 2023. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9513) 
+
+9514 Border Gateway Protocol - Link State (BGP-LS) Extensions for Segment
+     Routing over IPv6 (SRv6). G. Dawra, C. Filsfils, K. Talaulikar, Ed.,
+     M. Chen, D. Bernier, B. Decraene. December 2023. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9514) 
+
 9516 Active Operations, Administration, and Maintenance (OAM) for Service
      Function Chaining (SFC). G. Mirsky, W. Meng, T. Ao, B. Khasnabish,
      K. Leung, G. Mishra. November 2023. (Format: HTML, TXT, PDF, XML)
@@ -85,5 +85,5 @@
      STANDARD) (DOI: 10.17487/RFC9525) 
 
 ===========================================================================
- - This file last updated Tue 05 Dec 2023 02:30:01 AM PST
+ - This file last updated Wed 06 Dec 2023 02:30:01 AM PST
 
