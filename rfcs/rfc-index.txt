@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 12/07/2023.)
+(CREATED ON: 12/08/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -33002,8 +33002,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC7853) 
 
 7854 BGP Monitoring Protocol (BMP). J. Scudder, Ed., R. Fernando, S.
-     Stuart. June 2016. (Format: TXT, HTML) (Updated by RFC8671, RFC9069)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7854) 
+     Stuart. June 2016. (Format: TXT, HTML) (Updated by RFC8671, RFC9069,
+     RFC9515) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7854) 
 
 7855 Source Packet Routing in Networking (SPRING) Problem Statement and
      Requirements. S. Previdi, Ed., C. Filsfils, Ed., B. Decraene, S.
@@ -40344,6 +40344,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9498) 
 
+9500 Standard Public Key Cryptography (PKC) Test Keys. P. Gutmann, C.
+     Bonnell. December 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9500) 
+
 9502 IGP Flexible Algorithm in IP Networks. W. Britto, S. Hegde, P.
      Kaneriya, R. Shetty, R. Bonica, P. Psenak. November 2023. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -40382,6 +40386,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Routing over IPv6 (SRv6). G. Dawra, C. Filsfils, K. Talaulikar, Ed.,
      M. Chen, D. Bernier, B. Decraene. December 2023. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9514) 
+
+9515 Revision to Registration Procedures for Multiple BMP Registries. J.
+     Scudder. December 2023. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC7854) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9515) 
 
 9516 Active Operations, Administration, and Maintenance (OAM) for Service
      Function Chaining (SFC). G. Mirsky, W. Meng, T. Ao, B. Khasnabish,
