@@ -4,16 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9489 Label Switched Path (LSP) Ping Mechanisms for EVPN and Provider
-     Backbone Bridging EVPN (PBB-EVPN). P. Jain, A. Sajassi, S. Salam, S.
-     Boutros, G. Mirsky. November 2023. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9489) 
-
-9491 Integration of the Network Service Header (NSH) and Segment Routing
-     for Service Function Chaining (SFC). J. Guichard, Ed., J. Tantsura,
-     Ed.. November 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9491) 
-
 9492 OSPF Application-Specific Link Attributes. P. Psenak, Ed., L.
      Ginsberg, W. Henderickx, J. Tantsura, J. Drake. October 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8920) (Status: PROPOSED
@@ -35,6 +25,10 @@
 9498 The GNU Name System. M. Schanzenbach, C. Grothoff, B. Fix. November
      2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9498) 
+
+9500 Standard Public Key Cryptography (PKC) Test Keys. P. Gutmann, C.
+     Bonnell. December 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9500) 
 
 9502 IGP Flexible Algorithm in IP Networks. W. Britto, S. Hegde, P.
      Kaneriya, R. Shetty, R. Bonica, P. Psenak. November 2023. (Format:
@@ -75,6 +69,10 @@
      M. Chen, D. Bernier, B. Decraene. December 2023. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9514) 
 
+9515 Revision to Registration Procedures for Multiple BMP Registries. J.
+     Scudder. December 2023. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC7854) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9515) 
+
 9516 Active Operations, Administration, and Maintenance (OAM) for Service
      Function Chaining (SFC). G. Mirsky, W. Meng, T. Ao, B. Khasnabish,
      K. Leung, G. Mishra. November 2023. (Format: HTML, TXT, PDF, XML)
@@ -85,5 +83,5 @@
      STANDARD) (DOI: 10.17487/RFC9525) 
 
 ===========================================================================
- - This file last updated Fri 08 Dec 2023 02:30:01 AM PST
+ - This file last updated Mon 11 Dec 2023 02:30:01 AM PST
 
