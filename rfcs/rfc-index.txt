@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 12/14/2023.)
+(CREATED ON: 12/15/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40347,6 +40347,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9500 Standard Public Key Cryptography (PKC) Test Keys. P. Gutmann, C.
      Bonnell. December 2023. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9500) 
+
+9501 Open Participation Principle regarding Remote Registration Fee. M.
+     Kühlewind, J. Reed, R. Salz. December 2023. (Format: HTML, TXT, PDF,
+     XML) (Also BCP0239) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC9501) 
 
 9502 IGP Flexible Algorithm in IP Networks. W. Britto, S. Hegde, P.
      Kaneriya, R. Shetty, R. Bonica, P. Psenak. November 2023. (Format:
