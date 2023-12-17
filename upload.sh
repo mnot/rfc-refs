@@ -12,7 +12,7 @@ fi
 git config user.email mnot@mnot.net
 git config user.name mnot-bot
 git remote set-url --push origin https://mnot:$GITHUB_TOKEN@github.com/mnot/rfc-refs
-git checkout -B main origin/master
+git checkout -B main origin/main
 
 # Push the changes
 git add rfcs/*
