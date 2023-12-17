@@ -7,6 +7,7 @@ on:
     - '**.py'
   schedule:
     - cron: '41 6 * * *'
+  workflow_dispatch: null
 
 jobs:
   update:
@@ -22,4 +23,4 @@ jobs:
     - name: Upload
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: ./upload.sh
+      run: bash -x ./upload.sh
