@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9492 OSPF Application-Specific Link Attributes. P. Psenak, Ed., L.
-     Ginsberg, W. Henderickx, J. Tantsura, J. Drake. October 2023.
-     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8920) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9492) 
-
 9493 Subject Identifiers for Security Event Tokens. A. Backman, Ed., M.
      Scurtescu, P. Jain. December 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9493) 
@@ -29,6 +24,11 @@
 9500 Standard Public Key Cryptography (PKC) Test Keys. P. Gutmann, C.
      Bonnell. December 2023. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9500) 
+
+9501 Open Participation Principle regarding Remote Registration Fee. M.
+     Kühlewind, J. Reed, R. Salz. December 2023. (Format: HTML, TXT, PDF,
+     XML) (Also BCP0239) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC9501) 
 
 9502 IGP Flexible Algorithm in IP Networks. W. Britto, S. Hegde, P.
      Kaneriya, R. Shetty, R. Bonica, P. Psenak. November 2023. (Format:
@@ -83,5 +83,5 @@
      STANDARD) (DOI: 10.17487/RFC9525) 
 
 ===========================================================================
- - This file last updated Fri 15 Dec 2023 02:30:02 AM PST
+ - This file last updated Mon 18 Dec 2023 02:30:01 AM PST
 

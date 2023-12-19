@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 12/17/2023.)
+(CREATED ON: 12/19/2023.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -38684,6 +38684,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9122) 
 
+9123 Not Issued. 
+
 9124 A Manifest Information Model for Firmware Updates in Internet of
      Things (IoT) Devices. B. Moran, H. Tschofenig, H. Birkholz. January
      2022. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
@@ -40400,6 +40402,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Function Chaining (SFC). G. Mirsky, W. Meng, T. Ao, B. Khasnabish,
      K. Leung, G. Mishra. November 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9516) 
+
+9518 Centralization, Decentralization, and Internet Standards. M.
+     Nottingham. December 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9518) 
 
 9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
