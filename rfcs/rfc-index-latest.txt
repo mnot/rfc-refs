@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9493 Subject Identifiers for Security Event Tokens. A. Backman, Ed., M.
-     Scurtescu, P. Jain. December 2023. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9493) 
-
 9494 Long-Lived Graceful Restart for BGP. J. Uttaro, E. Chen, B.
      Decraene, J. Scudder. November 2023. (Format: HTML, TXT, PDF, XML)
      (Updates RFC6368) (Status: PROPOSED STANDARD) (DOI:
@@ -78,10 +74,14 @@
      K. Leung, G. Mishra. November 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9516) 
 
+9518 Centralization, Decentralization, and Internet Standards. M.
+     Nottingham. December 2023. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9518) 
+
 9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9525) 
 
 ===========================================================================
- - This file last updated Mon 18 Dec 2023 02:30:01 AM PST
+ - This file last updated Tue 19 Dec 2023 02:30:02 AM PST
 
