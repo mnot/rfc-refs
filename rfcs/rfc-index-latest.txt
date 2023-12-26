@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9494 Long-Lived Graceful Restart for BGP. J. Uttaro, E. Chen, B.
-     Decraene, J. Scudder. November 2023. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC6368) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9494) 
-
-9495 Certification Authority Authorization (CAA) Processing for Email
-     Addresses. C. Bonnell. October 2023. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9495) 
-
 9498 The GNU Name System. M. Schanzenbach, C. Grothoff, B. Fix. November
      2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9498) 
@@ -78,10 +69,20 @@
      Nottingham. December 2023. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9518) 
 
+9520 Negative Caching of DNS Resolution Failures. D. Wessels, W. Carroll,
+     M. Thomas. December 2023. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC2308, RFC4035, RFC4697) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9520) 
+
 9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9525) 
 
+9552 Distribution of Link-State and Traffic Engineering Information Using
+     BGP. K. Talaulikar, Ed.. December 2023. (Format: HTML, TXT, PDF,
+     XML) (Obsoletes RFC7752, RFC9029) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9552) 
+
 ===========================================================================
- - This file last updated Fri 22 Dec 2023 02:30:02 AM PST
+ - This file last updated Mon 25 Dec 2023 02:30:01 AM PST
 
