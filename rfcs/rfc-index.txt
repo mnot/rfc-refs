@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/11/2024.)
+(CREATED ON: 01/13/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40186,6 +40186,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9457 Problem Details for HTTP APIs. M. Nottingham, E. Wilde, S. Dalal.
      July 2023. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7807)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9457) 
+
+9458 Oblivious HTTP. M. Thomson, C. A. Wood. January 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9458) 
 
 9459 CBOR Object Signing and Encryption (COSE): AES-CTR and AES-CBC. R.
      Housley, H. Tschofenig. September 2023. (Format: HTML, TXT, PDF,
