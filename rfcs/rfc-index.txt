@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/15/2024.)
+(CREATED ON: 01/16/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -37970,8 +37970,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8967 MAC Authentication for the Babel Routing Protocol. C. Dô, W.
      Kolodziejak, J. Chroboczek. January 2021. (Format: HTML, TXT, PDF,
-     XML) (Obsoletes RFC7298) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8967) 
+     XML) (Obsoletes RFC7298) (Updated by RFC9467) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC8967) 
 
 8968 Babel Routing Protocol over Datagram Transport Layer Security. A.
      Décimo, D. Schinazi, J. Chroboczek. January 2021. (Format: HTML,
@@ -40225,6 +40225,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Z. Zhang. October 2023. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9466) 
 
+9467 Relaxed Packet Counter Verification for Babel MAC Authentication. J.
+     Chroboczek, T. Høiland-Jørgensen. January 2024. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC8967) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9467) 
+
 9468 Unsolicited Bidirectional Forwarding Detection (BFD) for Sessionless
      Applications. E. Chen, N. Shen, R. Raszuk, R. Rahman. August 2023.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -40328,6 +40333,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Boutros, G. Mirsky. November 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9489) 
 
+9490 Report from the IAB Workshop on Management Techniques in Encrypted
+     Networks (M-TEN). M. Knodel, W. Hardaker, T. Pauly. January 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9490) 
+
 9491 Integration of the Network Service Header (NSH) and Segment Routing
      for Service Function Chaining (SFC). J. Guichard, Ed., J. Tantsura,
      Ed.. November 2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -40422,6 +40432,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      K. Leung, G. Mishra. November 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9516) 
 
+9517 A URN Namespace for the Data Documentation Initiative (DDI). J.
+     Wackerow. January 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9517) 
+
 9518 Centralization, Decentralization, and Internet Standards. M.
      Nottingham. December 2023. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9518) 
@@ -40430,6 +40444,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      M. Thomas. December 2023. (Format: HTML, TXT, PDF, XML) (Updates
      RFC2308, RFC4035, RFC4697) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9520) 
+
+9521 Bidirectional Forwarding Detection (BFD) for  Generic Network
+     Virtualization Encapsulation (Geneve). X. Min, G. Mirsky, S.
+     Pallagatti, J. Tantsura, S. Aldrin. January 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9521) 
 
 9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
