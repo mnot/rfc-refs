@@ -4,14 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9498 The GNU Name System. M. Schanzenbach, C. Grothoff, B. Fix. November
-     2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9498) 
-
-9500 Standard Public Key Cryptography (PKC) Test Keys. P. Gutmann, C.
-     Bonnell. December 2023. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9500) 
-
 9501 Open Participation Principle regarding Remote Registration Fee. M.
      Kühlewind, J. Reed, R. Salz. December 2023. (Format: HTML, TXT, PDF,
      XML) (Also BCP0239) (Status: BEST CURRENT PRACTICE) (DOI:
@@ -65,6 +57,10 @@
      K. Leung, G. Mishra. November 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9516) 
 
+9517 A URN Namespace for the Data Documentation Initiative (DDI). J.
+     Wackerow. January 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9517) 
+
 9518 Centralization, Decentralization, and Internet Standards. M.
      Nottingham. December 2023. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9518) 
@@ -73,6 +69,11 @@
      M. Thomas. December 2023. (Format: HTML, TXT, PDF, XML) (Updates
      RFC2308, RFC4035, RFC4697) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9520) 
+
+9521 Bidirectional Forwarding Detection (BFD) for  Generic Network
+     Virtualization Encapsulation (Geneve). X. Min, G. Mirsky, S.
+     Pallagatti, J. Tantsura, S. Aldrin. January 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9521) 
 
 9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
@@ -84,5 +85,5 @@
      10.17487/RFC9552) 
 
 ===========================================================================
- - This file last updated Tue 16 Jan 2024 02:30:02 AM PST
+ - This file last updated Wed 17 Jan 2024 02:30:01 AM PST
 
