@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/23/2024.)
+(CREATED ON: 01/25/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -17229,7 +17229,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 4250 The Secure Shell (SSH) Protocol Assigned Numbers. S. Lehtinen, C.
      Lonvick, Ed.. January 2006. (Format: TXT, HTML) (Updated by RFC8268,
-     RFC9142) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4250) 
+     RFC9142, RFC9519) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC4250) 
 
 4251 The Secure Shell (SSH) Protocol Architecture. T. Ylonen, C. Lonvick,
      Ed.. January 2006. (Format: TXT, HTML) (Updated by RFC8308, RFC9141)
@@ -19280,8 +19281,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC4715) 
 
 4716 The Secure Shell (SSH) Public Key File Format. J. Galbraith, R.
-     Thayer. November 2006. (Format: TXT, HTML) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC4716) 
+     Thayer. November 2006. (Format: TXT, HTML) (Updated by RFC9519)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC4716) 
 
 4717 Encapsulation Methods for Transport of Asynchronous Transfer Mode
      (ATM) over MPLS Networks. L. Martini, J. Jayakumar, M. Bocci, N.
@@ -19726,8 +19727,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC4818) 
 
 4819 Secure Shell Public Key Subsystem. J. Galbraith, J. Van Dyke, J.
-     Bright. March 2007. (Format: TXT, HTML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC4819) 
+     Bright. March 2007. (Format: TXT, HTML) (Updated by RFC9519)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4819) 
 
 4820 Padding Chunk and Parameter for the Stream Control Transmission
      Protocol (SCTP). M. Tuexen, R. Stewart, P. Lei. March 2007. (Format:
@@ -35012,7 +35013,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8308 Extension Negotiation in the Secure Shell (SSH) Protocol. D. Bider.
      March 2018. (Format: TXT, HTML) (Updates RFC4251, RFC4252, RFC4253,
-     RFC4254) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8308) 
+     RFC4254) (Updated by RFC9519) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8308) 
 
 8309 Service Models Explained. Q. Wu, W. Liu, A. Farrel. January 2018.
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC8309) 
@@ -40439,6 +40441,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9518 Centralization, Decentralization, and Internet Standards. M.
      Nottingham. December 2023. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9518) 
+
+9519 Update to the IANA SSH Protocol Parameters Registry Requirements. P.
+     Yee. January 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC4250,
+     RFC4716, RFC4819, RFC8308) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9519) 
 
 9520 Negative Caching of DNS Resolution Failures. D. Wessels, W. Carroll,
      M. Thomas. December 2023. (Format: HTML, TXT, PDF, XML) (Updates
