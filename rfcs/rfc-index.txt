@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/26/2024.)
+(CREATED ON: 01/29/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -12922,8 +12922,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 3272 Overview and Principles of Internet Traffic Engineering. D. Awduche,
      A. Chiu, A. Elwalid, I. Widjaja, X. Xiao. May 2002. (Format: TXT,
-     HTML) (Updated by RFC5462) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC3272) 
+     HTML) (Obsoleted by RFC9522) (Updated by RFC5462) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC3272) 
 
 3273 Remote Network Monitoring Management Information Base for High
      Capacity Networks. S. Waldbusser. July 2002. (Format: TXT, HTML)
@@ -40457,9 +40457,21 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Pallagatti, J. Tantsura, S. Aldrin. January 2024. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9521) 
 
+9522 Overview and Principles of Internet Traffic Engineering. A. Farrel,
+     Ed.. January 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3272)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9522) 
+
 9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9525) 
+
+9526 Simple Provisioning of Public Names for Residential Networks. D.
+     Migault, R. Weber, M. Richardson, R. Hunter. January 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9526) 
+
+9527 DHCPv6 Options for the Homenet Naming Authority. D. Migault, R.
+     Weber, T. Mrugalski. January 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9527) 
 
 9552 Distribution of Link-State and Traffic Engineering Information Using
      BGP. K. Talaulikar, Ed.. December 2023. (Format: HTML, TXT, PDF,
