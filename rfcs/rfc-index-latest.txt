@@ -4,22 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9502 IGP Flexible Algorithm in IP Networks. W. Britto, S. Hegde, P.
-     Kaneriya, R. Shetty, R. Bonica, P. Psenak. November 2023. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9502) 
-
-9503 Simple Two-Way Active Measurement Protocol (STAMP) Extensions for
-     Segment Routing Networks. R. Gandhi, Ed., C. Filsfils, M. Chen, B.
-     Janssens, R. Foote. October 2023. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9503) 
-
-9504 Path Computation Element Communication Protocol (PCEP) Extensions
-     for Stateful PCE Usage in GMPLS-Controlled Networks. Y. Lee, H.
-     Zheng, O. Gonzalez de Dios, V. Lopez, Z. Ali. December 2023.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9504) 
-
 9505 A Survey of Worldwide Censorship Techniques. J. L. Hall, M. D.
      Aaron, A. Andersdotter, B. Jones, N. Feamster, M. Knodel. November
      2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
@@ -75,9 +59,21 @@
      Pallagatti, J. Tantsura, S. Aldrin. January 2024. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9521) 
 
+9522 Overview and Principles of Internet Traffic Engineering. A. Farrel,
+     Ed.. January 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3272)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9522) 
+
 9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9525) 
+
+9526 Simple Provisioning of Public Names for Residential Networks. D.
+     Migault, R. Weber, M. Richardson, R. Hunter. January 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9526) 
+
+9527 DHCPv6 Options for the Homenet Naming Authority. D. Migault, R.
+     Weber, T. Mrugalski. January 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9527) 
 
 9552 Distribution of Link-State and Traffic Engineering Information Using
      BGP. K. Talaulikar, Ed.. December 2023. (Format: HTML, TXT, PDF,
@@ -85,5 +81,5 @@
      10.17487/RFC9552) 
 
 ===========================================================================
- - This file last updated Fri 26 Jan 2024 02:30:02 AM PST
+ - This file last updated Mon 29 Jan 2024 02:30:01 AM PST
 
