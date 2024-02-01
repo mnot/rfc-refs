@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/30/2024.)
+(CREATED ON: 02/01/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40472,6 +40472,20 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9527 DHCPv6 Options for the Homenet Naming Authority. D. Migault, R.
      Weber, T. Mrugalski. January 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9527) 
+
+9532 HTTP Proxy-Status Parameter for Next-Hop Aliases. T. Pauly. January
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9532) 
+
+9533 One-Way and Two-Way Active Measurement Protocol Extensions for
+     Performance Measurement on a Link Aggregation Group. Z. Li, T. Zhou,
+     J. Guo, G. Mirsky, R. Gandhi. January 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9533) 
+
+9534 Simple Two-Way Active Measurement Protocol Extensions for
+     Performance Measurement on a Link Aggregation Group. Z. Li, T. Zhou,
+     J. Guo, G. Mirsky, R. Gandhi. January 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9534) 
 
 9552 Distribution of Link-State and Traffic Engineering Information Using
      BGP. K. Talaulikar, Ed.. December 2023. (Format: HTML, TXT, PDF,
