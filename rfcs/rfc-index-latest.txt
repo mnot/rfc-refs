@@ -4,16 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9505 A Survey of Worldwide Censorship Techniques. J. L. Hall, M. D.
-     Aaron, A. Andersdotter, B. Jones, N. Feamster, M. Knodel. November
-     2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9505) 
-
-9506 Explicit Host-to-Network Flow Measurements Techniques. M. Cociglio,
-     A. Ferrieux, G. Fioccola, I. Lubashev, F. Bulgarella, M. Nilo, I.
-     Hamchaoui, R. Sisto. October 2023. (Format: HTML, TXT, PDF, XML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9506) 
-
 9511 Attribution of Internet Probes. É. Vyncke, B. Donnet, J. Iurman.
      November 2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC9511) 
@@ -75,11 +65,25 @@
      Weber, T. Mrugalski. January 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9527) 
 
+9532 HTTP Proxy-Status Parameter for Next-Hop Aliases. T. Pauly. January
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9532) 
+
+9533 One-Way and Two-Way Active Measurement Protocol Extensions for
+     Performance Measurement on a Link Aggregation Group. Z. Li, T. Zhou,
+     J. Guo, G. Mirsky, R. Gandhi. January 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9533) 
+
+9534 Simple Two-Way Active Measurement Protocol Extensions for
+     Performance Measurement on a Link Aggregation Group. Z. Li, T. Zhou,
+     J. Guo, G. Mirsky, R. Gandhi. January 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9534) 
+
 9552 Distribution of Link-State and Traffic Engineering Information Using
      BGP. K. Talaulikar, Ed.. December 2023. (Format: HTML, TXT, PDF,
      XML) (Obsoletes RFC7752, RFC9029) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9552) 
 
 ===========================================================================
- - This file last updated Wed 31 Jan 2024 02:30:02 AM PST
+ - This file last updated Thu 01 Feb 2024 02:30:01 AM PST
 
