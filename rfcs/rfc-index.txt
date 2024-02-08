@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/06/2024.)
+(CREATED ON: 02/08/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40031,6 +40031,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Beurdouche, R. Robert, J. Millican, E. Omara, K. Cohn-Gordon. July
      2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9420) 
+
+9422 The LIMITS SMTP Service Extension. N. Freed, J. Klensin. February
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9422) 
 
 9424 Indicators of Compromise (IoCs) and Their Role in Attack Defence. K.
      Paine, O. Whitehouse, J. Sellwood, A. Shaw. August 2023. (Format:
