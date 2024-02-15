@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/13/2024.)
+(CREATED ON: 02/14/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -12728,8 +12728,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC3229) 
 
 3230 Instance Digests in HTTP. J. Mogul, A. Van Hoff. January 2002.
-     (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC3230) 
+     (Format: TXT, HTML) (Obsoleted by RFC9530) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC3230) 
 
 3231 Definitions of Managed Objects for Scheduling Management Operations.
      D. Levi, J. Schoenwaelder. January 2002. (Format: TXT, HTML)
@@ -40032,6 +40032,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2023. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9420) 
 
+9421 HTTP Message Signatures. A. Backman, Ed., J. Richer, Ed., M. Sporny.
+     February 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9421) 
+
 9422 The LIMITS SMTP Service Extension. N. Freed, J. Klensin. February
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9422) 
@@ -40420,6 +40424,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      November 2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC9511) 
 
+9512 YAML Media Type. R. Polli, E. Wilde, E. Aro. February 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9512) 
+
 9513 OSPFv3 Extensions for Segment Routing over IPv6 (SRv6). Z. Li, Z.
      Hu, K. Talaulikar, Ed., P. Psenak. December 2023. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9513) 
@@ -40477,6 +40484,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Weber, T. Mrugalski. January 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9527) 
 
+9530 Digest Fields. R. Polli, L. Pardue. February 2024. (Format: HTML,
+     TXT, PDF, XML) (Obsoletes RFC3230) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9530) 
+
 9532 HTTP Proxy-Status Parameter for Next-Hop Aliases. T. Pauly. January
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9532) 
@@ -40490,6 +40501,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Performance Measurement on a Link Aggregation Group. Z. Li, T. Zhou,
      J. Guo, G. Mirsky, R. Gandhi. January 2024. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9534) 
+
+9547 Report from the IAB Workshop on Environmental Impact of Internet
+     Applications and Systems, 2022. J. Arkko, C. S. Perkins, S.
+     Krishnan. February 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9547) 
 
 9552 Distribution of Link-State and Traffic Engineering Information Using
      BGP. K. Talaulikar, Ed.. December 2023. (Format: HTML, TXT, PDF,
