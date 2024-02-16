@@ -4,14 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9511 Attribution of Internet Probes. É. Vyncke, B. Donnet, J. Iurman.
-     November 2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC9511) 
-
-9513 OSPFv3 Extensions for Segment Routing over IPv6 (SRv6). Z. Li, Z.
-     Hu, K. Talaulikar, Ed., P. Psenak. December 2023. (Format: HTML,
-     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9513) 
-
 9514 Border Gateway Protocol - Link State (BGP-LS) Extensions for Segment
      Routing over IPv6 (SRv6). G. Dawra, C. Filsfils, K. Talaulikar, Ed.,
      M. Chen, D. Bernier, B. Decraene. December 2023. (Format: HTML, TXT,
@@ -65,6 +57,10 @@
      Weber, T. Mrugalski. January 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9527) 
 
+9530 Digest Fields. R. Polli, L. Pardue. February 2024. (Format: HTML,
+     TXT, PDF, XML) (Obsoletes RFC3230) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9530) 
+
 9532 HTTP Proxy-Status Parameter for Next-Hop Aliases. T. Pauly. January
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9532) 
@@ -79,11 +75,16 @@
      J. Guo, G. Mirsky, R. Gandhi. January 2024. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9534) 
 
+9547 Report from the IAB Workshop on Environmental Impact of Internet
+     Applications and Systems, 2022. J. Arkko, C. S. Perkins, S.
+     Krishnan. February 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9547) 
+
 9552 Distribution of Link-State and Traffic Engineering Information Using
      BGP. K. Talaulikar, Ed.. December 2023. (Format: HTML, TXT, PDF,
      XML) (Obsoletes RFC7752, RFC9029) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9552) 
 
 ===========================================================================
- - This file last updated Wed 14 Feb 2024 02:30:01 AM PST
+ - This file last updated Thu 15 Feb 2024 02:30:01 AM PST
 
