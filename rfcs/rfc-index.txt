@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/20/2024.)
+(CREATED ON: 02/22/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40472,6 +40472,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Ed.. January 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3272)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9522) 
 
+9523 A Secure Selection and Filtering Mechanism for the Network Time
+     Protocol with Khronos. N. Rozen-Schiff, D. Dolev, T. Mizrahi, M.
+     Schapira. February 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9523) 
+
 9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9525) 
@@ -40501,6 +40506,14 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Performance Measurement on a Link Aggregation Group. Z. Li, T. Zhou,
      J. Guo, G. Mirsky, R. Gandhi. January 2024. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9534) 
+
+9535 JSONPath: Query Expressions for JSON. S. Gössner, Ed., G.
+     Normington, Ed., C. Bormann, Ed.. February 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9535) 
+
+9540 Discovery of Oblivious Services via Service Binding Records. T.
+     Pauly, T. Reddy.K. February 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9540) 
 
 9547 Report from the IAB Workshop on Environmental Impact of Internet
      Applications and Systems, 2022. J. Arkko, C. S. Perkins, S.
