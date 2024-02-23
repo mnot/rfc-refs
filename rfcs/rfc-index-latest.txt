@@ -4,20 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9514 Border Gateway Protocol - Link State (BGP-LS) Extensions for Segment
-     Routing over IPv6 (SRv6). G. Dawra, C. Filsfils, K. Talaulikar, Ed.,
-     M. Chen, D. Bernier, B. Decraene. December 2023. (Format: HTML, TXT,
-     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9514) 
-
-9515 Revision to Registration Procedures for Multiple BMP Registries. J.
-     Scudder. December 2023. (Format: HTML, TXT, PDF, XML) (Updates
-     RFC7854) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9515) 
-
-9516 Active Operations, Administration, and Maintenance (OAM) for Service
-     Function Chaining (SFC). G. Mirsky, W. Meng, T. Ao, B. Khasnabish,
-     K. Leung, G. Mishra. November 2023. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9516) 
-
 9517 A URN Namespace for the Data Documentation Initiative (DDI). J.
      Wackerow. January 2024. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9517) 
@@ -44,6 +30,11 @@
 9522 Overview and Principles of Internet Traffic Engineering. A. Farrel,
      Ed.. January 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3272)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9522) 
+
+9523 A Secure Selection and Filtering Mechanism for the Network Time
+     Protocol with Khronos. N. Rozen-Schiff, D. Dolev, T. Mizrahi, M.
+     Schapira. February 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9523) 
 
 9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
@@ -75,6 +66,14 @@
      J. Guo, G. Mirsky, R. Gandhi. January 2024. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9534) 
 
+9535 JSONPath: Query Expressions for JSON. S. Gössner, Ed., G.
+     Normington, Ed., C. Bormann, Ed.. February 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9535) 
+
+9540 Discovery of Oblivious Services via Service Binding Records. T.
+     Pauly, T. Reddy.K. February 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9540) 
+
 9547 Report from the IAB Workshop on Environmental Impact of Internet
      Applications and Systems, 2022. J. Arkko, C. S. Perkins, S.
      Krishnan. February 2024. (Format: HTML, TXT, PDF, XML) (Status:
@@ -86,5 +85,5 @@
      10.17487/RFC9552) 
 
 ===========================================================================
- - This file last updated Wed 21 Feb 2024 02:30:02 AM PST
+ - This file last updated Thu 22 Feb 2024 02:30:01 AM PST
 

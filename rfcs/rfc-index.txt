@@ -36351,8 +36351,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC8608) 
 
 8609 Content-Centric Networking (CCNx) Messages in TLV Format. M. Mosko,
-     I. Solis, C. Wood. July 2019. (Format: TXT, HTML) (Status:
-     EXPERIMENTAL) (DOI: 10.17487/RFC8609) 
+     I. Solis, C. Wood. July 2019. (Format: TXT, HTML) (Updated by
+     RFC9510) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC8609) 
 
 8610 Concise Data Definition Language (CDDL): A Notational Convention to
      Express Concise Binary Object Representation (CBOR) and JSON Data
@@ -40420,6 +40420,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Hamchaoui, R. Sisto. October 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9506) 
 
+9510 Alternative Delta Time Encoding for Content-Centric Networking
+     (CCNx) Using Compact Floating-Point Arithmetic. C. Gündoğan, T.
+     Schmidt, D. Oran, M. Wählisch. February 2024. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC8609) (Status: EXPERIMENTAL) (DOI:
+     10.17487/RFC9510) 
+
 9511 Attribution of Internet Probes. É. Vyncke, B. Donnet, J. Iurman.
      November 2023. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC9511) 
@@ -40477,6 +40483,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Schapira. February 2024. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9523) 
 
+9524 Segment Routing Replication for Multipoint Service Delivery. D.
+     Voyer, Ed., C. Filsfils, R. Parekh, H. Bidgoli, Z. Zhang. February
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9524) 
+
 9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9525) 
@@ -40511,9 +40522,19 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Normington, Ed., C. Bormann, Ed.. February 2024. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9535) 
 
+9538 Content Delivery Network Interconnection (CDNI) Delegation Using the
+     Automated Certificate Management Environment. F. Fieau, Ed., E.
+     Stephan, S. Mishra. February 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9538) 
+
 9540 Discovery of Oblivious Services via Service Binding Records. T.
      Pauly, T. Reddy.K. February 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9540) 
+
+9545 Path Segment Identifier in MPLS-Based Segment Routing Networks. W.
+     Cheng, Ed., H. Li, C. Li, Ed., R. Gandhi, R. Zigler. February 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9545) 
 
 9547 Report from the IAB Workshop on Environmental Impact of Internet
      Applications and Systems, 2022. J. Arkko, C. S. Perkins, S.
