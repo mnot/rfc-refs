@@ -4,24 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9517 A URN Namespace for the Data Documentation Initiative (DDI). J.
-     Wackerow. January 2024. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9517) 
-
-9518 Centralization, Decentralization, and Internet Standards. M.
-     Nottingham. December 2023. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9518) 
-
-9519 Update to the IANA SSH Protocol Parameters Registry Requirements. P.
-     Yee. January 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC4250,
-     RFC4716, RFC4819, RFC8308) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9519) 
-
-9520 Negative Caching of DNS Resolution Failures. D. Wessels, W. Carroll,
-     M. Thomas. December 2023. (Format: HTML, TXT, PDF, XML) (Updates
-     RFC2308, RFC4035, RFC4697) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9520) 
-
 9521 Bidirectional Forwarding Detection (BFD) for  Generic Network
      Virtualization Encapsulation (Geneve). X. Min, G. Mirsky, S.
      Pallagatti, J. Tantsura, S. Aldrin. January 2024. (Format: HTML,
@@ -35,6 +17,11 @@
      Protocol with Khronos. N. Rozen-Schiff, D. Dolev, T. Mizrahi, M.
      Schapira. February 2024. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9523) 
+
+9524 Segment Routing Replication for Multipoint Service Delivery. D.
+     Voyer, Ed., C. Filsfils, R. Parekh, H. Bidgoli, Z. Zhang. February
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9524) 
 
 9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
@@ -70,9 +57,19 @@
      Normington, Ed., C. Bormann, Ed.. February 2024. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9535) 
 
+9538 Content Delivery Network Interconnection (CDNI) Delegation Using the
+     Automated Certificate Management Environment. F. Fieau, Ed., E.
+     Stephan, S. Mishra. February 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9538) 
+
 9540 Discovery of Oblivious Services via Service Binding Records. T.
      Pauly, T. Reddy.K. February 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9540) 
+
+9545 Path Segment Identifier in MPLS-Based Segment Routing Networks. W.
+     Cheng, Ed., H. Li, C. Li, Ed., R. Gandhi, R. Zigler. February 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9545) 
 
 9547 Report from the IAB Workshop on Environmental Impact of Internet
      Applications and Systems, 2022. J. Arkko, C. S. Perkins, S.
@@ -85,5 +82,5 @@
      10.17487/RFC9552) 
 
 ===========================================================================
- - This file last updated Thu 22 Feb 2024 02:30:01 AM PST
+ - This file last updated Fri 23 Feb 2024 02:30:01 AM PST
 
