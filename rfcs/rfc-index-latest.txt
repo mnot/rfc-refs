@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9521 Bidirectional Forwarding Detection (BFD) for  Generic Network
-     Virtualization Encapsulation (Geneve). X. Min, G. Mirsky, S.
-     Pallagatti, J. Tantsura, S. Aldrin. January 2024. (Format: HTML,
-     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9521) 
-
-9522 Overview and Principles of Internet Traffic Engineering. A. Farrel,
-     Ed.. January 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3272)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9522) 
-
 9523 A Secure Selection and Filtering Mechanism for the Network Time
      Protocol with Khronos. N. Rozen-Schiff, D. Dolev, T. Mizrahi, M.
      Schapira. February 2024. (Format: HTML, TXT, PDF, XML) (Status:
@@ -62,6 +53,11 @@
      Stephan, S. Mishra. February 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9538) 
 
+9539 Unilateral Opportunistic Deployment of Encrypted
+     Recursive-to-Authoritative DNS. D. K. Gillmor, Ed., J. Salazar, Ed.,
+     P. Hoffman, Ed.. February 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9539) 
+
 9540 Discovery of Oblivious Services via Service Binding Records. T.
      Pauly, T. Reddy.K. February 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9540) 
@@ -70,6 +66,11 @@
      Cheng, Ed., H. Li, C. Li, Ed., R. Gandhi, R. Zigler. February 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9545) 
+
+9546 Operations, Administration, and Maintenance (OAM) for Deterministic
+     Networking (DetNet) with the MPLS Data Plane. G. Mirsky, M. Chen, B.
+     Varga. February 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9546) 
 
 9547 Report from the IAB Workshop on Environmental Impact of Internet
      Applications and Systems, 2022. J. Arkko, C. S. Perkins, S.
@@ -82,5 +83,5 @@
      10.17487/RFC9552) 
 
 ===========================================================================
- - This file last updated Wed 28 Feb 2024 02:30:01 AM PST
+ - This file last updated Thu 29 Feb 2024 02:30:02 AM PST
 
