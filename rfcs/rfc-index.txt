@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/08/2024.)
+(CREATED ON: 03/12/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -21717,7 +21717,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Revocation List (CRL) Profile. D. Cooper, S. Santesson, S. Farrell,
      S. Boeyen, R. Housley, W. Polk. May 2008. (Format: TXT, HTML)
      (Obsoletes RFC3280, RFC4325, RFC4630) (Updated by RFC6818, RFC8398,
-     RFC8399) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5280) 
+     RFC8399, RFC9549) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC5280) 
 
 5281 Extensible Authentication Protocol Tunneled Transport Layer Security
      Authenticated Protocol Version 0 (EAP-TTLSv0). P. Funk, S.
@@ -29723,7 +29724,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7125 Revision of the tcpControlBits IP Flow Information Export (IPFIX)
      Information Element. B. Trammell, P. Aitken. February 2014. (Format:
-     TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC7125) 
+     TXT, HTML) (Obsoleted by RFC9565) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC7125) 
 
 7126 Recommendations on Filtering of IPv4 Packets Containing IPv4
      Options. F. Gont, R. Atkinson, C. Pignataro. February 2014. (Format:
@@ -35431,8 +35433,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC8398) 
 
 8399 Internationalization Updates to RFC 5280. R. Housley. May 2018.
-     (Format: TXT, HTML) (Updates RFC5280) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC8399) 
+     (Format: TXT, HTML) (Obsoleted by RFC9549) (Updates RFC5280)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8399) 
 
 8400 Extensions to RSVP-TE for Label Switched Path (LSP) Egress
      Protection. H. Chen, A. Liu, T. Saad, F. Xu, L. Huang. June 2018.
@@ -40420,6 +40422,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Hamchaoui, R. Sisto. October 2023. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9506) 
 
+9507 Information-Centric Networking (ICN) Traceroute Protocol
+     Specification. S. Mastorakis, D. Oran, I. Moiseenko, J. Gibson, R.
+     Droms. March 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     EXPERIMENTAL) (DOI: 10.17487/RFC9507) 
+
+9508 Information-Centric Networking (ICN) Ping Protocol Specification. S.
+     Mastorakis, D. Oran, J. Gibson, I. Moiseenko, R. Droms. March 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
+     10.17487/RFC9508) 
+
 9510 Alternative Delta Time Encoding for Content-Centric Networking
      (CCNx) Using Compact Floating-Point Arithmetic. C. Gündoğan, T.
      Schmidt, D. Oran, M. Wählisch. February 2024. (Format: HTML, TXT,
@@ -40504,6 +40516,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, PDF, XML) (Obsoletes RFC3230) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9530) 
 
+9531 Path Steering in Content-Centric Networking (CCNx) and Named Data
+     Networking (NDN). I. Moiseenko, D. Oran. March 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9531) 
+
 9532 HTTP Proxy-Status Parameter for Next-Hop Aliases. T. Pauly. January
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9532) 
@@ -40536,6 +40552,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Pauly, T. Reddy.K. February 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9540) 
 
+9543 A Framework for Network Slices in Networks Built from IETF
+     Technologies. A. Farrel, Ed., J. Drake, Ed., R. Rokui, S. Homma, K.
+     Makhijani, L. Contreras, J. Tantsura. March 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9543) 
+
 9545 Path Segment Identifier in MPLS-Based Segment Routing Networks. W.
      Cheng, Ed., H. Li, C. Li, Ed., R. Gandhi, R. Zigler. February 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -40551,7 +40572,22 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Krishnan. February 2024. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9547) 
 
+9549 Internationalization Updates to RFC 5280. R. Housley. March 2024.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8399) (Updates RFC5280)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9549) 
+
+9551 Framework of Operations, Administration, and Maintenance (OAM) for
+     Deterministic Networking (DetNet). G. Mirsky, F. Theoleyre, G.
+     Papadopoulos, CJ. Bernardos, B. Varga, J. Farkas. March 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9551) 
+
 9552 Distribution of Link-State and Traffic Engineering Information Using
      BGP. K. Talaulikar, Ed.. December 2023. (Format: HTML, TXT, PDF,
      XML) (Obsoletes RFC7752, RFC9029) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9552) 
+
+9565 An Update to the tcpControlBits IP Flow Information Export (IPFIX)
+     Information Element. M. Boucadair. March 2024. (Format: HTML, TXT,
+     PDF, XML) (Obsoletes RFC7125) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9565) 
