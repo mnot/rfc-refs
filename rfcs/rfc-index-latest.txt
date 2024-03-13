@@ -4,31 +4,13 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9523 A Secure Selection and Filtering Mechanism for the Network Time
-     Protocol with Khronos. N. Rozen-Schiff, D. Dolev, T. Mizrahi, M.
-     Schapira. February 2024. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9523) 
-
-9524 Segment Routing Replication for Multipoint Service Delivery. D.
-     Voyer, Ed., C. Filsfils, R. Parekh, H. Bidgoli, Z. Zhang. February
-     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9524) 
-
-9525 Service Identity in TLS. P. Saint-Andre, R. Salz. November 2023.
-     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6125) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9525) 
-
-9526 Simple Provisioning of Public Names for Residential Networks. D.
-     Migault, R. Weber, M. Richardson, R. Hunter. January 2024. (Format:
-     HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9526) 
-
-9527 DHCPv6 Options for the Homenet Naming Authority. D. Migault, R.
-     Weber, T. Mrugalski. January 2024. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9527) 
-
 9530 Digest Fields. R. Polli, L. Pardue. February 2024. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC3230) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9530) 
+
+9531 Path Steering in Content-Centric Networking (CCNx) and Named Data
+     Networking (NDN). I. Moiseenko, D. Oran. March 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9531) 
 
 9532 HTTP Proxy-Status Parameter for Next-Hop Aliases. T. Pauly. January
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
@@ -62,6 +44,11 @@
      Pauly, T. Reddy.K. February 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9540) 
 
+9543 A Framework for Network Slices in Networks Built from IETF
+     Technologies. A. Farrel, Ed., J. Drake, Ed., R. Rokui, S. Homma, K.
+     Makhijani, L. Contreras, J. Tantsura. March 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9543) 
+
 9545 Path Segment Identifier in MPLS-Based Segment Routing Networks. W.
      Cheng, Ed., H. Li, C. Li, Ed., R. Gandhi, R. Zigler. February 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -77,11 +64,26 @@
      Krishnan. February 2024. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9547) 
 
+9549 Internationalization Updates to RFC 5280. R. Housley. March 2024.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8399) (Updates RFC5280)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9549) 
+
+9551 Framework of Operations, Administration, and Maintenance (OAM) for
+     Deterministic Networking (DetNet). G. Mirsky, F. Theoleyre, G.
+     Papadopoulos, CJ. Bernardos, B. Varga, J. Farkas. March 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9551) 
+
 9552 Distribution of Link-State and Traffic Engineering Information Using
      BGP. K. Talaulikar, Ed.. December 2023. (Format: HTML, TXT, PDF,
      XML) (Obsoletes RFC7752, RFC9029) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9552) 
 
+9565 An Update to the tcpControlBits IP Flow Information Export (IPFIX)
+     Information Element. M. Boucadair. March 2024. (Format: HTML, TXT,
+     PDF, XML) (Obsoletes RFC7125) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9565) 
+
 ===========================================================================
- - This file last updated Mon 11 Mar 2024 02:30:01 AM PDT
+ - This file last updated Tue 12 Mar 2024 02:30:01 AM PDT
 
