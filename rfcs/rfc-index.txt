@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/19/2024.)
+(CREATED ON: 03/21/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40432,6 +40432,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC9508) 
 
+9509 X.509 Certificate Extended Key Usage (EKU) for 5G Network Functions.
+     T. Reddy.K, J. Ekman, D. Migault. March 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9509) 
+
 9510 Alternative Delta Time Encoding for Content-Centric Networking
      (CCNx) Using Compact Floating-Point Arithmetic. C. Gündoğan, T.
      Schmidt, D. Oran, M. Wählisch. February 2024. (Format: HTML, TXT,
@@ -40512,6 +40516,15 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Weber, T. Mrugalski. January 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9527) 
 
+9528 Ephemeral Diffie-Hellman Over COSE (EDHOC). G. Selander, J. Preuß
+     Mattsson, F. Palombini. March 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9528) 
+
+9529 Traces of Ephemeral Diffie-Hellman Over COSE (EDHOC). G. Selander,
+     J. Preuß Mattsson, M. Serafin, M. Tiloca, M. Vučinić. March 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9529) 
+
 9530 Digest Fields. R. Polli, L. Pardue. February 2024. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC3230) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9530) 
@@ -40552,10 +40565,21 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Pauly, T. Reddy.K. February 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9540) 
 
+9541 Flush Mechanism for Customer MAC Addresses Based on Service Instance
+     Identifier (I-SID) in Provider Backbone Bridging EVPN (PBB-EVPN). J.
+     Rabadan, Ed., S. Sathappan, K. Nagaraj, M. Miyake, T. Matsuda. March
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9541) 
+
 9543 A Framework for Network Slices in Networks Built from IETF
      Technologies. A. Farrel, Ed., J. Drake, Ed., R. Rokui, S. Homma, K.
      Makhijani, L. Contreras, J. Tantsura. March 2024. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9543) 
+
+9544 Precision Availability Metrics (PAMs) for Services Governed by
+     Service Level Objectives (SLOs). G. Mirsky, J. Halpern, X. Min, A.
+     Clemm, J. Strassner, J. François. March 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9544) 
 
 9545 Path Segment Identifier in MPLS-Based Segment Routing Networks. W.
      Cheng, Ed., H. Li, C. Li, Ed., R. Gandhi, R. Zigler. February 2024.
@@ -40575,6 +40599,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9549 Internationalization Updates to RFC 5280. R. Housley. March 2024.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8399) (Updates RFC5280)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9549) 
+
+9550 Deterministic Networking (DetNet): Packet Ordering Function. B.
+     Varga, Ed., J. Farkas, S. Kehrer, T. Heer. March 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9550) 
 
 9551 Framework of Operations, Administration, and Maintenance (OAM) for
      Deterministic Networking (DetNet). G. Mirsky, F. Theoleyre, G.
