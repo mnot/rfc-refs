@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/28/2024.)
+(CREATED ON: 03/29/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40389,8 +40389,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC9498) 
 
 9499 DNS Terminology. P. Hoffman, K. Fujiwara. March 2024. (Format: HTML,
-     TXT, PDF, XML) (Obsoletes RFC8499) (Updates RFC2308) (Also BCP0219)
-     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9499) 
+     TXT, PDF, XML) (Obsoletes RFC8499) (Updates RFC2308) (Status: BEST
+     CURRENT PRACTICE) (DOI: 10.17487/RFC9499) 
 
 9500 Standard Public Key Cryptography (PKC) Test Keys. P. Gutmann, C.
      Bonnell. December 2023. (Format: HTML, TXT, PDF, XML) (Status:
@@ -40555,6 +40555,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9535 JSONPath: Query Expressions for JSON. S. Gössner, Ed., G.
      Normington, Ed., C. Bormann, Ed.. February 2024. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9535) 
+
+9537 Redacted Fields in the Registration Data Access Protocol (RDAP)
+     Response. J. Gould, D. Smith, J. Kolker, R. Carney. March 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9537) 
 
 9538 Content Delivery Network Interconnection (CDNI) Delegation Using the
      Automated Certificate Management Environment. F. Fieau, Ed., E.
