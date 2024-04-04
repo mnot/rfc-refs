@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 04/02/2024.)
+(CREATED ON: 04/03/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40624,6 +40624,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      BGP. K. Talaulikar, Ed.. December 2023. (Format: HTML, TXT, PDF,
      XML) (Obsoletes RFC7752, RFC9029) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9552) 
+
+9561 Using the Parallel NFS (pNFS) SCSI Layout to Access Non-Volatile
+     Memory Express (NVMe) Storage Devices. C. Hellwig, Ed., C. Lever, S.
+     Faibish, D. Black. April 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9561) 
 
 9564 Faster Than Light Speed Protocol (FLIP). M. Blanchet. 1 April 2024.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
