@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9537 Redacted Fields in the Registration Data Access Protocol (RDAP)
-     Response. J. Gould, D. Smith, J. Kolker, R. Carney. March 2024.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9537) 
-
 9538 Content Delivery Network Interconnection (CDNI) Delegation Using the
      Automated Certificate Management Environment. F. Fieau, Ed., E.
      Stephan, S. Mishra. February 2024. (Format: HTML, TXT, PDF, XML)
@@ -73,6 +68,11 @@
      XML) (Obsoletes RFC7752, RFC9029) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9552) 
 
+9561 Using the Parallel NFS (pNFS) SCSI Layout to Access Non-Volatile
+     Memory Express (NVMe) Storage Devices. C. Hellwig, Ed., C. Lever, S.
+     Faibish, D. Black. April 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9561) 
+
 9564 Faster Than Light Speed Protocol (FLIP). M. Blanchet. 1 April 2024.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9564) 
@@ -83,5 +83,5 @@
      10.17487/RFC9565) 
 
 ===========================================================================
- - This file last updated Wed 03 Apr 2024 02:30:01 AM PDT
+ - This file last updated Thu 04 Apr 2024 02:30:01 AM PDT
 
