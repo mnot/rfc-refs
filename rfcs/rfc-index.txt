@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 04/10/2024.)
+(CREATED ON: 04/11/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -29359,8 +29359,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7042 IANA Considerations and IETF Protocol and Documentation Usage for
      IEEE 802 Parameters. D. Eastlake 3rd, J. Abley. October 2013.
-     (Format: TXT, HTML) (Obsoletes RFC5342) (Updates RFC2153) (Also
-     BCP0141) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC7042) 
+     (Format: TXT, HTML) (Obsoletes RFC5342) (Obsoleted by RFC9542)
+     (Updates RFC2153) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC7042) 
 
 7043 Resource Records for EUI-48 and EUI-64 Addresses in the DNS. J.
      Abley. October 2013. (Format: TXT, HTML) (Status: INFORMATIONAL)
@@ -37346,7 +37347,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8829 JavaScript Session Establishment Protocol (JSEP). J. Uberti, C.
      Jennings, E. Rescorla, Ed.. January 2021. (Format: HTML, TXT, PDF,
-     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8829) 
+     XML) (Obsoleted by RFC9429) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8829) 
 
 8830 WebRTC MediaStream Identification in the Session Description
      Protocol. H. Alvestrand. January 2021. (Format: HTML, TXT, PDF, XML)
@@ -40043,6 +40045,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9422) 
 
+9423 Constrained RESTful Environments (CoRE) Target Attributes Registry.
+     C. Bormann. April 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9423) 
+
 9424 Indicators of Compromise (IoCs) and Their Role in Attack Defence. K.
      Paine, O. Whitehouse, J. Sellwood, A. Shaw. August 2023. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9424) 
@@ -40063,6 +40069,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9428 Transmission of IPv6 Packets over Near Field Communication. Y. Choi,
      Ed., Y-G. Hong, J-S. Youn. July 2023. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9428) 
+
+9429 JavaScript Session Establishment Protocol (JSEP). J. Uberti, C.
+     Jennings, E. Rescorla, Ed.. April 2024. (Format: HTML, TXT, PDF,
+     XML) (Obsoletes RFC8829) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9429) 
 
 9430 Extension of the Datagram Transport Layer Security (DTLS) Profile
      for Authentication and Authorization for Constrained Environments
@@ -40556,6 +40567,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Normington, Ed., C. Bormann, Ed.. February 2024. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9535) 
 
+9536 Registration Data Access Protocol (RDAP) Reverse Search. M.
+     Loffredo, M. Martinelli. April 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9536) 
+
 9537 Redacted Fields in the Registration Data Access Protocol (RDAP)
      Response. J. Gould, D. Smith, J. Kolker, R. Carney. March 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -40580,6 +40595,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Rabadan, Ed., S. Sathappan, K. Nagaraj, M. Miyake, T. Matsuda. March
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9541) 
+
+9542 IANA Considerations and IETF Protocol and Documentation Usage for
+     IEEE 802 Parameters. D. Eastlake 3rd, J. Abley, Y. Li. April 2024.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7042) (Also BCP0141)
+     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9542) 
 
 9543 A Framework for Network Slices in Networks Built from IETF
      Technologies. A. Farrel, Ed., J. Drake, Ed., R. Rokui, S. Homma, K.
@@ -40624,6 +40644,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
      BGP. K. Talaulikar, Ed.. December 2023. (Format: HTML, TXT, PDF,
      XML) (Obsoletes RFC7752, RFC9029) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9552) 
+
+9556 Internet of Things (IoT) Edge Challenges and Functions. J. Hong,
+     Y-G. Hong, X. de Foy, M. Kovatsch, E. Schooler, D. Kutscher. April
+     2024. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9556) 
+
+9558 Use of GOST 2012 Signature Algorithms in DNSKEY and RRSIG Resource
+     Records for DNSSEC. B. Makarenko, V. Dolmatov, Ed.. April 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9558) 
 
 9561 Using the Parallel NFS (pNFS) SCSI Layout to Access Non-Volatile
      Memory Express (NVMe) Storage Devices. C. Hellwig, Ed., C. Lever, S.
