@@ -4,25 +4,16 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9538 Content Delivery Network Interconnection (CDNI) Delegation Using the
-     Automated Certificate Management Environment. F. Fieau, Ed., E.
-     Stephan, S. Mishra. February 2024. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9538) 
-
-9539 Unilateral Opportunistic Deployment of Encrypted
-     Recursive-to-Authoritative DNS. D. K. Gillmor, Ed., J. Salazar, Ed.,
-     P. Hoffman, Ed.. February 2024. (Format: HTML, TXT, PDF, XML)
-     (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9539) 
-
-9540 Discovery of Oblivious Services via Service Binding Records. T.
-     Pauly, T. Reddy.K. February 2024. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9540) 
-
 9541 Flush Mechanism for Customer MAC Addresses Based on Service Instance
      Identifier (I-SID) in Provider Backbone Bridging EVPN (PBB-EVPN). J.
      Rabadan, Ed., S. Sathappan, K. Nagaraj, M. Miyake, T. Matsuda. March
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9541) 
+
+9542 IANA Considerations and IETF Protocol and Documentation Usage for
+     IEEE 802 Parameters. D. Eastlake 3rd, J. Abley, Y. Li. April 2024.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7042) (Also BCP0141)
+     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9542) 
 
 9543 A Framework for Network Slices in Networks Built from IETF
      Technologies. A. Farrel, Ed., J. Drake, Ed., R. Rokui, S. Homma, K.
@@ -68,6 +59,16 @@
      XML) (Obsoletes RFC7752, RFC9029) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9552) 
 
+9556 Internet of Things (IoT) Edge Challenges and Functions. J. Hong,
+     Y-G. Hong, X. de Foy, M. Kovatsch, E. Schooler, D. Kutscher. April
+     2024. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9556) 
+
+9558 Use of GOST 2012 Signature Algorithms in DNSKEY and RRSIG Resource
+     Records for DNSSEC. B. Makarenko, V. Dolmatov, Ed.. April 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9558) 
+
 9561 Using the Parallel NFS (pNFS) SCSI Layout to Access Non-Volatile
      Memory Express (NVMe) Storage Devices. C. Hellwig, Ed., C. Lever, S.
      Faibish, D. Black. April 2024. (Format: HTML, TXT, PDF, XML)
@@ -83,5 +84,5 @@
      10.17487/RFC9565) 
 
 ===========================================================================
- - This file last updated Thu 11 Apr 2024 02:30:01 AM PDT
+ - This file last updated Fri 12 Apr 2024 02:30:01 AM PDT
 
