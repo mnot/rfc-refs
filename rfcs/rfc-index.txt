@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 04/25/2024.)
+(CREATED ON: 04/26/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -13222,8 +13222,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC3338) 
 
 3339 Date and Time on the Internet: Timestamps. G. Klyne, C. Newman. July
-     2002. (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC3339) 
+     2002. (Format: TXT, HTML) (Updated by RFC9557) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC3339) 
 
 3340 The Application Exchange Core. M. Rose, G. Klyne, D. Crocker. July
      2002. (Format: TXT, HTML) (Status: HISTORIC) (DOI: 10.17487/RFC3340) 
@@ -40650,10 +40650,20 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2024. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9556) 
 
+9557 Date and Time on the Internet: Timestamps with Additional
+     Information. U. Sharma, C. Bormann. April 2024. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC3339) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9557) 
+
 9558 Use of GOST 2012 Signature Algorithms in DNSKEY and RRSIG Resource
      Records for DNSSEC. B. Makarenko, V. Dolmatov, Ed.. April 2024.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9558) 
+
+9560 Federated Authentication for the Registration Data Access Protocol
+     (RDAP) Using OpenID Connect. S. Hollenbeck. April 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9560) 
 
 9561 Using the Parallel NFS (pNFS) SCSI Layout to Access Non-Volatile
      Memory Express (NVMe) Storage Devices. C. Hellwig, Ed., C. Lever, S.
@@ -40668,3 +40678,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Information Element. M. Boucadair. March 2024. (Format: HTML, TXT,
      PDF, XML) (Obsoletes RFC7125) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9565) 
+
+9566 Deterministic Networking (DetNet) Packet Replication, Elimination,
+     and Ordering Functions (PREOF) via MPLS over UDP/IP. B. Varga, J.
+     Farkas, A. Malis. April 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9566) 
+
+9567 DNS Error Reporting. R. Arends, M. Larson. April 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9567) 
