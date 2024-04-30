@@ -4,27 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9541 Flush Mechanism for Customer MAC Addresses Based on Service Instance
-     Identifier (I-SID) in Provider Backbone Bridging EVPN (PBB-EVPN). J.
-     Rabadan, Ed., S. Sathappan, K. Nagaraj, M. Miyake, T. Matsuda. March
-     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9541) 
-
-9542 IANA Considerations and IETF Protocol and Documentation Usage for
-     IEEE 802 Parameters. D. Eastlake 3rd, J. Abley, Y. Li. April 2024.
-     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7042) (Also BCP0141)
-     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9542) 
-
-9543 A Framework for Network Slices in Networks Built from IETF
-     Technologies. A. Farrel, Ed., J. Drake, Ed., R. Rokui, S. Homma, K.
-     Makhijani, L. Contreras, J. Tantsura. March 2024. (Format: HTML,
-     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9543) 
-
-9544 Precision Availability Metrics (PAMs) for Services Governed by
-     Service Level Objectives (SLOs). G. Mirsky, J. Halpern, X. Min, A.
-     Clemm, J. Strassner, J. François. March 2024. (Format: HTML, TXT,
-     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9544) 
-
 9545 Path Segment Identifier in MPLS-Based Segment Routing Networks. W.
      Cheng, Ed., H. Li, C. Li, Ed., R. Gandhi, R. Zigler. February 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -64,10 +43,20 @@
      2024. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9556) 
 
+9557 Date and Time on the Internet: Timestamps with Additional
+     Information. U. Sharma, C. Bormann. April 2024. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC3339) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9557) 
+
 9558 Use of GOST 2012 Signature Algorithms in DNSKEY and RRSIG Resource
      Records for DNSSEC. B. Makarenko, V. Dolmatov, Ed.. April 2024.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9558) 
+
+9560 Federated Authentication for the Registration Data Access Protocol
+     (RDAP) Using OpenID Connect. S. Hollenbeck. April 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9560) 
 
 9561 Using the Parallel NFS (pNFS) SCSI Layout to Access Non-Volatile
      Memory Express (NVMe) Storage Devices. C. Hellwig, Ed., C. Lever, S.
@@ -83,6 +72,15 @@
      PDF, XML) (Obsoletes RFC7125) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9565) 
 
+9566 Deterministic Networking (DetNet) Packet Replication, Elimination,
+     and Ordering Functions (PREOF) via MPLS over UDP/IP. B. Varga, J.
+     Farkas, A. Malis. April 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9566) 
+
+9567 DNS Error Reporting. R. Arends, M. Larson. April 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9567) 
+
 ===========================================================================
- - This file last updated Fri 26 Apr 2024 02:30:01 AM PDT
+ - This file last updated Mon 29 Apr 2024 02:30:01 AM PDT
 
