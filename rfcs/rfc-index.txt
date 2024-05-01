@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 04/29/2024.)
+(CREATED ON: 05/01/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -23971,7 +23971,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5798 Virtual Router Redundancy Protocol (VRRP) Version 3 for IPv4 and
      IPv6. S. Nadas, Ed.. March 2010. (Format: TXT, HTML) (Obsoletes
-     RFC3768) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5798) 
+     RFC3768) (Obsoleted by RFC9568) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC5798) 
 
 5799 Not Issued. 
 
@@ -40687,3 +40688,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9567 DNS Error Reporting. R. Arends, M. Larson. April 2024. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9567) 
+
+9568 Virtual Router Redundancy Protocol (VRRP) Version 3 for IPv4 and
+     IPv6. A. Lindem, A. Dogra. April 2024. (Format: HTML, TXT, PDF, XML)
+     (Obsoletes RFC5798) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9568) 
