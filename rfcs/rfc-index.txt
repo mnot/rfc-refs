@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/06/2024.)
+(CREATED ON: 05/07/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -16675,8 +16675,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      STANDARD) (DOI: 10.17487/RFC4121) 
 
 4122 A Universally Unique IDentifier (UUID) URN Namespace. P. Leach, M.
-     Mealling, R. Salz. July 2005. (Format: TXT, HTML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC4122) 
+     Mealling, R. Salz. July 2005. (Format: TXT, HTML) (Obsoleted by
+     RFC9562) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4122) 
 
 4123 Session Initiation Protocol (SIP)-H.323 Interworking Requirements.
      H. Schulzrinne, C. Agboh. July 2005. (Format: TXT, HTML) (Status:
@@ -26353,8 +26353,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6350 vCard Format Specification. S. Perreault. August 2011. (Format: TXT,
      HTML) (Obsoletes RFC2425, RFC2426, RFC4770) (Updates RFC2739)
-     (Updated by RFC6868) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC6350) 
+     (Updated by RFC6868, RFC9554, RFC9555) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC6350) 
 
 6351 xCard: vCard XML Representation. S. Perreault. August 2011. (Format:
      TXT, HTML) (Updated by RFC6868) (Status: PROPOSED STANDARD) (DOI:
@@ -40646,6 +40646,18 @@ See the RFC Editor Web page http://www.rfc-editor.org
      XML) (Obsoletes RFC7752, RFC9029) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9552) 
 
+9553 JSContact: A JSON Representation of Contact Data. R. Stepanek, M.
+     Loffredo. May 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9553) 
+
+9554 vCard Format Extensions for JSContact. R. Stepanek, M. Loffredo. May
+     2024. (Format: HTML, TXT, PDF, XML) (Updates RFC6350) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9554) 
+
+9555 JSContact: Converting from and to vCard. M. Loffredo, R. Stepanek.
+     May 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC6350) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9555) 
+
 9556 Internet of Things (IoT) Edge Challenges and Functions. J. Hong,
      Y-G. Hong, X. de Foy, M. Kovatsch, E. Schooler, D. Kutscher. April
      2024. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
@@ -40670,6 +40682,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Memory Express (NVMe) Storage Devices. C. Hellwig, Ed., C. Lever, S.
      Faibish, D. Black. April 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9561) 
+
+9562 Universally Unique IDentifiers (UUIDs). K. Davis, B. Peabody, P.
+     Leach. May 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC4122)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9562) 
 
 9564 Faster Than Light Speed Protocol (FLIP). M. Blanchet. 1 April 2024.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
