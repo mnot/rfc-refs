@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/14/2024.)
+(CREATED ON: 05/15/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39860,6 +39860,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Deployment. F. Brockners, Ed., S. Bhandari, Ed., D. Bernier, T.
      Mizrahi, Ed.. April 2023. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9378) 
+
+9379 Not Issued. 
 
 9380 Hashing to Elliptic Curves. A. Faz-Hernandez, S. Scott, N. Sullivan,
      R. S. Wahby, C. A. Wood. August 2023. (Format: HTML, TXT, PDF, XML)
