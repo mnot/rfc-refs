@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/21/2024.)
+(CREATED ON: 05/22/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -33782,8 +33782,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8029 Detecting Multiprotocol Label Switched (MPLS) Data-Plane Failures.
      K. Kompella, G. Swallow, C. Pignataro, Ed., N. Kumar, S. Aldrin, M.
      Chen. March 2017. (Format: TXT, HTML) (Obsoletes RFC4379, RFC6424,
-     RFC6829, RFC7537) (Updates RFC1122) (Updated by RFC8611, RFC9041)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8029) 
+     RFC6829, RFC7537) (Updates RFC1122) (Updated by RFC8611, RFC9041,
+     RFC9570) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8029) 
 
 8030 Generic Event Delivery Using HTTP Push. M. Thomson, E. Damaggio, B.
      Raymor, Ed.. December 2016. (Format: TXT, HTML) (Status: PROPOSED
@@ -40711,3 +40711,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      IPv6. A. Lindem, A. Dogra. April 2024. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC5798) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9568) 
+
+9570 Deprecating the Use of Router Alert in LSP Ping. K. Kompella, R.
+     Bonica, G. Mirsky, Ed.. May 2024. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC8029) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9570) 
