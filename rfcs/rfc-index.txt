@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/22/2024.)
+(CREATED ON: 05/23/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -21717,7 +21717,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Revocation List (CRL) Profile. D. Cooper, S. Santesson, S. Farrell,
      S. Boeyen, R. Housley, W. Polk. May 2008. (Format: TXT, HTML)
      (Obsoletes RFC3280, RFC4325, RFC4630) (Updated by RFC6818, RFC8398,
-     RFC8399, RFC9549) (Status: PROPOSED STANDARD) (DOI:
+     RFC8399, RFC9549, RFC9598) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC5280) 
 
 5281 Extensible Authentication Protocol Tunneled Transport Layer Security
@@ -26924,8 +26924,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6481) 
 
 6482 A Profile for Route Origin Authorizations (ROAs). M. Lepinski, S.
-     Kent, D. Kong. February 2012. (Format: TXT, HTML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC6482) 
+     Kent, D. Kong. February 2012. (Format: TXT, HTML) (Obsoleted by
+     RFC9582) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6482) 
 
 6483 Validation of Route Origination Using the Resource Certificate
      Public Key Infrastructure (PKI) and Route Origin Authorizations
@@ -26954,7 +26954,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6488 Signed Object Template for the Resource Public Key Infrastructure
      (RPKI). M. Lepinski, A. Chi, S. Kent. February 2012. (Format: TXT,
-     HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6488) 
+     HTML) (Updated by RFC9589) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC6488) 
 
 6489 Certification Authority (CA) Key Rollover in the Resource Public Key
      Infrastructure (RPKI). G. Huston, G. Michaelson, S. Kent. February
@@ -35431,8 +35432,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8398 Internationalized Email Addresses in X.509 Certificates. A.
      Melnikov, Ed., W. Chuang, Ed.. May 2018. (Format: TXT, HTML)
-     (Updates RFC5280) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8398) 
+     (Obsoleted by RFC9598) (Updates RFC5280) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC8398) 
 
 8399 Internationalization Updates to RFC 5280. R. Housley. May 2018.
      (Format: TXT, HTML) (Obsoleted by RFC9549) (Updates RFC5280)
@@ -40716,3 +40717,19 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Bonica, G. Mirsky, Ed.. May 2024. (Format: HTML, TXT, PDF, XML)
      (Updates RFC8029) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9570) 
+
+9582 A Profile for Route Origin Authorizations (ROAs). J. Snijders, B.
+     Maddison, M. Lepinski, D. Kong, S. Kent. May 2024. (Format: HTML,
+     TXT, PDF, XML) (Obsoletes RFC6482) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9582) 
+
+9589 On the Use of the Cryptographic Message Syntax (CMS) Signing-Time
+     Attribute in Resource Public Key Infrastructure (RPKI) Signed
+     Objects. J. Snijders, T. Harrison. May 2024. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC6488) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9589) 
+
+9598 Internationalized Email Addresses in X.509 Certificates. A.
+     Melnikov, W. Chuang, C. Bonnell. May 2024. (Format: HTML, TXT, PDF,
+     XML) (Obsoletes RFC8398) (Updates RFC5280) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9598) 
