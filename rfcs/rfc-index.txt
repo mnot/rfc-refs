@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/23/2024.)
+(CREATED ON: 05/24/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -27065,8 +27065,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 6514 BGP Encodings and Procedures for Multicast in MPLS/BGP IP VPNs. R.
      Aggarwal, E. Rosen, T. Morin, Y. Rekhter. February 2012. (Format:
      TXT, HTML) (Updated by RFC6515, RFC6625, RFC7385, RFC7441, RFC7582,
-     RFC7899, RFC7900, RFC7902, RFC7988, RFC8534, RFC9081) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC6514) 
+     RFC7899, RFC7900, RFC7902, RFC7988, RFC8534, RFC9081, RFC9573)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6514) 
 
 6515 IPv4 and IPv6 Infrastructure Addresses in BGP Updates for Multicast
      VPN. R. Aggarwal, E. Rosen. February 2012. (Format: TXT, HTML)
@@ -31111,8 +31111,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7432 BGP MPLS-Based Ethernet VPN. A. Sajassi, Ed., R. Aggarwal, N. Bitar,
      A. Isaac, J. Uttaro, J. Drake, W. Henderickx. February 2015.
-     (Format: TXT, HTML) (Updated by RFC8584, RFC9161) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC7432) 
+     (Format: TXT, HTML) (Updated by RFC8584, RFC9161, RFC9572, RFC9573)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7432) 
 
 7433 A Mechanism for Transporting User-to-User Call Control Information
      in SIP. A. Johnston, J. Rafferty. January 2015. (Format: TXT, HTML)
@@ -31784,7 +31784,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 7582 Multicast Virtual Private Network (MVPN): Using Bidirectional
      P-Tunnels. E. Rosen, IJ. Wijnands, Y. Cai, A. Boers. July 2015.
      (Format: TXT, HTML) (Updates RFC6513, RFC6514, RFC6625) (Updated by
-     RFC8534) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7582) 
+     RFC8534, RFC9573) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC7582) 
 
 7583 DNSSEC Key Rollover Timing Considerations. S. Morris, J. Ihren, J.
      Dickinson, W. Mekking. October 2015. (Format: TXT, HTML) (Status:
@@ -40717,6 +40718,21 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Bonica, G. Mirsky, Ed.. May 2024. (Format: HTML, TXT, PDF, XML)
      (Updates RFC8029) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9570) 
+
+9572 Updates to EVPN Broadcast, Unknown Unicast, or Multicast (BUM)
+     Procedures. Z. Zhang, W. Lin, J. Rabadan, K. Patel, A. Sajassi. May
+     2024. (Format: HTML, TXT, PDF, XML) (Updates RFC7432) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9572) 
+
+9573 MVPN/EVPN Tunnel Aggregation with Common Labels. Z. Zhang, E. Rosen,
+     W. Lin, Z. Li, IJ. Wijnands. May 2024. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC6514, RFC7432, RFC7582) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9573) 
+
+9574 Optimized Ingress Replication Solution for Ethernet VPNs (EVPNs). J.
+     Rabadan, Ed., S. Sathappan, W. Lin, M. Katiyar, A. Sajassi. May
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9574) 
 
 9582 A Profile for Route Origin Authorizations (ROAs). J. Snijders, B.
      Maddison, M. Lepinski, D. Kong, S. Kent. May 2024. (Format: HTML,
