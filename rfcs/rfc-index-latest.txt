@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9558 Use of GOST 2012 Signature Algorithms in DNSKEY and RRSIG Resource
-     Records for DNSSEC. B. Makarenko, V. Dolmatov, Ed.. April 2024.
-     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9558) 
-
 9560 Federated Authentication for the Registration Data Access Protocol
      (RDAP) Using OpenID Connect. S. Hollenbeck. April 2024. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -51,6 +46,11 @@
      (Updates RFC8029) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9570) 
 
+9571 Extension of RFC 6374-Based Performance Measurement Using Synonymous
+     Flow Labels. S. Bryant, Ed., G. Swallow, M. Chen, G. Fioccola, G.
+     Mirsky. May 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9571) 
+
 9572 Updates to EVPN Broadcast, Unknown Unicast, or Multicast (BUM)
      Procedures. Z. Zhang, W. Lin, J. Rabadan, K. Patel, A. Sajassi. May
      2024. (Format: HTML, TXT, PDF, XML) (Updates RFC7432) (Status:
@@ -83,5 +83,5 @@
      STANDARD) (DOI: 10.17487/RFC9598) 
 
 ===========================================================================
- - This file last updated Wed 29 May 2024 02:30:01 AM PDT
+ - This file last updated Thu 30 May 2024 02:30:01 AM PDT
 
