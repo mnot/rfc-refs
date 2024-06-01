@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/30/2024.)
+(CREATED ON: 05/31/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -30484,7 +30484,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7292 PKCS #12: Personal Information Exchange Syntax v1.1. K. Moriarty,
      Ed., M. Nystrom, S. Parkinson, A. Rusch, M. Scott. July 2014.
-     (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC7292) 
+     (Format: TXT, HTML) (Updated by RFC9579) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC7292) 
 
 7293 The Require-Recipient-Valid-Since Header Field and SMTP Service
      Extension. W. Mills, M. Kucherawy. July 2014. (Format: TXT, HTML)
@@ -33734,8 +33735,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8018 PKCS #5: Password-Based Cryptography Specification Version 2.1. K.
      Moriarty, Ed., B. Kaliski, A. Rusch. January 2017. (Format: TXT,
-     HTML) (Obsoletes RFC2898) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC8018) 
+     HTML) (Obsoletes RFC2898) (Updated by RFC9579) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC8018) 
 
 8019 Protecting Internet Key Exchange Protocol Version 2 (IKEv2)
      Implementations from Distributed Denial-of-Service Attacks. Y. Nir,
@@ -40743,10 +40744,19 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9574) 
 
+9579 Use of Password-Based Message Authentication Code 1 (PBMAC1) in PKCS
+     #12 Syntax. H. Kario. May 2024. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC7292, RFC8018) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9579) 
+
 9582 A Profile for Route Origin Authorizations (ROAs). J. Snijders, B.
      Maddison, M. Lepinski, D. Kong, S. Kent. May 2024. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC6482) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9582) 
+
+9585 IMAP Response Code for Command Progress Notifications. M. Bettini.
+     May 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9585) 
 
 9586 IMAP Extension for Using and Returning Unique Identifiers (UIDs)
      Only. A. Melnikov, A. P. Achuthan, V. Nagulakonda, A. Singh, L.
@@ -40758,6 +40768,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Objects. J. Snijders, T. Harrison. May 2024. (Format: HTML, TXT,
      PDF, XML) (Updates RFC6488) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9589) 
+
+9590 IMAP Extension for Returning Mailbox METADATA in Extended LIS. K.
+     Murchison, B. Gondwana. May 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9590) 
 
 9598 Internationalized Email Addresses in X.509 Certificates. A.
      Melnikov, W. Chuang, C. Bonnell. May 2024. (Format: HTML, TXT, PDF,
