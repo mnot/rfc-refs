@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/06/2024.)
+(CREATED ON: 06/07/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40762,6 +40762,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Only. A. Melnikov, A. P. Achuthan, V. Nagulakonda, A. Singh, L.
      Alves. May 2024. (Format: HTML, TXT, PDF, XML) (Status:
      EXPERIMENTAL) (DOI: 10.17487/RFC9586) 
+
+9587 YANG Data Model for OSPFv3 Extended Link State Advertisements
+     (LSAs). A. Lindem, S. Palani, Y. Qu. June 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9587) 
 
 9589 On the Use of the Cryptographic Message Syntax (CMS) Signing-Time
      Attribute in Resource Public Key Infrastructure (RPKI) Signed
