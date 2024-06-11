@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9565 An Update to the tcpControlBits IP Flow Information Export (IPFIX)
-     Information Element. M. Boucadair. March 2024. (Format: HTML, TXT,
-     PDF, XML) (Obsoletes RFC7125) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9565) 
-
 9566 Deterministic Networking (DetNet) Packet Replication, Elimination,
      and Ordering Functions (PREOF) via MPLS over UDP/IP. B. Varga, J.
      Farkas, A. Malis. April 2024. (Format: HTML, TXT, PDF, XML) (Status:
@@ -67,6 +62,10 @@
      Alves. May 2024. (Format: HTML, TXT, PDF, XML) (Status:
      EXPERIMENTAL) (DOI: 10.17487/RFC9586) 
 
+9587 YANG Data Model for OSPFv3 Extended Link State Advertisements
+     (LSAs). A. Lindem, S. Palani, Y. Qu. June 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9587) 
+
 9589 On the Use of the Cryptographic Message Syntax (CMS) Signing-Time
      Attribute in Resource Public Key Infrastructure (RPKI) Signed
      Objects. J. Snijders, T. Harrison. May 2024. (Format: HTML, TXT,
@@ -83,5 +82,5 @@
      STANDARD) (DOI: 10.17487/RFC9598) 
 
 ===========================================================================
- - This file last updated Fri 07 Jun 2024 02:30:01 AM PDT
+ - This file last updated Mon 10 Jun 2024 02:30:01 AM PDT
 
