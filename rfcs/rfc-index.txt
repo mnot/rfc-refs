@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/10/2024.)
+(CREATED ON: 06/12/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40754,6 +40754,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, PDF, XML) (Obsoletes RFC6482) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9582) 
 
+9584 RTP Payload Format for Essential Video Coding (EVC). S. Zhao, S.
+     Wenger, Y. Lim. June 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9584) 
+
 9585 IMAP Response Code for Command Progress Notifications. M. Bettini.
      May 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9585) 
@@ -40776,6 +40780,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9590 IMAP Extension for Returning Mailbox METADATA in Extended LIS. K.
      Murchison, B. Gondwana. May 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9590) 
+
+9596 CBOR Object Signing and Encryption (COSE) "typ" (type) Header
+     Parameter. M.B. Jones, O. Steele. June 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9596) 
 
 9598 Internationalized Email Addresses in X.509 Certificates. A.
      Melnikov, W. Chuang, C. Bonnell. May 2024. (Format: HTML, TXT, PDF,
