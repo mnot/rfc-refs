@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9566 Deterministic Networking (DetNet) Packet Replication, Elimination,
-     and Ordering Functions (PREOF) via MPLS over UDP/IP. B. Varga, J.
-     Farkas, A. Malis. April 2024. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9566) 
-
 9567 DNS Error Reporting. R. Arends, M. Larson. April 2024. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9567) 
@@ -53,6 +48,10 @@
      TXT, PDF, XML) (Obsoletes RFC6482) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9582) 
 
+9584 RTP Payload Format for Essential Video Coding (EVC). S. Zhao, S.
+     Wenger, Y. Lim. June 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9584) 
+
 9585 IMAP Response Code for Command Progress Notifications. M. Bettini.
      May 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9585) 
@@ -76,11 +75,15 @@
      Murchison, B. Gondwana. May 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9590) 
 
+9596 CBOR Object Signing and Encryption (COSE) "typ" (type) Header
+     Parameter. M.B. Jones, O. Steele. June 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9596) 
+
 9598 Internationalized Email Addresses in X.509 Certificates. A.
      Melnikov, W. Chuang, C. Bonnell. May 2024. (Format: HTML, TXT, PDF,
      XML) (Obsoletes RFC8398) (Updates RFC5280) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9598) 
 
 ===========================================================================
- - This file last updated Tue 11 Jun 2024 02:30:01 AM PDT
+ - This file last updated Wed 12 Jun 2024 02:30:01 AM PDT
 
