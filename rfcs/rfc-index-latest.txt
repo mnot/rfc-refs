@@ -4,20 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9567 DNS Error Reporting. R. Arends, M. Larson. April 2024. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9567) 
-
-9568 Virtual Router Redundancy Protocol (VRRP) Version 3 for IPv4 and
-     IPv6. A. Lindem, A. Dogra. April 2024. (Format: HTML, TXT, PDF, XML)
-     (Obsoletes RFC5798) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9568) 
-
-9570 Deprecating the Use of Router Alert in LSP Ping. K. Kompella, R.
-     Bonica, G. Mirsky, Ed.. May 2024. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC8029) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9570) 
-
 9571 Extension of RFC 6374-Based Performance Measurement Using Synonymous
      Flow Labels. S. Bryant, Ed., G. Swallow, M. Chen, G. Fioccola, G.
      Mirsky. May 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -37,6 +23,18 @@
      Rabadan, Ed., S. Sathappan, W. Lin, M. Katiyar, A. Sajassi. May
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9574) 
+
+9576 The Privacy Pass Architecture. A. Davidson, J. Iyengar, C. A. Wood.
+     June 2024. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9576) 
+
+9577 The Privacy Pass HTTP Authentication Scheme. T. Pauly, S. Valdez, C.
+     A. Wood. June 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9577) 
+
+9578 Privacy Pass Issuance Protocols. S. Celi, A. Davidson, S. Valdez, C.
+     A. Wood. June 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9578) 
 
 9579 Use of Password-Based Message Authentication Code 1 (PBMAC1) in PKCS
      #12 Syntax. H. Kario. May 2024. (Format: HTML, TXT, PDF, XML)
@@ -85,5 +83,5 @@
      STANDARD) (DOI: 10.17487/RFC9598) 
 
 ===========================================================================
- - This file last updated Thu 13 Jun 2024 02:30:01 AM PDT
+ - This file last updated Fri 14 Jun 2024 02:30:01 AM PDT
 
