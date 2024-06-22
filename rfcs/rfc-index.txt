@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/20/2024.)
+(CREATED ON: 06/21/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -27952,8 +27952,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6721) 
 
 6722 Publishing the "Tao of the IETF" as a Web Page. P. Hoffman, Ed..
-     August 2012. (Format: TXT, HTML) (Obsoletes RFC4677) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC6722) 
+     August 2012. (Format: TXT, HTML) (Obsoletes RFC4677) (Obsoleted by
+     RFC9592) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6722) 
 
 6723 Update of the Pseudowire Control-Word Negotiation Mechanism. L. Jin,
      Ed., R. Key, Ed., S. Delord, T. Nadeau, S. Boutros. September 2012.
@@ -40766,6 +40766,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, PDF, XML) (Obsoletes RFC6482) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9582) 
 
+9583 Application Scenarios for the Quantum Internet. C. Wang, A. Rahman,
+     R. Li, M. Aelmans, K. Chakraborty. June 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9583) 
+
 9584 RTP Payload Format for Essential Video Coding (EVC). S. Zhao, S.
      Wenger, Y. Lim. June 2024. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9584) 
@@ -40792,6 +40796,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9590 IMAP Extension for Returning Mailbox METADATA in Extended LIS. K.
      Murchison, B. Gondwana. May 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9590) 
+
+9592 Retiring the Tao of the IETF. N. ten Oever, G. Wood. June 2024.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6722) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9592) 
 
 9596 CBOR Object Signing and Encryption (COSE) "typ" (type) Header
      Parameter. M.B. Jones, O. Steele. June 2024. (Format: HTML, TXT,
