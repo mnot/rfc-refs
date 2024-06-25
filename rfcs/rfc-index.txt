@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/21/2024.)
+(CREATED ON: 06/25/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40804,6 +40804,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9596 CBOR Object Signing and Encryption (COSE) "typ" (type) Header
      Parameter. M.B. Jones, O. Steele. June 2024. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9596) 
+
+9597 CBOR Web Token (CWT) Claims in COSE Headers. T. Looker, M.B. Jones.
+     June 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9597) 
 
 9598 Internationalized Email Addresses in X.509 Certificates. A.
      Melnikov, W. Chuang, C. Bonnell. May 2024. (Format: HTML, TXT, PDF,
