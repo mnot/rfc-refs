@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/25/2024.)
+(CREATED ON: 06/26/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40743,6 +40743,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Rabadan, Ed., S. Sathappan, W. Lin, M. Katiyar, A. Sajassi. May
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9574) 
+
+9575 DRIP Entity Tag (DET) Authentication Formats and Protocols for
+     Broadcast Remote Identification (RID). A. Wiethuechter, Ed., S.
+     Card, R. Moskowitz. June 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9575) 
 
 9576 The Privacy Pass Architecture. A. Davidson, J. Iyengar, C. A. Wood.
      June 2024. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
