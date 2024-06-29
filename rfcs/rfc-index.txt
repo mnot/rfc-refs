@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/27/2024.)
+(CREATED ON: 06/28/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -21717,8 +21717,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Revocation List (CRL) Profile. D. Cooper, S. Santesson, S. Farrell,
      S. Boeyen, R. Housley, W. Polk. May 2008. (Format: TXT, HTML)
      (Obsoletes RFC3280, RFC4325, RFC4630) (Updated by RFC6818, RFC8398,
-     RFC8399, RFC9549, RFC9598) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC5280) 
+     RFC8399, RFC9549, RFC9598, RFC9608) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC5280) 
 
 5281 Extensible Authentication Protocol Tunneled Transport Layer Security
      Authenticated Protocol Version 0 (EAP-TTLSv0). P. Funk, S.
@@ -40802,6 +40802,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Murchison, B. Gondwana. May 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9590) 
 
+9591 The Flexible Round-Optimized Schnorr Threshold (FROST) Protocol for
+     Two-Round Schnorr Signatures. D. Connolly, C. Komlo, I. Goldberg, C.
+     A. Wood. June 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9591) 
+
 9592 Retiring the Tao of the IETF. N. ten Oever, G. Wood. June 2024.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6722) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9592) 
@@ -40818,3 +40823,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Melnikov, W. Chuang, C. Bonnell. May 2024. (Format: HTML, TXT, PDF,
      XML) (Obsoletes RFC8398) (Updates RFC5280) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9598) 
+
+9606 DNS Resolver Information. T. Reddy.K, M. Boucadair. June 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9606) 
+
+9608 No Revocation Available for X.509 Public Key Certificates. R.
+     Housley, T. Okubo, J. Mandel. June 2024. (Format: HTML, TXT, PDF,
+     XML) (Updates RFC5280) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9608) 
