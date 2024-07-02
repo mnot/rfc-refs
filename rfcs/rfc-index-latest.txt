@@ -4,20 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9574 Optimized Ingress Replication Solution for Ethernet VPNs (EVPNs). J.
-     Rabadan, Ed., S. Sathappan, W. Lin, M. Katiyar, A. Sajassi. May
-     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9574) 
-
-9575 DRIP Entity Tag (DET) Authentication Formats and Protocols for
-     Broadcast Remote Identification (RID). A. Wiethuechter, Ed., S.
-     Card, R. Moskowitz. June 2024. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9575) 
-
-9576 The Privacy Pass Architecture. A. Davidson, J. Iyengar, C. A. Wood.
-     June 2024. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC9576) 
-
 9577 The Privacy Pass HTTP Authentication Scheme. T. Pauly, S. Valdez, C.
      A. Wood. June 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9577) 
@@ -67,6 +53,11 @@
      Murchison, B. Gondwana. May 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9590) 
 
+9591 The Flexible Round-Optimized Schnorr Threshold (FROST) Protocol for
+     Two-Round Schnorr Signatures. D. Connolly, C. Komlo, I. Goldberg, C.
+     A. Wood. June 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9591) 
+
 9592 Retiring the Tao of the IETF. N. ten Oever, G. Wood. June 2024.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6722) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9592) 
@@ -84,6 +75,15 @@
      XML) (Obsoletes RFC8398) (Updates RFC5280) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9598) 
 
+9606 DNS Resolver Information. T. Reddy.K, M. Boucadair. June 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9606) 
+
+9608 No Revocation Available for X.509 Public Key Certificates. R.
+     Housley, T. Okubo, J. Mandel. June 2024. (Format: HTML, TXT, PDF,
+     XML) (Updates RFC5280) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9608) 
+
 ===========================================================================
- - This file last updated Fri 28 Jun 2024 02:30:01 AM PDT
+ - This file last updated Mon 01 Jul 2024 02:30:01 AM PDT
 
