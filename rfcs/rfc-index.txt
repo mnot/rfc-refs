@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/15/2024.)
+(CREATED ON: 07/16/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -30710,7 +30710,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7344 Automating DNSSEC Delegation Trust Maintenance. W. Kumari, O.
      Gudmundsson, G. Barwood. September 2014. (Format: TXT, HTML)
-     (Updated by RFC8078) (Status: PROPOSED STANDARD) (DOI:
+     (Updated by RFC8078, RFC9615) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC7344) 
 
 7345 UDP Transport Layer (UDPTL) over Datagram Transport Layer Security
@@ -34006,7 +34006,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8078 Managing DS Records from the Parent via CDS/CDNSKEY. O. Gudmundsson,
      P. Wouters. March 2017. (Format: TXT, HTML) (Updates RFC7344)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8078) 
+     (Updated by RFC9615) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8078) 
 
 8079 Guidelines for End-to-End Support of the RTP Control Protocol (RTCP)
      in Back-to-Back User Agents (B2BUAs). L. Miniero, S. Garcia Murillo,
@@ -40832,3 +40833,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Housley, T. Okubo, J. Mandel. June 2024. (Format: HTML, TXT, PDF,
      XML) (Updates RFC5280) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9608) 
+
+9615 Automatic DNSSEC Bootstrapping Using Authenticated Signals from the
+     Zone's Operator. P. Thomassen, N. Wisiol. July 2024. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC7344, RFC8078) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9615) 
