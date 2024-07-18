@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9577 The Privacy Pass HTTP Authentication Scheme. T. Pauly, S. Valdez, C.
-     A. Wood. June 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9577) 
-
 9578 Privacy Pass Issuance Protocols. S. Celi, A. Davidson, S. Valdez, C.
      A. Wood. June 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9578) 
@@ -84,6 +80,11 @@
      XML) (Updates RFC5280) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9608) 
 
+9615 Automatic DNSSEC Bootstrapping Using Authenticated Signals from the
+     Zone's Operator. P. Thomassen, N. Wisiol. July 2024. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC7344, RFC8078) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9615) 
+
 ===========================================================================
- - This file last updated Tue 16 Jul 2024 02:30:01 AM PDT
+ - This file last updated Wed 17 Jul 2024 02:30:01 AM PDT
 
