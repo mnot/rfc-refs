@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/18/2024.)
+(CREATED ON: 07/19/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40833,6 +40833,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Housley, T. Okubo, J. Mandel. June 2024. (Format: HTML, TXT, PDF,
      XML) (Updates RFC5280) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9608) 
+
+9611 Internet Key Exchange Protocol Version 2 (IKEv2) Support for
+     Per-Resource Child Security Associations (SAs). A. Antony, T.
+     Brunner, S. Klassert, P. Wouters. July 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9611) 
 
 9615 Automatic DNSSEC Bootstrapping Using Authenticated Signals from the
      Zone's Operator. P. Thomassen, N. Wisiol. July 2024. (Format: HTML,
