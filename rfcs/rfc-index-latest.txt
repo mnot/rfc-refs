@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9578 Privacy Pass Issuance Protocols. S. Celi, A. Davidson, S. Valdez, C.
-     A. Wood. June 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9578) 
-
-9579 Use of Password-Based Message Authentication Code 1 (PBMAC1) in PKCS
-     #12 Syntax. H. Kario. May 2024. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC7292, RFC8018) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9579) 
-
 9582 A Profile for Route Origin Authorizations (ROAs). J. Snijders, B.
      Maddison, M. Lepinski, D. Kong, S. Kent. May 2024. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC6482) (Status: PROPOSED STANDARD) (DOI:
@@ -80,11 +71,16 @@
      XML) (Updates RFC5280) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9608) 
 
+9611 Internet Key Exchange Protocol Version 2 (IKEv2) Support for
+     Per-Resource Child Security Associations (SAs). A. Antony, T.
+     Brunner, S. Klassert, P. Wouters. July 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9611) 
+
 9615 Automatic DNSSEC Bootstrapping Using Authenticated Signals from the
      Zone's Operator. P. Thomassen, N. Wisiol. July 2024. (Format: HTML,
      TXT, PDF, XML) (Updates RFC7344, RFC8078) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9615) 
 
 ===========================================================================
- - This file last updated Fri 19 Jul 2024 02:30:01 AM PDT
+ - This file last updated Mon 22 Jul 2024 02:30:01 AM PDT
 
