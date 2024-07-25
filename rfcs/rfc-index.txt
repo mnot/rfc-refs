@@ -3691,8 +3691,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      RFC1995, RFC1996, RFC2065, RFC2136, RFC2181, RFC2137, RFC2308,
      RFC2535, RFC2673, RFC2845, RFC3425, RFC3658, RFC4033, RFC4034,
      RFC4035, RFC4343, RFC5936, RFC5966, RFC6604, RFC7766, RFC8482,
-     RFC8490, RFC8767) (Also STD0013) (Status: INTERNET STANDARD) (DOI:
-     10.17487/RFC1035) 
+     RFC8490, RFC8767, RFC9619) (Also STD0013) (Status: INTERNET
+     STANDARD) (DOI: 10.17487/RFC1035) 
 
 1036 Standard for interchange of USENET messages. M.R. Horton, R. Adams.
      December 1987. (Format: TXT, HTML) (Obsoletes RFC0850) (Obsoleted by
@@ -40834,6 +40834,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9606) 
 
+9607 RTP Payload Format for the Secure Communication Interoperability
+     Protocol (SCIP) Codec. D. Hanson, M. Faller, K. Maver. July 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9607) 
+
 9608 No Revocation Available for X.509 Public Key Certificates. R.
      Housley, T. Okubo, J. Mandel. June 2024. (Format: HTML, TXT, PDF,
      XML) (Updates RFC5280) (Status: PROPOSED STANDARD) (DOI:
@@ -40853,3 +40858,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Zone's Operator. P. Thomassen, N. Wisiol. July 2024. (Format: HTML,
      TXT, PDF, XML) (Updates RFC7344, RFC8078) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9615) 
+
+9619 In the DNS, QDCOUNT Is (Usually) One. R. Bellis, J. Abley. July
+     2024. (Format: HTML, TXT, PDF, XML) (Updates RFC1035) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9619) 
