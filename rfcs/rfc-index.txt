@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/26/2024.)
+(CREATED ON: 07/29/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40829,6 +40829,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Melnikov, W. Chuang, C. Bonnell. May 2024. (Format: HTML, TXT, PDF,
      XML) (Obsoletes RFC8398) (Updates RFC5280) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9598) 
+
+9603 Path Computation Element Communication Protocol (PCEP) Extensions
+     for IPv6 Segment Routing. C. Li, Ed., P. Kaladharan, S. Sivabalan,
+     M. Koldychev, Y. Zhu. July 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9603) 
 
 9606 DNS Resolver Information. T. Reddy.K, M. Boucadair. June 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
