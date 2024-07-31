@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9586 IMAP Extension for Using and Returning Unique Identifiers (UIDs)
-     Only. A. Melnikov, A. P. Achuthan, V. Nagulakonda, A. Singh, L.
-     Alves. May 2024. (Format: HTML, TXT, PDF, XML) (Status:
-     EXPERIMENTAL) (DOI: 10.17487/RFC9586) 
-
 9587 YANG Data Model for OSPFv3 Extended Link State Advertisements
      (LSAs). A. Lindem, S. Palani, Y. Qu. June 2024. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9587) 
@@ -50,6 +45,11 @@
      XML) (Obsoletes RFC8398) (Updates RFC5280) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9598) 
 
+9603 Path Computation Element Communication Protocol (PCEP) Extensions
+     for IPv6 Segment Routing. C. Li, Ed., P. Kaladharan, S. Sivabalan,
+     M. Koldychev, Y. Zhu. July 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9603) 
+
 9606 DNS Resolver Information. T. Reddy.K, M. Boucadair. June 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9606) 
@@ -84,5 +84,5 @@
      PROPOSED STANDARD) (DOI: 10.17487/RFC9619) 
 
 ===========================================================================
- - This file last updated Mon 29 Jul 2024 02:30:01 AM PDT
+ - This file last updated Tue 30 Jul 2024 02:30:01 AM PDT
 
