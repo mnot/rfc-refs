@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/30/2024.)
+(CREATED ON: 07/31/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -20002,8 +20002,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 4880 OpenPGP Message Format. J. Callas, L. Donnerhacke, H. Finney, D.
      Shaw, R. Thayer. November 2007. (Format: TXT, HTML) (Obsoletes
-     RFC1991, RFC2440) (Updated by RFC5581) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC4880) 
+     RFC1991, RFC2440) (Obsoleted by RFC9580) (Updated by RFC5581)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4880) 
 
 4881 Low-Latency Handoffs in Mobile IPv4. K. El Malki, Ed.. June 2007.
      (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC4881) 
@@ -23020,8 +23020,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC5580) 
 
 5581 The Camellia Cipher in OpenPGP. D. Shaw. June 2009. (Format: TXT,
-     HTML) (Updates RFC4880) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC5581) 
+     HTML) (Obsoleted by RFC9580) (Updates RFC4880) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC5581) 
 
 5582 Location-to-URL Mapping Architecture and Framework. H. Schulzrinne.
      September 2009. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
@@ -27590,8 +27590,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6636) 
 
 6637 Elliptic Curve Cryptography (ECC) in OpenPGP. A. Jivsov. June 2012.
-     (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC6637) 
+     (Format: TXT, HTML) (Obsoleted by RFC9580) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC6637) 
 
 6638 Scheduling Extensions to CalDAV. C. Daboo, B. Desruisseaux. June
      2012. (Format: TXT, HTML) (Updates RFC4791, RFC5546) (Updated by
@@ -40767,6 +40767,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Updates RFC7292, RFC8018) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9579) 
 
+9580 OpenPGP. P. Wouters, Ed., D. Huigens, J. Winter, Y. Niibe. July
+     2024. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC4880, RFC5581,
+     RFC6637) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9580) 
+
 9582 A Profile for Route Origin Authorizations (ROAs). J. Snijders, B.
      Maddison, M. Lepinski, D. Kong, S. Kent. May 2024. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC6482) (Status: PROPOSED STANDARD) (DOI:
@@ -40817,6 +40821,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9593) 
 
+9595 YANG Schema Item iDentifier (YANG SID). M. Veillette, Ed., A. Pelov,
+     Ed., I. Petrov, Ed., C. Bormann, M. Richardson. July 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9595) 
+
 9596 CBOR Object Signing and Encryption (COSE) "typ" (type) Header
      Parameter. M.B. Jones, O. Steele. June 2024. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9596) 
@@ -40858,6 +40867,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Switched Paths (LSPs). G. Mirsky, J. Tantsura, I. Varlashkin, M.
      Chen. July 2024. (Format: HTML, TXT, PDF, XML) (Status:
      EXPERIMENTAL) (DOI: 10.17487/RFC9612) 
+
+9614 Partitioning as an Architecture for Privacy. M. Kühlewind, T. Pauly,
+     C. A. Wood. July 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9614) 
 
 9615 Automatic DNSSEC Bootstrapping Using Authenticated Signals from the
      Zone's Operator. P. Thomassen, N. Wisiol. July 2024. (Format: HTML,
