@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/06/2024.)
+(CREATED ON: 08/08/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -23326,8 +23326,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5651) 
 
 5652 Cryptographic Message Syntax (CMS). R. Housley. September 2009.
-     (Format: TXT, HTML) (Obsoletes RFC3852) (Updated by RFC8933) (Also
-     STD0070) (Status: INTERNET STANDARD) (DOI: 10.17487/RFC5652) 
+     (Format: TXT, HTML) (Obsoletes RFC3852) (Updated by RFC8933,
+     RFC9629) (Also STD0070) (Status: INTERNET STANDARD) (DOI:
+     10.17487/RFC5652) 
 
 5653 Generic Security Service API Version 2: Java Bindings Update. M.
      Upadhyay, S. Malkani. August 2009. (Format: TXT, HTML) (Obsoletes
@@ -38558,8 +38559,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9091) 
 
 9092 Finding and Using Geofeed Data. R. Bush, M. Candela, W. Kumari, R.
-     Housley. July 2021. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9092) 
+     Housley. July 2021. (Format: HTML, TXT, PDF, XML) (Obsoleted by
+     RFC9632) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9092) 
 
 9093 A YANG Data Model for Layer 0 Types. H. Zheng, Y. Lee, A. Guo, V.
      Lopez, D. King. August 2021. (Format: HTML, TXT, PDF, XML) (Status:
@@ -40880,3 +40881,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9619 In the DNS, QDCOUNT Is (Usually) One. R. Bellis, J. Abley. July
      2024. (Format: HTML, TXT, PDF, XML) (Updates RFC1035) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9619) 
+
+9629 Using Key Encapsulation Mechanism (KEM) Algorithms in the
+     Cryptographic Message Syntax (CMS). R. Housley, J. Gray, T. Okubo.
+     August 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC5652)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9629) 
+
+9632 Finding and Using Geofeed Data. R. Bush, M. Candela, W. Kumari, R.
+     Housley. August 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC9092) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9632) 
