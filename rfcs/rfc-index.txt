@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/15/2024.)
+(CREATED ON: 08/16/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40772,6 +40772,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2024. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC4880, RFC5581,
      RFC6637) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9580) 
 
+9581 Concise Binary Object Representation (CBOR) Tags for Time, Duration,
+     and Period. C. Bormann, B. Gamari, H. Birkholz. August 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9581) 
+
 9582 A Profile for Route Origin Authorizations (ROAs). J. Snijders, B.
      Maddison, M. Lepinski, D. Kong, S. Kent. May 2024. (Format: HTML,
      TXT, PDF, XML) (Obsoletes RFC6482) (Status: PROPOSED STANDARD) (DOI:
@@ -40844,6 +40849,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      for IPv6 Segment Routing. C. Li, Ed., P. Kaladharan, S. Sivabalan,
      M. Koldychev, Y. Zhu. July 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9603) 
+
+9604 Carrying Binding Label/SID in PCE-Based Networks. S. Sivabalan, C.
+     Filsfils, J. Tantsura, S. Previdi, C. Li, Ed.. August 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9604) 
 
 9606 DNS Resolver Information. T. Reddy.K, M. Boucadair. June 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
