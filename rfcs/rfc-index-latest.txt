@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9592 Retiring the Tao of the IETF. N. ten Oever, G. Wood. June 2024.
-     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6722) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9592) 
-
 9593 Announcing Supported Authentication Methods in the Internet Key
      Exchange Protocol Version 2 (IKEv2). V. Smyslov. July 2024. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -35,6 +31,11 @@
      for IPv6 Segment Routing. C. Li, Ed., P. Kaladharan, S. Sivabalan,
      M. Koldychev, Y. Zhu. July 2024. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9603) 
+
+9604 Carrying Binding Label/SID in PCE-Based Networks. S. Sivabalan, C.
+     Filsfils, J. Tantsura, S. Previdi, C. Li, Ed.. August 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9604) 
 
 9606 DNS Resolver Information. T. Reddy.K, M. Boucadair. June 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -83,5 +84,5 @@
      RFC9092) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9632) 
 
 ===========================================================================
- - This file last updated Fri 16 Aug 2024 02:30:01 AM PDT
+ - This file last updated Mon 19 Aug 2024 02:30:01 AM PDT
 
