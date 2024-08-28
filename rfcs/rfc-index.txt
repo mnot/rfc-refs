@@ -15493,8 +15493,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC3848) 
 
 3849 IPv6 Address Prefix Reserved for Documentation. G. Huston, A. Lord,
-     P. Smith. July 2004. (Format: TXT, HTML) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC3849) 
+     P. Smith. July 2004. (Format: TXT, HTML) (Updated by RFC9637)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC3849) 
 
 3850 Secure/Multipurpose Internet Mail Extensions (S/MIME) Version 3.1
      Certificate Handling. B. Ramsdell, Ed.. July 2004. (Format: TXT,
@@ -40804,6 +40804,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (LSAs). A. Lindem, S. Palani, Y. Qu. June 2024. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9587) 
 
+9588 Kerberos Simple Password-Authenticated Key Exchange (SPAKE)
+     Pre-authentication. N. McCallum, S. Sorce, R. Harwood, G. Hudson.
+     August 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9588) 
+
 9589 On the Use of the Cryptographic Message Syntax (CMS) Signing-Time
      Attribute in Resource Public Key Infrastructure (RPKI) Signed
      Objects. J. Snijders, T. Harrison. May 2024. (Format: HTML, TXT,
@@ -40856,6 +40861,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9604) 
 
+9605 Secure Frame (SFrame): Lightweight Authenticated Encryption for
+     Real-Time Media. E. Omara, J. Uberti, S. G. Murillo, R. Barnes, Ed.,
+     Y. Fablet. August 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9605) 
+
 9606 DNS Resolver Information. T. Reddy.K, M. Boucadair. June 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9606) 
@@ -40893,6 +40903,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, PDF, XML) (Updates RFC7344, RFC8078) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9615) 
 
+9617 A YANG Data Model for In Situ Operations, Administration, and
+     Maintenance (IOAM). T. Zhou, Ed., J. Guichard, F. Brockners, S.
+     Raghavan. August 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9617) 
+
 9619 In the DNS, QDCOUNT Is (Usually) One. R. Bellis, J. Abley. July
      2024. (Format: HTML, TXT, PDF, XML) (Updates RFC1035) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9619) 
@@ -40902,6 +40917,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      August 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC5652)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9629) 
 
+9630 Multicast On-Path Telemetry Using In Situ Operations,
+     Administration, and Maintenance (IOAM). H. Song, M. McBride, G.
+     Mirsky, G. Mishra, H. Asaeda, T. Zhou. August 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9630) 
+
 9631 The IPv6 Compact Routing Header (CRH). R. Bonica, Y. Kamite, A.
      Alston, D. Henriques, L. Jalil. August 2024. (Format: HTML, TXT,
      PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9631) 
@@ -40909,6 +40929,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9632 Finding and Using Geofeed Data. R. Bush, M. Candela, W. Kumari, R.
      Housley. August 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC9092) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9632) 
+
+9637 Expanding the IPv6 Documentation Space. G. Huston, N. Buraglio.
+     August 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC3849)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9637) 
 
 9650 Revision to Registration Procedures for IS-IS Neighbor
      Link-Attribute Bit Values. T. Li. August 2024. (Format: HTML, TXT,
