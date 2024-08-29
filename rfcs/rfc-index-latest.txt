@@ -4,21 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9598 Internationalized Email Addresses in X.509 Certificates. A.
-     Melnikov, W. Chuang, C. Bonnell. May 2024. (Format: HTML, TXT, PDF,
-     XML) (Obsoletes RFC8398) (Updates RFC5280) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9598) 
-
-9603 Path Computation Element Communication Protocol (PCEP) Extensions
-     for IPv6 Segment Routing. C. Li, Ed., P. Kaladharan, S. Sivabalan,
-     M. Koldychev, Y. Zhu. July 2024. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9603) 
-
-9604 Carrying Binding Label/SID in PCE-Based Networks. S. Sivabalan, C.
-     Filsfils, J. Tantsura, S. Previdi, C. Li, Ed.. August 2024. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9604) 
-
 9606 DNS Resolver Information. T. Reddy.K, M. Boucadair. June 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9606) 
@@ -56,6 +41,11 @@
      TXT, PDF, XML) (Updates RFC7344, RFC8078) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9615) 
 
+9617 A YANG Data Model for In Situ Operations, Administration, and
+     Maintenance (IOAM). T. Zhou, Ed., J. Guichard, F. Brockners, S.
+     Raghavan. August 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9617) 
+
 9619 In the DNS, QDCOUNT Is (Usually) One. R. Bellis, J. Abley. July
      2024. (Format: HTML, TXT, PDF, XML) (Updates RFC1035) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9619) 
@@ -65,6 +55,11 @@
      August 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC5652)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9629) 
 
+9630 Multicast On-Path Telemetry Using In Situ Operations,
+     Administration, and Maintenance (IOAM). H. Song, M. McBride, G.
+     Mirsky, G. Mishra, H. Asaeda, T. Zhou. August 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9630) 
+
 9631 The IPv6 Compact Routing Header (CRH). R. Bonica, Y. Kamite, A.
      Alston, D. Henriques, L. Jalil. August 2024. (Format: HTML, TXT,
      PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9631) 
@@ -72,6 +67,10 @@
 9632 Finding and Using Geofeed Data. R. Bush, M. Candela, W. Kumari, R.
      Housley. August 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC9092) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9632) 
+
+9637 Expanding the IPv6 Documentation Space. G. Huston, N. Buraglio.
+     August 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC3849)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9637) 
 
 9650 Revision to Registration Procedures for IS-IS Neighbor
      Link-Attribute Bit Values. T. Li. August 2024. (Format: HTML, TXT,
@@ -84,5 +83,5 @@
      10.17487/RFC9654) 
 
 ===========================================================================
- - This file last updated Tue 27 Aug 2024 02:30:01 AM PDT
+ - This file last updated Wed 28 Aug 2024 02:30:01 AM PDT
 
