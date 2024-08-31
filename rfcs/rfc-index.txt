@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/29/2024.)
+(CREATED ON: 08/31/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -10359,7 +10359,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 2661 Layer Two Tunneling Protocol "L2TP". W. Townsley, A. Valencia, A.
      Rubens, G. Pall, G. Zorn, B. Palter. August 1999. (Format: TXT,
-     HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC2661) 
+     HTML) (Updated by RFC9601) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC2661) 
 
 2662 Definitions of Managed Objects for the ADSL Lines. G. Bathrick, F.
      Ly. August 1999. (Format: TXT, HTML) (Status: PROPOSED STANDARD)
@@ -10871,7 +10872,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 2784 Generic Routing Encapsulation (GRE). D. Farinacci, T. Li, S. Hanks,
      D. Meyer, P. Traina. March 2000. (Format: TXT, HTML) (Updated by
-     RFC2890) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC2784) 
+     RFC2890, RFC9601) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC2784) 
 
 2785 Methods for Avoiding the "Small-Subgroup" Attacks on the
      Diffie-Hellman Key Agreement Method for S/MIME. R. Zuccherato. March
@@ -15358,8 +15360,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 3819 Advice for Internet Subnetwork Designers. P. Karn, Ed., C. Bormann,
      G. Fairhurst, D. Grossman, R. Ludwig, J. Mahdavi, G. Montenegro, J.
-     Touch, L. Wood. July 2004. (Format: TXT, HTML) (Also BCP0089)
-     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC3819) 
+     Touch, L. Wood. July 2004. (Format: TXT, HTML) (Updated by RFC9599)
+     (Also BCP0089) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC3819) 
 
 3820 Internet X.509 Public Key Infrastructure (PKI) Proxy Certificate
      Profile. S. Tuecke, V. Welch, D. Engert, L. Pearlman, M. Thompson.
@@ -15836,7 +15839,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 3931 Layer Two Tunneling Protocol - Version 3 (L2TPv3). J. Lau, Ed., M.
      Townsley, Ed., I. Goyret, Ed.. March 2005. (Format: TXT, HTML)
-     (Updated by RFC5641) (Status: PROPOSED STANDARD) (DOI:
+     (Updated by RFC5641, RFC9601) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC3931) 
 
 3932 The IESG and RFC Editor Documents: Procedures. H. Alvestrand.
@@ -17810,7 +17813,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 4380 Teredo: Tunneling IPv6 over UDP through Network Address Translations
      (NATs). C. Huitema. February 2006. (Format: TXT, HTML) (Updated by
-     RFC5991, RFC6081) (Status: PROPOSED STANDARD) (DOI:
+     RFC5991, RFC6081, RFC9601) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC4380) 
 
 4381 Analysis of the Security of BGP/MPLS IP Virtual Private Networks
@@ -21717,8 +21720,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Revocation List (CRL) Profile. D. Cooper, S. Santesson, S. Farrell,
      S. Boeyen, R. Housley, W. Polk. May 2008. (Format: TXT, HTML)
      (Obsoletes RFC3280, RFC4325, RFC4630) (Updated by RFC6818, RFC8398,
-     RFC8399, RFC9549, RFC9598, RFC9608) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC5280) 
+     RFC8399, RFC9549, RFC9598, RFC9608, RFC9618) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC5280) 
 
 5281 Extensible Authentication Protocol Tunneled Transport Layer Security
      Authenticated Protocol Version 0 (EAP-TTLSv0). P. Funk, S.
@@ -25015,7 +25018,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6040 Tunnelling of Explicit Congestion Notification. B. Briscoe. November
      2010. (Format: TXT, HTML) (Updates RFC3168, RFC4301, RFC4774)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6040) 
+     (Updated by RFC9601) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC6040) 
 
 6041 Forwarding and Control Element Separation (ForCES) Applicability
      Statement. A. Crouch, H. Khosravi, A. Doria, Ed., X. Wang, K. Ogawa.
@@ -31195,8 +31199,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC7449) 
 
 7450 Automatic Multicast Tunneling. G. Bumgardner. February 2015.
-     (Format: TXT, HTML) (Updated by RFC8777) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC7450) 
+     (Format: TXT, HTML) (Updated by RFC8777, RFC9601) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC7450) 
 
 7451 Extension Registry for the Extensible Provisioning Protocol. S.
      Hollenbeck. February 2015. (Format: TXT, HTML) (Status:
@@ -40851,6 +40855,21 @@ See the RFC Editor Web page http://www.rfc-editor.org
      XML) (Obsoletes RFC8398) (Updates RFC5280) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9598) 
 
+9599 Guidelines for Adding Congestion Notification to Protocols that
+     Encapsulate IP. B. Briscoe, J. Kaippallimalil. August 2024. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC3819) (Also BCP0089) (Status: BEST
+     CURRENT PRACTICE) (DOI: 10.17487/RFC9599) 
+
+9600 TRansparent Interconnection of Lots of Links (TRILL): Explicit
+     Congestion Notification (ECN) Support. D. Eastlake 3rd, B. Briscoe.
+     August 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9600) 
+
+9601 Propagating Explicit Congestion Notification across IP Tunnel
+     Headers Separated by a Shim. B. Briscoe. August 2024. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC2661, RFC2784, RFC3931, RFC4380, RFC6040,
+     RFC7450) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9601) 
+
 9603 Path Computation Element Communication Protocol (PCEP) Extensions
      for IPv6 Segment Routing. C. Li, Ed., P. Kaladharan, S. Sivabalan,
      M. Koldychev, Y. Zhu. July 2024. (Format: HTML, TXT, PDF, XML)
@@ -40907,6 +40926,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Maintenance (IOAM). T. Zhou, Ed., J. Guichard, F. Brockners, S.
      Raghavan. August 2024. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9617) 
+
+9618 Updates to X.509 Policy Validation. D. Benjamin. August 2024.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC5280) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9618) 
 
 9619 In the DNS, QDCOUNT Is (Usually) One. R. Bellis, J. Abley. July
      2024. (Format: HTML, TXT, PDF, XML) (Updates RFC1035) (Status:
