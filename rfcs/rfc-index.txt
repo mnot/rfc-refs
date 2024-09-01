@@ -40935,6 +40935,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2024. (Format: HTML, TXT, PDF, XML) (Updates RFC1035) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9619) 
 
+9624 EVPN Broadcast, Unknown Unicast, or Multicast (BUM) Using Bit Index
+     Explicit Replication (BIER). Z. Zhang, T. Przygienda, A. Sajassi, J.
+     Rabadan. August 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9624) 
+
+9625 EVPN Optimized Inter-Subnet Multicast (OISM) Forwarding. W. Lin, Z.
+     Zhang, J. Drake, E. Rosen, Ed., J. Rabadan, A. Sajassi. August 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9625) 
+
 9629 Using Key Encapsulation Mechanism (KEM) Algorithms in the
      Cryptographic Message Syntax (CMS). R. Housley, J. Gray, T. Okubo.
      August 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC5652)
