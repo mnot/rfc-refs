@@ -4,20 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9606 DNS Resolver Information. T. Reddy.K, M. Boucadair. June 2024.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9606) 
-
-9607 RTP Payload Format for the Secure Communication Interoperability
-     Protocol (SCIP) Codec. D. Hanson, M. Faller, K. Maver. July 2024.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9607) 
-
-9608 No Revocation Available for X.509 Public Key Certificates. R.
-     Housley, T. Okubo, J. Mandel. June 2024. (Format: HTML, TXT, PDF,
-     XML) (Updates RFC5280) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9608) 
-
 9611 Internet Key Exchange Protocol Version 2 (IKEv2) Support for
      Per-Resource Child Security Associations (SAs). A. Antony, T.
      Brunner, S. Klassert, P. Wouters. July 2024. (Format: HTML, TXT,
@@ -46,9 +32,23 @@
      Raghavan. August 2024. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9617) 
 
+9618 Updates to X.509 Policy Validation. D. Benjamin. August 2024.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC5280) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9618) 
+
 9619 In the DNS, QDCOUNT Is (Usually) One. R. Bellis, J. Abley. July
      2024. (Format: HTML, TXT, PDF, XML) (Updates RFC1035) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9619) 
+
+9624 EVPN Broadcast, Unknown Unicast, or Multicast (BUM) Using Bit Index
+     Explicit Replication (BIER). Z. Zhang, T. Przygienda, A. Sajassi, J.
+     Rabadan. August 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9624) 
+
+9625 EVPN Optimized Inter-Subnet Multicast (OISM) Forwarding. W. Lin, Z.
+     Zhang, J. Drake, E. Rosen, Ed., J. Rabadan, A. Sajassi. August 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9625) 
 
 9629 Using Key Encapsulation Mechanism (KEM) Algorithms in the
      Cryptographic Message Syntax (CMS). R. Housley, J. Gray, T. Okubo.
@@ -83,5 +83,5 @@
      10.17487/RFC9654) 
 
 ===========================================================================
- - This file last updated Fri 30 Aug 2024 02:30:01 AM PDT
+ - This file last updated Mon 02 Sep 2024 02:30:01 AM PDT
 
