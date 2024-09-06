@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/04/2024.)
+(CREATED ON: 09/05/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -24555,8 +24555,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5933 Use of GOST Signature Algorithms in DNSKEY and RRSIG Resource
      Records for DNSSEC. V. Dolmatov, Ed., A. Chuprina, I. Ustinov. July
-     2010. (Format: TXT, HTML) (Updated by RFC6944) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC5933) 
+     2010. (Format: TXT, HTML) (Updated by RFC6944) (Status: HISTORIC)
+     (DOI: 10.17487/RFC5933) 
 
 5934 Trust Anchor Management Protocol (TAMP). R. Housley, S. Ashmore, C.
      Wallace. August 2010. (Format: TXT, HTML) (Status: PROPOSED
