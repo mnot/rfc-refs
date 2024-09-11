@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/09/2024.)
+(CREATED ON: 09/11/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40725,6 +40725,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      IPv6. A. Lindem, A. Dogra. April 2024. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC5798) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9568) 
+
+9569 The Application-Layer Traffic Optimization (ALTO) Transport
+     Information Publication Service (TIPS). K. Gao, R. Schott, Y. R.
+     Yang, L. Delwiche, L. Keller. September 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9569) 
 
 9570 Deprecating the Use of Router Alert in LSP Ping. K. Kompella, R.
      Bonica, G. Mirsky, Ed.. May 2024. (Format: HTML, TXT, PDF, XML)
