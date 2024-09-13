@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/11/2024.)
+(CREATED ON: 09/12/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -34900,8 +34900,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC8279) 
 
 8280 Research into Human Rights Protocol Considerations. N. ten Oever, C.
-     Cath. October 2017. (Format: TXT, HTML) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC8280) 
+     Cath. October 2017. (Format: TXT, HTML) (Updated by RFC9620)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC8280) 
 
 8281 Path Computation Element Communication Protocol (PCEP) Extensions
      for PCE-Initiated LSP Setup in a Stateful PCE Model. E. Crabbe, I.
@@ -40939,6 +40939,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9619 In the DNS, QDCOUNT Is (Usually) One. R. Bellis, J. Abley. July
      2024. (Format: HTML, TXT, PDF, XML) (Updates RFC1035) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9619) 
+
+9620 Guidelines for Human Rights Protocol and Architecture
+     Considerations. G. Grover, N. ten Oever. September 2024. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC8280) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9620) 
 
 9624 EVPN Broadcast, Unknown Unicast, or Multicast (BUM) Using Bit Index
      Explicit Replication (BIER). Z. Zhang, T. Przygienda, A. Sajassi, J.
