@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9611 Internet Key Exchange Protocol Version 2 (IKEv2) Support for
-     Per-Resource Child Security Associations (SAs). A. Antony, T.
-     Brunner, S. Klassert, P. Wouters. July 2024. (Format: HTML, TXT,
-     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9611) 
-
 9612 Bidirectional Forwarding Detection (BFD) Reverse Path for MPLS Label
      Switched Paths (LSPs). G. Mirsky, J. Tantsura, I. Varlashkin, M.
      Chen. July 2024. (Format: HTML, TXT, PDF, XML) (Status:
@@ -39,6 +34,11 @@
 9619 In the DNS, QDCOUNT Is (Usually) One. R. Bellis, J. Abley. July
      2024. (Format: HTML, TXT, PDF, XML) (Updates RFC1035) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9619) 
+
+9620 Guidelines for Human Rights Protocol and Architecture
+     Considerations. G. Grover, N. ten Oever. September 2024. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC8280) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9620) 
 
 9624 EVPN Broadcast, Unknown Unicast, or Multicast (BUM) Using Bit Index
      Explicit Replication (BIER). Z. Zhang, T. Przygienda, A. Sajassi, J.
@@ -83,5 +83,5 @@
      10.17487/RFC9654) 
 
 ===========================================================================
- - This file last updated Thu 12 Sep 2024 02:30:01 AM PDT
+ - This file last updated Fri 13 Sep 2024 02:30:01 AM PDT
 

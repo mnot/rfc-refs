@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/12/2024.)
+(CREATED ON: 09/14/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40842,6 +40842,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9593) 
 
+9594 Key Provisioning for Group Communication Using Authentication and
+     Authorization for Constrained Environments (ACE). F. Palombini, M.
+     Tiloca. September 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9594) 
+
 9595 YANG Schema Item iDentifier (YANG SID). M. Veillette, Ed., A. Pelov,
      Ed., I. Petrov, Ed., C. Bormann, M. Richardson. July 2024. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -40926,6 +40931,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Zone's Operator. P. Thomassen, N. Wisiol. July 2024. (Format: HTML,
      TXT, PDF, XML) (Updates RFC7344, RFC8078) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9615) 
+
+9616 Delay-Based Metric Extension for the Babel Routing Protocol. B.
+     Jonglez, J. Chroboczek. September 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9616) 
 
 9617 A YANG Data Model for In Situ Operations, Administration, and
      Maintenance (IOAM). T. Zhou, Ed., J. Guichard, F. Brockners, S.
