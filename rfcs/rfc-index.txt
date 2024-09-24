@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/20/2024.)
+(CREATED ON: 09/23/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -38367,8 +38367,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9048 Improved Extensible Authentication Protocol Method for 3GPP Mobile
      Network Authentication and Key Agreement (EAP-AKA'). J. Arkko, V.
      Lehtovirta, V. Torvinen, P. Eronen. October 2021. (Format: HTML,
-     TXT, PDF, XML) (Updates RFC5448, RFC4187) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC9048) 
+     TXT, PDF, XML) (Updates RFC5448, RFC4187) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9048) 
 
 9049 Path Aware Networking: Obstacles to Deployment (A Bestiary of Roads
      Not Taken). S. Dawkins, Ed.. June 2021. (Format: HTML, TXT, PDF,
