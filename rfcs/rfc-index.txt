@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/24/2024.)
+(CREATED ON: 09/25/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40985,6 +40985,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9637 Expanding the IPv6 Documentation Space. G. Huston, N. Buraglio.
      August 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC3849)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9637) 
+
+9638 Network Virtualization over Layer 3 (NVO3) Encapsulation
+     Considerations. S. Boutros, D. Eastlake 3rd, Ed.. September 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9638) 
 
 9650 Revision to Registration Procedures for IS-IS Neighbor
      Link-Attribute Bit Values. T. Li. August 2024. (Format: HTML, TXT,
