@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9613 Requirements for Solutions that Support MPLS Network Actions (MNAs).
-     M. Bocci, Ed., S. Bryant, J. Drake. August 2024. (Format: HTML, TXT,
-     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9613) 
-
 9614 Partitioning as an Architecture for Privacy. M. Kühlewind, T. Pauly,
      C. A. Wood. July 2024. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9614) 
@@ -71,6 +67,11 @@
      August 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC3849)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9637) 
 
+9638 Network Virtualization over Layer 3 (NVO3) Encapsulation
+     Considerations. S. Boutros, D. Eastlake 3rd, Ed.. September 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9638) 
+
 9650 Revision to Registration Procedures for IS-IS Neighbor
      Link-Attribute Bit Values. T. Li. August 2024. (Format: HTML, TXT,
      PDF, XML) (Updates RFC5029) (Status: PROPOSED STANDARD) (DOI:
@@ -82,5 +83,5 @@
      10.17487/RFC9654) 
 
 ===========================================================================
- - This file last updated Wed 25 Sep 2024 02:30:01 AM PDT
+ - This file last updated Thu 26 Sep 2024 02:30:01 AM PDT
 
