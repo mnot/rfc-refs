@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/26/2024.)
+(CREATED ON: 09/27/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -37587,8 +37587,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8878 Zstandard Compression and the 'application/zstd' Media Type. Y.
      Collet, M. Kucherawy, Ed.. February 2021. (Format: HTML, TXT, PDF,
-     XML) (Obsoletes RFC8478) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC8878) 
+     XML) (Obsoletes RFC8478) (Updated by RFC9659) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC8878) 
 
 8879 TLS Certificate Compression. A. Ghedini, V. Vasiliev. December 2020.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -40996,7 +40996,20 @@ See the RFC Editor Web page http://www.rfc-editor.org
      PDF, XML) (Updates RFC5029) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9650) 
 
+9653 Zero Checksum for the Stream Control Transmission Protocol. M.
+     Tüxen, V. Boivie, F. Castelli, R. Jesup. September 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9653) 
+
 9654 Online Certificate Status Protocol (OCSP) Nonce Extension. H.
      Sharma, Ed.. August 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC8954) (Updates RFC6960) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9654) 
+
+9659 Window Sizing for Zstandard Content Encoding. N. Jaju, Ed., W. F.
+     Handte, Ed.. September 2024. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC8878) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9659) 
+
+9661 The JSON Meta Application Protocol (JMAP) for Sieve Scripts. K.
+     Murchison. September 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9661) 
