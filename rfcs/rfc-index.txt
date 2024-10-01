@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/27/2024.)
+(CREATED ON: 09/30/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -5318,7 +5318,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 1436 The Internet Gopher Protocol (a distributed document search and
      retrieval protocol). F. Anklesaria, M. McCahill, P. Lindner, D.
-     Johnson, D. Torrey, B. Albert. March 1993. (Format: TXT, HTML)
+     Johnson, D. Torrey, B. Alberti. March 1993. (Format: TXT, HTML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC1436) 
 
 1437 The Extension of MIME Content-Types to a New Medium. N. Borenstein,
@@ -37877,8 +37877,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      PROPOSED STANDARD) (DOI: 10.17487/RFC8940) 
 
 8941 Structured Field Values for HTTP. M. Nottingham, P-H. Kamp. February
-     2021. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC8941) 
+     2021. (Format: HTML, TXT, PDF, XML) (Obsoleted by RFC9651) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8941) 
 
 8942 HTTP Client Hints. I. Grigorik, Y. Weiss. February 2021. (Format:
      HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC8942) 
@@ -40996,6 +40996,14 @@ See the RFC Editor Web page http://www.rfc-editor.org
      PDF, XML) (Updates RFC5029) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9650) 
 
+9651 Structured Field Values for HTTP. M. Nottingham, P-H. Kamp.
+     September 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8941)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9651) 
+
+9652 The Link-Template HTTP Header Field. M. Nottingham. September 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9652) 
+
 9653 Zero Checksum for the Stream Control Transmission Protocol. M.
      Tüxen, V. Boivie, F. Castelli, R. Jesup. September 2024. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -41005,6 +41013,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Sharma, Ed.. August 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC8954) (Updates RFC6960) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9654) 
+
+9656 A YANG Data Model for Microwave Topology. S. Mansfield, Ed., J.
+     Ahlberg, M. Ye, X. Li, D. Spreafico. September 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9656) 
 
 9659 Window Sizing for Zstandard Content Encoding. N. Jaju, Ed., W. F.
      Handte, Ed.. September 2024. (Format: HTML, TXT, PDF, XML) (Updates
