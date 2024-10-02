@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9617 A YANG Data Model for In Situ Operations, Administration, and
-     Maintenance (IOAM). T. Zhou, Ed., J. Guichard, F. Brockners, S.
-     Raghavan. August 2024. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9617) 
-
-9618 Updates to X.509 Policy Validation. D. Benjamin. August 2024.
-     (Format: HTML, TXT, PDF, XML) (Updates RFC5280) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9618) 
-
 9619 In the DNS, QDCOUNT Is (Usually) One. R. Bellis, J. Abley. July
      2024. (Format: HTML, TXT, PDF, XML) (Updates RFC1035) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9619) 
@@ -64,6 +55,14 @@
      PDF, XML) (Updates RFC5029) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9650) 
 
+9651 Structured Field Values for HTTP. M. Nottingham, P-H. Kamp.
+     September 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8941)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9651) 
+
+9652 The Link-Template HTTP Header Field. M. Nottingham. September 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9652) 
+
 9653 Zero Checksum for the Stream Control Transmission Protocol. M.
      Tüxen, V. Boivie, F. Castelli, R. Jesup. September 2024. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -74,6 +73,10 @@
      RFC8954) (Updates RFC6960) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9654) 
 
+9656 A YANG Data Model for Microwave Topology. S. Mansfield, Ed., J.
+     Ahlberg, M. Ye, X. Li, D. Spreafico. September 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9656) 
+
 9659 Window Sizing for Zstandard Content Encoding. N. Jaju, Ed., W. F.
      Handte, Ed.. September 2024. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8878) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9659) 
@@ -83,5 +86,5 @@
      PROPOSED STANDARD) (DOI: 10.17487/RFC9661) 
 
 ===========================================================================
- - This file last updated Mon 30 Sep 2024 02:30:01 AM PDT
+ - This file last updated Tue 01 Oct 2024 02:30:01 AM PDT
 
