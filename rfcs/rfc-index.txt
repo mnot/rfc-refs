@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/02/2024.)
+(CREATED ON: 10/03/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -10428,7 +10428,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (DOI: 10.17487/RFC2675) 
 
 2676 QoS Routing Mechanisms and OSPF Extensions. G. Apostolopoulos, S.
-     Kama, D. Williams, R. Guerin, A. Orda, T. Przygienda. August 1999.
+     Kamat, D. Williams, R. Guerin, A. Orda, T. Przygienda. August 1999.
      (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC2676) 
 
 2677 Definitions of Managed Objects for the NBMA Next Hop Resolution
@@ -20538,7 +20538,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      by RFC6318) (Status: HISTORIC) (DOI: 10.17487/RFC5008) 
 
 5009 Private Header (P-Header) Extension to the Session Initiation
-     Protocol (SIP) for Authorization of Early Media. R. Ejza. September
+     Protocol (SIP) for Authorization of Early Media. R. Ejzak. September
      2007. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC5009) 
 
