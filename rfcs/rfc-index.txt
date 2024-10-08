@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/04/2024.)
+(CREATED ON: 10/07/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -22348,7 +22348,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5425 Transport Layer Security (TLS) Transport Mapping for Syslog. F.
      Miao, Ed., Y. Ma, Ed., J. Salowey, Ed.. March 2009. (Format: TXT,
-     HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5425) 
+     HTML) (Updated by RFC9662) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC5425) 
 
 5426 Transmission of Syslog Messages over UDP. A. Okmianski. March 2009.
      (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
@@ -24900,8 +24901,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6012 Datagram Transport Layer Security (DTLS) Transport Mapping for
      Syslog. J. Salowey, T. Petch, R. Gerhards, H. Feng. October 2010.
-     (Format: TXT, HTML) (Updated by RFC8996) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC6012) 
+     (Format: TXT, HTML) (Updated by RFC8996, RFC9662) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC6012) 
 
 6013 TCP Cookie Transactions (TCPCT). W. Simpson. January 2011. (Format:
      TXT, HTML) (Obsoleted by RFC7805) (Status: HISTORIC) (DOI:
@@ -41025,3 +41026,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9661 The JSON Meta Application Protocol (JMAP) for Sieve Scripts. K.
      Murchison. September 2024. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9661) 
+
+9662 Updates to the Cipher Suites in Secure Syslog. C. Lonvick, S.
+     Turner, J. Salowey. October 2024. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC5425, RFC6012) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9662) 
+
+9663 Using DHCPv6 Prefix Delegation (DHCPv6-PD) to Allocate Unique IPv6
+     Prefixes per Client in Large Broadcast Networks. L. Colitti, J.
+     Linkova, Ed., X. Ma, Ed.. October 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9663) 
