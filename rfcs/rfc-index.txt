@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/07/2024.)
+(CREATED ON: 10/08/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40983,6 +40983,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Housley. August 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC9092) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9632) 
 
+9635 Grant Negotiation and Authorization Protocol (GNAP). J. Richer, Ed.,
+     F. Imbault. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9635) 
+
 9637 Expanding the IPv6 Documentation Space. G. Huston, N. Buraglio.
      August 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC3849)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9637) 
@@ -41018,6 +41022,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9656 A YANG Data Model for Microwave Topology. S. Mansfield, Ed., J.
      Ahlberg, M. Ye, X. Li, D. Spreafico. September 2024. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9656) 
+
+9657 Time-Variant Routing (TVR) Use Cases. E. Birrane, III, N. Kuhn, Y.
+     Qu, R. Taylor, L. Zhang. October 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9657) 
 
 9659 Window Sizing for Zstandard Content Encoding. N. Jaju, Ed., W. F.
      Handte, Ed.. September 2024. (Format: HTML, TXT, PDF, XML) (Updates
