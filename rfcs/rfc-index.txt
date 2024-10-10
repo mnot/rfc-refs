@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/08/2024.)
+(CREATED ON: 10/09/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -17324,8 +17324,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 4271 A Border Gateway Protocol 4 (BGP-4). Y. Rekhter, Ed., T. Li, Ed., S.
      Hares, Ed.. January 2006. (Format: TXT, HTML) (Obsoletes RFC1771)
-     (Updated by RFC6286, RFC6608, RFC6793, RFC7606, RFC7607, RFC7705,
-     RFC8212, RFC8654, RFC9072) (Status: DRAFT STANDARD) (DOI:
+     (Updated by RFC4724, RFC6286, RFC6608, RFC6793, RFC7606, RFC7607,
+     RFC7705, RFC8212, RFC8654, RFC9072) (Status: DRAFT STANDARD) (DOI:
      10.17487/RFC4271) 
 
 4272 BGP Security Vulnerabilities Analysis. S. Murphy. January 2006.
@@ -19320,8 +19320,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC4723) 
 
 4724 Graceful Restart Mechanism for BGP. S. Sangli, E. Chen, R. Fernando,
-     J. Scudder, Y. Rekhter. January 2007. (Format: TXT, HTML) (Updated
-     by RFC8538) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4724) 
+     J. Scudder, Y. Rekhter. January 2007. (Format: TXT, HTML) (Updates
+     RFC4271) (Updated by RFC8538) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC4724) 
 
 4725 ENUM Validation Architecture. A. Mayrhofer, B. Hoeneisen. November
      2006. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
@@ -41023,7 +41024,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Ahlberg, M. Ye, X. Li, D. Spreafico. September 2024. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9656) 
 
-9657 Time-Variant Routing (TVR) Use Cases. E. Birrane, III, N. Kuhn, Y.
+9657 Time-Variant Routing (TVR) Use Cases. E. Birrane III, N. Kuhn, Y.
      Qu, R. Taylor, L. Zhang. October 2024. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9657) 
 
