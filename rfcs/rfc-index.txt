@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/09/2024.)
+(CREATED ON: 10/11/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -36209,8 +36209,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      PROPOSED STANDARD) (DOI: 10.17487/RFC8571) 
 
 8572 Secure Zero Touch Provisioning (SZTP). K. Watsen, I. Farrer, M.
-     Abrahamsson. April 2019. (Format: TXT, HTML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8572) 
+     Abrahamsson. April 2019. (Format: TXT, HTML) (Updated by RFC9646)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8572) 
 
 8573 Message Authentication Code for the Network Time Protocol. A.
      Malhotra, S. Goldberg. June 2019. (Format: TXT, HTML) (Updates
@@ -40996,6 +40996,43 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Considerations. S. Boutros, D. Eastlake 3rd, Ed.. September 2024.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9638) 
+
+9640 YANG Data Types and Groupings for Cryptography. K. Watsen. October
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9640) 
+
+9641 A YANG Data Model for a Truststore. K. Watsen. October 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9641) 
+
+9642 A YANG Data Model for a Keystore. K. Watsen. October 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9642) 
+
+9643 YANG Groupings for TCP Clients and TCP Servers. K. Watsen, M.
+     Scharf. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9643) 
+
+9644 YANG Groupings for SSH Clients and SSH Servers. K. Watsen. October
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9644) 
+
+9645 YANG Groupings for TLS Clients and TLS Servers. K. Watsen. October
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9645) 
+
+9646 Conveying a Certificate Signing Request (CSR) in a Secure Zero-Touch
+     Provisioning (SZTP) Bootstrapping Request. K. Watsen, R. Housley, S.
+     Turner. October 2024. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC8572) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9646) 
+
+9647 A YANG Data Model for Babel. M. Jethanandani, B. Stark. October
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9647) 
+
+9648 YANG Data Model for TCP. M. Scharf, M. Jethanandani, V. Murgai.
+     October 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9648) 
 
 9650 Revision to Registration Procedures for IS-IS Neighbor
      Link-Attribute Bit Values. T. Li. August 2024. (Format: HTML, TXT,
