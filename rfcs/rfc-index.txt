@@ -7064,8 +7064,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: TXT, HTML) (Obsoleted by RFC2112) (Status: EXPERIMENTAL)
      (DOI: 10.17487/RFC1872) 
 
-1873 Message/External-Body Content-ID Access Type. E. Levinson. December
-     1995. (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI:
+1873 Message/External-Body Content-ID Access Type. E. Levinson, J. Clark.
+     December 1995. (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC1873) 
 
 1874 SGML Media Types. E. Levinson. December 1995. (Format: TXT, HTML)
@@ -41069,6 +41069,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Handte, Ed.. September 2024. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8878) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9659) 
 
+9660 The DNS Zone Version (ZONEVERSION) Option. H. Salgado, M. Vergara,
+     D. Wessels. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9660) 
+
 9661 The JSON Meta Application Protocol (JMAP) for Sieve Scripts. K.
      Murchison. September 2024. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9661) 
@@ -41082,3 +41086,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Prefixes per Client in Large Broadcast Networks. L. Colitti, J.
      Linkova, Ed., X. Ma, Ed.. October 2024. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9663) 
+
+9671 Sieve Email Filtering: Extension for Processing Calendar
+     Attachments. K. Murchison, R. Signes, M. Horsfall. October 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9671) 
