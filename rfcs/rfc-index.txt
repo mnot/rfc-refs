@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/11/2024.)
+(CREATED ON: 10/14/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -37206,8 +37206,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC8793) 
 
 8794 Extensible Binary Meta Language. S. Lhomme, D. Rice, M. Bunkus. July
-     2020. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC8794) 
+     2020. (Format: HTML, TXT, PDF, XML) (Updated by RFC9559) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8794) 
 
 8795 YANG Data Model for Traffic Engineering (TE) Topologies. X. Liu, I.
      Bryskin, V. Beeram, T. Saad, H. Shah, O. Gonzalez de Dios. August
@@ -40690,6 +40690,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Records for DNSSEC. B. Makarenko, V. Dolmatov, Ed.. April 2024.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9558) 
+
+9559 Matroska Media Container Format Specification. S. Lhomme, M. Bunkus,
+     D. Rice. October 2024. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC8794) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9559) 
 
 9560 Federated Authentication for the Registration Data Access Protocol
      (RDAP) Using OpenID Connect. S. Hollenbeck. April 2024. (Format:

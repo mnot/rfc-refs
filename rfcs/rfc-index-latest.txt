@@ -4,14 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9642 A YANG Data Model for a Keystore. K. Watsen. October 2024. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9642) 
-
-9643 YANG Groupings for TCP Clients and TCP Servers. K. Watsen, M.
-     Scharf. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9643) 
-
 9644 YANG Groupings for SSH Clients and SSH Servers. K. Watsen. October
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9644) 
@@ -68,6 +60,10 @@
      Handte, Ed.. September 2024. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8878) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9659) 
 
+9660 The DNS Zone Version (ZONEVERSION) Option. H. Salgado, M. Vergara,
+     D. Wessels. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9660) 
+
 9661 The JSON Meta Application Protocol (JMAP) for Sieve Scripts. K.
      Murchison. September 2024. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9661) 
@@ -82,6 +78,11 @@
      Linkova, Ed., X. Ma, Ed.. October 2024. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9663) 
 
+9671 Sieve Email Filtering: Extension for Processing Calendar
+     Attachments. K. Murchison, R. Signes, M. Horsfall. October 2024.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9671) 
+
 ===========================================================================
- - This file last updated Fri 11 Oct 2024 02:30:01 AM PDT
+ - This file last updated Mon 14 Oct 2024 02:30:01 AM PDT
 
