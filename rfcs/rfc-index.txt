@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/18/2024.)
+(CREATED ON: 10/22/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40885,6 +40885,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Headers Separated by a Shim. B. Briscoe. August 2024. (Format: HTML,
      TXT, PDF, XML) (Updates RFC2661, RFC2784, RFC3931, RFC4380, RFC6040,
      RFC7450) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9601) 
+
+9602 Segment Routing over IPv6 (SRv6) Segment Identifiers in the IPv6
+     Addressing Architecture. S. Krishnan. October 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9602) 
 
 9603 Path Computation Element Communication Protocol (PCEP) Extensions
      for IPv6 Segment Routing. C. Li, Ed., P. Kaladharan, S. Sivabalan,
