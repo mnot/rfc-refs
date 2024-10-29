@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/25/2024.)
+(CREATED ON: 10/28/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -30556,8 +30556,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7306) 
 
 7307 LDP Extensions for Multi-Topology. Q. Zhao, K. Raza, C. Zhou, L.
-     Fang, L. Li, D. King. July 2014. (Format: TXT, HTML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC7307) 
+     Fang, L. Li, D. King. July 2014. (Format: TXT, HTML) (Updated by
+     RFC9658) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7307) 
 
 7308 Extended Administrative Groups in MPLS Traffic Engineering
      (MPLS-TE). E. Osborne. July 2014. (Format: TXT, HTML) (Status:
@@ -40992,6 +40992,15 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Housley. August 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC9092) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9632) 
 
+9633 Deterministic Networking (DetNet) YANG Data Model. X. Geng, Y. Ryoo,
+     D. Fedyk, R. Rahman, Z. Li. October 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9633) 
+
+9634 Operations, Administration, and Maintenance (OAM) for Deterministic
+     Networking (DetNet) with the IP Data Plane. G. Mirsky, M. Chen, D.
+     Black. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9634) 
+
 9635 Grant Negotiation and Authorization Protocol (GNAP). J. Richer, Ed.,
      F. Imbault. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9635) 
@@ -41072,6 +41081,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9657 Time-Variant Routing (TVR) Use Cases. E. Birrane III, N. Kuhn, Y.
      Qu, R. Taylor, L. Zhang. October 2024. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9657) 
+
+9658 Multipoint LDP Extensions for Multi-Topology Routing. IJ. Wijnands,
+     M. Mishra, Ed., K. Raza, Z. Zhang, A. Gulko. October 2024. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC7307) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9658) 
 
 9659 Window Sizing for Zstandard Content Encoding. N. Jaju, Ed., W. F.
      Handte, Ed.. September 2024. (Format: HTML, TXT, PDF, XML) (Updates
