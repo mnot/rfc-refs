@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9645 YANG Groupings for TLS Clients and TLS Servers. K. Watsen. October
-     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9645) 
-
 9646 Conveying a Certificate Signing Request (CSR) in a Secure Zero-Touch
      Provisioning (SZTP) Bootstrapping Request. K. Watsen, R. Housley, S.
      Turner. October 2024. (Format: HTML, TXT, PDF, XML) (Updates
@@ -84,6 +80,10 @@
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9671) 
 
+9680 Antitrust Guidelines for IETF Participants. J. Halpern, Ed., J.
+     Daley. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9680) 
+
 ===========================================================================
- - This file last updated Wed 30 Oct 2024 02:30:01 AM PDT
+ - This file last updated Thu 31 Oct 2024 02:30:01 AM PDT
 

@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/30/2024.)
+(CREATED ON: 11/01/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -34538,8 +34538,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC8199) 
 
 8200 Internet Protocol, Version 6 (IPv6) Specification. S. Deering, R.
-     Hinden. July 2017. (Format: TXT, HTML) (Obsoletes RFC2460) (Also
-     STD0086) (Status: INTERNET STANDARD) (DOI: 10.17487/RFC8200) 
+     Hinden. July 2017. (Format: TXT, HTML) (Obsoletes RFC2460) (Updated
+     by RFC9673) (Also STD0086) (Status: INTERNET STANDARD) (DOI:
+     10.17487/RFC8200) 
 
 8201 Path MTU Discovery for IP version 6. J. McCann, S. Deering, J.
      Mogul, R. Hinden, Ed.. July 2017. (Format: TXT, HTML) (Obsoletes
@@ -36044,8 +36045,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8535 Not Issued. 
 
 8536 The Time Zone Information Format (TZif). A. Olson, P. Eggert, K.
-     Murchison. February 2019. (Format: TXT, HTML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8536) 
+     Murchison. February 2019. (Format: TXT, HTML) (Obsoleted by RFC9636)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8536) 
 
 8537 Updates to the Fast Reroute Procedures for Co-routed Associated
      Bidirectional Label Switched Paths (LSPs). R. Gandhi, Ed., H. Shah,
@@ -41005,6 +41006,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      F. Imbault. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9635) 
 
+9636 The Time Zone Information Format (TZif). A. Olson, P. Eggert, K.
+     Murchison. October 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC8536) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9636) 
+
 9637 Expanding the IPv6 Documentation Space. G. Huston, N. Buraglio.
      August 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC3849)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9637) 
@@ -41109,10 +41114,31 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Linkova, Ed., X. Ma, Ed.. October 2024. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9663) 
 
+9666 Area Proxy for IS-IS. T. Li, S. Chen, V. Ilangovan, G. Mishra.
+     October 2024. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL)
+     (DOI: 10.17487/RFC9666) 
+
+9667 Dynamic Flooding on Dense Graphs. T. Li, Ed., P. Psenak, Ed., H.
+     Chen, L. Jalil, S. Dontula. October 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9667) 
+
+9669 BPF Instruction Set Architecture (ISA). D. Thaler, Ed.. October
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9669) 
+
 9671 Sieve Email Filtering: Extension for Processing Calendar
      Attachments. K. Murchison, R. Signes, M. Horsfall. October 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9671) 
+
+9673 IPv6 Hop-by-Hop Options Processing Procedures. R. Hinden, G.
+     Fairhurst. October 2024. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC8200) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9673) 
+
+9677 Content Delivery Network Interconnection (CDNI) Metadata for
+     Delegated Credentials. F. Fieau, E. Stephan, G. Bichot, C. Neumann.
+     October 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9677) 
 
 9680 Antitrust Guidelines for IETF Participants. J. Halpern, Ed., J.
      Daley. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
