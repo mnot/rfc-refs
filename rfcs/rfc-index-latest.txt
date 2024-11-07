@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9652 The Link-Template HTTP Header Field. M. Nottingham. September 2024.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9652) 
-
 9653 Zero Checksum for the Stream Control Transmission Protocol. M.
      Tüxen, V. Boivie, F. Castelli, R. Jesup. September 2024. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -83,6 +79,11 @@
      Daley. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9680) 
 
+9687 Border Gateway Protocol 4 (BGP-4) Send Hold Timer. J. Snijders, B.
+     Cartwright-Cox, Y. Qu. November 2024. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC4271) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9687) 
+
 ===========================================================================
- - This file last updated Tue 05 Nov 2024 02:30:01 AM PST
+ - This file last updated Wed 06 Nov 2024 02:30:01 AM PST
 

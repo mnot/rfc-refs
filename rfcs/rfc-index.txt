@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/05/2024.)
+(CREATED ON: 11/06/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -17325,8 +17325,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 4271 A Border Gateway Protocol 4 (BGP-4). Y. Rekhter, Ed., T. Li, Ed., S.
      Hares, Ed.. January 2006. (Format: TXT, HTML) (Obsoletes RFC1771)
      (Updated by RFC4724, RFC6286, RFC6608, RFC6793, RFC7606, RFC7607,
-     RFC7705, RFC8212, RFC8654, RFC9072) (Status: DRAFT STANDARD) (DOI:
-     10.17487/RFC4271) 
+     RFC7705, RFC8212, RFC8654, RFC9072, RFC9687) (Status: DRAFT
+     STANDARD) (DOI: 10.17487/RFC4271) 
 
 4272 BGP Security Vulnerabilities Analysis. S. Murphy. January 2006.
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC4272) 
@@ -41143,3 +41143,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9680 Antitrust Guidelines for IETF Participants. J. Halpern, Ed., J.
      Daley. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9680) 
+
+9687 Border Gateway Protocol 4 (BGP-4) Send Hold Timer. J. Snijders, B.
+     Cartwright-Cox, Y. Qu. November 2024. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC4271) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9687) 
