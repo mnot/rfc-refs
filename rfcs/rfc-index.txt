@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/06/2024.)
+(CREATED ON: 11/07/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41134,6 +41134,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9673 IPv6 Hop-by-Hop Options Processing Procedures. R. Hinden, G.
      Fairhurst. October 2024. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8200) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9673) 
+
+9675 Delay-Tolerant Networking Management Architecture (DTNMA). E.
+     Birrane III, S. Heiner, E. Annis. November 2024. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9675) 
 
 9677 Content Delivery Network Interconnection (CDNI) Metadata for
      Delegated Credentials. F. Fieau, E. Stephan, G. Bichot, C. Neumann.
