@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/08/2024.)
+(CREATED ON: 11/09/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -19434,9 +19434,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      STANDARD) (DOI: 10.17487/RFC4749) 
 
 4750 OSPF Version 2 Management Information Base. D. Joyal, Ed., P.
-     Galecki, Ed., S. Giacalone, Ed., R. Coltun, F. Baker. December 2006.
-     (Format: TXT, HTML) (Obsoletes RFC1850) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC4750) 
+     Galecki, Ed., S. Giacalone, Ed.. December 2006. (Format: TXT, HTML)
+     (Obsoletes RFC1850) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC4750) 
 
 4751 Not Issued. 
 
