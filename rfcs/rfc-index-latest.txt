@@ -4,19 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9654 Online Certificate Status Protocol (OCSP) Nonce Extension. H.
-     Sharma, Ed.. August 2024. (Format: HTML, TXT, PDF, XML) (Obsoletes
-     RFC8954) (Updates RFC6960) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9654) 
-
-9656 A YANG Data Model for Microwave Topology. S. Mansfield, Ed., J.
-     Ahlberg, M. Ye, X. Li, D. Spreafico. September 2024. (Format: HTML,
-     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9656) 
-
-9657 Time-Variant Routing (TVR) Use Cases. E. Birrane III, N. Kuhn, Y.
-     Qu, R. Taylor, L. Zhang. October 2024. (Format: HTML, TXT, PDF, XML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9657) 
-
 9658 Multipoint LDP Extensions for Multi-Topology Routing. IJ. Wijnands,
      M. Mishra, Ed., K. Raza, Z. Zhang, A. Gulko. October 2024. (Format:
      HTML, TXT, PDF, XML) (Updates RFC7307) (Status: PROPOSED STANDARD)
@@ -52,6 +39,12 @@
      Chen, L. Jalil, S. Dontula. October 2024. (Format: HTML, TXT, PDF,
      XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9667) 
 
+9668 Using Ephemeral Diffie-Hellman Over COSE (EDHOC) with the
+     Constrained Application Protocol (CoAP) and Object Security for
+     Constrained RESTful Environments (OSCORE). F. Palombini, M. Tiloca,
+     R. Höglund, S. Hristozov, G. Selander. November 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9668) 
+
 9669 BPF Instruction Set Architecture (ISA). D. Thaler, Ed.. October
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9669) 
@@ -78,11 +71,19 @@
      Daley. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9680) 
 
+9682 Updates to the Concise Data Definition Language (CDDL) Grammar. C.
+     Bormann. November 2024. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC8610) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9682) 
+
 9687 Border Gateway Protocol 4 (BGP-4) Send Hold Timer. J. Snijders, B.
      Cartwright-Cox, Y. Qu. November 2024. (Format: HTML, TXT, PDF, XML)
      (Updates RFC4271) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9687) 
 
+9688 Use of the SHA3 One-Way Hash Functions in the Cryptographic Message
+     Syntax (CMS). R. Housley. November 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9688) 
+
 ===========================================================================
- - This file last updated Mon 18 Nov 2024 02:30:02 AM PST
+ - This file last updated Tue 19 Nov 2024 02:30:01 AM PST
 

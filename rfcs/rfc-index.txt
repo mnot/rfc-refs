@@ -36419,8 +36419,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8619) 
 
 8620 The JSON Meta Application Protocol (JMAP). N. Jenkins, C. Newman.
-     July 2019. (Format: TXT, HTML) (Updated by RFC9404) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC8620) 
+     July 2019. (Format: TXT, HTML) (Updated by RFC9404, RFC9670)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8620) 
 
 8621 The JSON Meta Application Protocol (JMAP) for Mail. N. Jenkins, C.
      Newman. August 2019. (Format: TXT, HTML) (Updates RFC5788) (Status:
@@ -41084,6 +41084,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      RFC8954) (Updates RFC6960) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9654) 
 
+9655 Egress Validation in Label Switched Path Ping and Traceroute
+     Mechanisms. D. Rathi, Ed., S. Hegde, Ed., K. Arora, Z. Ali, N.
+     Nainar. November 2024. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9655) 
+
 9656 A YANG Data Model for Microwave Topology. S. Mansfield, Ed., J.
      Ahlberg, M. Ye, X. Li, D. Spreafico. September 2024. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9656) 
@@ -41136,6 +41141,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9669 BPF Instruction Set Architecture (ISA). D. Thaler, Ed.. October
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9669) 
+
+9670 JSON Meta Application Protocol (JMAP) Sharing. N. Jenkins, Ed..
+     November 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC8620)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9670) 
 
 9671 Sieve Email Filtering: Extension for Processing Calendar
      Attachments. K. Murchison, R. Signes, M. Horsfall. October 2024.
