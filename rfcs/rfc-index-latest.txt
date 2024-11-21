@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9658 Multipoint LDP Extensions for Multi-Topology Routing. IJ. Wijnands,
-     M. Mishra, Ed., K. Raza, Z. Zhang, A. Gulko. October 2024. (Format:
-     HTML, TXT, PDF, XML) (Updates RFC7307) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9658) 
-
 9659 Window Sizing for Zstandard Content Encoding. N. Jaju, Ed., W. F.
      Handte, Ed.. September 2024. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8878) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9659) 
@@ -49,6 +44,10 @@
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9669) 
 
+9670 JSON Meta Application Protocol (JMAP) Sharing. N. Jenkins, Ed..
+     November 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC8620)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9670) 
+
 9671 Sieve Email Filtering: Extension for Processing Calendar
      Attachments. K. Murchison, R. Signes, M. Horsfall. October 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -85,5 +84,5 @@
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9688) 
 
 ===========================================================================
- - This file last updated Tue 19 Nov 2024 02:30:01 AM PST
+ - This file last updated Wed 20 Nov 2024 02:30:01 AM PST
 

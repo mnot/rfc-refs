@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/19/2024.)
+(CREATED ON: 11/20/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -19916,7 +19916,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 4861 Neighbor Discovery for IP version 6 (IPv6). T. Narten, E. Nordmark,
      W. Simpson, H. Soliman. September 2007. (Format: TXT, HTML)
      (Obsoletes RFC2461) (Updated by RFC5942, RFC6980, RFC7048, RFC7527,
-     RFC7559, RFC8028, RFC8319, RFC8425, RFC9131) (Status: DRAFT
+     RFC7559, RFC8028, RFC8319, RFC8425, RFC9131, RFC9685) (Status: DRAFT
      STANDARD) (DOI: 10.17487/RFC4861) 
 
 4862 IPv6 Stateless Address Autoconfiguration. S. Thomson, T. Narten, T.
@@ -27228,8 +27228,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 6550 RPL: IPv6 Routing Protocol for Low-Power and Lossy Networks. T.
      Winter, Ed., P. Thubert, Ed., A. Brandt, J. Hui, R. Kelsey, P.
      Levis, K. Pister, R. Struik, JP. Vasseur, R. Alexander. March 2012.
-     (Format: TXT, HTML) (Updated by RFC9008, RFC9010) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC6550) 
+     (Format: TXT, HTML) (Updated by RFC9008, RFC9010, RFC9685) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC6550) 
 
 6551 Routing Metrics Used for Path Calculation in Low-Power and Lossy
      Networks. JP. Vasseur, Ed., M. Kim, Ed., K. Pister, N. Dejean, D.
@@ -27242,8 +27242,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6553 The Routing Protocol for Low-Power and Lossy Networks (RPL) Option
      for Carrying RPL Information in Data-Plane Datagrams. J. Hui, JP.
-     Vasseur. March 2012. (Format: TXT, HTML) (Updated by RFC9008)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6553) 
+     Vasseur. March 2012. (Format: TXT, HTML) (Updated by RFC9008,
+     RFC9685) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6553) 
 
 6554 An IPv6 Routing Header for Source Routes with the Routing Protocol
      for Low-Power and Lossy Networks (RPL). J. Hui, JP. Vasseur, D.
@@ -35917,8 +35917,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8505 Registration Extensions for IPv6 over Low-Power Wireless Personal
      Area Network (6LoWPAN) Neighbor Discovery. P. Thubert, Ed., E.
      Nordmark, S. Chakrabarti, C. Perkins. November 2018. (Format: TXT,
-     HTML) (Updates RFC6775) (Updated by RFC8928, RFC8929, RFC9010)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8505) 
+     HTML) (Updates RFC6775) (Updated by RFC8928, RFC8929, RFC9010,
+     RFC9685) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8505) 
 
 8506 Diameter Credit-Control Application. L. Bertz, Ed., D. Dolson, Ed.,
      Y. Lifshitz, Ed.. March 2019. (Format: TXT, HTML) (Obsoletes
@@ -38197,8 +38197,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9010 Routing for RPL (Routing Protocol for Low-Power and Lossy Networks)
      Leaves. P. Thubert, Ed., M. Richardson. April 2021. (Format: HTML,
-     TXT, PDF, XML) (Updates RFC6550, RFC6775, RFC8505) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9010) 
+     TXT, PDF, XML) (Updates RFC6550, RFC6775, RFC8505) (Updated by
+     RFC9685) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9010) 
 
 9011 Static Context Header Compression and Fragmentation (SCHC) over
      LoRaWAN. O. Gimenez, Ed., I. Petrov, Ed.. April 2021. (Format: HTML,
@@ -41171,6 +41171,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9682 Updates to the Concise Data Definition Language (CDDL) Grammar. C.
      Bormann. November 2024. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8610) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9682) 
+
+9685 Listener Subscription for IPv6 Neighbor Discovery Multicast and
+     Anycast Addresses. P. Thubert, Ed.. November 2024. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC4861, RFC6550, RFC6553, RFC8505, RFC9010)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9685) 
 
 9687 Border Gateway Protocol 4 (BGP-4) Send Hold Timer. J. Snijders, B.
      Cartwright-Cox, Y. Qu. November 2024. (Format: HTML, TXT, PDF, XML)
