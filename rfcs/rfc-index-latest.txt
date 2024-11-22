@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9659 Window Sizing for Zstandard Content Encoding. N. Jaju, Ed., W. F.
-     Handte, Ed.. September 2024. (Format: HTML, TXT, PDF, XML) (Updates
-     RFC8878) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9659) 
-
 9660 The DNS Zone Version (ZONEVERSION) Option. H. Salgado, M. Vergara,
      D. Wessels. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9660) 
@@ -74,6 +70,11 @@
      Bormann. November 2024. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8610) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9682) 
 
+9685 Listener Subscription for IPv6 Neighbor Discovery Multicast and
+     Anycast Addresses. P. Thubert, Ed.. November 2024. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC4861, RFC6550, RFC6553, RFC8505, RFC9010)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9685) 
+
 9687 Border Gateway Protocol 4 (BGP-4) Send Hold Timer. J. Snijders, B.
      Cartwright-Cox, Y. Qu. November 2024. (Format: HTML, TXT, PDF, XML)
      (Updates RFC4271) (Status: PROPOSED STANDARD) (DOI:
@@ -84,5 +85,5 @@
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9688) 
 
 ===========================================================================
- - This file last updated Wed 20 Nov 2024 02:30:01 AM PST
+ - This file last updated Thu 21 Nov 2024 02:30:02 AM PST
 
