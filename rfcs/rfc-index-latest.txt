@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9660 The DNS Zone Version (ZONEVERSION) Option. H. Salgado, M. Vergara,
-     D. Wessels. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9660) 
-
 9661 The JSON Meta Application Protocol (JMAP) for Sieve Scripts. K.
      Murchison. September 2024. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9661) 
@@ -66,6 +62,10 @@
      Daley. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9680) 
 
+9681 IS-IS Fast Flooding. B. Decraene, L. Ginsberg, T. Li, G. Solignac,
+     M. Karasek, G. Van de Velde, T. Przygienda. November 2024. (Format:
+     HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9681) 
+
 9682 Updates to the Concise Data Definition Language (CDDL) Grammar. C.
      Bormann. November 2024. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8610) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9682) 
@@ -85,5 +85,5 @@
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9688) 
 
 ===========================================================================
- - This file last updated Mon 25 Nov 2024 02:30:01 AM PST
+ - This file last updated Tue 26 Nov 2024 02:30:01 AM PST
 
