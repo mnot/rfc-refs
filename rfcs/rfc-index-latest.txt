@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9661 The JSON Meta Application Protocol (JMAP) for Sieve Scripts. K.
-     Murchison. September 2024. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9661) 
-
-9662 Updates to the Cipher Suites in Secure Syslog. C. Lonvick, S.
-     Turner, J. Salowey. October 2024. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC5425, RFC6012) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9662) 
-
 9663 Using DHCPv6 Prefix Delegation (DHCPv6-PD) to Allocate Unique IPv6
      Prefixes per Client in Large Broadcast Networks. L. Colitti, J.
      Linkova, Ed., X. Ma, Ed.. October 2024. (Format: HTML, TXT, PDF,
@@ -49,6 +40,10 @@
      Fairhurst. October 2024. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8200) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9673) 
 
+9674 Same-Origin Policy for the RPKI Repository Delta Protocol (RRDP). J.
+     Snijders. December 2024. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC8182) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9674) 
+
 9675 Delay-Tolerant Networking Management Architecture (DTNMA). E.
      Birrane III, S. Heiner, E. Annis. November 2024. (Format: HTML, TXT,
      PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9675) 
@@ -84,6 +79,10 @@
      Syntax (CMS). R. Housley. November 2024. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9688) 
 
+9689 Use Cases for a PCE as a Central Controller (PCECC). Z. Li, D.
+     Dhody, Q. Zhao, Z. Ke, B. Khasanov. December 2024. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9689) 
+
 ===========================================================================
- - This file last updated Wed 04 Dec 2024 02:30:01 AM PST
+ - This file last updated Thu 05 Dec 2024 02:30:01 AM PST
 

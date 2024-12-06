@@ -41190,6 +41190,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, PDF, XML) (Updates RFC4861, RFC6550, RFC6553, RFC8505, RFC9010)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9685) 
 
+9686 Registering Self-Generated IPv6 Addresses Using DHCPv6. W. Kumari,
+     S. Krishnan, R. Asati, L. Colitti, J. Linkova, S. Jiang. December
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9686) 
+
 9687 Border Gateway Protocol 4 (BGP-4) Send Hold Timer. J. Snijders, B.
      Cartwright-Cox, Y. Qu. November 2024. (Format: HTML, TXT, PDF, XML)
      (Updates RFC4271) (Status: PROPOSED STANDARD) (DOI:
