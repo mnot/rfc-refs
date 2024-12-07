@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 12/05/2024.)
+(CREATED ON: 12/06/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41184,6 +41184,17 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9682 Updates to the Concise Data Definition Language (CDDL) Grammar. C.
      Bormann. November 2024. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8610) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9682) 
+
+9683 Remote Integrity Verification of Network Devices Containing Trusted
+     Platform Modules. G. C. Fedorkow, Ed., E. Voit, J. Fitzgerald-McKay.
+     December 2024. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9683) 
+
+9684 A YANG Data Model for Challenge-Response-Based Remote Attestation
+     (CHARRA) Procedures Using Trusted Platform Modules (TPMs). H.
+     Birkholz, M. Eckel, S. Bhandari, E. Voit, B. Sulzen, L. Xia, T.
+     Laffey, G. C. Fedorkow. December 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9684) 
 
 9685 Listener Subscription for IPv6 Neighbor Discovery Multicast and
      Anycast Addresses. P. Thubert, Ed.. November 2024. (Format: HTML,

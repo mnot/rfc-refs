@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9663 Using DHCPv6 Prefix Delegation (DHCPv6-PD) to Allocate Unique IPv6
-     Prefixes per Client in Large Broadcast Networks. L. Colitti, J.
-     Linkova, Ed., X. Ma, Ed.. October 2024. (Format: HTML, TXT, PDF,
-     XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9663) 
-
 9666 Area Proxy for IS-IS. T. Li, S. Chen, V. Ilangovan, G. Mishra.
      October 2024. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL)
      (DOI: 10.17487/RFC9666) 
@@ -70,6 +65,11 @@
      TXT, PDF, XML) (Updates RFC4861, RFC6550, RFC6553, RFC8505, RFC9010)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9685) 
 
+9686 Registering Self-Generated IPv6 Addresses Using DHCPv6. W. Kumari,
+     S. Krishnan, R. Asati, L. Colitti, J. Linkova, S. Jiang. December
+     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9686) 
+
 9687 Border Gateway Protocol 4 (BGP-4) Send Hold Timer. J. Snijders, B.
      Cartwright-Cox, Y. Qu. November 2024. (Format: HTML, TXT, PDF, XML)
      (Updates RFC4271) (Status: PROPOSED STANDARD) (DOI:
@@ -84,5 +84,5 @@
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9689) 
 
 ===========================================================================
- - This file last updated Thu 05 Dec 2024 02:30:01 AM PST
+ - This file last updated Fri 06 Dec 2024 02:30:02 AM PST
 
