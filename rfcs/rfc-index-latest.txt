@@ -4,20 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9666 Area Proxy for IS-IS. T. Li, S. Chen, V. Ilangovan, G. Mishra.
-     October 2024. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL)
-     (DOI: 10.17487/RFC9666) 
-
-9667 Dynamic Flooding on Dense Graphs. T. Li, Ed., P. Psenak, Ed., H.
-     Chen, L. Jalil, S. Dontula. October 2024. (Format: HTML, TXT, PDF,
-     XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9667) 
-
-9668 Using Ephemeral Diffie-Hellman Over COSE (EDHOC) with the
-     Constrained Application Protocol (CoAP) and Object Security for
-     Constrained RESTful Environments (OSCORE). F. Palombini, M. Tiloca,
-     R. Höglund, S. Hristozov, G. Selander. November 2024. (Format: HTML,
-     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9668) 
-
 9669 BPF Instruction Set Architecture (ISA). D. Thaler, Ed.. October
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9669) 
@@ -60,6 +46,17 @@
      Bormann. November 2024. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8610) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9682) 
 
+9683 Remote Integrity Verification of Network Devices Containing Trusted
+     Platform Modules. G. C. Fedorkow, Ed., E. Voit, J. Fitzgerald-McKay.
+     December 2024. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9683) 
+
+9684 A YANG Data Model for Challenge-Response-Based Remote Attestation
+     (CHARRA) Procedures Using Trusted Platform Modules (TPMs). H.
+     Birkholz, M. Eckel, S. Bhandari, E. Voit, B. Sulzen, L. Xia, T.
+     Laffey, G. C. Fedorkow. December 2024. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9684) 
+
 9685 Listener Subscription for IPv6 Neighbor Discovery Multicast and
      Anycast Addresses. P. Thubert, Ed.. November 2024. (Format: HTML,
      TXT, PDF, XML) (Updates RFC4861, RFC6550, RFC6553, RFC8505, RFC9010)
@@ -84,5 +81,5 @@
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9689) 
 
 ===========================================================================
- - This file last updated Fri 06 Dec 2024 02:30:02 AM PST
+ - This file last updated Mon 09 Dec 2024 02:30:01 AM PST
 
