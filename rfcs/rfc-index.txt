@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 12/12/2024.)
+(CREATED ON: 12/13/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -34461,7 +34461,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8182 The RPKI Repository Delta Protocol (RRDP). T. Bruijnzeels, O.
      Muravskiy, B. Weber, R. Austein. July 2017. (Format: TXT, HTML)
-     (Updated by RFC9674) (Status: PROPOSED STANDARD) (DOI:
+     (Updated by RFC9674, RFC9697) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC8182) 
 
 8183 An Out-of-Band Setup Protocol for Resource Public Key Infrastructure
@@ -41218,3 +41218,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9689 Use Cases for a PCE as a Central Controller (PCECC). Z. Li, D.
      Dhody, Q. Zhao, Z. Ke, B. Khasanov. December 2024. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9689) 
+
+9697 Detecting RPKI Repository Delta Protocol (RRDP) Session
+     Desynchronization. J. Snijders, T. de Kock. December 2024. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC8182) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9697) 
