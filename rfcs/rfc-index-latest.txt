@@ -80,6 +80,11 @@
      Dhody, Q. Zhao, Z. Ke, B. Khasanov. December 2024. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9689) 
 
+9697 Detecting RPKI Repository Delta Protocol (RRDP) Session
+     Desynchronization. J. Snijders, T. de Kock. December 2024. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC8182) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9697) 
+
 ===========================================================================
- - This file last updated Fri 13 Dec 2024 02:30:01 AM PST
+ - This file last updated Mon 16 Dec 2024 02:30:01 AM PST
 
