@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 12/17/2024.)
+(CREATED ON: 12/19/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40926,6 +40926,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      XML) (Updates RFC5280) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9608) 
 
+9610 JSON Meta Application Protocol (JMAP) for Contacts. N. Jenkins, Ed..
+     December 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9610) 
+
 9611 Internet Key Exchange Protocol Version 2 (IKEv2) Support for
      Per-Resource Child Security Associations (SAs). A. Antony, T.
      Brunner, S. Klassert, P. Wouters. July 2024. (Format: HTML, TXT,
@@ -41024,6 +41028,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Considerations. S. Boutros, D. Eastlake 3rd, Ed.. September 2024.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9638) 
+
+9639 Free Lossless Audio Codec (FLAC). M.Q.C. van Beurden, A. Weaver.
+     December 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9639) 
 
 9640 YANG Data Types and Groupings for Cryptography. K. Watsen. October
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
@@ -41218,6 +41226,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9689 Use Cases for a PCE as a Central Controller (PCECC). Z. Li, D.
      Dhody, Q. Zhao, Z. Ke, B. Khasanov. December 2024. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9689) 
+
+9691 A Profile for Resource Public Key Infrastructure (RPKI) Trust Anchor
+     Keys (TAKs). C. Martinez, G. Michaelson, T. Harrison, T.
+     Bruijnzeels, R. Austein. December 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9691) 
 
 9697 Detecting RPKI Repository Delta Protocol (RRDP) Session
      Desynchronization. J. Snijders, T. de Kock. December 2024. (Format:
