@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 12/19/2024.)
+(CREATED ON: 12/20/2024.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41180,6 +41180,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Delegated Credentials. F. Fieau, E. Stephan, G. Bichot, C. Neumann.
      October 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9677) 
+
+9679 CBOR Object Signing and Encryption (COSE) Key Thumbprint. K. Isobe,
+     H. Tschofenig, O. Steele. December 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9679) 
 
 9680 Antitrust Guidelines for IETF Participants. J. Halpern, Ed., J.
      Daley. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
