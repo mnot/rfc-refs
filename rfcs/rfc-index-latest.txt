@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9671 Sieve Email Filtering: Extension for Processing Calendar
-     Attachments. K. Murchison, R. Signes, M. Horsfall. October 2024.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9671) 
-
 9673 IPv6 Hop-by-Hop Options Processing Procedures. R. Hinden, G.
      Fairhurst. October 2024. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8200) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9673) 
@@ -25,6 +20,10 @@
      Delegated Credentials. F. Fieau, E. Stephan, G. Bichot, C. Neumann.
      October 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9677) 
+
+9679 CBOR Object Signing and Encryption (COSE) Key Thumbprint. K. Isobe,
+     H. Tschofenig, O. Steele. December 2024. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9679) 
 
 9680 Antitrust Guidelines for IETF Participants. J. Halpern, Ed., J.
      Daley. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
@@ -83,5 +82,5 @@
      (DOI: 10.17487/RFC9697) 
 
 ===========================================================================
- - This file last updated Fri 20 Dec 2024 02:30:01 AM PST
+ - This file last updated Mon 23 Dec 2024 02:30:01 AM PST
 
