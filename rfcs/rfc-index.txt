@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/01/2025.)
+(CREATED ON: 01/02/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -1143,7 +1143,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0307) 
 
 0308 ARPANET host availability data. M. Seriff. March 1972. (Format: TXT,
-     HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0308) 
+     HTML) (Updated by RFC0530) (Status: UNKNOWN) (DOI: 10.17487/RFC0308) 
 
 0309 Data and File Transfer Workshop Announcement. A.K. Bhushan. March
      1972. (Format: TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0309) 
@@ -1772,8 +1772,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0496) 
 
 0497 Traffic Statistics (March 1973). A.M. McKenzie. April 1973. (Format:
-     TXT, PDF, HTML) (Updates RFC0482) (Status: UNKNOWN) (DOI:
-     10.17487/RFC0497) 
+     TXT, PDF, HTML) (Updates RFC0482) (Updated by RFC0509) (Status:
+     UNKNOWN) (DOI: 10.17487/RFC0497) 
 
 0498 On mail service to CCN. R.T. Braden. April 1973. (Format: TXT, HTML)
      (Status: UNKNOWN) (DOI: 10.17487/RFC0498) 
@@ -1811,7 +1811,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC0508) 
 
 0509 Traffic statistics (April 1973). A.M. McKenzie. April 1973. (Format:
-     TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0509) 
+     TXT, HTML) (Updates RFC0497) (Updated by RFC0522) (Status: UNKNOWN)
+     (DOI: 10.17487/RFC0509) 
 
 0510 Request for network mailbox addresses. J.E. White. May 1973.
      (Format: TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0510) 
@@ -1853,7 +1854,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC0522) 
 
 0523 SURVEY is in operation again. A.K. Bhushan. June 1973. (Format: TXT,
-     HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0523) 
+     HTML) (Updated by RFC0530) (Status: UNKNOWN) (DOI: 10.17487/RFC0523) 
 
 0524 Proposed Mail Protocol. J.E. White. June 1973. (Format: TXT, HTML)
      (Status: UNKNOWN) (DOI: 10.17487/RFC0524) 
