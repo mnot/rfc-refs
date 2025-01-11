@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/09/2025.)
+(CREATED ON: 01/10/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -36807,8 +36807,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8708 Use of the HSS/LMS Hash-Based Signature Algorithm in the
      Cryptographic Message Syntax (CMS). R. Housley. February 2020.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8708) 
+     (Format: HTML, TXT, PDF, XML) (Obsoleted by RFC9708) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8708) 
 
 8709 Ed25519 and Ed448 Public Key Algorithms for the Secure Shell (SSH)
      Protocol. B. Harris, L. Velvindron. February 2020. (Format: HTML,
@@ -41242,6 +41242,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Bruijnzeels, R. Austein. December 2024. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9691) 
 
+9693 Benchmarking Methodology for Stateful NATxy Gateways. G. Lencse, K.
+     Shima. January 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9693) 
+
 9697 Detecting RPKI Repository Delta Protocol (RRDP) Session
      Desynchronization. J. Snijders, T. de Kock. December 2024. (Format:
      HTML, TXT, PDF, XML) (Updates RFC8182) (Status: PROPOSED STANDARD)
@@ -41251,8 +41255,22 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Infrastructure. R. Krishna, A. Rahman. December 2024. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9699) 
 
+9702 YANG Data Model for Maximum Segment Identifier (SID) Depth (MSD)
+     Types and MPLS MSD. Y. Qu, A. Lindem, S. Litkowski, J. Tantsura.
+     January 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9702) 
+
 9703 Label Switched Path (LSP) Ping/Traceroute for Segment Routing (SR)
      Egress Peer Engineering (EPE) Segment Identifiers (SIDs) with MPLS
      Data Plane. S. Hegde, M. Srivastava, K. Arora, S. Ninan, X. Xu.
      December 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9703) 
+
+9708 Use of the HSS/LMS Hash-Based Signature Algorithm in the
+     Cryptographic Message Syntax (CMS). R. Housley. January 2025.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8708) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9708) 
+
+9709 Encryption Key Derivation in the Cryptographic Message Syntax (CMS)
+     Using HKDF with SHA-256. R. Housley. January 2025. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9709) 
