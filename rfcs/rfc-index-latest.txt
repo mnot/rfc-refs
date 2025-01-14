@@ -4,23 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9675 Delay-Tolerant Networking Management Architecture (DTNMA). E.
-     Birrane, III, S. Heiner, E. Annis. November 2024. (Format: HTML,
-     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9675) 
-
-9677 Content Delivery Network Interconnection (CDNI) Metadata for
-     Delegated Credentials. F. Fieau, E. Stephan, G. Bichot, C. Neumann.
-     October 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9677) 
-
-9679 CBOR Object Signing and Encryption (COSE) Key Thumbprint. K. Isobe,
-     H. Tschofenig, O. Steele. December 2024. (Format: HTML, TXT, PDF,
-     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9679) 
-
-9680 Antitrust Guidelines for IETF Participants. J. Halpern, Ed., J.
-     Daley. October 2024. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9680) 
-
 9681 IS-IS Fast Flooding. B. Decraene, L. Ginsberg, T. Li, G. Solignac,
      M. Karasek, G. Van de Velde, T. Przygienda. November 2024. (Format:
      HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9681) 
@@ -68,6 +51,10 @@
      Bruijnzeels, R. Austein. December 2024. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9691) 
 
+9693 Benchmarking Methodology for Stateful NATxy Gateways. G. Lencse, K.
+     Shima. January 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9693) 
+
 9697 Detecting RPKI Repository Delta Protocol (RRDP) Session
      Desynchronization. J. Snijders, T. de Kock. December 2024. (Format:
      HTML, TXT, PDF, XML) (Updates RFC8182) (Status: PROPOSED STANDARD)
@@ -77,12 +64,26 @@
      Infrastructure. R. Krishna, A. Rahman. December 2024. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9699) 
 
+9702 YANG Data Model for Maximum Segment Identifier (SID) Depth (MSD)
+     Types and MPLS MSD. Y. Qu, A. Lindem, S. Litkowski, J. Tantsura.
+     January 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9702) 
+
 9703 Label Switched Path (LSP) Ping/Traceroute for Segment Routing (SR)
      Egress Peer Engineering (EPE) Segment Identifiers (SIDs) with MPLS
      Data Plane. S. Hegde, M. Srivastava, K. Arora, S. Ninan, X. Xu.
      December 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9703) 
 
+9708 Use of the HSS/LMS Hash-Based Signature Algorithm in the
+     Cryptographic Message Syntax (CMS). R. Housley. January 2025.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8708) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9708) 
+
+9709 Encryption Key Derivation in the Cryptographic Message Syntax (CMS)
+     Using HKDF with SHA-256. R. Housley. January 2025. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9709) 
+
 ===========================================================================
- - This file last updated Fri 10 Jan 2025 02:30:01 AM PST
+ - This file last updated Mon 13 Jan 2025 02:30:01 AM PST
 
