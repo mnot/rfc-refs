@@ -4,19 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9681 IS-IS Fast Flooding. B. Decraene, L. Ginsberg, T. Li, G. Solignac,
-     M. Karasek, G. Van de Velde, T. Przygienda. November 2024. (Format:
-     HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9681) 
-
-9682 Updates to the Concise Data Definition Language (CDDL) Grammar. C.
-     Bormann. November 2024. (Format: HTML, TXT, PDF, XML) (Updates
-     RFC8610) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9682) 
-
-9683 Remote Integrity Verification of Network Devices Containing Trusted
-     Platform Modules. G. C. Fedorkow, Ed., E. Voit, J. Fitzgerald-McKay.
-     December 2024. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC9683) 
-
 9684 A YANG Data Model for Challenge-Response-Based Remote Attestation
      (CHARRA) Procedures Using Trusted Platform Modules (TPMs). H.
      Birkholz, M. Eckel, S. Bhandari, E. Voit, B. Sulzen, L. Xia, T.
@@ -75,6 +62,11 @@
      December 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9703) 
 
+9706 TreeDN: Tree-Based Content Delivery Network (CDN) for Live Streaming
+     to Mass Audiences. L. Giuliano, C. Lenart, R. Adam. January 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9706) 
+
 9708 Use of the HSS/LMS Hash-Based Signature Algorithm in the
      Cryptographic Message Syntax (CMS). R. Housley. January 2025.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8708) (Status: PROPOSED
@@ -84,6 +76,14 @@
      Using HKDF with SHA-256. R. Housley. January 2025. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9709) 
 
+9713 Bundle Protocol Version 7 Administrative Record Types Registry. B.
+     Sipos. January 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC9171)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9713) 
+
+9720 RFC Formats and Versions. P. Hoffman, H. Flanagan. January 2025.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7990) (Updates RFC9280)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 
+
 ===========================================================================
- - This file last updated Fri 17 Jan 2025 02:30:01 AM PST
+ - This file last updated Mon 20 Jan 2025 02:30:01 AM PST
 
