@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/21/2025.)
+(CREATED ON: 01/22/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40978,6 +40978,22 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML, TXT, PDF, XML) (Updates RFC8280) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9620) 
 
+9621 Architecture and Requirements for Transport Services. T. Pauly, Ed.,
+     B. Trammell, Ed., A. Brunstrom, G. Fairhurst, C. S. Perkins. January
+     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9621) 
+
+9622 An Abstract Application Programming Interface (API) for Transport
+     Services. B. Trammell, Ed., M. Welzl, Ed., R. Enghardt, G.
+     Fairhurst, M. Kühlewind, C. S. Perkins, P.S. Tiesel, T. Pauly.
+     January 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9622) 
+
+9623 Implementing Interfaces to Transport Services. A. Brunstrom, Ed., T.
+     Pauly, Ed., R. Enghardt, P.S. Tiesel, M. Welzl. January 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9623) 
+
 9624 EVPN Broadcast, Unknown Unicast, or Multicast (BUM) Using Bit Index
      Explicit Replication (BIER). Z. Zhang, T. Przygienda, A. Sajassi, J.
      Rabadan. August 2024. (Format: HTML, TXT, PDF, XML) (Status:
@@ -41252,6 +41268,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Desynchronization. J. Snijders, T. de Kock. December 2024. (Format:
      HTML, TXT, PDF, XML) (Updates RFC8182) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9697) 
+
+9698 The JMAPACCESS Extension for IMAP. A. Gulbrandsen, B. Gondwana.
+     January 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9698) 
 
 9699 Use Case for an Extended Reality Application on Edge Computing
      Infrastructure. R. Krishna, A. Rahman. December 2024. (Format: HTML,
