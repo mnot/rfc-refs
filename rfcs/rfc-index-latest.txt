@@ -4,12 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9684 A YANG Data Model for Challenge-Response-Based Remote Attestation
-     (CHARRA) Procedures Using Trusted Platform Modules (TPMs). H.
-     Birkholz, M. Eckel, S. Bhandari, E. Voit, B. Sulzen, L. Xia, T.
-     Laffey, G. C. Fedorkow. December 2024. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9684) 
-
 9685 Listener Subscription for IPv6 Neighbor Discovery Multicast and
      Anycast Addresses. P. Thubert, Ed.. November 2024. (Format: HTML,
      TXT, PDF, XML) (Updates RFC4861, RFC6550, RFC6553, RFC8505, RFC9010)
@@ -46,6 +40,10 @@
      Desynchronization. J. Snijders, T. de Kock. December 2024. (Format:
      HTML, TXT, PDF, XML) (Updates RFC8182) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9697) 
+
+9698 The JMAPACCESS Extension for IMAP. A. Gulbrandsen, B. Gondwana.
+     January 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9698) 
 
 9699 Use Case for an Extended Reality Application on Edge Computing
      Infrastructure. R. Krishna, A. Rahman. December 2024. (Format: HTML,
@@ -85,5 +83,5 @@
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 
 
 ===========================================================================
- - This file last updated Wed 22 Jan 2025 02:30:02 AM PST
+ - This file last updated Thu 23 Jan 2025 02:30:01 AM PST
 
