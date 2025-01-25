@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/23/2025.)
+(CREATED ON: 01/24/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -33472,7 +33472,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7958 DNSSEC Trust Anchor Publication for the Root Zone. J. Abley, J.
      Schlyter, G. Bailey, P. Hoffman. August 2016. (Format: TXT, HTML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC7958) 
+     (Obsoleted by RFC9718) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC7958) 
 
 7959 Block-Wise Transfers in the Constrained Application Protocol (CoAP).
      C. Bormann, Z. Shelby, Ed.. August 2016. (Format: TXT, HTML)
@@ -41305,6 +41306,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9713 Bundle Protocol Version 7 Administrative Record Types Registry. B.
      Sipos. January 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC9171)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9713) 
+
+9718 DNSSEC Trust Anchor Publication for the Root Zone. J. Abley, J.
+     Schlyter, G. Bailey, P. Hoffman. January 2025. (Format: HTML, TXT,
+     PDF, XML) (Obsoletes RFC7958) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9718) 
 
 9720 RFC Formats and Versions. P. Hoffman, H. Flanagan. January 2025.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7990) (Updates RFC9280)
