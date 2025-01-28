@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9685 Listener Subscription for IPv6 Neighbor Discovery Multicast and
-     Anycast Addresses. P. Thubert, Ed.. November 2024. (Format: HTML,
-     TXT, PDF, XML) (Updates RFC4861, RFC6550, RFC6553, RFC8505, RFC9010)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9685) 
-
 9686 Registering Self-Generated IPv6 Addresses Using DHCPv6. W. Kumari,
      S. Krishnan, R. Asati, L. Colitti, J. Linkova, S. Jiang. December
      2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
@@ -78,10 +73,15 @@
      Sipos. January 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC9171)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9713) 
 
+9718 DNSSEC Trust Anchor Publication for the Root Zone. J. Abley, J.
+     Schlyter, G. Bailey, P. Hoffman. January 2025. (Format: HTML, TXT,
+     PDF, XML) (Obsoletes RFC7958) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9718) 
+
 9720 RFC Formats and Versions. P. Hoffman, H. Flanagan. January 2025.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7990) (Updates RFC9280)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 
 
 ===========================================================================
- - This file last updated Fri 24 Jan 2025 02:30:01 AM PST
+ - This file last updated Mon 27 Jan 2025 02:30:02 AM PST
 

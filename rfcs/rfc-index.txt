@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/24/2025.)
+(CREATED ON: 01/27/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -36861,12 +36861,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
      CURRENT PRACTICE) (DOI: 10.17487/RFC8717) 
 
 8718 IETF Plenary Meeting Venue Selection Process. E. Lear, Ed.. February
-     2020. (Format: HTML, TXT, PDF, XML) (Also BCP0226) (Status: BEST
-     CURRENT PRACTICE) (DOI: 10.17487/RFC8718) 
+     2020. (Format: HTML, TXT, PDF, XML) (Updated by RFC9712) (Also
+     BCP0226) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC8718) 
 
 8719 High-Level Guidance for the Meeting Policy of the IETF. S. Krishnan.
-     February 2020. (Format: HTML, TXT, PDF, XML) (Also BCP0226) (Status:
-     BEST CURRENT PRACTICE) (DOI: 10.17487/RFC8719) 
+     February 2020. (Format: HTML, TXT, PDF, XML) (Updated by RFC9712)
+     (Also BCP0226) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC8719) 
 
 8720 Principles for Operation of Internet Assigned Numbers Authority
      (IANA) Registries. R. Housley, Ed., O. Kolkman, Ed.. February 2020.
@@ -41303,9 +41304,21 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Using HKDF with SHA-256. R. Housley. January 2025. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9709) 
 
+9712 IETF Meeting Venue Requirements Review. J. Daley, S. Turner. January
+     2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8718, RFC8719) (Also
+     BCP0226) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9712) 
+
 9713 Bundle Protocol Version 7 Administrative Record Types Registry. B.
      Sipos. January 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC9171)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9713) 
+
+9715 IP Fragmentation Avoidance in DNS over UDP. K. Fujiwara, P. Vixie.
+     January 2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9715) 
+
+9717 A Routing Architecture for Satellite Networks. T. Li. January 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9717) 
 
 9718 DNSSEC Trust Anchor Publication for the Root Zone. J. Abley, J.
      Schlyter, G. Bailey, P. Hoffman. January 2025. (Format: HTML, TXT,
