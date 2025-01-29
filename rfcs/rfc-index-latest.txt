@@ -4,16 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9686 Registering Self-Generated IPv6 Addresses Using DHCPv6. W. Kumari,
-     S. Krishnan, R. Asati, L. Colitti, J. Linkova, S. Jiang. December
-     2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9686) 
-
-9687 Border Gateway Protocol 4 (BGP-4) Send Hold Timer. J. Snijders, B.
-     Cartwright-Cox, Y. Qu. November 2024. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC4271) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9687) 
-
 9688 Use of the SHA3 One-Way Hash Functions in the Cryptographic Message
      Syntax (CMS). R. Housley. November 2024. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9688) 
@@ -69,9 +59,21 @@
      Using HKDF with SHA-256. R. Housley. January 2025. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9709) 
 
+9712 IETF Meeting Venue Requirements Review. J. Daley, S. Turner. January
+     2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8718, RFC8719) (Also
+     BCP0226) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9712) 
+
 9713 Bundle Protocol Version 7 Administrative Record Types Registry. B.
      Sipos. January 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC9171)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9713) 
+
+9715 IP Fragmentation Avoidance in DNS over UDP. K. Fujiwara, P. Vixie.
+     January 2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9715) 
+
+9717 A Routing Architecture for Satellite Networks. T. Li. January 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9717) 
 
 9718 DNSSEC Trust Anchor Publication for the Root Zone. J. Abley, J.
      Schlyter, G. Bailey, P. Hoffman. January 2025. (Format: HTML, TXT,
@@ -83,5 +85,5 @@
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 
 
 ===========================================================================
- - This file last updated Mon 27 Jan 2025 02:30:02 AM PST
+ - This file last updated Tue 28 Jan 2025 02:30:01 AM PST
 

@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/27/2025.)
+(CREATED ON: 01/29/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41289,6 +41289,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Data Plane. S. Hegde, M. Srivastava, K. Arora, S. Ninan, X. Xu.
      December 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9703) 
+
+9704 Establishing Local DNS Authority in Validated Split-Horizon
+     Environments. T. Reddy.K, D. Wing, K. Smith, B. Schwartz. January
+     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9704) 
 
 9706 TreeDN: Tree-Based Content Delivery Network (CDN) for Live Streaming
      to Mass Audiences. L. Giuliano, C. Lenart, R. Adam. January 2025.
