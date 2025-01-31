@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/29/2025.)
+(CREATED ON: 01/30/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -28077,11 +28077,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6749 The OAuth 2.0 Authorization Framework. D. Hardt, Ed.. October 2012.
      (Format: TXT, HTML) (Obsoletes RFC5849) (Updated by RFC8252,
-     RFC8996) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6749) 
+     RFC8996, RFC9700) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC6749) 
 
 6750 The OAuth 2.0 Authorization Framework: Bearer Token Usage. M. Jones,
-     D. Hardt. October 2012. (Format: TXT, HTML) (Updated by RFC8996)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6750) 
+     D. Hardt. October 2012. (Format: TXT, HTML) (Updated by RFC8996,
+     RFC9700) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6750) 
 
 6751 Native IPv6 behind IPv4-to-IPv4 NAT Customer Premises Equipment
      (6a44). R. Despres, Ed., B. Carpenter, D. Wing, S. Jiang. October
@@ -28385,8 +28386,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (DOI: 10.17487/RFC6818) 
 
 6819 OAuth 2.0 Threat Model and Security Considerations. T. Lodderstedt,
-     Ed., M. McGloin, P. Hunt. January 2013. (Format: TXT, HTML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC6819) 
+     Ed., M. McGloin, P. Hunt. January 2013. (Format: TXT, HTML) (Updated
+     by RFC9700) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6819) 
 
 6820 Address Resolution Problems in Large Data Center Networks. T.
      Narten, M. Karir, I. Foo. January 2013. (Format: TXT, HTML) (Status:
@@ -41278,6 +41279,15 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9699 Use Case for an Extended Reality Application on Edge Computing
      Infrastructure. R. Krishna, A. Rahman. December 2024. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9699) 
+
+9700 Best Current Practice for OAuth 2.0 Security. T. Lodderstedt, J.
+     Bradley, A. Labunets, D. Fett. January 2025. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC6749, RFC6750, RFC6819) (Also BCP0240)
+     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9700) 
+
+9701 JSON Web Token (JWT) Response for OAuth Token Introspection. T.
+     Lodderstedt, Ed., V. Dzhuvinov. January 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9701) 
 
 9702 YANG Data Model for Maximum Segment Identifier (SID) Depth (MSD)
      Types and MPLS MSD. Y. Qu, A. Lindem, S. Litkowski, J. Tantsura.
