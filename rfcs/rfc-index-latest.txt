@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9689 Use Cases for a PCE as a Central Controller (PCECC). Z. Li, D.
-     Dhody, Q. Zhao, Z. Ke, B. Khasanov. December 2024. (Format: HTML,
-     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9689) 
-
-9691 A Profile for Resource Public Key Infrastructure (RPKI) Trust Anchor
-     Keys (TAKs). C. Martinez, G. Michaelson, T. Harrison, T.
-     Bruijnzeels, R. Austein. December 2024. (Format: HTML, TXT, PDF,
-     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9691) 
-
 9693 Benchmarking Methodology for Stateful NATxy Gateways. G. Lencse, K.
      Shima. January 2025. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9693) 
@@ -29,6 +20,15 @@
 9699 Use Case for an Extended Reality Application on Edge Computing
      Infrastructure. R. Krishna, A. Rahman. December 2024. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9699) 
+
+9700 Best Current Practice for OAuth 2.0 Security. T. Lodderstedt, J.
+     Bradley, A. Labunets, D. Fett. January 2025. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC6749, RFC6750, RFC6819) (Also BCP0240)
+     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9700) 
+
+9701 JSON Web Token (JWT) Response for OAuth Token Introspection. T.
+     Lodderstedt, Ed., V. Dzhuvinov. January 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9701) 
 
 9702 YANG Data Model for Maximum Segment Identifier (SID) Depth (MSD)
      Types and MPLS MSD. Y. Qu, A. Lindem, S. Litkowski, J. Tantsura.
@@ -86,5 +86,5 @@
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 
 
 ===========================================================================
- - This file last updated Thu 30 Jan 2025 02:30:01 AM PST
+ - This file last updated Fri 31 Jan 2025 02:30:01 AM PST
 
