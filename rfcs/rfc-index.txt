@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/04/2025.)
+(CREATED ON: 02/05/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41343,3 +41343,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9720 RFC Formats and Versions. P. Hoffman, H. Flanagan. January 2025.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7990) (Updates RFC9280)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 
+
+9735 Locator/ID Separation Protocol (LISP) Distinguished Name Encoding.
+     D. Farinacci, L. Iannone, Ed.. February 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9735) 
