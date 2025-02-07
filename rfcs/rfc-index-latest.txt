@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9693 Benchmarking Methodology for Stateful NATxy Gateways. G. Lencse, K.
-     Shima. January 2025. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9693) 
-
 9697 Detecting RPKI Repository Delta Protocol (RRDP) Session
      Desynchronization. J. Snijders, T. de Kock. December 2024. (Format:
      HTML, TXT, PDF, XML) (Updates RFC8182) (Status: PROPOSED STANDARD)
@@ -85,6 +81,10 @@
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7990) (Updates RFC9280)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 
 
+9735 Locator/ID Separation Protocol (LISP) Distinguished Name Encoding.
+     D. Farinacci, L. Iannone, Ed.. February 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9735) 
+
 ===========================================================================
- - This file last updated Wed 05 Feb 2025 02:30:01 AM PST
+ - This file last updated Thu 06 Feb 2025 02:30:01 AM PST
 
