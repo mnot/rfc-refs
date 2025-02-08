@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/06/2025.)
+(CREATED ON: 02/08/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -4027,8 +4027,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 1119 Network Time Protocol (version 2) specification and implementation.
      D.L. Mills. September 1989. (Format: TXT, PS, PDF, HTML) (Obsoletes
-     RFC0958, RFC1059) (Obsoleted by RFC1305) (Status: INTERNET STANDARD)
-     (DOI: 10.17487/RFC1119) 
+     RFC0958, RFC1059) (Obsoleted by RFC1305) (Status: HISTORIC) (DOI:
+     10.17487/RFC1119) 
 
 1120 Internet Activities Board. V. Cerf. September 1989. (Format: TXT,
      HTML) (Obsoleted by RFC1160) (Status: INFORMATIONAL) (DOI:
@@ -4792,8 +4792,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 1305 Network Time Protocol (Version 3) Specification, Implementation and
      Analysis. D. Mills. March 1992. (Format: TXT, PDF, HTML) (Obsoletes
-     RFC0958, RFC1059, RFC1119) (Obsoleted by RFC5905) (Status: DRAFT
-     STANDARD) (DOI: 10.17487/RFC1305) 
+     RFC0958, RFC1059, RFC1119) (Obsoleted by RFC5905) (Status: HISTORIC)
+     (DOI: 10.17487/RFC1305) 
 
 1306 Experiences Supporting By-Request Circuit-Switched T3 Networks. A.
      Nicholson, J. Young. March 1992. (Format: TXT, HTML) (Status:
@@ -17653,7 +17653,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 4345 Improved Arcfour Modes for the Secure Shell (SSH) Transport Layer
      Protocol. B. Harris. January 2006. (Format: TXT, HTML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC4345) 
+     HISTORIC) (DOI: 10.17487/RFC4345) 
 
 4346 The Transport Layer Security (TLS) Protocol Version 1.1. T. Dierks,
      E. Rescorla. April 2006. (Format: TXT, HTML) (Obsoletes RFC2246)
@@ -31456,8 +31456,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7506 IPv6 Router Alert Option for MPLS Operations, Administration, and
      Maintenance (OAM). K. Raza, N. Akiya, C. Pignataro. April 2015.
-     (Format: TXT, HTML) (Updates RFC4379) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC7506) 
+     (Format: TXT, HTML) (Updates RFC4379) (Status: HISTORIC) (DOI:
+     10.17487/RFC7506) 
 
 7507 TLS Fallback Signaling Cipher Suite Value (SCSV) for Preventing
      Protocol Downgrade Attacks. B. Moeller, A. Langley. April 2015.
@@ -34985,7 +34985,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8296) 
 
 8297 An HTTP Status Code for Indicating Hints. K. Oku. December 2017.
-     (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC8297) 
+     (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8297) 
 
 8298 Self-Clocked Rate Adaptation for Multimedia. I. Johansson, Z.
      Sarker. December 2017. (Format: TXT, HTML) (Status: EXPERIMENTAL)
@@ -41330,6 +41331,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9715 IP Fragmentation Avoidance in DNS over UDP. K. Fujiwara, P. Vixie.
      January 2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC9715) 
+
+9716 Mechanisms for MPLS Ping and Traceroute Procedures in Inter-Domain
+     Segment Routing Networks. S. Hegde, K. Arora, M. Srivastava, S.
+     Ninan, N. Kumar. February 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9716) 
 
 9717 A Routing Architecture for Satellite Networks. T. Li. January 2025.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
