@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9697 Detecting RPKI Repository Delta Protocol (RRDP) Session
-     Desynchronization. J. Snijders, T. de Kock. December 2024. (Format:
-     HTML, TXT, PDF, XML) (Updates RFC8182) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9697) 
-
 9698 The JMAPACCESS Extension for IMAP. A. Gulbrandsen, B. Gondwana.
      January 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9698) 
@@ -68,6 +63,11 @@
      January 2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC9715) 
 
+9716 Mechanisms for MPLS Ping and Traceroute Procedures in Inter-Domain
+     Segment Routing Networks. S. Hegde, K. Arora, M. Srivastava, S.
+     Ninan, N. Kumar. February 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9716) 
+
 9717 A Routing Architecture for Satellite Networks. T. Li. January 2025.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9717) 
@@ -86,5 +86,5 @@
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9735) 
 
 ===========================================================================
- - This file last updated Fri 07 Feb 2025 02:30:01 AM PST
+ - This file last updated Mon 10 Feb 2025 02:30:01 AM PST
 
