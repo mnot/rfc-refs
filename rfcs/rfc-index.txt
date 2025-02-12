@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/10/2025.)
+(CREATED ON: 02/11/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -34152,8 +34152,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC8108) 
 
 8109 Initializing a DNS Resolver with Priming Queries. P. Koch, M.
-     Larson, P. Hoffman. March 2017. (Format: TXT, HTML) (Also BCP0209)
-     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC8109) 
+     Larson, P. Hoffman. March 2017. (Format: TXT, HTML) (Obsoleted by
+     RFC9609) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC8109) 
 
 8110 Opportunistic Wireless Encryption. D. Harkins, Ed., W. Kumari, Ed..
      March 2017. (Format: TXT, HTML) (Updated by RFC9672) (Status:
@@ -40933,6 +40933,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      XML) (Updates RFC5280) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9608) 
 
+9609 Initializing a DNS Resolver with Priming Queries. P. Koch, M.
+     Larson, P. Hoffman. February 2025. (Format: HTML, TXT, PDF, XML)
+     (Obsoletes RFC8109) (Also BCP0209) (Status: BEST CURRENT PRACTICE)
+     (DOI: 10.17487/RFC9609) 
+
 9610 JSON Meta Application Protocol (JMAP) for Contacts. N. Jenkins, Ed..
      December 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9610) 
@@ -41354,6 +41359,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9720 RFC Formats and Versions. P. Hoffman, H. Flanagan. January 2025.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7990) (Updates RFC9280)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 
+
+9734 X.509 Certificate Extended Key Usage (EKU) for Instant Messaging
+     URIs. R. Mahy. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9734) 
 
 9735 Locator/ID Separation Protocol (LISP) Distinguished Name Encoding.
      D. Farinacci, L. Iannone, Ed.. February 2025. (Format: HTML, TXT,
