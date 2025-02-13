@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9698 The JMAPACCESS Extension for IMAP. A. Gulbrandsen, B. Gondwana.
-     January 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9698) 
-
 9699 Use Case for an Extended Reality Application on Edge Computing
      Infrastructure. R. Krishna, A. Rahman. December 2024. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9699) 
@@ -81,10 +77,14 @@
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7990) (Updates RFC9280)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 
 
+9734 X.509 Certificate Extended Key Usage (EKU) for Instant Messaging
+     URIs. R. Mahy. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9734) 
+
 9735 Locator/ID Separation Protocol (LISP) Distinguished Name Encoding.
      D. Farinacci, L. Iannone, Ed.. February 2025. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9735) 
 
 ===========================================================================
- - This file last updated Tue 11 Feb 2025 02:30:01 AM PST
+ - This file last updated Wed 12 Feb 2025 02:30:01 AM PST
 
