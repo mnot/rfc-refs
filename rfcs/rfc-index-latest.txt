@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9699 Use Case for an Extended Reality Application on Edge Computing
-     Infrastructure. R. Krishna, A. Rahman. December 2024. (Format: HTML,
-     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9699) 
-
-9700 Best Current Practice for OAuth 2.0 Security. T. Lodderstedt, J.
-     Bradley, A. Labunets, D. Fett. January 2025. (Format: HTML, TXT,
-     PDF, XML) (Updates RFC6749, RFC6750, RFC6819) (Also BCP0240)
-     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9700) 
-
 9701 JSON Web Token (JWT) Response for OAuth Token Introspection. T.
      Lodderstedt, Ed., V. Dzhuvinov. January 2025. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9701) 
@@ -55,6 +46,11 @@
      Sipos. January 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC9171)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9713) 
 
+9714 Encapsulation for MPLS Performance Measurement with the
+     Alternate-Marking Method. W. Cheng, Ed., X. Min, Ed., T. Zhou, J.
+     Dai, Y. Peleg. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9714) 
+
 9715 IP Fragmentation Avoidance in DNS over UDP. K. Fujiwara, P. Vixie.
      January 2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC9715) 
@@ -77,6 +73,10 @@
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7990) (Updates RFC9280)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 
 
+9729 The Concealed HTTP Authentication Scheme. D. Schinazi, D. Oliver, J.
+     Hoyland. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9729) 
+
 9734 X.509 Certificate Extended Key Usage (EKU) for Instant Messaging
      URIs. R. Mahy. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9734) 
@@ -86,5 +86,5 @@
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9735) 
 
 ===========================================================================
- - This file last updated Fri 14 Feb 2025 02:30:01 AM PST
+ - This file last updated Mon 17 Feb 2025 02:30:01 AM PST
 
