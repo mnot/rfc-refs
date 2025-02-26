@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/24/2025.)
+(CREATED ON: 02/26/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41329,6 +41329,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9709 Encryption Key Derivation in the Cryptographic Message Syntax (CMS)
      Using HKDF with SHA-256. R. Housley. January 2025. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9709) 
+
+9710 Simple Fixes to the IP Flow Information Export (IPFIX) Entities IANA
+     Registry. M. Boucadair, B. Claise. February 2025. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9710) 
 
 9712 IETF Meeting Venue Requirements Review. J. Daley, S. Turner. January
      2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8718, RFC8719) (Also
