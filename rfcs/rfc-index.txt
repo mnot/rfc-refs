@@ -41321,6 +41321,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9706) 
 
+9707 Report from the IAB Workshop on Barriers to Internet Access of
+     Services (BIAS). M. Kühlewind, D. Dhody, M. Knodel. February 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9707) 
+
 9708 Use of the HSS/LMS Hash-Based Signature Algorithm in the
      Cryptographic Message Syntax (CMS). R. Housley. January 2025.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8708) (Status: PROPOSED
@@ -41380,3 +41385,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9735 Locator/ID Separation Protocol (LISP) Distinguished Name Encoding.
      D. Farinacci, L. Iannone, Ed.. February 2025. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9735) 
+
+9737 Reporting Errors in NFSv4.2 via LAYOUTRETURN. T. Haynes, T.
+     Myklebust. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9737) 

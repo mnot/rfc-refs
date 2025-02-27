@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9701 JSON Web Token (JWT) Response for OAuth Token Introspection. T.
-     Lodderstedt, Ed., V. Dzhuvinov. January 2025. (Format: HTML, TXT,
-     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9701) 
-
 9702 YANG Data Model for Maximum Segment Identifier (SID) Depth (MSD)
      Types and MPLS MSD. Y. Qu, A. Lindem, S. Litkowski, J. Tantsura.
      January 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -37,6 +33,10 @@
 9709 Encryption Key Derivation in the Cryptographic Message Syntax (CMS)
      Using HKDF with SHA-256. R. Housley. January 2025. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9709) 
+
+9710 Simple Fixes to the IP Flow Information Export (IPFIX) Entities IANA
+     Registry. M. Boucadair, B. Claise. February 2025. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9710) 
 
 9712 IETF Meeting Venue Requirements Review. J. Daley, S. Turner. January
      2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8718, RFC8719) (Also
@@ -86,5 +86,5 @@
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9735) 
 
 ===========================================================================
- - This file last updated Tue 25 Feb 2025 02:30:01 AM PST
+ - This file last updated Wed 26 Feb 2025 02:30:01 AM PST
 
