@@ -4,17 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9702 YANG Data Model for Maximum Segment Identifier (SID) Depth (MSD)
-     Types and MPLS MSD. Y. Qu, A. Lindem, S. Litkowski, J. Tantsura.
-     January 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9702) 
-
-9703 Label Switched Path (LSP) Ping/Traceroute for Segment Routing (SR)
-     Egress Peer Engineering (EPE) Segment Identifiers (SIDs) with MPLS
-     Data Plane. S. Hegde, M. Srivastava, K. Arora, S. Ninan, X. Xu.
-     December 2024. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9703) 
-
 9704 Establishing Local DNS Authority in Validated Split-Horizon
      Environments. T. Reddy.K, D. Wing, K. Smith, B. Schwartz. January
      2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
@@ -24,6 +13,11 @@
      to Mass Audiences. L. Giuliano, C. Lenart, R. Adam. January 2025.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9706) 
+
+9707 Report from the IAB Workshop on Barriers to Internet Access of
+     Services (BIAS). M. Kühlewind, D. Dhody, M. Knodel. February 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9707) 
 
 9708 Use of the HSS/LMS Hash-Based Signature Algorithm in the
      Cryptographic Message Syntax (CMS). R. Housley. January 2025.
@@ -85,6 +79,10 @@
      D. Farinacci, L. Iannone, Ed.. February 2025. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9735) 
 
+9737 Reporting Errors in NFSv4.2 via LAYOUTRETURN. T. Haynes, T.
+     Myklebust. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9737) 
+
 ===========================================================================
- - This file last updated Wed 26 Feb 2025 02:30:01 AM PST
+ - This file last updated Thu 27 Feb 2025 02:30:01 AM PST
 
