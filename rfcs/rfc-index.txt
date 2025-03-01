@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/27/2025.)
+(CREATED ON: 03/01/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -24440,12 +24440,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
 5905 Network Time Protocol Version 4: Protocol and Algorithms
      Specification. D. Mills, J. Martin, Ed., J. Burbank, W. Kasch. June
      2010. (Format: TXT, HTML) (Obsoletes RFC1305, RFC4330) (Updated by
-     RFC7822, RFC8573, RFC9109) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC5905) 
+     RFC7822, RFC8573, RFC9109, RFC9748) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC5905) 
 
 5906 Network Time Protocol Version 4: Autokey Specification. B. Haberman,
-     Ed., D. Mills. June 2010. (Format: TXT, HTML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC5906) 
+     Ed., D. Mills. June 2010. (Format: TXT, HTML) (Updated by RFC9748)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC5906) 
 
 5907 Definitions of Managed Objects for Network Time Protocol Version 4
      (NTPv4). H. Gerstung, C. Elliott, B. Haberman, Ed.. June 2010.
@@ -32876,12 +32876,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC7820) 
 
 7821 UDP Checksum Complement in the Network Time Protocol (NTP). T.
-     Mizrahi. March 2016. (Format: TXT, HTML) (Status: EXPERIMENTAL)
-     (DOI: 10.17487/RFC7821) 
+     Mizrahi. March 2016. (Format: TXT, HTML) (Updated by RFC9748)
+     (Status: EXPERIMENTAL) (DOI: 10.17487/RFC7821) 
 
 7822 Network Time Protocol Version 4 (NTPv4) Extension Fields. T.
      Mizrahi, D. Mayer. March 2016. (Format: TXT, HTML) (Updates RFC5905)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7822) 
+     (Updated by RFC9748) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC7822) 
 
 7823 Performance-Based Path Selection for Explicitly Routed Label
      Switched Paths (LSPs) Using TE Metric Extensions. A. Atlas, J.
@@ -36221,7 +36222,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8573 Message Authentication Code for the Network Time Protocol. A.
      Malhotra, S. Goldberg. June 2019. (Format: TXT, HTML) (Updates
-     RFC5905) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8573) 
+     RFC5905) (Updated by RFC9748) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8573) 
 
 8574 cite-as: A Link Relation to Convey a Preferred URI for Referencing.
      H. Van de Sompel, M. Nelson, G. Bilder, J. Kunze, S. Warner. April
@@ -41389,3 +41391,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9737 Reporting Errors in NFSv4.2 via LAYOUTRETURN. T. Haynes, T.
      Myklebust. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9737) 
+
+9748 Updating the NTP Registries. R. Salz. February 2025. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC5905, RFC5906, RFC7821, RFC7822, RFC8573)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9748) 
