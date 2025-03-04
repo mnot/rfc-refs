@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9704 Establishing Local DNS Authority in Validated Split-Horizon
-     Environments. T. Reddy.K, D. Wing, K. Smith, B. Schwartz. January
-     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9704) 
-
 9706 TreeDN: Tree-Based Content Delivery Network (CDN) for Live Streaming
      to Mass Audiences. L. Giuliano, C. Lenart, R. Adam. January 2025.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
@@ -83,6 +78,10 @@
      Myklebust. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9737) 
 
+9748 Updating the NTP Registries. R. Salz. February 2025. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC5905, RFC5906, RFC7821, RFC7822, RFC8573)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9748) 
+
 ===========================================================================
- - This file last updated Fri 28 Feb 2025 02:30:02 AM PST
+ - This file last updated Mon 03 Mar 2025 02:30:01 AM PST
 
