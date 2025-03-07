@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/05/2025.)
+(CREATED ON: 03/06/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -31121,8 +31121,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7432 BGP MPLS-Based Ethernet VPN. A. Sajassi, Ed., R. Aggarwal, N. Bitar,
      A. Isaac, J. Uttaro, J. Drake, W. Henderickx. February 2015.
-     (Format: TXT, HTML) (Updated by RFC8584, RFC9161, RFC9572, RFC9573)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7432) 
+     (Format: TXT, HTML) (Updated by RFC8584, RFC9161, RFC9572, RFC9573,
+     RFC9746) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7432) 
 
 7433 A Mechanism for Transporting User-to-User Call Control Information
      in SIP. A. Johnston, J. Rafferty. January 2015. (Format: TXT, HTML)
@@ -35302,8 +35302,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8365 A Network Virtualization Overlay Solution Using Ethernet VPN (EVPN).
      A. Sajassi, Ed., J. Drake, Ed., N. Bitar, R. Shekhar, J. Uttaro, W.
-     Henderickx. March 2018. (Format: TXT, HTML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8365) 
+     Henderickx. March 2018. (Format: TXT, HTML) (Updated by RFC9746)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8365) 
 
 8366 A Voucher Artifact for Bootstrapping Protocols. K. Watsen, M.
      Richardson, M. Pritikin, T. Eckert. May 2018. (Format: TXT, HTML)
@@ -41423,6 +41423,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Operators for the Conversion and Processing of Text. C. Bormann.
      March 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9741) 
+
+9746 BGP EVPN Multihoming Extensions for Split-Horizon Filtering. J.
+     Rabadan, K. Nagaraj, W. Lin, A. Sajassi. March 2025. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC7432, RFC8365) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9746) 
 
 9748 Updating the NTP Registries. R. Salz. February 2025. (Format: HTML,
      TXT, PDF, XML) (Updates RFC5905, RFC5906, RFC7821, RFC7822, RFC8573)
