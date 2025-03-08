@@ -4,14 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9712 IETF Meeting Venue Requirements Review. J. Daley, S. Turner. January
-     2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8718, RFC8719) (Also
-     BCP0226) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9712) 
-
-9713 Bundle Protocol Version 7 Administrative Record Types Registry. B.
-     Sipos. January 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC9171)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9713) 
-
 9714 Encapsulation for MPLS Performance Measurement with the
      Alternate-Marking Method. W. Cheng, Ed., X. Min, Ed., T. Zhou, J.
      Dai, Y. Peleg. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
@@ -81,10 +73,15 @@
      March 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9741) 
 
+9746 BGP EVPN Multihoming Extensions for Split-Horizon Filtering. J.
+     Rabadan, K. Nagaraj, W. Lin, A. Sajassi. March 2025. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC7432, RFC8365) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9746) 
+
 9748 Updating the NTP Registries. R. Salz. February 2025. (Format: HTML,
      TXT, PDF, XML) (Updates RFC5905, RFC5906, RFC7821, RFC7822, RFC8573)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9748) 
 
 ===========================================================================
- - This file last updated Thu 06 Mar 2025 02:30:01 AM PST
+ - This file last updated Fri 07 Mar 2025 02:30:01 AM PST
 
