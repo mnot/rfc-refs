@@ -20643,8 +20643,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      PROPOSED STANDARD) (DOI: 10.17487/RFC5032) 
 
 5033 Specifying New Congestion Control Algorithms. S. Floyd, M. Allman.
-     August 2007. (Format: TXT, HTML) (Also BCP0133) (Status: BEST
-     CURRENT PRACTICE) (DOI: 10.17487/RFC5033) 
+     August 2007. (Format: TXT, HTML) (Obsoleted by RFC9743) (Status:
+     BEST CURRENT PRACTICE) (DOI: 10.17487/RFC5033) 
 
 5034 The Post Office Protocol (POP3) Simple Authentication and Security
      Layer (SASL) Authentication Mechanism. R. Siemborski, A. Menon-Sen.
@@ -22415,8 +22415,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5440 Path Computation Element (PCE) Communication Protocol (PCEP). JP.
      Vasseur, Ed., JL. Le Roux, Ed.. March 2009. (Format: TXT, HTML)
-     (Updated by RFC7896, RFC8253, RFC8356, RFC9488) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC5440) 
+     (Updated by RFC7896, RFC8253, RFC8356, RFC9488, RFC9756) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC5440) 
 
 5441 A Backward-Recursive PCE-Based Computation (BRPC) Procedure to
      Compute Shortest Constrained Inter-Domain Traffic Engineering Label
@@ -34684,8 +34684,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8231 Path Computation Element Communication Protocol (PCEP) Extensions
      for Stateful PCE. E. Crabbe, I. Minei, J. Medved, R. Varga.
-     September 2017. (Format: TXT, HTML) (Updated by RFC8786, RFC9353)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8231) 
+     September 2017. (Format: TXT, HTML) (Updated by RFC8786, RFC9353,
+     RFC9756) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8231) 
 
 8232 Optimizations of Label Switched Path State Synchronization
      Procedures for a Stateful PCE. E. Crabbe, I. Minei, J. Medved, R.
@@ -34695,7 +34695,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8233 Extensions to the Path Computation Element Communication Protocol
      (PCEP) to Compute Service-Aware Label Switched Paths (LSPs). D.
      Dhody, Q. Wu, V. Manral, Z. Ali, K. Kumaki. September 2017. (Format:
-     TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8233) 
+     TXT, HTML) (Updated by RFC9756) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8233) 
 
 8234 Updates to MPLS Transport Profile (MPLS-TP) Linear Protection in
      Automatic Protection Switching (APS) Mode. J. Ryoo, T. Cheung, H.
@@ -34915,7 +34916,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8281 Path Computation Element Communication Protocol (PCEP) Extensions
      for PCE-Initiated LSP Setup in a Stateful PCE Model. E. Crabbe, I.
      Minei, S. Sivabalan, R. Varga. December 2017. (Format: TXT, HTML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8281) 
+     (Updated by RFC9756) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8281) 
 
 8282 Extensions to the Path Computation Element Communication Protocol
      (PCEP) for Inter-Layer MPLS and GMPLS Traffic Engineering. E. Oki,
@@ -36442,7 +36444,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8623 Stateful Path Computation Element (PCE) Protocol Extensions for
      Usage with Point-to-Multipoint TE Label Switched Paths (LSPs). U.
      Palle, D. Dhody, Y. Tanaka, V. Beeram. June 2019. (Format: TXT,
-     HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8623) 
+     HTML) (Updated by RFC9756) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8623) 
 
 8624 Algorithm Implementation Requirements and Usage Guidance for DNSSEC.
      P. Wouters, O. Sury. June 2019. (Format: TXT, HTML) (Obsoletes
@@ -36614,8 +36617,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8664 Path Computation Element Communication Protocol (PCEP) Extensions
      for Segment Routing. S. Sivabalan, C. Filsfils, J. Tantsura, W.
      Henderickx, J. Hardwick. December 2019. (Format: HTML, TXT, PDF,
-     XML) (Updates RFC8408) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8664) 
+     XML) (Updates RFC8408) (Updated by RFC9756) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC8664) 
 
 8665 OSPF Extensions for Segment Routing. P. Psenak, Ed., S. Previdi,
      Ed., C. Filsfils, H. Gredler, R. Shakir, W. Henderickx, J. Tantsura.
@@ -36710,8 +36713,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8685 Path Computation Element Communication Protocol (PCEP) Extensions
      for the Hierarchical Path Computation Element (H-PCE) Architecture.
      F. Zhang, Q. Zhao, O. Gonzalez de Dios, R. Casellas, D. King.
-     December 2019. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8685) 
+     December 2019. (Format: HTML, TXT, PDF, XML) (Updated by RFC9756)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8685) 
 
 8686 Application-Layer Traffic Optimization (ALTO) Cross-Domain Server
      Discovery. S. Kiesel, M. Stiemerling. February 2020. (Format: HTML,
@@ -36765,7 +36768,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      for Establishing Relationships between Sets of Label Switched Paths
      (LSPs). I. Minei, E. Crabbe, S. Sivabalan, H. Ananthakrishnan, D.
      Dhody, Y. Tanaka. January 2020. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8697) 
+     (Updated by RFC9756) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8697) 
 
 8698 Network-Assisted Dynamic Adaptation (NADA): A Unified Congestion
      Control Scheme for Real-Time Media. X. Zhu, R. Pan, M. Ramalho, S.
@@ -36938,8 +36942,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8733 Path Computation Element Communication Protocol (PCEP) Extensions
      for MPLS-TE Label Switched Path (LSP) Auto-Bandwidth Adjustment with
      Stateful PCE. D. Dhody, Ed., R. Gandhi, Ed., U. Palle, R. Singh, L.
-     Fang. February 2020. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8733) 
+     Fang. February 2020. (Format: HTML, TXT, PDF, XML) (Updated by
+     RFC9756) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8733) 
 
 8734 Elliptic Curve Cryptography (ECC) Brainpool Curves for Transport
      Layer Security (TLS) Version 1.3. L. Bruckert, J. Merkle, M.
@@ -36997,8 +37001,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8745 Path Computation Element Communication Protocol (PCEP) Extensions
      for Associating Working and Protection Label Switched Paths (LSPs)
      with Stateful PCE. H. Ananthakrishnan, S. Sivabalan, C. Barth, I.
-     Minei, M. Negi. March 2020. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC8745) 
+     Minei, M. Negi. March 2020. (Format: HTML, TXT, PDF, XML) (Updated
+     by RFC9756) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8745) 
 
 8746 Concise Binary Object Representation (CBOR) Tags for Typed Arrays.
      C. Bormann, Ed.. February 2020. (Format: HTML, TXT, PDF, XML)
@@ -37147,14 +37151,14 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8779 Path Computation Element Communication Protocol (PCEP) Extensions
      for GMPLS. C. Margaria, Ed., O. Gonzalez de Dios, Ed., F. Zhang,
-     Ed.. July 2020. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8779) 
+     Ed.. July 2020. (Format: HTML, TXT, PDF, XML) (Updated by RFC9756)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8779) 
 
 8780 The Path Computation Element Communication Protocol (PCEP) Extension
      for Wavelength Switched Optical Network (WSON) Routing and
      Wavelength Assignment (RWA). Y. Lee, Ed., R. Casellas, Ed.. July
-     2020. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC8780) 
+     2020. (Format: HTML, TXT, PDF, XML) (Updated by RFC9756) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8780) 
 
 8781 Discovering PREF64 in Router Advertisements. L. Colitti, J. Linkova.
      April 2020. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -37246,8 +37250,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8800 Path Computation Element Communication Protocol (PCEP) Extension for
      Label Switched Path (LSP) Diversity Constraint Signaling. S.
      Litkowski, S. Sivabalan, C. Barth, M. Negi. July 2020. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8800) 
+     HTML, TXT, PDF, XML) (Updated by RFC9756) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC8800) 
 
 8801 Discovering Provisioning Domain Names and Data. P. Pfister, É.
      Vyncke, T. Pauly, D. Schinazi, W. Shao. July 2020. (Format: HTML,
@@ -37857,7 +37861,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8934 PCE Communication Protocol (PCEP) Extensions for Label Switched Path
      (LSP) Scheduling with Stateful PCE. H. Chen, Ed., Y. Zhuang, Ed., Q.
      Wu, D. Ceccarelli. October 2020. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8934) 
+     (Updated by RFC9756) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8934) 
 
 8935 Push-Based Security Event Token (SET) Delivery Using HTTP. A.
      Backman, Ed., M. Jones, Ed., M. Scurtescu, M. Ansari, A. Nadalin.
@@ -38390,8 +38395,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9050 Path Computation Element Communication Protocol (PCEP) Procedures
      and Extensions for Using the PCE as a Central Controller (PCECC) of
      LSPs. Z. Li, S. Peng, M. Negi, Q. Zhao, C. Zhou. July 2021. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9050) 
+     HTML, TXT, PDF, XML) (Updated by RFC9756) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9050) 
 
 9051 Internet Message Access Protocol (IMAP) - Version 4rev2. A.
      Melnikov, Ed., B. Leiba, Ed.. August 2021. (Format: HTML, TXT, PDF,
@@ -38430,7 +38435,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9059 Path Computation Element Communication Protocol (PCEP) Extensions
      for Associated Bidirectional Label Switched Paths (LSPs). R. Gandhi,
      Ed., C. Barth, B. Wen. June 2021. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9059) 
+     (Updated by RFC9756) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9059) 
 
 9060 Secure Telephone Identity Revisited (STIR) Certificate Delegation.
      J. Peterson. September 2021. (Format: HTML, TXT, PDF, XML) (Status:
@@ -38931,8 +38937,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9168 Path Computation Element Communication Protocol (PCEP) Extension for
      Flow Specification. D. Dhody, A. Farrel, Z. Li. January 2022.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9168) 
+     (Format: HTML, TXT, PDF, XML) (Updated by RFC9756) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9168) 
 
 9169 New ASN.1 Modules for the Evidence Record Syntax (ERS). R. Housley,
      C. Wallace. December 2021. (Format: HTML, TXT, PDF, XML) (Status:
@@ -39787,8 +39793,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC9356) 
 
 9357 Label Switched Path (LSP) Object Flag Extension for Stateful PCE. Q.
-     Xiong. February 2023. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9357) 
+     Xiong. February 2023. (Format: HTML, TXT, PDF, XML) (Updated by
+     RFC9756) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9357) 
 
 9358 Path Computation Element Communication Protocol (PCEP) Extensions
      for Establishing Relationships between Sets of Label Switched Paths
@@ -40452,8 +40458,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9504 Path Computation Element Communication Protocol (PCEP) Extensions
      for Stateful PCE Usage in GMPLS-Controlled Networks. Y. Lee, H.
      Zheng, O. Gonzalez de Dios, V. Lopez, Z. Ali. December 2023.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9504) 
+     (Format: HTML, TXT, PDF, XML) (Updated by RFC9756) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9504) 
 
 9505 A Survey of Worldwide Censorship Techniques. J. L. Hall, M. D.
      Aaron, A. Andersdotter, B. Jones, N. Feamster, M. Knodel. November
@@ -40909,12 +40915,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9603 Path Computation Element Communication Protocol (PCEP) Extensions
      for IPv6 Segment Routing. C. Li, Ed., P. Kaladharan, S. Sivabalan,
      M. Koldychev, Y. Zhu. July 2024. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9603) 
+     (Updated by RFC9756) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9603) 
 
 9604 Carrying Binding Label/SID in PCE-Based Networks. S. Sivabalan, C.
      Filsfils, J. Tantsura, S. Previdi, C. Li, Ed.. August 2024. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9604) 
+     HTML, TXT, PDF, XML) (Updated by RFC9756) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9604) 
 
 9605 Secure Frame (SFrame): Lightweight Authenticated Encryption for
      Real-Time Media. E. Omara, J. Uberti, S. G. Murillo, R. Barnes, Ed.,
@@ -41424,6 +41431,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      March 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9741) 
 
+9743 Specifying New Congestion Control Algorithms. M. Duke, Ed., G.
+     Fairhurst, Ed.. March 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC5033) (Also BCP0133) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC9743) 
+
 9746 BGP EVPN Multihoming Extensions for Split-Horizon Filtering. J.
      Rabadan, K. Nagaraj, W. Lin, A. Sajassi. March 2025. (Format: HTML,
      TXT, PDF, XML) (Updates RFC7432, RFC8365) (Status: PROPOSED
@@ -41432,3 +41444,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9748 Updating the NTP Registries. R. Salz. February 2025. (Format: HTML,
      TXT, PDF, XML) (Updates RFC5905, RFC5906, RFC7821, RFC7822, RFC8573)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9748) 
+
+9756 Update to the IANA Path Communication Element Protocol (PCEP)
+     Numbers Registration Procedures and the Allowance of Experimental
+     Error Codes. D. Dhody, A. Farrel. March 2025. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC5440, RFC8231, RFC8233, RFC8281, RFC8623,
+     RFC8664, RFC8685, RFC8697, RFC8733, RFC8745, RFC8779, RFC8780,
+     RFC8800, RFC8934, RFC9050, RFC9059, RFC9168, RFC9357, RFC9504,
+     RFC9603, RFC9604) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9756) 
