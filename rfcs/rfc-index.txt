@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/12/2025.)
+(CREATED ON: 03/13/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -33022,7 +33022,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7854 BGP Monitoring Protocol (BMP). J. Scudder, Ed., R. Fernando, S.
      Stuart. June 2016. (Format: TXT, HTML) (Updated by RFC8671, RFC9069,
-     RFC9515) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7854) 
+     RFC9515, RFC9736) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC7854) 
 
 7855 Source Packet Routing in Networking (SPRING) Problem Statement and
      Requirements. S. Previdi, Ed., C. Filsfils, Ed., B. Decraene, S.
@@ -36650,8 +36651,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8671 Support for Adj-RIB-Out in the BGP Monitoring Protocol (BMP). T.
      Evens, S. Bayraktar, P. Lucente, P. Mi, S. Zhuang. November 2019.
-     (Format: HTML, TXT, PDF, XML) (Updates RFC7854) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8671) 
+     (Format: HTML, TXT, PDF, XML) (Updates RFC7854) (Updated by RFC9736)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8671) 
 
 8672 TLS Server Identity Pinning with Tickets. Y. Sheffer, D. Migault.
      October 2019. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL)
@@ -38481,8 +38482,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9069 Support for Local RIB in the BGP Monitoring Protocol (BMP). T.
      Evens, S. Bayraktar, M. Bhardwaj, P. Lucente. February 2022.
-     (Format: HTML, TXT, PDF, XML) (Updates RFC7854) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9069) 
+     (Format: HTML, TXT, PDF, XML) (Updates RFC7854) (Updated by RFC9736)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9069) 
 
 9070 YANG Data Model for MPLS LDP. K. Raza, Ed., R. Asati, X. Liu, S.
      Esale, X. Chen, H. Shah. March 2022. (Format: HTML, TXT, PDF, XML)
@@ -41408,6 +41409,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9735 Locator/ID Separation Protocol (LISP) Distinguished Name Encoding.
      D. Farinacci, L. Iannone, Ed.. February 2025. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9735) 
+
+9736 The BGP Monitoring Protocol (BMP) Peer Up Message Namespace. J.
+     Scudder, P. Lucente. March 2025. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC7854, RFC8671, RFC9069) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9736) 
 
 9737 Reporting Errors in NFSv4.2 via LAYOUTRETURN. T. Haynes, T.
      Myklebust. February 2025. (Format: HTML, TXT, PDF, XML) (Status:

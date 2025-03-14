@@ -4,20 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9714 Encapsulation for MPLS Performance Measurement with the
-     Alternate-Marking Method. W. Cheng, Ed., X. Min, Ed., T. Zhou, J.
-     Dai, Y. Peleg. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9714) 
-
-9715 IP Fragmentation Avoidance in DNS over UDP. K. Fujiwara, P. Vixie.
-     January 2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC9715) 
-
-9716 Mechanisms for MPLS Ping and Traceroute Procedures in Inter-Domain
-     Segment Routing Networks. S. Hegde, K. Arora, M. Srivastava, S.
-     Ninan, N. Kumar. February 2025. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9716) 
-
 9717 A Routing Architecture for Satellite Networks. T. Li. January 2025.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9717) 
@@ -73,6 +59,11 @@
      March 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9741) 
 
+9743 Specifying New Congestion Control Algorithms. M. Duke, Ed., G.
+     Fairhurst, Ed.. March 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC5033) (Also BCP0133) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC9743) 
+
 9746 BGP EVPN Multihoming Extensions for Split-Horizon Filtering. J.
      Rabadan, K. Nagaraj, W. Lin, A. Sajassi. March 2025. (Format: HTML,
      TXT, PDF, XML) (Updates RFC7432, RFC8365) (Status: PROPOSED
@@ -82,6 +73,15 @@
      TXT, PDF, XML) (Updates RFC5905, RFC5906, RFC7821, RFC7822, RFC8573)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9748) 
 
+9756 Update to the IANA Path Communication Element Protocol (PCEP)
+     Numbers Registration Procedures and the Allowance of Experimental
+     Error Codes. D. Dhody, A. Farrel. March 2025. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC5440, RFC8231, RFC8233, RFC8281, RFC8623,
+     RFC8664, RFC8685, RFC8697, RFC8733, RFC8745, RFC8779, RFC8780,
+     RFC8800, RFC8934, RFC9050, RFC9059, RFC9168, RFC9357, RFC9504,
+     RFC9603, RFC9604) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9756) 
+
 ===========================================================================
- - This file last updated Wed 12 Mar 2025 02:30:01 AM PDT
+ - This file last updated Thu 13 Mar 2025 02:30:01 AM PDT
 
