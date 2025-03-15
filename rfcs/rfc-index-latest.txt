@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9717 A Routing Architecture for Satellite Networks. T. Li. January 2025.
-     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9717) 
-
 9718 DNSSEC Trust Anchor Publication for the Root Zone. J. Abley, J.
      Schlyter, G. Bailey, P. Hoffman. January 2025. (Format: HTML, TXT,
      PDF, XML) (Obsoletes RFC7958) (Status: INFORMATIONAL) (DOI:
@@ -36,6 +32,11 @@
 9735 Locator/ID Separation Protocol (LISP) Distinguished Name Encoding.
      D. Farinacci, L. Iannone, Ed.. February 2025. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9735) 
+
+9736 The BGP Monitoring Protocol (BMP) Peer Up Message Namespace. J.
+     Scudder, P. Lucente. March 2025. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC7854, RFC8671, RFC9069) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9736) 
 
 9737 Reporting Errors in NFSv4.2 via LAYOUTRETURN. T. Haynes, T.
      Myklebust. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
@@ -83,5 +84,5 @@
      10.17487/RFC9756) 
 
 ===========================================================================
- - This file last updated Thu 13 Mar 2025 02:30:01 AM PDT
+ - This file last updated Fri 14 Mar 2025 02:30:01 AM PDT
 
