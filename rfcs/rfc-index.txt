@@ -41456,6 +41456,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, PDF, XML) (Updates RFC5905, RFC5906, RFC7821, RFC7822, RFC8573)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9748) 
 
+9749 Use of Voluntary Application Server Identification (VAPID) in JSON
+     Meta Application Protocol (JMAP) Web Push. D. Gultsch. March 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9749) 
+
 9756 Update to the IANA Path Communication Element Protocol (PCEP)
      Numbers Registration Procedures and the Allowance of Experimental
      Error Codes. D. Dhody, A. Farrel. March 2025. (Format: HTML, TXT,
