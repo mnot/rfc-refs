@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9733 BRSKI with Alternative Enrollment (BRSKI-AE). D. von Oheimb, Ed., S.
-     Fries, H. Brockhaus. March 2025. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9733) 
-
 9734 X.509 Certificate Extended Key Usage (EKU) for Instant Messaging
      URIs. R. Mahy. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9734) 
@@ -53,6 +49,10 @@
      S. Boutros, J. Rabadan. March 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9744) 
 
+9745 The Deprecation HTTP Response Header Field. S. Dalal, E. Wilde.
+     March 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9745) 
+
 9746 BGP EVPN Multihoming Extensions for Split-Horizon Filtering. J.
      Rabadan, K. Nagaraj, W. Lin, A. Sajassi. March 2025. (Format: HTML,
      TXT, PDF, XML) (Updates RFC7432, RFC8365) (Status: PROPOSED
@@ -86,5 +86,5 @@
      10.17487/RFC9757) 
 
 ===========================================================================
- - This file last updated Mon 17 Mar 2025 02:30:02 AM PDT
+ - This file last updated Tue 18 Mar 2025 02:30:01 AM PDT
 
