@@ -34062,8 +34062,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      INFORMATIONAL) (DOI: 10.17487/RFC8087) 
 
 8088 How to Write an RTP Payload Format. M. Westerlund. May 2017.
-     (Format: TXT, HTML) (Updates RFC2736) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC8088) 
+     (Format: TXT, HTML) (Updates RFC2736) (Updated by RFC9751) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC8088) 
 
 8089 The "file" URI Scheme. M. Kerwin. February 2017. (Format: TXT, HTML)
      (Updates RFC1738) (Status: PROPOSED STANDARD) (DOI:
@@ -41478,6 +41478,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Meta Application Protocol (JMAP) Web Push. D. Gultsch. March 2025.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9749) 
+
+9751 Closing the RTP Payload Format Media Types Registry. M. Westerlund.
+     March 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8088) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9751) 
 
 9755 IMAP Support for UTF-8. P. Resnick, J. Yao, A. Gulbrandsen. March
      2025. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6855) (Status:
