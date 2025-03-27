@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/25/2025.)
+(CREATED ON: 03/27/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -16545,8 +16545,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 4090 Fast Reroute Extensions to RSVP-TE for LSP Tunnels. P. Pan, Ed., G.
      Swallow, Ed., A. Atlas, Ed.. May 2005. (Format: TXT, HTML) (Updated
-     by RFC8271, RFC8537, RFC8796) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC4090) 
+     by RFC8271, RFC8537, RFC8796, RFC9705) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC4090) 
 
 4091 The Alternative Network Address Types (ANAT) Semantics for the
      Session Description Protocol (SDP) Grouping Framework. G. Camarillo,
@@ -24332,8 +24332,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC5879) 
 
 5880 Bidirectional Forwarding Detection (BFD). D. Katz, D. Ward. June
-     2010. (Format: TXT, HTML) (Updated by RFC7419, RFC7880, RFC8562)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5880) 
+     2010. (Format: TXT, HTML) (Updated by RFC7419, RFC7880, RFC8562,
+     RFC9747) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5880) 
 
 5881 Bidirectional Forwarding Detection (BFD) for IPv4 and IPv6 (Single
      Hop). D. Katz, D. Ward. June 2010. (Format: TXT, HTML) (Status:
@@ -37425,8 +37425,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8840 A Session Initiation Protocol (SIP) Usage for Incremental
      Provisioning of Candidates for the Interactive Connectivity
      Establishment (Trickle ICE). E. Ivov, T. Stach, E. Marocco, C.
-     Holmberg. January 2021. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC8840) 
+     Holmberg. January 2021. (Format: HTML, TXT, PDF, XML) (Updated by
+     RFC9725) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8840) 
 
 8841 Session Description Protocol (SDP) Offer/Answer Procedures for
      Stream Control Transmission Protocol (SCTP) over Datagram Transport
@@ -37437,8 +37437,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8842 Session Description Protocol (SDP) Offer/Answer Considerations for
      Datagram Transport Layer Security (DTLS) and Transport Layer
      Security (TLS). C. Holmberg, R. Shpount. January 2021. (Format:
-     HTML, TXT, PDF, XML) (Updates RFC5763, RFC7345) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8842) 
+     HTML, TXT, PDF, XML) (Updates RFC5763, RFC7345) (Updated by RFC9725)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8842) 
 
 8843 Negotiating Media Multiplexing Using the Session Description
      Protocol (SDP). C. Holmberg, H. Alvestrand, C. Jennings. January
@@ -41341,6 +41341,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9704) 
 
+9705 Refresh-Interval Independent RSVP Fast Reroute Facility Protection.
+     C. Ramachandran, T. Saad, D. Pacella. March 2025. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC4090) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9705) 
+
 9706 TreeDN: Tree-Based Content Delivery Network (CDN) for Live Streaming
      to Mass Audiences. L. Giuliano, C. Lenart, R. Adam. January 2025.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
@@ -41403,6 +41408,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (MAC) Addresses. JC. Zúñiga, CJ. Bernardos, Ed., A. Andersdotter.
      March 2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC9724) 
+
+9725 WebRTC-HTTP Ingestion Protocol (WHIP). S. Garcia Murillo, A.
+     Gouaillard. March 2025. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC8840, RFC8842) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9725) 
 
 9729 The Concealed HTTP Authentication Scheme. D. Schinazi, D. Oliver, J.
      Hoyland. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
@@ -41470,6 +41480,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, PDF, XML) (Updates RFC7432, RFC8365) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9746) 
 
+9747 Unaffiliated Bidirectional Forwarding Detection (BFD) Echo. W.
+     Cheng, R. Wang, X. Min, Ed., R. Rahman, R. Boddireddy. March 2025.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC5880) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9747) 
+
 9748 Updating the NTP Registries. R. Salz. February 2025. (Format: HTML,
      TXT, PDF, XML) (Updates RFC5905, RFC5906, RFC7821, RFC7822, RFC8573)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9748) 
@@ -41482,6 +41497,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9751 Closing the RTP Payload Format Media Types Registry. M. Westerlund.
      March 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8088) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9751) 
+
+9754 Extensions for Opening and Delegating Files in NFSv4.2. T. Haynes,
+     T. Myklebust. March 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9754) 
 
 9755 IMAP Support for UTF-8. P. Resnick, J. Yao, A. Gulbrandsen. March
      2025. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6855) (Status:
