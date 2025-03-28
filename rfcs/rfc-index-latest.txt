@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9736 The BGP Monitoring Protocol (BMP) Peer Up Message Namespace. J.
-     Scudder, P. Lucente. March 2025. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC7854, RFC8671, RFC9069) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9736) 
-
-9737 Reporting Errors in NFSv4.2 via LAYOUTRETURN. T. Haynes, T.
-     Myklebust. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9737) 
-
 9738 IMAP MESSAGELIMIT Extension. A. Melnikov, A. P. Achuthan, V.
      Nagulakonda, L. Alves. March 2025. (Format: HTML, TXT, PDF, XML)
      (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9738) 
@@ -50,6 +41,11 @@
      TXT, PDF, XML) (Updates RFC7432, RFC8365) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9746) 
 
+9747 Unaffiliated Bidirectional Forwarding Detection (BFD) Echo. W.
+     Cheng, R. Wang, X. Min, Ed., R. Rahman, R. Boddireddy. March 2025.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC5880) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9747) 
+
 9748 Updating the NTP Registries. R. Salz. February 2025. (Format: HTML,
      TXT, PDF, XML) (Updates RFC5905, RFC5906, RFC7821, RFC7822, RFC8573)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9748) 
@@ -62,6 +58,10 @@
 9751 Closing the RTP Payload Format Media Types Registry. M. Westerlund.
      March 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8088) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9751) 
+
+9754 Extensions for Opening and Delegating Files in NFSv4.2. T. Haynes,
+     T. Myklebust. March 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9754) 
 
 9755 IMAP Support for UTF-8. P. Resnick, J. Yao, A. Gulbrandsen. March
      2025. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6855) (Status:
@@ -85,5 +85,5 @@
      PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9775) 
 
 ===========================================================================
- - This file last updated Wed 26 Mar 2025 02:30:01 AM PDT
+ - This file last updated Thu 27 Mar 2025 02:30:01 AM PDT
 
