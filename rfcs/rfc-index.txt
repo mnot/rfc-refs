@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/28/2025.)
+(CREATED ON: 04/01/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41426,6 +41426,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Gouaillard. March 2025. (Format: HTML, TXT, PDF, XML) (Updates
      RFC8840, RFC8842) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9725) 
+
+9726 Operational Considerations for Use of DNS in Internet of Things
+     (IoT) Devices. M. Richardson, W. Pan. March 2025. (Format: HTML,
+     TXT, PDF, XML) (Also BCP0241) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC9726) 
 
 9729 The Concealed HTTP Authentication Scheme. D. Schinazi, D. Oliver, J.
      Hoyland. February 2025. (Format: HTML, TXT, PDF, XML) (Status:
