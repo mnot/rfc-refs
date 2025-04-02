@@ -41547,6 +41547,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2025. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC9757) 
 
+9759 Unified Time Scaling for Temporal Coordination Frameworks. K. Kuhns.
+     1 April 2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9759) 
+
 9775 IRTF Code of Conduct. C. S. Perkins. March 2025. (Format: HTML, TXT,
      PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9775) 
 
