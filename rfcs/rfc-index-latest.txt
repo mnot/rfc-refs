@@ -63,6 +63,10 @@
      2025. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC9757) 
 
+9759 Unified Time Scaling for Temporal Coordination Frameworks. K. Kuhns.
+     1 April 2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9759) 
+
 9775 IRTF Code of Conduct. C. S. Perkins. March 2025. (Format: HTML, TXT,
      PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9775) 
 
@@ -82,5 +86,5 @@
      10.17487/RFC9778) 
 
 ===========================================================================
- - This file last updated Tue 01 Apr 2025 02:30:01 AM PDT
+ - This file last updated Wed 02 Apr 2025 02:30:01 AM PDT
 
