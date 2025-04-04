@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 04/02/2025.)
+(CREATED ON: 04/03/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41303,6 +41303,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Bruijnzeels, R. Austein. December 2024. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9691) 
 
+9692 RIFT: Routing in Fat Trees. T. Przygienda, Ed., J. Head, Ed., A.
+     Sharma, P. Thubert, B. Rijsman, D. Afanasiev. April 2025. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9692) 
+
 9693 Benchmarking Methodology for Stateful NATxy Gateways. G. Lencse, K.
      Shima. January 2025. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9693) 
@@ -41315,6 +41320,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9695 The 'haptics' Top-Level Media Type. Y. K. Muthusamy, C. Ullrich.
      March 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9695) 
+
+9696 Routing in Fat Trees (RIFT) Applicability and Operational
+     Considerations. Y. Wei, Ed., Z. Zhang, D. Afanasiev, P. Thubert, T.
+     Przygienda. April 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9696) 
 
 9697 Detecting RPKI Repository Delta Protocol (RRDP) Session
      Desynchronization. J. Snijders, T. de Kock. December 2024. (Format:
