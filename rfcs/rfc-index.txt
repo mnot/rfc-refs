@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 04/03/2025.)
+(CREATED ON: 04/04/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41423,6 +41423,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      PDF, XML) (Obsoletes RFC7958) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9718) 
 
+9719 YANG Data Model for Routing in Fat Trees (RIFT). Z. Zhang, Y. Wei,
+     S. Ma, X. Liu, B. Rijsman. April 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9719) 
+
 9720 RFC Formats and Versions. P. Hoffman, H. Flanagan. January 2025.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7990) (Updates RFC9280)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 
@@ -41560,6 +41564,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9759 Unified Time Scaling for Temporal Coordination Frameworks. K. Kuhns.
      1 April 2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC9759) 
+
+9764 Bidirectional Forwarding Detection (BFD) Encapsulated in Large
+     Packets. J. Haas, A. Fu. April 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9764) 
 
 9775 IRTF Code of Conduct. C. S. Perkins. March 2025. (Format: HTML, TXT,
      PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9775) 
