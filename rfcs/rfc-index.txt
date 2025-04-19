@@ -41571,6 +41571,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      1 April 2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC9759) 
 
+9761 Manufacturer Usage Description (MUD) for TLS and DTLS Profiles for
+     Internet of Things (IoT) Devices. T. Reddy.K, D. Wing, B. Anderson.
+     April 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9761) 
+
 9764 Bidirectional Forwarding Detection (BFD) Encapsulated in Large
      Packets. J. Haas, A. Fu. April 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9764) 
