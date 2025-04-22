@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 04/18/2025.)
+(CREATED ON: 04/22/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -34687,7 +34687,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8231 Path Computation Element Communication Protocol (PCEP) Extensions
      for Stateful PCE. E. Crabbe, I. Minei, J. Medved, R. Varga.
      September 2017. (Format: TXT, HTML) (Updated by RFC8786, RFC9353,
-     RFC9756) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8231) 
+     RFC9753, RFC9756) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8231) 
 
 8232 Optimizations of Label Switched Path State Synchronization
      Procedures for a Stateful PCE. E. Crabbe, I. Minei, J. Medved, R.
@@ -41544,6 +41545,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      C. Li, H. Zheng, S. Sivabalan, S. Sidor, Z. Ali. April 2025.
      (Format: HTML, TXT, PDF, XML) (Updates RFC7470) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9752) 
+
+9753 Extension for Stateful PCE to Allow Optional Processing of Path
+     Computation Element Communication Protocol (PCEP) Objects. C. Li, H.
+     Zheng, S. Litkowski. April 2025. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC8231) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9753) 
 
 9754 Extensions for Opening and Delegating Files in NFSv4.2. T. Haynes,
      T. Myklebust. March 2025. (Format: HTML, TXT, PDF, XML) (Status:
