@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9747 Unaffiliated Bidirectional Forwarding Detection (BFD) Echo. W.
-     Cheng, R. Wang, X. Min, Ed., R. Rahman, R. Boddireddy. March 2025.
-     (Format: HTML, TXT, PDF, XML) (Updates RFC5880) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9747) 
-
 9748 Updating the NTP Registries. R. Salz. February 2025. (Format: HTML,
      TXT, PDF, XML) (Updates RFC5905, RFC5906, RFC7821, RFC7822, RFC8573)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9748) 
@@ -27,6 +22,12 @@
      C. Li, H. Zheng, S. Sivabalan, S. Sidor, Z. Ali. April 2025.
      (Format: HTML, TXT, PDF, XML) (Updates RFC7470) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9752) 
+
+9753 Extension for Stateful PCE to Allow Optional Processing of Path
+     Computation Element Communication Protocol (PCEP) Objects. C. Li, H.
+     Zheng, S. Litkowski. April 2025. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC8231) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9753) 
 
 9754 Extensions for Opening and Delegating Files in NFSv4.2. T. Haynes,
      T. Myklebust. March 2025. (Format: HTML, TXT, PDF, XML) (Status:
@@ -82,5 +83,5 @@
      10.17487/RFC9778) 
 
 ===========================================================================
- - This file last updated Mon 21 Apr 2025 02:30:01 AM PDT
+ - This file last updated Tue 22 Apr 2025 02:30:01 AM PDT
 
