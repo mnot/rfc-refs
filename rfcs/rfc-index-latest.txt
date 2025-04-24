@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9748 Updating the NTP Registries. R. Salz. February 2025. (Format: HTML,
-     TXT, PDF, XML) (Updates RFC5905, RFC5906, RFC7821, RFC7822, RFC8573)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9748) 
-
-9749 Use of Voluntary Application Server Identification (VAPID) in JSON
-     Meta Application Protocol (JMAP) Web Push. D. Gultsch. March 2025.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9749) 
-
 9751 Closing the RTP Payload Format Media Types Registry. M. Westerlund.
      March 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8088) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9751) 
@@ -64,6 +55,15 @@
      Packets. J. Haas, A. Fu. April 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9764) 
 
+9765 RADIUS/1.1: Leveraging Application-Layer Protocol Negotiation (ALPN)
+     to Remove MD5. A. DeKok. April 2025. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC2865, RFC2866, RFC5176, RFC6613, RFC6614, RFC7360)
+     (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9765) 
+
+9767 Grant Negotiation and Authorization Protocol Resource Server
+     Connections. J. Richer, Ed., F. Imbault. April 2025. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9767) 
+
 9775 IRTF Code of Conduct. C. S. Perkins. March 2025. (Format: HTML, TXT,
      PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9775) 
 
@@ -83,5 +83,5 @@
      10.17487/RFC9778) 
 
 ===========================================================================
- - This file last updated Tue 22 Apr 2025 02:30:01 AM PDT
+ - This file last updated Wed 23 Apr 2025 02:30:01 AM PDT
 
