@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 04/30/2025.)
+(CREATED ON: 05/01/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41395,6 +41395,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Registry. M. Boucadair, B. Claise. February 2025. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9710) 
 
+9711 The Entity Attestation Token (EAT). L. Lundblade, G. Mandyam, J.
+     O'Donoghue, C. Wallace. April 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9711) 
+
 9712 IETF Meeting Venue Requirements Review. J. Daley, S. Turner. January
      2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8718, RFC8719) (Also
      BCP0226) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9712) 
@@ -41433,6 +41437,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9720 RFC Formats and Versions. P. Hoffman, H. Flanagan. January 2025.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7990) (Updates RFC9280)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 
+
+9721 Extended Mobility Procedures for Ethernet VPN Integrated Routing and
+     Bridging (EVPN-IRB). N. Malhotra, Ed., A. Sajassi, A. Pattekar, J.
+     Rabadan, A. Lingala, J. Drake. April 2025. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9721) 
 
 9724 State of Affairs for Randomized and Changing Media Access Control
      (MAC) Addresses. JC. Zúñiga, CJ. Bernardos, Ed., A. Andersdotter.
@@ -41508,6 +41517,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Operators for the Conversion and Processing of Text. C. Bormann.
      March 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9741) 
+
+9742 A YANG Data Model for Syslog Management. J. Clarke, Ed., M.
+     Jethanandani, Ed., C. Wildes, Ed., K. Koushik, Ed.. April 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9742) 
 
 9743 Specifying New Congestion Control Algorithms. M. Duke, Ed., G.
      Fairhurst, Ed.. March 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes
