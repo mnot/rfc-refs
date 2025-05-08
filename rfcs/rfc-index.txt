@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/07/2025.)
+(CREATED ON: 05/08/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41623,6 +41623,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9767 Grant Negotiation and Authorization Protocol Resource Server
      Connections. J. Richer, Ed., F. Imbault. April 2025. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9767) 
+
+9771 Properties of Authenticated Encryption with Associated Data (AEAD)
+     Algorithms. A. Bozhko, Ed.. May 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9771) 
 
 9775 IRTF Code of Conduct. C. S. Perkins. March 2025. (Format: HTML, TXT,
      PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9775) 
