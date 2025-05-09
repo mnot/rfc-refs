@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/08/2025.)
+(CREATED ON: 05/09/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41645,3 +41645,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Haberman, Ed.. March 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC3228) (Also BCP0057) (Status: BEST CURRENT PRACTICE) (DOI:
      10.17487/RFC9778) 
+
+9779 Performance Measurement for Segment Routing Networks with the MPLS
+     Data Plane. R. Gandhi, Ed., C. Filsfils, D. Voyer, S. Salsano, M.
+     Chen. May 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9779) 

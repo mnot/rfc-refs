@@ -4,12 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9752 Conveying Vendor-Specific Information in the Path Computation
-     Element Communication Protocol (PCEP) Extensions for Stateful PCE.
-     C. Li, H. Zheng, S. Sivabalan, S. Sidor, Z. Ali. April 2025.
-     (Format: HTML, TXT, PDF, XML) (Updates RFC7470) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9752) 
-
 9753 Extension for Stateful PCE to Allow Optional Processing of Path
      Computation Element Communication Protocol (PCEP) Objects. C. Li, H.
      Zheng, S. Litkowski. April 2025. (Format: HTML, TXT, PDF, XML)
@@ -64,6 +58,10 @@
      Connections. J. Richer, Ed., F. Imbault. April 2025. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9767) 
 
+9771 Properties of Authenticated Encryption with Associated Data (AEAD)
+     Algorithms. A. Bozhko, Ed.. May 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9771) 
+
 9775 IRTF Code of Conduct. C. S. Perkins. March 2025. (Format: HTML, TXT,
      PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9775) 
 
@@ -83,5 +81,5 @@
      10.17487/RFC9778) 
 
 ===========================================================================
- - This file last updated Wed 07 May 2025 02:30:02 AM PDT
+ - This file last updated Thu 08 May 2025 02:30:01 AM PDT
 
