@@ -80,6 +80,11 @@
      RFC3228) (Also BCP0057) (Status: BEST CURRENT PRACTICE) (DOI:
      10.17487/RFC9778) 
 
+9779 Performance Measurement for Segment Routing Networks with the MPLS
+     Data Plane. R. Gandhi, Ed., C. Filsfils, D. Voyer, S. Salsano, M.
+     Chen. May 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9779) 
+
 ===========================================================================
- - This file last updated Thu 08 May 2025 02:30:01 AM PDT
+ - This file last updated Fri 09 May 2025 02:30:01 AM PDT
 
