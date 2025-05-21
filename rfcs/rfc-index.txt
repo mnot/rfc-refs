@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/20/2025.)
+(CREATED ON: 05/21/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41234,6 +41234,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9675 Delay-Tolerant Networking Management Architecture (DTNMA). E.
      Birrane, III, S. Heiner, E. Annis. November 2024. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9675) 
+
+9676 LEX: A Uniform Resource Name (URN) Namespace for Sources of Law. P.
+     Spinosa, E. Francesconi, C. Lupo. May 2025. (Format: HTML, TXT, PDF,
+     XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9676) 
 
 9677 Content Delivery Network Interconnection (CDNI) Metadata for
      Delegated Credentials. F. Fieau, E. Stephan, G. Bichot, C. Neumann.
