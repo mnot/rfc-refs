@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/21/2025.)
+(CREATED ON: 05/22/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -17327,7 +17327,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 4271 A Border Gateway Protocol 4 (BGP-4). Y. Rekhter, Ed., T. Li, Ed., S.
      Hares, Ed.. January 2006. (Format: TXT, HTML) (Obsoletes RFC1771)
      (Updated by RFC4724, RFC6286, RFC6608, RFC6793, RFC7606, RFC7607,
-     RFC7705, RFC8212, RFC8654, RFC9072, RFC9687) (Status: DRAFT
+     RFC7705, RFC8212, RFC8654, RFC9072, RFC9687, RFC9774) (Status: DRAFT
      STANDARD) (DOI: 10.17487/RFC4271) 
 
 4272 BGP Security Vulnerabilities Analysis. S. Murphy. January 2006.
@@ -20791,7 +20791,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5065 Autonomous System Confederations for BGP. P. Traina, D. McPherson,
      J. Scudder. August 2007. (Format: TXT, HTML) (Obsoletes RFC3065)
-     (Status: DRAFT STANDARD) (DOI: 10.17487/RFC5065) 
+     (Updated by RFC9774) (Status: DRAFT STANDARD) (DOI:
+     10.17487/RFC5065) 
 
 5066 Ethernet in the First Mile Copper (EFMCu) Interfaces MIB. E. Beili.
      November 2007. (Format: TXT, HTML) (Updated by RFC7124) (Status:
@@ -26893,8 +26894,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      INFORMATIONAL) (DOI: 10.17487/RFC6471) 
 
 6472 Recommendation for Not Using AS_SET and AS_CONFED_SET in BGP. W.
-     Kumari, K. Sriram. December 2011. (Format: TXT, HTML) (Also BCP0172)
-     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC6472) 
+     Kumari, K. Sriram. December 2011. (Format: TXT, HTML) (Obsoleted by
+     RFC9774) (Also BCP0172) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC6472) 
 
 6473 vCard KIND:application. P. Saint-Andre. December 2011. (Format: TXT,
      HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6473) 
@@ -41631,6 +41633,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9771 Properties of Authenticated Encryption with Associated Data (AEAD)
      Algorithms. A. Bozhko, Ed.. May 2025. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9771) 
+
+9774 Deprecation of AS_SET and AS_CONFED_SET in BGP. W. Kumari, K.
+     Sriram, L. Hannachi, J. Haas. May 2025. (Format: HTML, TXT, PDF,
+     XML) (Obsoletes RFC6472) (Updates RFC4271, RFC5065) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9774) 
 
 9775 IRTF Code of Conduct. C. S. Perkins. March 2025. (Format: HTML, TXT,
      PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9775) 
