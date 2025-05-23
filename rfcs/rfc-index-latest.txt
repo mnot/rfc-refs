@@ -4,12 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9753 Extension for Stateful PCE to Allow Optional Processing of Path
-     Computation Element Communication Protocol (PCEP) Objects. C. Li, H.
-     Zheng, S. Litkowski. April 2025. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC8231) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9753) 
-
 9754 Extensions for Opening and Delegating Files in NFSv4.2. T. Haynes,
      T. Myklebust. March 2025. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9754) 
@@ -62,6 +56,11 @@
      Algorithms. A. Bozhko, Ed.. May 2025. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9771) 
 
+9774 Deprecation of AS_SET and AS_CONFED_SET in BGP. W. Kumari, K.
+     Sriram, L. Hannachi, J. Haas. May 2025. (Format: HTML, TXT, PDF,
+     XML) (Obsoletes RFC6472) (Updates RFC4271, RFC5065) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9774) 
+
 9775 IRTF Code of Conduct. C. S. Perkins. March 2025. (Format: HTML, TXT,
      PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9775) 
 
@@ -86,5 +85,5 @@
      STANDARD) (DOI: 10.17487/RFC9779) 
 
 ===========================================================================
- - This file last updated Wed 21 May 2025 02:30:01 AM PDT
+ - This file last updated Thu 22 May 2025 02:30:01 AM PDT
 
