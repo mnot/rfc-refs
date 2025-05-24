@@ -24443,8 +24443,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 5905 Network Time Protocol Version 4: Protocol and Algorithms
      Specification. D. Mills, J. Martin, Ed., J. Burbank, W. Kasch. June
      2010. (Format: TXT, HTML) (Obsoletes RFC1305, RFC4330) (Updated by
-     RFC7822, RFC8573, RFC9109, RFC9748) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC5905) 
+     RFC7822, RFC8573, RFC9109, RFC9748, RFC9769) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC5905) 
 
 5906 Network Time Protocol Version 4: Autokey Specification. B. Haberman,
      Ed., D. Mills. June 2010. (Format: TXT, HTML) (Updated by RFC9748)
@@ -25976,7 +25976,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (DOI: 10.17487/RFC6259) 
 
 6260 Compressed Bundle Header Encoding (CBHE). S. Burleigh. May 2011.
-     (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC6260) 
+     (Format: TXT, HTML) (Updated by RFC9758) (Status: EXPERIMENTAL)
+     (DOI: 10.17487/RFC6260) 
 
 6261 Encrypted Signaling Transport Modes for the Host Identity Protocol.
      A. Keranen. May 2011. (Format: TXT, HTML) (Status: EXPERIMENTAL)
@@ -29699,8 +29700,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7116 Licklider Transmission Protocol (LTP), Compressed Bundle Header
      Encoding (CBHE), and Bundle Protocol IANA Registries. K. Scott, M.
-     Blanchet. February 2014. (Format: TXT, HTML) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC7116) 
+     Blanchet. February 2014. (Format: TXT, HTML) (Updated by RFC9758)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC7116) 
 
 7117 Multicast in Virtual Private LAN Service (VPLS). R. Aggarwal, Ed.,
      Y. Kamite, L. Fang, Y. Rekhter, C. Kodeboniya. February 2014.
@@ -38956,8 +38957,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      INFORMATIONAL) (DOI: 10.17487/RFC9170) 
 
 9171 Bundle Protocol Version 7. S. Burleigh, K. Fall, E. Birrane, III.
-     January 2022. (Format: HTML, TXT, PDF, XML) (Updated by RFC9713)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9171) 
+     January 2022. (Format: HTML, TXT, PDF, XML) (Updated by RFC9713,
+     RFC9758) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9171) 
 
 9172 Bundle Protocol Security (BPSec). E. Birrane, III, K. McKeever.
      January 2022. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -41604,9 +41605,18 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2025. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC9757) 
 
+9758 Updates to the 'ipn' URI Scheme. R. Taylor, E. Birrane III. May
+     2025. (Format: HTML, TXT, PDF, XML) (Updates RFC6260, RFC7116,
+     RFC9171) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9758) 
+
 9759 Unified Time Scaling for Temporal Coordination Frameworks. K. Kuhns.
      1 April 2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC9759) 
+
+9760 Enterprise Profile for the Precision Time Protocol with Mixed
+     Multicast and Unicast Messages. D. Arnold, H. Gerstung. May 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9760) 
 
 9761 Manufacturer Usage Description (MUD) for TLS and DTLS Profiles for
      Internet of Things (IoT) Devices. T. Reddy.K, D. Wing, B. Anderson.
@@ -41629,6 +41639,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9767 Grant Negotiation and Authorization Protocol Resource Server
      Connections. J. Richer, Ed., F. Imbault. April 2025. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9767) 
+
+9769 NTP Interleaved Modes. M. Lichvar, A. Malhotra. May 2025. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC5905) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9769) 
 
 9771 Properties of Authenticated Encryption with Associated Data (AEAD)
      Algorithms. A. Bozhko, Ed.. May 2025. (Format: HTML, TXT, PDF, XML)
