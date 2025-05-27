@@ -4,31 +4,23 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9754 Extensions for Opening and Delegating Files in NFSv4.2. T. Haynes,
-     T. Myklebust. March 2025. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9754) 
-
-9755 IMAP Support for UTF-8. P. Resnick, J. Yao, A. Gulbrandsen. March
-     2025. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC6855) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9755) 
-
-9756 Update to the IANA Path Communication Element Protocol (PCEP)
-     Numbers Registration Procedures and the Allowance of Experimental
-     Error Codes. D. Dhody, A. Farrel. March 2025. (Format: HTML, TXT,
-     PDF, XML) (Updates RFC5440, RFC8231, RFC8233, RFC8281, RFC8623,
-     RFC8664, RFC8685, RFC8697, RFC8733, RFC8745, RFC8779, RFC8780,
-     RFC8800, RFC8934, RFC9050, RFC9059, RFC9168, RFC9357, RFC9504,
-     RFC9603, RFC9604) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9756) 
-
 9757 Path Computation Element Communication Protocol (PCEP) Extensions
      for Native IP Networks. A. Wang, B. Khasanov, S. Fang, C. Zhu. March
      2025. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC9757) 
 
+9758 Updates to the 'ipn' URI Scheme. R. Taylor, E. Birrane III. May
+     2025. (Format: HTML, TXT, PDF, XML) (Updates RFC6260, RFC7116,
+     RFC9171) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9758) 
+
 9759 Unified Time Scaling for Temporal Coordination Frameworks. K. Kuhns.
      1 April 2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC9759) 
+
+9760 Enterprise Profile for the Precision Time Protocol with Mixed
+     Multicast and Unicast Messages. D. Arnold, H. Gerstung. May 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9760) 
 
 9761 Manufacturer Usage Description (MUD) for TLS and DTLS Profiles for
      Internet of Things (IoT) Devices. T. Reddy.K, D. Wing, B. Anderson.
@@ -51,6 +43,10 @@
 9767 Grant Negotiation and Authorization Protocol Resource Server
      Connections. J. Richer, Ed., F. Imbault. April 2025. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9767) 
+
+9769 NTP Interleaved Modes. M. Lichvar, A. Malhotra. May 2025. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC5905) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9769) 
 
 9771 Properties of Authenticated Encryption with Associated Data (AEAD)
      Algorithms. A. Bozhko, Ed.. May 2025. (Format: HTML, TXT, PDF, XML)
@@ -85,5 +81,5 @@
      STANDARD) (DOI: 10.17487/RFC9779) 
 
 ===========================================================================
- - This file last updated Fri 23 May 2025 02:30:02 AM PDT
+ - This file last updated Mon 26 May 2025 02:30:01 AM PDT
 
