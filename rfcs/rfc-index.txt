@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/30/2025.)
+(CREATED ON: 06/01/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -36185,8 +36185,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8562 Bidirectional Forwarding Detection (BFD) for Multipoint Networks. D.
      Katz, D. Ward, S. Pallagatti, Ed., G. Mirsky, Ed.. April 2019.
-     (Format: TXT, HTML) (Updates RFC5880) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC8562) 
+     (Format: TXT, HTML) (Updates RFC5880) (Updated by RFC9780) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8562) 
 
 8563 Bidirectional Forwarding Detection (BFD) Multipoint Active Tails. D.
      Katz, D. Ward, S. Pallagatti, Ed., G. Mirsky, Ed.. April 2019.
@@ -36278,8 +36278,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8584 Framework for Ethernet VPN Designated Forwarder Election
      Extensibility. J. Rabadan, Ed., S. Mohanty, Ed., A. Sajassi, J.
      Drake, K. Nagaraj, S. Sathappan. April 2019. (Format: TXT, HTML)
-     (Updates RFC7432) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8584) 
+     (Updates RFC7432) (Updated by RFC9722) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC8584) 
 
 8585 Requirements for IPv6 Customer Edge Routers to Support
      IPv4-as-a-Service. J. Palet Martinez, H. M.-H. Liu, M. Kawashima.
@@ -41450,6 +41450,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Rabadan, A. Lingala, J. Drake. April 2025. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9721) 
 
+9722 Fast Recovery for EVPN Designated Forwarder Election. P. Brissette,
+     A. Sajassi, LA. Burdet, Ed., J. Drake, J. Rabadan. May 2025.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC8584) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9722) 
+
 9723 BGP Colored Prefix Routing (CPR) for Services Based on Segment
      Routing over IPv6 (SRv6). H. Wang, J. Dong, K. Talaulikar, T. Han,
      R. Chen. May 2025. (Format: HTML, TXT, PDF, XML) (Status:
@@ -41653,6 +41658,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Algorithms. A. Bozhko, Ed.. May 2025. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9771) 
 
+9772 Active Operations, Administration, and Maintenance (OAM) for Use in
+     Generic Network Virtualization Encapsulation (Geneve). G. Mirsky, S.
+     Boutros, D. Black, S. Pallagatti. May 2025. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9772) 
+
 9774 Deprecation of AS_SET and AS_CONFED_SET in BGP. W. Kumari, K.
      Sriram, L. Hannachi, J. Haas. May 2025. (Format: HTML, TXT, PDF,
      XML) (Obsoletes RFC6472) (Updates RFC4271, RFC5065) (Status:
@@ -41680,6 +41690,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Data Plane. R. Gandhi, Ed., C. Filsfils, D. Voyer, S. Salsano, M.
      Chen. May 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9779) 
+
+9780 Bidirectional Forwarding Detection (BFD) for Multipoint Networks
+     over Point-to-Multipoint MPLS Label Switched Paths (LSPs). G.
+     Mirsky, G. Mishra, D. Eastlake 3rd. May 2025. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC8562) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9780) 
 
 9781 A Concise Binary Object Representation (CBOR) Tag for Unprotected
      CBOR Web Token Claims Sets (UCCS). H. Birkholz, J. O'Donoghue, N.
