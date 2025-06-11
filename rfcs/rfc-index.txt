@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/10/2025.)
+(CREATED ON: 06/11/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39186,9 +39186,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Schinazi. March 2022. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9221) 
 
-9222 Guidelines for Autonomic Service Agents. B. E. Carpenter, L.
-     Ciavaglia, S. Jiang, P. Peloso. March 2022. (Format: HTML, TXT, PDF,
-     XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9222) 
+9222 Guidelines for Autonomic Service Agents. B. Carpenter, L. Ciavaglia,
+     S. Jiang, P. Peloso. March 2022. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9222) 
 
 9223 Real-Time Transport Object Delivery over Unidirectional Transport
      (ROUTE). W. Zia, T. Stockhammer, L. Chaponniere, G. Mandyam, M.
