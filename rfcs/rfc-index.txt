@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/11/2025.)
+(CREATED ON: 06/12/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41193,6 +41193,14 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Prefixes per Client in Large Broadcast Networks. L. Colitti, J.
      Linkova, Ed., X. Ma, Ed.. October 2024. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9663) 
+
+9664 An EDNS(0) Option to Negotiate Leases on DNS Updates. S. Cheshire,
+     T. Lemon. June 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9664) 
+
+9665 Service Registration Protocol for DNS-Based Service Discovery. T.
+     Lemon, S. Cheshire. June 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9665) 
 
 9666 Area Proxy for IS-IS. T. Li, S. Chen, V. Ilangovan, G. Mishra.
      October 2024. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL)
