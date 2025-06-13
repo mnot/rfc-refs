@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/12/2025.)
+(CREATED ON: 06/13/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41713,3 +41713,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9782 Entity Attestation Token (EAT) Media Types. L. Lundblade, H.
      Birkholz, T. Fossati. May 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9782) 
+
+9792 Prefix Flag Extension for OSPFv2 and OSPFv3. R. Chen, D. Zhao, P.
+     Psenak, K. Talaulikar, L. Gong. June 2025. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9792) 
