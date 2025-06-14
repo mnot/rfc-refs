@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9761 Manufacturer Usage Description (MUD) for TLS and DTLS Profiles for
-     Internet of Things (IoT) Devices. T. Reddy.K, D. Wing, B. Anderson.
-     April 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9761) 
-
 9764 Bidirectional Forwarding Detection (BFD) Encapsulated in Large
      Packets. J. Haas, A. Fu. April 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9764) 
@@ -82,6 +77,10 @@
      Birkholz, T. Fossati. May 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9782) 
 
+9792 Prefix Flag Extension for OSPFv2 and OSPFv3. R. Chen, D. Zhao, P.
+     Psenak, K. Talaulikar, L. Gong. June 2025. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9792) 
+
 ===========================================================================
- - This file last updated Thu 12 Jun 2025 02:30:01 AM PDT
+ - This file last updated Fri 13 Jun 2025 02:30:01 AM PDT
 
