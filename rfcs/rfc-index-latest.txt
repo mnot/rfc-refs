@@ -4,26 +4,11 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9764 Bidirectional Forwarding Detection (BFD) Encapsulated in Large
-     Packets. J. Haas, A. Fu. April 2025. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9764) 
-
-9765 RADIUS/1.1: Leveraging Application-Layer Protocol Negotiation (ALPN)
-     to Remove MD5. A. DeKok. April 2025. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC2865, RFC2866, RFC5176, RFC6613, RFC6614, RFC7360)
-     (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9765) 
-
-9766 Extensions for Weak Cache Consistency in NFSv4.2's Flexible File
-     Layout. T. Haynes, T. Myklebust. April 2025. (Format: HTML, TXT,
-     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9766) 
-
-9767 Grant Negotiation and Authorization Protocol Resource Server
-     Connections. J. Richer, Ed., F. Imbault. April 2025. (Format: HTML,
-     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9767) 
-
-9769 NTP Interleaved Modes. M. Lichvar, A. Malhotra. May 2025. (Format:
-     HTML, TXT, PDF, XML) (Updates RFC5905) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9769) 
+9770 Notification of Revoked Access Tokens in the Authentication and
+     Authorization for Constrained Environments (ACE) Framework. M.
+     Tiloca, F. Palombini, S. Echeverria, G. Lewis. June 2025. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9770) 
 
 9771 Properties of Authenticated Encryption with Associated Data (AEAD)
      Algorithms. A. Bozhko, Ed.. May 2025. (Format: HTML, TXT, PDF, XML)
@@ -77,10 +62,28 @@
      Birkholz, T. Fossati. May 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9782) 
 
+9783 Arm's Platform Security Architecture (PSA) Attestation Token. H.
+     Tschofenig, S. Frost, M. Brossard, A. Shaw, T. Fossati. June 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9783) 
+
 9792 Prefix Flag Extension for OSPFv2 and OSPFv3. R. Chen, D. Zhao, P.
      Psenak, K. Talaulikar, L. Gong. June 2025. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9792) 
 
+9793 BGP Extensions for Bit Index Explicit Replication (BIER). X. Xu, M.
+     Chen, K. Patel, IJ. Wijnands, T. Przygienda, Z. Zhang, Ed.. June
+     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9793) 
+
+9794 Terminology for Post-Quantum Traditional Hybrid Schemes. F.
+     Driscoll, M. Parsons, B. Hale. June 2025. (Format: HTML, TXT, PDF,
+     XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9794) 
+
+9803 Extensible Provisioning Protocol (EPP) Mapping for DNS Time-to-Live
+     (TTL) Values. G. Brown. June 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9803) 
+
 ===========================================================================
- - This file last updated Fri 13 Jun 2025 02:30:01 AM PDT
+ - This file last updated Mon 16 Jun 2025 02:30:01 AM PDT
 
