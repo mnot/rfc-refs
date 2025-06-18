@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/17/2025.)
+(CREATED ON: 06/18/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41692,6 +41692,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Boutros, D. Black, S. Pallagatti. May 2025. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9772) 
 
+9773 ACME Renewal Information (ARI) Extension. A. Gable. June 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9773) 
+
 9774 Deprecation of AS_SET and AS_CONFED_SET in BGP. W. Kumari, K.
      Sriram, L. Hannachi, J. Haas. May 2025. (Format: HTML, TXT, PDF,
      XML) (Obsoletes RFC6472) (Updates RFC4271, RFC5065) (Status:
@@ -41756,3 +41760,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9803 Extensible Provisioning Protocol (EPP) Mapping for DNS Time-to-Live
      (TTL) Values. G. Brown. June 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9803) 
+
+9804 Simple Public Key Infrastructure (SPKI) S-Expressions. R. Rivest, D.
+     Eastlake 3rd. June 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9804) 
