@@ -4,20 +4,14 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9770 Notification of Revoked Access Tokens in the Authentication and
-     Authorization for Constrained Environments (ACE) Framework. M.
-     Tiloca, F. Palombini, S. Echeverria, G. Lewis. June 2025. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9770) 
-
-9771 Properties of Authenticated Encryption with Associated Data (AEAD)
-     Algorithms. A. Bozhko, Ed.. May 2025. (Format: HTML, TXT, PDF, XML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9771) 
-
 9772 Active Operations, Administration, and Maintenance (OAM) for Use in
      Generic Network Virtualization Encapsulation (Geneve). G. Mirsky, S.
      Boutros, D. Black, S. Pallagatti. May 2025. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9772) 
+
+9773 ACME Renewal Information (ARI) Extension. A. Gable. June 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9773) 
 
 9774 Deprecation of AS_SET and AS_CONFED_SET in BGP. W. Kumari, K.
      Sriram, L. Hannachi, J. Haas. May 2025. (Format: HTML, TXT, PDF,
@@ -84,6 +78,10 @@
      (TTL) Values. G. Brown. June 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9803) 
 
+9804 Simple Public Key Infrastructure (SPKI) S-Expressions. R. Rivest, D.
+     Eastlake 3rd. June 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9804) 
+
 ===========================================================================
- - This file last updated Tue 17 Jun 2025 02:30:01 AM PDT
+ - This file last updated Wed 18 Jun 2025 02:30:01 AM PDT
 
