@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/26/2025.)
+(CREATED ON: 06/27/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -10571,8 +10571,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC2710) 
 
 2711 IPv6 Router Alert Option. C. Partridge, A. Jackson. October 1999.
-     (Format: TXT, HTML) (Updated by RFC6398) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC2711) 
+     (Format: TXT, HTML) (Updated by RFC6398, RFC9805) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC2711) 
 
 2712 Addition of Kerberos Cipher Suites to Transport Layer Security
      (TLS). A. Medvinsky, M. Hur. October 1999. (Format: TXT, HTML)
@@ -33938,8 +33938,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8059 PIM Join Attributes for Locator/ID Separation Protocol (LISP)
      Environments. J. Arango, S. Venaas, I. Kouvelas, D. Farinacci.
-     January 2017. (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI:
-     10.17487/RFC8059) 
+     January 2017. (Format: TXT, HTML) (Updated by RFC9798) (Status:
+     EXPERIMENTAL) (DOI: 10.17487/RFC8059) 
 
 8060 LISP Canonical Address Format (LCAF). D. Farinacci, D. Meyer, J.
      Snijders. February 2017. (Format: TXT, HTML) (Updated by RFC9306)
@@ -41757,6 +41757,21 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Driscoll, M. Parsons, B. Hale. June 2025. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9794) 
 
+9798 PIM Join/Prune Attributes for Locator/ID Separation Protocol (LISP)
+     Environments Using Underlay Multicast. V. Govindan, S. Venaas. June
+     2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8059) (Status:
+     EXPERIMENTAL) (DOI: 10.17487/RFC9798) 
+
+9799 Automated Certificate Management Environment (ACME) Extensions for
+     ".onion" Special-Use Domain Names. Q Misell, Ed.. June 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9799) 
+
+9802 Use of the HSS and XMSS Hash-Based Signature Algorithms in Internet
+     X.509 Public Key Infrastructure. D. Van Geest, K. Bashiri, S.
+     Fluhrer, S. Gazdag, S. Kousidis. June 2025. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9802) 
+
 9803 Extensible Provisioning Protocol (EPP) Mapping for DNS Time-to-Live
      (TTL) Values. G. Brown. June 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9803) 
@@ -41764,3 +41779,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9804 Simple Public Key Infrastructure (SPKI) S-Expressions. R. Rivest, D.
      Eastlake 3rd. June 2025. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9804) 
+
+9805 Deprecation of the IPv6 Router Alert Option for New Protocols. R.
+     Bonica. June 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC2711)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9805) 
