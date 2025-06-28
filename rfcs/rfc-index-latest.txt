@@ -4,23 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9772 Active Operations, Administration, and Maintenance (OAM) for Use in
-     Generic Network Virtualization Encapsulation (Geneve). G. Mirsky, S.
-     Boutros, D. Black, S. Pallagatti. May 2025. (Format: HTML, TXT, PDF,
-     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9772) 
-
-9773 ACME Renewal Information (ARI) Extension. A. Gable. June 2025.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9773) 
-
-9774 Deprecation of AS_SET and AS_CONFED_SET in BGP. W. Kumari, K.
-     Sriram, L. Hannachi, J. Haas. May 2025. (Format: HTML, TXT, PDF,
-     XML) (Obsoletes RFC6472) (Updates RFC4271, RFC5065) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9774) 
-
-9775 IRTF Code of Conduct. C. S. Perkins. March 2025. (Format: HTML, TXT,
-     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9775) 
-
 9776 Internet Group Management Protocol, Version 3. B. Haberman, Ed..
      March 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3376)
      (Updates RFC2236) (Also STD0100) (Status: INTERNET STANDARD) (DOI:
@@ -74,6 +57,21 @@
      Driscoll, M. Parsons, B. Hale. June 2025. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9794) 
 
+9798 PIM Join/Prune Attributes for Locator/ID Separation Protocol (LISP)
+     Environments Using Underlay Multicast. V. Govindan, S. Venaas. June
+     2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8059) (Status:
+     EXPERIMENTAL) (DOI: 10.17487/RFC9798) 
+
+9799 Automated Certificate Management Environment (ACME) Extensions for
+     ".onion" Special-Use Domain Names. Q Misell, Ed.. June 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9799) 
+
+9802 Use of the HSS and XMSS Hash-Based Signature Algorithms in Internet
+     X.509 Public Key Infrastructure. D. Van Geest, K. Bashiri, S.
+     Fluhrer, S. Gazdag, S. Kousidis. June 2025. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9802) 
+
 9803 Extensible Provisioning Protocol (EPP) Mapping for DNS Time-to-Live
      (TTL) Values. G. Brown. June 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9803) 
@@ -82,6 +80,10 @@
      Eastlake 3rd. June 2025. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9804) 
 
+9805 Deprecation of the IPv6 Router Alert Option for New Protocols. R.
+     Bonica. June 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC2711)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9805) 
+
 ===========================================================================
- - This file last updated Thu 26 Jun 2025 02:30:01 AM PDT
+ - This file last updated Fri 27 Jun 2025 02:30:01 AM PDT
 

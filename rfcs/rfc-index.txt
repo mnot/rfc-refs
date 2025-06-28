@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/27/2025.)
+(CREATED ON: 06/28/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -33082,8 +33082,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7865) 
 
 7866 Session Recording Protocol. L. Portman, H. Lum, Ed., C. Eckel, A.
-     Johnston, A. Hutton. May 2016. (Format: TXT, HTML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC7866) 
+     Johnston, A. Hutton. May 2016. (Format: TXT, HTML) (Updated by
+     RFC9806) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7866) 
 
 7867 RTP Control Protocol (RTCP) Extended Report (XR) Block for Loss
      Concealment Metrics for Video Applications. R. Huang. July 2016.
@@ -36278,8 +36278,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8584 Framework for Ethernet VPN Designated Forwarder Election
      Extensibility. J. Rabadan, Ed., S. Mohanty, Ed., A. Sajassi, J.
      Drake, K. Nagaraj, S. Sathappan. April 2019. (Format: TXT, HTML)
-     (Updates RFC7432) (Updated by RFC9722) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC8584) 
+     (Updates RFC7432) (Updated by RFC9722, RFC9785) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC8584) 
 
 8585 Requirements for IPv6 Customer Edge Routers to Support
      IPv4-as-a-Service. J. Palet Martinez, H. M.-H. Liu, M. Kawashima.
@@ -41744,6 +41744,20 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9783) 
 
+9784 Virtual Ethernet Segments for EVPN and Provider Backbone Bridge
+     EVPN. A. Sajassi, P. Brissette, R. Schell, J. Drake, J. Rabadan.
+     June 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9784) 
+
+9785 Preference-Based EVPN Designated Forwarder (DF) Election. J.
+     Rabadan, Ed., S. Sathappan, W. Lin, J. Drake, A. Sajassi. June 2025.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC8584) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9785) 
+
+9786 EVPN Port-Active Redundancy Mode. P. Brissette, LA. Burdet, Ed., B.
+     Wen, E. Leyton, J. Rabadan. June 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9786) 
+
 9792 Prefix Flag Extension for OSPFv2 and OSPFv3. R. Chen, D. Zhao, P.
      Psenak, K. Talaulikar, L. Gong. June 2025. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9792) 
@@ -41756,6 +41770,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9794 Terminology for Post-Quantum Traditional Hybrid Schemes. F.
      Driscoll, M. Parsons, B. Hale. June 2025. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9794) 
+
+9797 Randomized and Changing Media Access Control (MAC) Addresses:
+     Context, Network Impacts, and Use Cases. J. Henry, Y. Lee. June
+     2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9797) 
 
 9798 PIM Join/Prune Attributes for Locator/ID Separation Protocol (LISP)
      Environments Using Underlay Multicast. V. Govindan, S. Venaas. June
@@ -41783,3 +41802,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9805 Deprecation of the IPv6 Router Alert Option for New Protocols. R.
      Bonica. June 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC2711)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9805) 
+
+9806 Updates to SIP-Based Media Recording (SIPREC) to Correct Metadata
+     Media Type. D. Mongrain. June 2025. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC7866) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9806) 
