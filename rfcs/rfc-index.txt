@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/28/2025.)
+(CREATED ON: 07/01/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -37051,8 +37051,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8754 IPv6 Segment Routing Header (SRH). C. Filsfils, Ed., D. Dukes, Ed.,
      S. Previdi, J. Leddy, S. Matsushima, D. Voyer. March 2020. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8754) 
+     HTML, TXT, PDF, XML) (Updated by RFC9800) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC8754) 
 
 8755 Using Commercial National Security Algorithm Suite Algorithms in
      Secure/Multipurpose Internet Mail Extensions. M. Jenkins. March
@@ -41785,6 +41785,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      ".onion" Special-Use Domain Names. Q Misell, Ed.. June 2025.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9799) 
+
+9800 Compressed SRv6 Segment List Encoding. W. Cheng, Ed., C. Filsfils,
+     Z. Li, B. Decraene, F. Clad, Ed.. June 2025. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC8754) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9800) 
 
 9802 Use of the HSS and XMSS Hash-Based Signature Algorithms in Internet
      X.509 Public Key Infrastructure. D. Van Geest, K. Bashiri, S.
