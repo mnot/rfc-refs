@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/10/2025.)
+(CREATED ON: 07/11/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -20200,8 +20200,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 4928 Avoiding Equal Cost Multipath Treatment in MPLS Networks. G.
      Swallow, S. Bryant, L. Andersson. June 2007. (Format: TXT, HTML)
-     (Updated by RFC7274) (Also BCP0128) (Status: BEST CURRENT PRACTICE)
-     (DOI: 10.17487/RFC4928) 
+     (Updated by RFC7274, RFC9790) (Also BCP0128) (Status: BEST CURRENT
+     PRACTICE) (DOI: 10.17487/RFC4928) 
 
 4929 Change Process for Multiprotocol Label Switching (MPLS) and
      Generalized MPLS (GMPLS) Protocols and Procedures. L. Andersson,
@@ -41758,6 +41758,20 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Wen, E. Leyton, J. Rabadan. June 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9786) 
 
+9789 MPLS Network Actions (MNAs) Framework. L. Andersson, S. Bryant, M.
+     Bocci, T. Li. July 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9789) 
+
+9790 IANA Registry and Processing Recommendations for the First Nibble
+     Following a Label Stack. K. Kompella, S. Bryant, M. Bocci, G.
+     Mirsky, Ed., L. Andersson, J. Dong. July 2025. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC4928) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9790) 
+
+9791 Use Cases for MPLS Network Action Indicators and Ancillary Data. T.
+     Saad, K. Makhijani, H. Song, G. Mirsky. July 2025. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9791) 
+
 9792 Prefix Flag Extension for OSPFv2 and OSPFv3. R. Chen, D. Zhao, P.
      Psenak, K. Talaulikar, L. Gong. June 2025. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9792) 
@@ -41770,6 +41784,14 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9794 Terminology for Post-Quantum Traditional Hybrid Schemes. F.
      Driscoll, M. Parsons, B. Hale. June 2025. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9794) 
+
+9795 Personal Assertion Token (PASSporT) Extension for Rich Call Data. C.
+     Wendt, J. Peterson. July 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9795) 
+
+9796 SIP Call-Info Parameters for Rich Call Data. C. Wendt, J. Peterson.
+     July 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9796) 
 
 9797 Randomized and Changing Media Access Control (MAC) Addresses:
      Context, Network Impacts, and Use Cases. J. Henry, Y. Lee. June
@@ -41790,6 +41812,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Z. Li, B. Decraene, F. Clad, Ed.. June 2025. (Format: HTML, TXT,
      PDF, XML) (Updates RFC8754) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9800) 
+
+9801 Private Line Emulation over Packet Switched Networks. S. Gringeri,
+     J. Whittaker, N. Leymann, C. Schmutzer, Ed., C. Brown. July 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9801) 
 
 9802 Use of the HSS and XMSS Hash-Based Signature Algorithms in Internet
      X.509 Public Key Infrastructure. D. Van Geest, K. Bashiri, S.
