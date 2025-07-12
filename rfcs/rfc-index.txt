@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/11/2025.)
+(CREATED ON: 07/12/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41839,3 +41839,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Media Type. D. Mongrain. June 2025. (Format: HTML, TXT, PDF, XML)
      (Updates RFC7866) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9806) 
+
+9809 X.509 Certificate Extended Key Usage (EKU) for Configuration,
+     Updates, and Safety-Critical Communication. H. Brockhaus, D.
+     Goltzsche. July 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9809) 
+
+9813 Operational Considerations for Using TLS Pre-Shared Keys (TLS-PSKs)
+     with RADIUS. A. DeKok. July 2025. (Format: HTML, TXT, PDF, XML)
+     (Also BCP0243) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC9813) 

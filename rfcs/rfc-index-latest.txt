@@ -4,28 +4,15 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9782 Entity Attestation Token (EAT) Media Types. L. Lundblade, H.
-     Birkholz, T. Fossati. May 2025. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9782) 
+9790 IANA Registry and Processing Recommendations for the First Nibble
+     Following a Label Stack. K. Kompella, S. Bryant, M. Bocci, G.
+     Mirsky, Ed., L. Andersson, J. Dong. July 2025. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC4928) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9790) 
 
-9783 Arm's Platform Security Architecture (PSA) Attestation Token. H.
-     Tschofenig, S. Frost, M. Brossard, A. Shaw, T. Fossati. June 2025.
-     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9783) 
-
-9784 Virtual Ethernet Segments for EVPN and Provider Backbone Bridge
-     EVPN. A. Sajassi, P. Brissette, R. Schell, J. Drake, J. Rabadan.
-     June 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9784) 
-
-9785 Preference-Based EVPN Designated Forwarder (DF) Election. J.
-     Rabadan, Ed., S. Sathappan, W. Lin, J. Drake, A. Sajassi. June 2025.
-     (Format: HTML, TXT, PDF, XML) (Updates RFC8584) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9785) 
-
-9786 EVPN Port-Active Redundancy Mode. P. Brissette, LA. Burdet, Ed., B.
-     Wen, E. Leyton, J. Rabadan. June 2025. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9786) 
+9791 Use Cases for MPLS Network Action Indicators and Ancillary Data. T.
+     Saad, K. Makhijani, H. Song, G. Mirsky. July 2025. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9791) 
 
 9792 Prefix Flag Extension for OSPFv2 and OSPFv3. R. Chen, D. Zhao, P.
      Psenak, K. Talaulikar, L. Gong. June 2025. (Format: HTML, TXT, PDF,
@@ -39,6 +26,14 @@
 9794 Terminology for Post-Quantum Traditional Hybrid Schemes. F.
      Driscoll, M. Parsons, B. Hale. June 2025. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9794) 
+
+9795 Personal Assertion Token (PASSporT) Extension for Rich Call Data. C.
+     Wendt, J. Peterson. July 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9795) 
+
+9796 SIP Call-Info Parameters for Rich Call Data. C. Wendt, J. Peterson.
+     July 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9796) 
 
 9797 Randomized and Changing Media Access Control (MAC) Addresses:
      Context, Network Impacts, and Use Cases. J. Henry, Y. Lee. June
@@ -59,6 +54,11 @@
      Z. Li, B. Decraene, F. Clad, Ed.. June 2025. (Format: HTML, TXT,
      PDF, XML) (Updates RFC8754) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9800) 
+
+9801 Private Line Emulation over Packet Switched Networks. S. Gringeri,
+     J. Whittaker, N. Leymann, C. Schmutzer, Ed., C. Brown. July 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9801) 
 
 9802 Use of the HSS and XMSS Hash-Based Signature Algorithms in Internet
      X.509 Public Key Infrastructure. D. Van Geest, K. Bashiri, S.
@@ -83,5 +83,5 @@
      10.17487/RFC9806) 
 
 ===========================================================================
- - This file last updated Thu 10 Jul 2025 02:30:01 AM PDT
+ - This file last updated Fri 11 Jul 2025 02:30:01 AM PDT
 
