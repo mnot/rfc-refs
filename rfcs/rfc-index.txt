@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/12/2025.)
+(CREATED ON: 07/15/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -417,8 +417,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 0103 Implementation of Interrupt Keys. R.B. Kalin. February 1971.
      (Format: TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0103) 
 
-0104 Link 191. J.B. Postel, S.D. Crocker. February 1971. (Format: TXT,
-     HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0104) 
+0104 Link 191. J. Postel, C. Crocker. February 1971. (Format: TXT, HTML)
+     (Status: UNKNOWN) (DOI: 10.17487/RFC0104) 
 
 0105 Network Specifications for Remote Job Entry and Remote Job Output
      Retrieval at UCSB. J.E. White. March 1971. (Format: TXT, HTML)
