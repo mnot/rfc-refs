@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/19/2025.)
+(CREATED ON: 07/20/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39321,8 +39321,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9252 BGP Overlay Services Based on Segment Routing over IPv6 (SRv6). G.
      Dawra, Ed., K. Talaulikar, Ed., R. Raszuk, B. Decraene, S. Zhuang,
-     J. Rabadan. July 2022. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9252) 
+     J. Rabadan. July 2022. (Format: HTML, TXT, PDF, XML) (Updated by
+     RFC9819) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9252) 
 
 9253 Support for iCalendar Relationships. M. Douglass. August 2022.
      (Format: HTML, TXT, PDF, XML) (Updates RFC5545) (Status: PROPOSED
@@ -41849,6 +41849,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
      with RADIUS. A. DeKok. July 2025. (Format: HTML, TXT, PDF, XML)
      (Also BCP0243) (Status: BEST CURRENT PRACTICE) (DOI:
      10.17487/RFC9813) 
+
+9814 Use of the SLH-DSA Signature Algorithm in the Cryptographic Message
+     Syntax (CMS). R. Housley, S. Fluhrer, P. Kampanakis, B. Westerbaan.
+     July 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9814) 
+
+9819 Argument Signaling for BGP Services in Segment Routing over IPv6
+     (SRv6). K. Talaulikar, K. Raza, J. Rabadan, W. Lin. July 2025.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC9252) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9819) 
 
 9829 Handling of Resource Public Key Infrastructure (RPKI) Certificate
      Revocation List (CRL) Number Extensions. J. Snijders, B. Maddison,
