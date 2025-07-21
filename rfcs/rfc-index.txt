@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/20/2025.)
+(CREATED ON: 07/21/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41854,6 +41854,15 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Syntax (CMS). R. Housley, S. Fluhrer, P. Kampanakis, B. Westerbaan.
      July 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9814) 
+
+9815 BGP Link State (BGP-LS) Shortest Path First (SPF) Routing. K. Patel,
+     A. Lindem, S. Zandi, W. Henderickx. July 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9815) 
+
+9816 Usage and Applicability of BGP Link State (BGP-LS) Shortest Path
+     First (SPF) Routing in Data Centers. K. Patel, A. Lindem, S. Zandi,
+     G. Dawra, J. Dong. July 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9816) 
 
 9819 Argument Signaling for BGP Services in Segment Routing over IPv6
      (SRv6). K. Talaulikar, K. Raza, J. Rabadan, W. Lin. July 2025.
