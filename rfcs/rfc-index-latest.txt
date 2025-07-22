@@ -4,23 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9793 BGP Extensions for Bit Index Explicit Replication (BIER). X. Xu, M.
-     Chen, K. Patel, IJ. Wijnands, T. Przygienda, Z. Zhang, Ed.. June
-     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9793) 
-
-9794 Terminology for Post-Quantum Traditional Hybrid Schemes. F.
-     Driscoll, M. Parsons, B. Hale. June 2025. (Format: HTML, TXT, PDF,
-     XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9794) 
-
-9795 Personal Assertion Token (PASSporT) Extension for Rich Call Data. C.
-     Wendt, J. Peterson. July 2025. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9795) 
-
-9796 SIP Call-Info Parameters for Rich Call Data. C. Wendt, J. Peterson.
-     July 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9796) 
-
 9797 Randomized and Changing Media Access Control (MAC) Addresses:
      Context, Network Impacts, and Use Cases. J. Henry, Y. Lee. June
      2025. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
@@ -78,11 +61,30 @@
      (Also BCP0243) (Status: BEST CURRENT PRACTICE) (DOI:
      10.17487/RFC9813) 
 
+9814 Use of the SLH-DSA Signature Algorithm in the Cryptographic Message
+     Syntax (CMS). R. Housley, S. Fluhrer, P. Kampanakis, B. Westerbaan.
+     July 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9814) 
+
+9815 BGP Link State (BGP-LS) Shortest Path First (SPF) Routing. K. Patel,
+     A. Lindem, S. Zandi, W. Henderickx. July 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9815) 
+
+9816 Usage and Applicability of BGP Link State (BGP-LS) Shortest Path
+     First (SPF) Routing in Data Centers. K. Patel, A. Lindem, S. Zandi,
+     G. Dawra, J. Dong. July 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9816) 
+
+9819 Argument Signaling for BGP Services in Segment Routing over IPv6
+     (SRv6). K. Talaulikar, K. Raza, J. Rabadan, W. Lin. July 2025.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC9252) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9819) 
+
 9829 Handling of Resource Public Key Infrastructure (RPKI) Certificate
      Revocation List (CRL) Number Extensions. J. Snijders, B. Maddison,
      T. Buehler. July 2025. (Format: HTML, TXT, PDF, XML) (Updates
      RFC6487) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9829) 
 
 ===========================================================================
- - This file last updated Fri 18 Jul 2025 02:30:01 AM PDT
+ - This file last updated Mon 21 Jul 2025 02:30:01 AM PDT
 
