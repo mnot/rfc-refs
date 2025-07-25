@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/24/2025.)
+(CREATED ON: 07/25/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41839,6 +41839,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Media Type. D. Mongrain. June 2025. (Format: HTML, TXT, PDF, XML)
      (Updates RFC7866) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9806) 
+
+9807 The OPAQUE Augmented Password-Authenticated Key Exchange (aPAKE)
+     Protocol. D. Bourdrez, H. Krawczyk, K. Lewi, C. A. Wood. July 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9807) 
 
 9809 X.509 Certificate Extended Key Usage (EKU) for Configuration,
      Updates, and Safety-Critical Communication. H. Brockhaus, D.
