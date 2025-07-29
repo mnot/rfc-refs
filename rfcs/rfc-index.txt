@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/26/2025.)
+(CREATED ON: 07/29/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -29564,8 +29564,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7084 Basic Requirements for IPv6 Customer Edge Routers. H. Singh, W.
      Beebee, C. Donley, B. Stark. November 2013. (Format: TXT, HTML)
-     (Obsoletes RFC6204) (Updated by RFC9096) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC7084) 
+     (Obsoletes RFC6204) (Updated by RFC9096, RFC9818) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC7084) 
 
 7085 Top-Level Domains That Are Already Dotless. J. Levine, P. Hoffman.
      December 2013. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
@@ -41868,6 +41868,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      First (SPF) Routing in Data Centers. K. Patel, A. Lindem, S. Zandi,
      G. Dawra, J. Dong. July 2025. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9816) 
+
+9818 DHCPv6 Prefix Delegation on IPv6 Customer Edge (CE) Routers in LANs.
+     T. Winters. July 2025. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC7084) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9818) 
 
 9819 Argument Signaling for BGP Services in Segment Routing over IPv6
      (SRv6). K. Talaulikar, K. Raza, J. Rabadan, W. Lin. July 2025.
