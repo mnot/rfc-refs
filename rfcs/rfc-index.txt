@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/29/2025.)
+(CREATED ON: 07/30/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -17062,9 +17062,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 4210 Internet X.509 Public Key Infrastructure Certificate Management
      Protocol (CMP). C. Adams, S. Farrell, T. Kause, T. Mononen.
-     September 2005. (Format: TXT, HTML) (Obsoletes RFC2510) (Updated by
-     RFC6712, RFC9480, RFC9481) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC4210) 
+     September 2005. (Format: TXT, HTML) (Obsoletes RFC2510) (Obsoleted
+     by RFC9810) (Updated by RFC6712, RFC9480, RFC9481) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC4210) 
 
 4211 Internet X.509 Public Key Infrastructure Certificate Request Message
      Format (CRMF). J. Schaad. September 2005. (Format: TXT, HTML)
@@ -24474,7 +24474,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5912 New ASN.1 Modules for the Public Key Infrastructure Using X.509
      (PKIX). P. Hoffman, J. Schaad. June 2010. (Format: TXT, HTML)
-     (Updated by RFC6960, RFC9480) (Status: INFORMATIONAL) (DOI:
+     (Updated by RFC6960, RFC9480, RFC9810) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC5912) 
 
 5913 Clearance Attribute and Authority Clearance Constraints Certificate
@@ -27925,8 +27925,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6712 Internet X.509 Public Key Infrastructure -- HTTP Transfer for the
      Certificate Management Protocol (CMP). T. Kause, M. Peylo. September
-     2012. (Format: TXT, HTML) (Updates RFC4210) (Updated by RFC9480)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6712) 
+     2012. (Format: TXT, HTML) (Obsoleted by RFC9811) (Updates RFC4210)
+     (Updated by RFC9480) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC6712) 
 
 6713 The 'application/zlib' and 'application/gzip' Media Types. J.
      Levine. August 2012. (Format: TXT, HTML) (Status: INFORMATIONAL)
@@ -40352,8 +40353,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9480 Certificate Management Protocol (CMP) Updates. H. Brockhaus, D. von
      Oheimb, J. Gray. November 2023. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC4210, RFC5912, RFC6712) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9480) 
+     (Obsoleted by RFC9810, RFC9811) (Updates RFC4210, RFC5912, RFC6712)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9480) 
 
 9481 Certificate Management Protocol (CMP) Algorithms. H. Brockhaus, H.
      Aschauer, M. Ounsworth, J. Gray. November 2023. (Format: HTML, TXT,
@@ -41849,6 +41850,18 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Updates, and Safety-Critical Communication. H. Brockhaus, D.
      Goltzsche. July 2025. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9809) 
+
+9810 Internet X.509 Public Key Infrastructure -- Certificate Management
+     Protocol (CMP). H. Brockhaus, D. von Oheimb, M. Ounsworth, J. Gray.
+     July 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC4210,
+     RFC9480) (Updates RFC5912) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9810) 
+
+9811 Internet X.509 Public Key Infrastructure -- HTTP Transfer for the
+     Certificate Management Protocol (CMP). H. Brockhaus, D. von Oheimb,
+     M. Ounsworth, J. Gray. July 2025. (Format: HTML, TXT, PDF, XML)
+     (Obsoletes RFC6712, RFC9480) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9811) 
 
 9813 Operational Considerations for Using TLS Pre-Shared Keys (TLS-PSKs)
      with RADIUS. A. DeKok. July 2025. (Format: HTML, TXT, PDF, XML)
