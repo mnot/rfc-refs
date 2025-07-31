@@ -4,21 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9799 Automated Certificate Management Environment (ACME) Extensions for
-     ".onion" Special-Use Domain Names. Q Misell, Ed.. June 2025.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9799) 
-
-9800 Compressed SRv6 Segment List Encoding. W. Cheng, Ed., C. Filsfils,
-     Z. Li, B. Decraene, F. Clad, Ed.. June 2025. (Format: HTML, TXT,
-     PDF, XML) (Updates RFC8754) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9800) 
-
-9801 Private Line Emulation over Packet Switched Networks. S. Gringeri,
-     J. Whittaker, N. Leymann, C. Schmutzer, Ed., C. Brown. July 2025.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9801) 
-
 9802 Use of the HSS and XMSS Hash-Based Signature Algorithms in Internet
      X.509 Public Key Infrastructure. D. Van Geest, K. Bashiri, S.
      Fluhrer, S. Gazdag, S. Kousidis. June 2025. (Format: HTML, TXT, PDF,
@@ -50,6 +35,18 @@
      Updates, and Safety-Critical Communication. H. Brockhaus, D.
      Goltzsche. July 2025. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9809) 
+
+9810 Internet X.509 Public Key Infrastructure -- Certificate Management
+     Protocol (CMP). H. Brockhaus, D. von Oheimb, M. Ounsworth, J. Gray.
+     July 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC4210,
+     RFC9480) (Updates RFC5912) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9810) 
+
+9811 Internet X.509 Public Key Infrastructure -- HTTP Transfer for the
+     Certificate Management Protocol (CMP). H. Brockhaus, D. von Oheimb,
+     M. Ounsworth, J. Gray. July 2025. (Format: HTML, TXT, PDF, XML)
+     (Obsoletes RFC6712, RFC9480) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9811) 
 
 9813 Operational Considerations for Using TLS Pre-Shared Keys (TLS-PSKs)
      with RADIUS. A. DeKok. July 2025. (Format: HTML, TXT, PDF, XML)
@@ -85,5 +82,5 @@
      RFC6487) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9829) 
 
 ===========================================================================
- - This file last updated Tue 29 Jul 2025 02:30:01 AM PDT
+ - This file last updated Wed 30 Jul 2025 02:30:01 AM PDT
 
