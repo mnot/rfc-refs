@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9802 Use of the HSS and XMSS Hash-Based Signature Algorithms in Internet
-     X.509 Public Key Infrastructure. D. Van Geest, K. Bashiri, S.
-     Fluhrer, S. Gazdag, S. Kousidis. June 2025. (Format: HTML, TXT, PDF,
-     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9802) 
-
 9803 Extensible Provisioning Protocol (EPP) Mapping for DNS Time-to-Live
      (TTL) Values. G. Brown. June 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9803) 
@@ -30,6 +25,11 @@
      Protocol. D. Bourdrez, H. Krawczyk, K. Lewi, C. A. Wood. July 2025.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9807) 
+
+9808 Content Delivery Network Interconnection (CDNI) Capacity Capability
+     Advertisement Extensions. A. Ryan, B. Rosenblum, N. Sopher. July
+     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9808) 
 
 9809 X.509 Certificate Extended Key Usage (EKU) for Configuration,
      Updates, and Safety-Critical Communication. H. Brockhaus, D.
@@ -76,11 +76,15 @@
      (Format: HTML, TXT, PDF, XML) (Updates RFC9252) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9819) 
 
+9825 Extensions to OSPF for Advertising Prefix Administrative Tags. A.
+     Lindem, Ed., P. Psenak, Y. Qu. July 2025. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9825) 
+
 9829 Handling of Resource Public Key Infrastructure (RPKI) Certificate
      Revocation List (CRL) Number Extensions. J. Snijders, B. Maddison,
      T. Buehler. July 2025. (Format: HTML, TXT, PDF, XML) (Updates
      RFC6487) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9829) 
 
 ===========================================================================
- - This file last updated Thu 31 Jul 2025 02:30:01 AM PDT
+ - This file last updated Fri 01 Aug 2025 02:30:01 AM PDT
 
