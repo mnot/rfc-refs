@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/20/2025.)
+(CREATED ON: 08/21/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41886,6 +41886,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      First (SPF) Routing in Data Centers. K. Patel, A. Lindem, S. Zandi,
      G. Dawra, J. Dong. July 2025. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9816) 
+
+9817 Use Cases for In-Network Computing. I. Kunze, K. Wehrle, D. Trossen,
+     M-J. Montpetit, X. de Foy, D. Griffin, M. Rio. August 2025. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9817) 
 
 9818 DHCPv6 Prefix Delegation on IPv6 Customer Edge (CE) Routers in LANs.
      T. Winters. July 2025. (Format: HTML, TXT, PDF, XML) (Updates
