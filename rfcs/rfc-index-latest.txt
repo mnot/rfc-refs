@@ -4,19 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9804 Simple Public Key Infrastructure (SPKI) S-Expressions. R. Rivest, D.
-     Eastlake 3rd. June 2025. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9804) 
-
-9805 Deprecation of the IPv6 Router Alert Option for New Protocols. R.
-     Bonica. June 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC2711)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9805) 
-
-9806 Updates to SIP-Based Media Recording (SIPREC) to Correct Metadata
-     Media Type. D. Mongrain. June 2025. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC7866) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9806) 
-
 9807 The OPAQUE Augmented Password-Authenticated Key Exchange (aPAKE)
      Protocol. D. Bourdrez, H. Krawczyk, K. Lewi, C. A. Wood. July 2025.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
@@ -85,6 +72,19 @@
      T. Buehler. July 2025. (Format: HTML, TXT, PDF, XML) (Updates
      RFC6487) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9829) 
 
+9837 The IPv6 VPN Service Destination Option. R. Bonica, X. Li, A.
+     Farrel, Y. Kamite, L. Jalil. August 2025. (Format: HTML, TXT, PDF,
+     XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9837) 
+
+9839 Unicode Character Repertoire Subsets. T. Bray, P. Hoffman. August
+     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9839) 
+
+9844 Entering IPv6 Zone Identifiers in User Interfaces. B. Carpenter, B.
+     Hinden. August 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC6874) (Updates RFC4007, RFC7622, RFC8089) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9844) 
+
 ===========================================================================
- - This file last updated Fri 22 Aug 2025 02:30:01 AM PDT
+ - This file last updated Mon 25 Aug 2025 02:30:01 AM PDT
 
