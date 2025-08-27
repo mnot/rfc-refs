@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/26/2025.)
+(CREATED ON: 08/27/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41927,7 +41927,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9839) 
 
-9844 Entering IPv6 Zone Identifiers in User Interfaces. B. Carpenter, B.
+9844 Entering IPv6 Zone Identifiers in User Interfaces. B. Carpenter, R.
      Hinden. August 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC6874) (Updates RFC4007, RFC7622, RFC8089) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9844) 
