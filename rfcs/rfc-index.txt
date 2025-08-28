@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/27/2025.)
+(CREATED ON: 08/28/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -36934,7 +36934,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      February 2020. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC4844)
      (Updated by RFC9280) (Status: INFORMATIONAL) (DOI: 10.17487/RFC8729) 
 
-8730 Independent Submission Editor Model. N. Brownlee, Ed., B. Hinden,
+8730 Independent Submission Editor Model. N. Brownlee, Ed., R. Hinden,
      Ed.. February 2020. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC6548) (Updated by RFC9280) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC8730) 

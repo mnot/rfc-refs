@@ -80,11 +80,11 @@
      2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9839) 
 
-9844 Entering IPv6 Zone Identifiers in User Interfaces. B. Carpenter, B.
+9844 Entering IPv6 Zone Identifiers in User Interfaces. B. Carpenter, R.
      Hinden. August 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC6874) (Updates RFC4007, RFC7622, RFC8089) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9844) 
 
 ===========================================================================
- - This file last updated Tue 26 Aug 2025 02:30:01 AM PDT
+ - This file last updated Wed 27 Aug 2025 02:30:01 AM PDT
 
