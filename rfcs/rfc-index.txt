@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/17/2025.)
+(CREATED ON: 09/19/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -16301,16 +16301,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML) (Obsoletes RFC2535, RFC3008, RFC3090, RFC3445, RFC3655,
      RFC3658, RFC3755, RFC3757, RFC3845) (Updates RFC1034, RFC1035,
      RFC2136, RFC2181, RFC2308, RFC3225, RFC3597, RFC3226) (Updated by
-     RFC4470, RFC6014, RFC6840, RFC6944, RFC9077) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC4034) 
+     RFC4470, RFC6014, RFC6840, RFC6944, RFC9077, RFC9824) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC4034) 
 
 4035 Protocol Modifications for the DNS Security Extensions. R. Arends,
      R. Austein, M. Larson, D. Massey, S. Rose. March 2005. (Format: TXT,
      HTML) (Obsoletes RFC2535, RFC3008, RFC3090, RFC3445, RFC3655,
      RFC3658, RFC3755, RFC3757, RFC3845) (Updates RFC1034, RFC1035,
      RFC2136, RFC2181, RFC2308, RFC3225, RFC3597, RFC3226) (Updated by
-     RFC4470, RFC6014, RFC6840, RFC8198, RFC9077, RFC9520) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC4035) 
+     RFC4470, RFC6014, RFC6840, RFC8198, RFC9077, RFC9520, RFC9824)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4035) 
 
 4036 Management Information Base for Data Over Cable Service Interface
      Specification (DOCSIS) Cable Modem Termination Systems for
@@ -30500,8 +30500,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7292 PKCS #12: Personal Information Exchange Syntax v1.1. K. Moriarty,
      Ed., M. Nystrom, S. Parkinson, A. Rusch, M. Scott. July 2014.
-     (Format: TXT, HTML) (Updated by RFC9579) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC7292) 
+     (Format: TXT, HTML) (Updated by RFC9579, RFC9879) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC7292) 
 
 7293 The Require-Recipient-Valid-Since Header Field and SMTP Service
      Extension. W. Mills, M. Kucherawy. July 2014. (Format: TXT, HTML)
@@ -33756,7 +33756,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8018 PKCS #5: Password-Based Cryptography Specification Version 2.1. K.
      Moriarty, Ed., B. Kaliski, A. Rusch. January 2017. (Format: TXT,
-     HTML) (Obsoletes RFC2898) (Updated by RFC9579) (Status:
+     HTML) (Obsoletes RFC2898) (Updated by RFC9579, RFC9879) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC8018) 
 
 8019 Protecting Internet Key Exchange Protocol Version 2 (IKEv2)
@@ -40814,8 +40814,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9579 Use of Password-Based Message Authentication Code 1 (PBMAC1) in PKCS
      #12 Syntax. H. Kario. May 2024. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC7292, RFC8018) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9579) 
+     (Obsoleted by RFC9879) (Updates RFC7292, RFC8018) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9579) 
 
 9580 OpenPGP. P. Wouters, Ed., D. Huigens, J. Winter, Y. Niibe. July
      2024. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC4880, RFC5581,
@@ -41917,6 +41917,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9820) 
 
+9824 Compact Denial of Existence in DNSSEC. S. Huque, C. Elmerot, O.
+     Gudmundsson. September 2025. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC4034, RFC4035) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9824) 
+
 9825 Extensions to OSPF for Advertising Prefix Administrative Tags. A.
      Lindem, Ed., P. Psenak, Y. Qu. July 2025. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9825) 
@@ -41957,6 +41962,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9839) 
 
+9840 rLEDBAT: Receiver-Driven Low Extra Delay Background Transport for
+     TCP. M. Bagnulo, A. García-Martínez, G. Montenegro, P.
+     Balasubramanian. September 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9840) 
+
 9843 IGP Flexible Algorithms: Bandwidth, Delay, Metrics, and Constraints.
      S. Hegde, W. Britto, R. Shetty, B. Decraene, P. Psenak, T. Li.
      September 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC9350)
@@ -41966,3 +41976,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Hinden. August 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC6874) (Updates RFC4007, RFC7622, RFC8089) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9844) 
+
+9879 Use of Password-Based Message Authentication Code 1 (PBMAC1) in PKCS
+     #12 Syntax. A. Kario. September 2025. (Format: HTML, TXT, PDF, XML)
+     (Obsoletes RFC9579) (Updates RFC7292, RFC8018) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9879) 
