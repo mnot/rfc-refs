@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/25/2025.)
+(CREATED ON: 09/26/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41976,6 +41976,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Hinden. August 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC6874) (Updates RFC4007, RFC7622, RFC8089) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9844) 
+
+9856 Multicast Source Redundancy in EVPNs. J. Rabadan, Ed., J. Kotalwar,
+     S. Sathappan, Z. Zhang, W. Lin. September 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9856) 
 
 9879 Use of Password-Based Message Authentication Code 1 (PBMAC1) in PKCS
      #12 Syntax. A. Kario. September 2025. (Format: HTML, TXT, PDF, XML)
