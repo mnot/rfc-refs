@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9818 DHCPv6 Prefix Delegation on IPv6 Customer Edge (CE) Routers in LANs.
-     T. Winters. July 2025. (Format: HTML, TXT, PDF, XML) (Updates
-     RFC7084) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9818) 
-
 9819 Argument Signaling for BGP Services in Segment Routing over IPv6
      (SRv6). K. Talaulikar, K. Raza, J. Rabadan, W. Lin. July 2025.
      (Format: HTML, TXT, PDF, XML) (Updates RFC9252) (Status: PROPOSED
@@ -79,11 +75,15 @@
      RFC6874) (Updates RFC4007, RFC7622, RFC8089) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9844) 
 
+9856 Multicast Source Redundancy in EVPNs. J. Rabadan, Ed., J. Kotalwar,
+     S. Sathappan, Z. Zhang, W. Lin. September 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9856) 
+
 9879 Use of Password-Based Message Authentication Code 1 (PBMAC1) in PKCS
      #12 Syntax. A. Kario. September 2025. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC9579) (Updates RFC7292, RFC8018) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9879) 
 
 ===========================================================================
- - This file last updated Thu 25 Sep 2025 02:30:01 AM PDT
+ - This file last updated Fri 26 Sep 2025 02:30:01 AM PDT
 
