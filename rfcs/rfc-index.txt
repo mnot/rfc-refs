@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/30/2025.)
+(CREATED ON: 10/01/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -33366,8 +33366,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7931) 
 
 7932 Brotli Compressed Data Format. J. Alakuijala, Z. Szabadka. July
-     2016. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC7932) 
+     2016. (Format: TXT, HTML) (Updated by RFC9841) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC7932) 
 
 7933 Adaptive Video Streaming over Information-Centric Networking (ICN).
      C. Westphal, Ed., S. Lederer, D. Posch, C. Timmerer, A. Azgin, W.
@@ -41986,6 +41986,15 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Balasubramanian. September 2025. (Format: HTML, TXT, PDF, XML)
      (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9840) 
 
+9841 Shared Brotli Compressed Data Format. J. Alakuijala, T. Duong, E.
+     Kliuchnikov, Z. Szabadka, L. Vandevenne, Ed.. September 2025.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC7932) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9841) 
+
+9842 Compression Dictionary Transport. P. Meenan, Ed., Y. Weiss, Ed..
+     September 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9842) 
+
 9843 IGP Flexible Algorithms: Bandwidth, Delay, Metrics, and Constraints.
      S. Hegde, W. Britto, R. Shetty, B. Decraene, P. Psenak, T. Li.
      September 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC9350)
@@ -42003,6 +42012,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9859 Generalized DNS Notifications. J. Stenstam, P. Thomassen, J. Levine.
      September 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9859) 
+
+9872 Recommendations for Discovering IPv6 Prefix Used for IPv6 Address
+     Synthesis. N. Buraglio, T. Jensen, J. Linkova. September 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9872) 
 
 9874 Best Practices for Deletion of Domain and Host Objects in the
      Extensible Provisioning Protocol (EPP). S. Hollenbeck, W. Carroll,
