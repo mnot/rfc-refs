@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/07/2025.)
+(CREATED ON: 10/08/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -2678,7 +2678,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC0767) 
 
 0768 User Datagram Protocol. J. Postel. August 1980. (Format: TXT, HTML)
-     (Also STD0006) (Status: INTERNET STANDARD) (DOI: 10.17487/RFC0768) 
+     (Updated by RFC9868) (Also STD0006) (Status: INTERNET STANDARD)
+     (DOI: 10.17487/RFC0768) 
 
 0769 Rapicom 450 facsimile file format. J. Postel. September 1980.
      (Format: TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0769) 
@@ -42005,6 +42006,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      RFC6874) (Updates RFC4007, RFC7622, RFC8089) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9844) 
 
+9845 Challenges and Opportunities in Management for Green Networking. A.
+     Clemm, Ed., C. Pignataro, Ed., C. Westphal, L. Ciavaglia, J.
+     Tantsura, M-P. Odini. October 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9845) 
+
 9856 Multicast Source Redundancy in EVPNs. J. Rabadan, Ed., J. Kotalwar,
      S. Sathappan, Z. Zhang, W. Lin. September 2025. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9856) 
@@ -42012,6 +42018,23 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9859 Generalized DNS Notifications. J. Stenstam, P. Thomassen, J. Levine.
      September 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9859) 
+
+9866 Root Node Failure Detector (RNFD): Fast Detection of Border Router
+     Crashes in the Routing Protocol for Low-Power and Lossy Networks
+     (RPL). K. Iwanicki. October 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9866) 
+
+9868 Transport Options for UDP. J. Touch, C. Heard, Ed.. October 2025.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC0768) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9868) 
+
+9869 Datagram Packetization Layer Path MTU Discovery (DPLPMTUD) for UDP
+     Options. G. Fairhurst, T. Jones. October 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9869) 
+
+9870 Export of UDP Options Information in IP Flow Information Export
+     (IPFIX). M. Boucadair, T. Reddy.K. October 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9870) 
 
 9872 Recommendations for Discovering IPv6 Prefix Used for IPv6 Address
      Synthesis. N. Buraglio, T. Jensen, J. Linkova. September 2025.
