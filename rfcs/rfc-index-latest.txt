@@ -4,30 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9832 BGP Classful Transport Planes. K. Vairavakkalai, Ed., N.
-     Venkataraman, Ed.. September 2025. (Format: HTML, TXT, PDF, XML)
-     (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9832) 
-
-9833 A Common YANG Data Model for Attachment Circuits. M. Boucadair, Ed.,
-     R. Roberts, Ed., O. Gonzalez de Dios, S. Barguil, B. Wu. September
-     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9833) 
-
-9834 YANG Data Models for Bearers and Attachment Circuits as a Service
-     (ACaaS). M. Boucadair, Ed., R. Roberts, Ed., O. Gonzalez de Dios, S.
-     Barguil, B. Wu. September 2025. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9834) 
-
-9835 A Network YANG Data Model for Attachment Circuits. M. Boucadair,
-     Ed., R. Roberts, O. Gonzalez de Dios, S. Barguil, B. Wu. September
-     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9835) 
-
-9836 A YANG Data Model for Augmenting VPN Service and Network Models with
-     Attachment Circuits. M. Boucadair, Ed., R. Roberts, S. Barguil, O.
-     Gonzalez de Dios. September 2025. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9836) 
-
 9837 The IPv6 VPN Service Destination Option. R. Bonica, X. Li, A.
      Farrel, Y. Kamite, L. Jalil. August 2025. (Format: HTML, TXT, PDF,
      XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9837) 
@@ -60,6 +36,11 @@
      RFC6874) (Updates RFC4007, RFC7622, RFC8089) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9844) 
 
+9845 Challenges and Opportunities in Management for Green Networking. A.
+     Clemm, Ed., C. Pignataro, Ed., C. Westphal, L. Ciavaglia, J.
+     Tantsura, M-P. Odini. October 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9845) 
+
 9856 Multicast Source Redundancy in EVPNs. J. Rabadan, Ed., J. Kotalwar,
      S. Sathappan, Z. Zhang, W. Lin. September 2025. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9856) 
@@ -67,6 +48,23 @@
 9859 Generalized DNS Notifications. J. Stenstam, P. Thomassen, J. Levine.
      September 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9859) 
+
+9866 Root Node Failure Detector (RNFD): Fast Detection of Border Router
+     Crashes in the Routing Protocol for Low-Power and Lossy Networks
+     (RPL). K. Iwanicki. October 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9866) 
+
+9868 Transport Options for UDP. J. Touch, C. Heard, Ed.. October 2025.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC0768) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9868) 
+
+9869 Datagram Packetization Layer Path MTU Discovery (DPLPMTUD) for UDP
+     Options. G. Fairhurst, T. Jones. October 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9869) 
+
+9870 Export of UDP Options Information in IP Flow Information Export
+     (IPFIX). M. Boucadair, T. Reddy.K. October 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9870) 
 
 9872 Recommendations for Discovering IPv6 Prefix Used for IPv6 Address
      Synthesis. N. Buraglio, T. Jensen, J. Linkova. September 2025.
@@ -84,5 +82,5 @@
      INFORMATIONAL) (DOI: 10.17487/RFC9879) 
 
 ===========================================================================
- - This file last updated Tue 07 Oct 2025 02:30:01 AM PDT
+ - This file last updated Wed 08 Oct 2025 02:30:01 AM PDT
 
