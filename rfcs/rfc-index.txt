@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/09/2025.)
+(CREATED ON: 10/10/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -32076,13 +32076,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7643 System for Cross-domain Identity Management: Core Schema. P. Hunt,
      Ed., K. Grizzle, E. Wahlstroem, C. Mortimore. September 2015.
-     (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC7643) 
+     (Format: TXT, HTML) (Updated by RFC9865) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC7643) 
 
 7644 System for Cross-domain Identity Management: Protocol. P. Hunt, Ed.,
      K. Grizzle, M. Ansari, E. Wahlstroem, C. Mortimore. September 2015.
-     (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC7644) 
+     (Format: TXT, HTML) (Updated by RFC9865) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC7644) 
 
 7645 The Keying and Authentication for Routing Protocol (KARP) IS-IS
      Security Analysis. U. Chunduri, A. Tian, W. Lu. September 2015.
@@ -42018,6 +42018,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9859 Generalized DNS Notifications. J. Stenstam, P. Thomassen, J. Levine.
      September 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9859) 
+
+9865 Cursor-Based Pagination of System of Cross-domain Identity
+     Management (SCIM) Resources. M. Peterson, Ed., D. Zollner, A.
+     Sehgal. October 2025. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC7643, RFC7644) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9865) 
 
 9866 Root Node Failure Detector (RNFD): Fast Detection of Border Router
      Crashes in the Routing Protocol for Low-Power and Lossy Networks
