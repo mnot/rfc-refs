@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/21/2025.)
+(CREATED ON: 10/22/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -30307,7 +30307,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC7248) 
 
 7249 Internet Numbers Registries. R. Housley. May 2014. (Format: TXT,
-     HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC7249) 
+     HTML) (Updated by RFC9812) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC7249) 
 
 7250 Using Raw Public Keys in Transport Layer Security (TLS) and Datagram
      Transport Layer Security (DTLS). P. Wouters, Ed., H. Tschofenig,
@@ -41878,6 +41879,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      M. Ounsworth, J. Gray. July 2025. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC6712, RFC9480) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9811) 
+
+9812 Clarification of IPv6 Address Allocation Policy. B. Carpenter, S.
+     Krishnan, D. Farmer. October 2025. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC7249) (Also BCP0242) (Status: BEST CURRENT PRACTICE)
+     (DOI: 10.17487/RFC9812) 
 
 9813 Operational Considerations for Using TLS Pre-Shared Keys (TLS-PSKs)
      with RADIUS. A. DeKok. July 2025. (Format: HTML, TXT, PDF, XML)
