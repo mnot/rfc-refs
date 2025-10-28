@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/24/2025.)
+(CREATED ON: 10/28/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -113,8 +113,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0015) 
 
 0016 M.I.T. S. Crocker. August 1969. (Format: TXT, HTML) (Obsoletes
-     RFC0010) (Obsoleted by RFC0024) (Updated by RFC0024, RFC0027,
-     RFC0030) (Status: UNKNOWN) (DOI: 10.17487/RFC0016) 
+     RFC0010) (Updated by RFC0024, RFC0027, RFC0030) (Status: UNKNOWN)
+     (DOI: 10.17487/RFC0016) 
 
 0017 Some questions re: Host-IMP Protocol. J.E. Kreznar. August 1969.
      (Format: TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0017) 
@@ -140,8 +140,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: TXT, HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0023) 
 
 0024 Documentation Conventions. S.D. Crocker. November 1969. (Format:
-     TXT, HTML) (Obsoletes RFC0016) (Updates RFC0010, RFC0016) (Updated
-     by RFC0027, RFC0030) (Status: UNKNOWN) (DOI: 10.17487/RFC0024) 
+     TXT, HTML) (Updates RFC0010, RFC0016) (Updated by RFC0027, RFC0030)
+     (Status: UNKNOWN) (DOI: 10.17487/RFC0024) 
 
 0025 No High Link Numbers. S.D. Crocker. October 1969. (Format: TXT,
      HTML) (Status: UNKNOWN) (DOI: 10.17487/RFC0025) 
@@ -750,8 +750,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC0192) 
 
 0193 NETWORK CHECKOUT. E. Harslem, J.F. Heafner. July 1971. (Format: TXT,
-     HTML) (Obsoleted by RFC0198) (Updated by RFC0198) (Status: UNKNOWN)
-     (DOI: 10.17487/RFC0193) 
+     HTML) (Updated by RFC0198) (Status: UNKNOWN) (DOI: 10.17487/RFC0193) 
 
 0194 The Data Reconfiguration Service -- Compiler/Interpreter
      Implementation Notes. V. Cerf, E. Harslem, J. Heafner, B. Metcalfe,
@@ -770,8 +769,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC0197) 
 
 0198 Site Certification - Lincoln Labs 360/67. J.F. Heafner. July 1971.
-     (Format: TXT, HTML) (Obsoletes RFC0193) (Obsoleted by RFC0214)
-     (Updates RFC0193) (Status: UNKNOWN) (DOI: 10.17487/RFC0198) 
+     (Format: TXT, HTML) (Obsoleted by RFC0214) (Updates RFC0193)
+     (Status: UNKNOWN) (DOI: 10.17487/RFC0198) 
 
 0199 Suggestions for a Network Data-Tablet Graphics Protocol. T.
      Williams. July 1971. (Format: TXT, PDF, HTML) (Status: UNKNOWN)
@@ -1071,8 +1070,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (DOI: 10.17487/RFC0287) 
 
 0288 Network host status. E. Westheimer. January 1972. (Format: TXT,
-     HTML) (Obsoletes RFC0287) (Obsoleted by RFC0293) (Updated by
-     RFC0293) (Status: UNKNOWN) (DOI: 10.17487/RFC0288) 
+     HTML) (Obsoletes RFC0287) (Updated by RFC0293) (Status: UNKNOWN)
+     (DOI: 10.17487/RFC0288) 
 
 0289 What we hope is an official list of host names. R.W. Watson.
      December 1971. (Format: TXT, HTML) (Obsoleted by RFC0384) (Status:
@@ -1090,8 +1089,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Obsoleted by RFC0493) (Status: UNKNOWN) (DOI: 10.17487/RFC0292) 
 
 0293 Network Host Status. E. Westheimer. January 1972. (Format: TXT,
-     HTML) (Obsoletes RFC0288) (Obsoleted by RFC0298) (Updates RFC0288)
-     (Status: UNKNOWN) (DOI: 10.17487/RFC0293) 
+     HTML) (Obsoleted by RFC0298) (Updates RFC0288) (Status: UNKNOWN)
+     (DOI: 10.17487/RFC0293) 
 
 0294 The Use of "Set Data Type" Transaction in File Transfer Protocol.
      A.K. Bhushan. January 1972. (Format: TXT, HTML) (Updates RFC0265)
