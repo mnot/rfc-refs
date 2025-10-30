@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/29/2025.)
+(CREATED ON: 10/30/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -34695,7 +34695,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8231 Path Computation Element Communication Protocol (PCEP) Extensions
      for Stateful PCE. E. Crabbe, I. Minei, J. Medved, R. Varga.
      September 2017. (Format: TXT, HTML) (Updated by RFC8786, RFC9353,
-     RFC9753, RFC9756) (Status: PROPOSED STANDARD) (DOI:
+     RFC9753, RFC9756, RFC9862) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC8231) 
 
 8232 Optimizations of Label Switched Path State Synchronization
@@ -42017,6 +42017,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Tantsura, M-P. Odini. October 2025. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9845) 
 
+9854 AODV-RPL: The Routing Protocol for Low-Power and Lossy Networks
+     (RPL) Based on Ad Hoc On-Demand Distance Vector (AODV) Routing. C.E.
+     Perkins, S.V.R. Anand, S. Anamalamudi, B. Liu. October 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9854) 
+
 9855 Topology Independent Fast Reroute Using Segment Routing. A.
      Bashandy, S. Litkowski, C. Filsfils, P. Francois, B. Decraene, D.
      Voyer. October 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
@@ -42025,6 +42031,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9856 Multicast Source Redundancy in EVPNs. J. Rabadan, Ed., J. Kotalwar,
      S. Sathappan, Z. Zhang, W. Lin. September 2025. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9856) 
+
+9857 Advertisement of Segment Routing Policies Using BGP - Link State. S.
+     Previdi, K. Talaulikar, Ed., J. Dong, H. Gredler, J. Tantsura.
+     October 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9857) 
 
 9858 Additional Parameter Sets for HSS/LMS Hash-Based Signatures. S.
      Fluhrer, Q. Dang. October 2025. (Format: HTML, TXT, PDF, XML)
@@ -42042,6 +42053,17 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9861 KangarooTwelve and TurboSHAKE. B. Viguier, D. Wong, Ed., G. Van
      Assche, Ed., Q. Dang, Ed., J. Daemen, Ed.. October 2025. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9861) 
+
+9862 Path Computation Element Communication Protocol (PCEP) Extensions
+     for Segment Routing (SR) Policy Candidate Paths. M. Koldychev, S.
+     Sivabalan, S. Sidor, C. Barth, S. Peng, H. Bidgoli. October 2025.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC8231) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9862) 
+
+9863 Path Computation Element Protocol (PCEP) Extension for Color. B.
+     Rajagopalan, V. Beeram, S. Peng, M. Koldychev, G. Mishra. October
+     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9863) 
 
 9865 Cursor-Based Pagination of System of Cross-domain Identity
      Management (SCIM) Resources. M. Peterson, Ed., D. Zollner, A.
@@ -42090,9 +42112,29 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Obsoletes RFC9579) (Updates RFC7292, RFC8018) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9879) 
 
+9881 Internet X.509 Public Key Infrastructure -- Algorithm Identifiers
+     for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA).
+     J. Massimo, P. Kampanakis, S. Turner, B. E. Westerbaan. October
+     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9881) 
+
+9882 Use of the ML-DSA Signature Algorithm in the Cryptographic Message
+     Syntax (CMS). B. Salter, A. Raine, D. Van Geest. October 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9882) 
+
 9883 An Attribute for Statement of Possession of a Private Key. R.
      Housley. October 2025. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9883) 
+
+9884 Label Switched Path Ping for Segment Routing Path Segment Identifier
+     with MPLS Data Plane. X. Min, S. Peng, L. Gong, R. Gandhi, C.
+     Pignataro. October 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9884) 
+
+9885 Multi-Part TLVs in IS-IS. P. Kaneriya, T. Li, A. Przygienda, S.
+     Hegde, L. Ginsberg. October 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9885) 
 
 9890 An Update to YANG Module Names Registration. A. Bierman, M.
      Boucadair, Ed., Q. Wu. October 2025. (Format: HTML, TXT, PDF, XML)

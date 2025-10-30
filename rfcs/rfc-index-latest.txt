@@ -4,16 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9844 Entering IPv6 Zone Identifiers in User Interfaces. B. Carpenter, R.
-     Hinden. August 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes
-     RFC6874) (Updates RFC4007, RFC7622, RFC8089) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9844) 
-
-9845 Challenges and Opportunities in Management for Green Networking. A.
-     Clemm, Ed., C. Pignataro, Ed., C. Westphal, L. Ciavaglia, J.
-     Tantsura, M-P. Odini. October 2025. (Format: HTML, TXT, PDF, XML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9845) 
-
 9856 Multicast Source Redundancy in EVPNs. J. Rabadan, Ed., J. Kotalwar,
      S. Sathappan, Z. Zhang, W. Lin. September 2025. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9856) 
@@ -25,6 +15,11 @@
 9859 Generalized DNS Notifications. J. Stenstam, P. Thomassen, J. Levine.
      September 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9859) 
+
+9860 Multicast-Only Fast Reroute (MoFRR) Based on Topology Independent
+     Loop-Free Alternate (TI-LFA) Fast Reroute. Y. Liu, M. McBride, Z.
+     Zhang, J. Xie, C. Lin. October 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9860) 
 
 9861 KangarooTwelve and TurboSHAKE. B. Viguier, D. Wong, Ed., G. Van
      Assche, Ed., Q. Dang, Ed., J. Daemen, Ed.. October 2025. (Format:
@@ -81,6 +76,11 @@
      Housley. October 2025. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9883) 
 
+9890 An Update to YANG Module Names Registration. A. Bierman, M.
+     Boucadair, Ed., Q. Wu. October 2025. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC6020) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9890) 
+
 ===========================================================================
- - This file last updated Tue 28 Oct 2025 02:30:01 AM PDT
+ - This file last updated Wed 29 Oct 2025 02:30:01 AM PDT
 
