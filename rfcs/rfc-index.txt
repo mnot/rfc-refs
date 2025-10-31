@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/30/2025.)
+(CREATED ON: 10/31/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -31512,7 +31512,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      PROPOSED STANDARD) (DOI: 10.17487/RFC7517) 
 
 7518 JSON Web Algorithms (JWA). M. Jones. May 2015. (Format: TXT, HTML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7518) 
+     (Updated by RFC9864) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC7518) 
 
 7519 JSON Web Token (JWT). M. Jones, J. Bradley, N. Sakimura. May 2015.
      (Format: TXT, HTML) (Updated by RFC7797, RFC8725) (Status: PROPOSED
@@ -33847,8 +33848,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8037 CFRG Elliptic Curve Diffie-Hellman (ECDH) and Signatures in JSON
      Object Signing and Encryption (JOSE). I. Liusvaara. January 2017.
-     (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8037) 
+     (Format: TXT, HTML) (Updated by RFC9864) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC8037) 
 
 8038 Exporting MIB Variables Using the IP Flow Information Export (IPFIX)
      Protocol. P. Aitken, Ed., B. Claise, S. B S, C. McDowall, J.
@@ -38421,7 +38422,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9053 CBOR Object Signing and Encryption (COSE): Initial Algorithms. J.
      Schaad. August 2022. (Format: HTML, TXT, PDF, XML) (Obsoletes
-     RFC8152) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9053) 
+     RFC8152) (Updated by RFC9864) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9053) 
 
 9054 CBOR Object Signing and Encryption (COSE): Hash Algorithms. J.
      Schaad. August 2022. (Format: HTML, TXT, PDF, XML) (Status:
@@ -42065,6 +42067,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9863) 
 
+9864 Fully-Specified Algorithms for JSON Object Signing and Encryption
+     (JOSE) and CBOR Object Signing and Encryption (COSE). M.B. Jones, O.
+     Steele. October 2025. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC7518, RFC8037, RFC9053) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9864) 
+
 9865 Cursor-Based Pagination of System of Cross-domain Identity
      Management (SCIM) Resources. M. Peterson, Ed., D. Zollner, A.
      Sehgal. October 2025. (Format: HTML, TXT, PDF, XML) (Updates
@@ -42102,6 +42110,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Extensible Provisioning Protocol (EPP). S. Hollenbeck, W. Carroll,
      G. Akiwate. September 2025. (Format: HTML, TXT, PDF, XML) (Also
      BCP0244) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9874) 
+
+9875 HTTP Cache Groups. M. Nottingham. October 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9875) 
 
 9877 Registration Data Access Protocol (RDAP) Extension for Geofeed Data.
      J. Singh, T. Harrison. October 2025. (Format: HTML, TXT, PDF, XML)

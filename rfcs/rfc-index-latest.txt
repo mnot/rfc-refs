@@ -4,26 +4,10 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9856 Multicast Source Redundancy in EVPNs. J. Rabadan, Ed., J. Kotalwar,
-     S. Sathappan, Z. Zhang, W. Lin. September 2025. (Format: HTML, TXT,
-     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9856) 
-
-9858 Additional Parameter Sets for HSS/LMS Hash-Based Signatures. S.
-     Fluhrer, Q. Dang. October 2025. (Format: HTML, TXT, PDF, XML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9858) 
-
-9859 Generalized DNS Notifications. J. Stenstam, P. Thomassen, J. Levine.
-     September 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9859) 
-
-9860 Multicast-Only Fast Reroute (MoFRR) Based on Topology Independent
-     Loop-Free Alternate (TI-LFA) Fast Reroute. Y. Liu, M. McBride, Z.
-     Zhang, J. Xie, C. Lin. October 2025. (Format: HTML, TXT, PDF, XML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9860) 
-
-9861 KangarooTwelve and TurboSHAKE. B. Viguier, D. Wong, Ed., G. Van
-     Assche, Ed., Q. Dang, Ed., J. Daemen, Ed.. October 2025. (Format:
-     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9861) 
+9863 Path Computation Element Protocol (PCEP) Extension for Color. B.
+     Rajagopalan, V. Beeram, S. Peng, M. Koldychev, G. Mishra. October
+     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9863) 
 
 9865 Cursor-Based Pagination of System of Cross-domain Identity
      Management (SCIM) Resources. M. Peterson, Ed., D. Zollner, A.
@@ -72,9 +56,29 @@
      (Obsoletes RFC9579) (Updates RFC7292, RFC8018) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9879) 
 
+9881 Internet X.509 Public Key Infrastructure -- Algorithm Identifiers
+     for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA).
+     J. Massimo, P. Kampanakis, S. Turner, B. E. Westerbaan. October
+     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9881) 
+
+9882 Use of the ML-DSA Signature Algorithm in the Cryptographic Message
+     Syntax (CMS). B. Salter, A. Raine, D. Van Geest. October 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9882) 
+
 9883 An Attribute for Statement of Possession of a Private Key. R.
      Housley. October 2025. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9883) 
+
+9884 Label Switched Path Ping for Segment Routing Path Segment Identifier
+     with MPLS Data Plane. X. Min, S. Peng, L. Gong, R. Gandhi, C.
+     Pignataro. October 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9884) 
+
+9885 Multi-Part TLVs in IS-IS. P. Kaneriya, T. Li, A. Przygienda, S.
+     Hegde, L. Ginsberg. October 2025. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9885) 
 
 9890 An Update to YANG Module Names Registration. A. Bierman, M.
      Boucadair, Ed., Q. Wu. October 2025. (Format: HTML, TXT, PDF, XML)
@@ -82,5 +86,5 @@
      10.17487/RFC9890) 
 
 ===========================================================================
- - This file last updated Wed 29 Oct 2025 02:30:01 AM PDT
+ - This file last updated Thu 30 Oct 2025 02:30:01 AM PDT
 
