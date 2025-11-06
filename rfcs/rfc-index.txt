@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/04/2025.)
+(CREATED ON: 11/06/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -26608,8 +26608,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6406) 
 
 6407 The Group Domain of Interpretation. B. Weis, S. Rowles, T. Hardjono.
-     October 2011. (Format: TXT, HTML) (Obsoletes RFC3547) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC6407) 
+     October 2011. (Format: TXT, HTML) (Obsoletes RFC3547) (Obsoleted by
+     RFC9838) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6407) 
 
 6408 Diameter Straightforward-Naming Authority Pointer (S-NAPTR) Usage.
      M. Jones, J. Korhonen, L. Morand. November 2011. (Format: TXT, HTML)
@@ -30321,8 +30321,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7252 The Constrained Application Protocol (CoAP). Z. Shelby, K. Hartke,
      C. Bormann. June 2014. (Format: TXT, HTML) (Updated by RFC7959,
-     RFC8613, RFC8974, RFC9175) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC7252) 
+     RFC8613, RFC8974, RFC9175, RFC9876) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC7252) 
 
 7253 The OCB Authenticated-Encryption Algorithm. T. Krovetz, P. Rogaway.
      May 2014. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
@@ -30521,8 +30521,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 7296 Internet Key Exchange Protocol Version 2 (IKEv2). C. Kaufman, P.
      Hoffman, Y. Nir, P. Eronen, T. Kivinen. October 2014. (Format: TXT,
      HTML) (Obsoletes RFC5996) (Updated by RFC7427, RFC7670, RFC8247,
-     RFC8983, RFC9370) (Also STD0079) (Status: INTERNET STANDARD) (DOI:
-     10.17487/RFC7296) 
+     RFC8983, RFC9370, RFC9827) (Also STD0079) (Status: INTERNET
+     STANDARD) (DOI: 10.17487/RFC7296) 
 
 7297 IP Connectivity Provisioning Profile (CPP). M. Boucadair, C.
      Jacquenet, N. Wang. July 2014. (Format: TXT, HTML) (Status:
@@ -41939,6 +41939,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      September 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9826) 
 
+9827 Renaming the Extended Sequence Numbers (ESN) Transform Type in the
+     Internet Key Exchange Protocol Version 2 (IKEv2). V. Smyslov.
+     November 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC7296)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9827) 
+
 9828 RTP Payload Format for JPEG 2000 Streaming with Sub-Codestream
      Latency. P.-A. Lemieux, Ed., D. Taubman. August 2025. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9828) 
@@ -41985,6 +41990,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9837 The IPv6 VPN Service Destination Option. R. Bonica, X. Li, A.
      Farrel, Y. Kamite, L. Jalil. August 2025. (Format: HTML, TXT, PDF,
      XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9837) 
+
+9838 Group Key Management Using the Internet Key Exchange Protocol
+     Version 2 (IKEv2). V. Smyslov, B. Weis. November 2025. (Format:
+     HTML, TXT, PDF, XML) (Obsoletes RFC6407) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9838) 
 
 9839 Unicode Character Repertoire Subsets. T. Bray, P. Hoffman. August
      2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
@@ -42084,6 +42094,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (RPL). K. Iwanicki. October 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9866) 
 
+9867 Mixing Preshared Keys in the IKE_INTERMEDIATE and CREATE_CHILD_SA
+     Exchanges of the Internet Key Exchange Protocol Version 2 (IKEv2)
+     for Post-Quantum Security. V. Smyslov. November 2025. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9867) 
+
 9868 Transport Options for UDP. J. Touch, C. Heard, Ed.. October 2025.
      (Format: HTML, TXT, PDF, XML) (Updates RFC0768) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9868) 
@@ -42113,6 +42128,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9875 HTTP Cache Groups. M. Nottingham. October 2025. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9875) 
+
+9876 Updates to the IANA Registration Procedures for Constrained
+     Application Protocol (CoAP) Content-Formats. T. Fossati, E. Dijk.
+     November 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC7252)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9876) 
 
 9877 Registration Data Access Protocol (RDAP) Extension for Geofeed Data.
      J. Singh, T. Harrison. October 2025. (Format: HTML, TXT, PDF, XML)
@@ -42146,6 +42166,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9885 Multi-Part TLVs in IS-IS. P. Kaneriya, T. Li, A. Przygienda, S.
      Hegde, L. Ginsberg. October 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9885) 
+
+9889 A Realization of Network Slices for 5G Networks Using Current
+     IP/MPLS Technologies. K. Szarkowicz, Ed., R. Roberts, Ed., J. Lucek,
+     M. Boucadair, Ed., LM. Contreras. November 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9889) 
 
 9890 An Update to YANG Module Names Registration. A. Bierman, M.
      Boucadair, Ed., Q. Wu. October 2025. (Format: HTML, TXT, PDF, XML)
