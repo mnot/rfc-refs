@@ -4,17 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9865 Cursor-Based Pagination of System of Cross-domain Identity
-     Management (SCIM) Resources. M. Peterson, Ed., D. Zollner, A.
-     Sehgal. October 2025. (Format: HTML, TXT, PDF, XML) (Updates
-     RFC7643, RFC7644) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9865) 
-
-9866 Root Node Failure Detector (RNFD): Fast Detection of Border Router
-     Crashes in the Routing Protocol for Low-Power and Lossy Networks
-     (RPL). K. Iwanicki. October 2025. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9866) 
-
 9868 Transport Options for UDP. J. Touch, C. Heard, Ed.. October 2025.
      (Format: HTML, TXT, PDF, XML) (Updates RFC0768) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9868) 
@@ -44,6 +33,11 @@
 
 9875 HTTP Cache Groups. M. Nottingham. October 2025. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9875) 
+
+9876 Updates to the IANA Registration Procedures for Constrained
+     Application Protocol (CoAP) Content-Formats. T. Fossati, E. Dijk.
+     November 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC7252)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9876) 
 
 9877 Registration Data Access Protocol (RDAP) Extension for Geofeed Data.
      J. Singh, T. Harrison. October 2025. (Format: HTML, TXT, PDF, XML)
@@ -78,11 +72,16 @@
      Hegde, L. Ginsberg. October 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9885) 
 
+9889 A Realization of Network Slices for 5G Networks Using Current
+     IP/MPLS Technologies. K. Szarkowicz, Ed., R. Roberts, Ed., J. Lucek,
+     M. Boucadair, Ed., LM. Contreras. November 2025. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9889) 
+
 9890 An Update to YANG Module Names Registration. A. Bierman, M.
      Boucadair, Ed., Q. Wu. October 2025. (Format: HTML, TXT, PDF, XML)
      (Updates RFC6020) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9890) 
 
 ===========================================================================
- - This file last updated Wed 05 Nov 2025 02:30:01 AM PST
+ - This file last updated Thu 06 Nov 2025 02:30:01 AM PST
 
