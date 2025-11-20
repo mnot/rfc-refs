@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/18/2025.)
+(CREATED ON: 11/20/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -30600,7 +30600,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 7315 Private Header (P-Header) Extensions to the Session Initiation
      Protocol (SIP) for the 3GPP. R. Jesske, K. Drage, C. Holmberg. July
      2014. (Format: TXT, HTML) (Obsoletes RFC3455) (Updated by RFC7913,
-     RFC7976) (Status: INFORMATIONAL) (DOI: 10.17487/RFC7315) 
+     RFC7976, RFC9878) (Status: INFORMATIONAL) (DOI: 10.17487/RFC7315) 
 
 7316 The Session Initiation Protocol (SIP) P-Private-Network-Indication
      Private Header (P-Header). J. van Elburg, K. Drage, M. Ohsugi, S.
@@ -33570,8 +33570,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7976 Updates to Private Header (P-Header) Extension Usage in Session
      Initiation Protocol (SIP) Requests and Responses. C. Holmberg, N.
-     Biondic, G. Salgueiro. September 2016. (Format: TXT, HTML) (Updates
-     RFC7315) (Status: INFORMATIONAL) (DOI: 10.17487/RFC7976) 
+     Biondic, G. Salgueiro. September 2016. (Format: TXT, HTML)
+     (Obsoleted by RFC9878) (Updates RFC7315) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC7976) 
 
 7977 The WebSocket Protocol as a Transport for the Message Session Relay
      Protocol (MSRP). P. Dunkley, G. Llewellyn, V. Pascual, G. Salgueiro,
@@ -42138,6 +42139,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      J. Singh, T. Harrison. October 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9877) 
 
+9878 Updates to Private Header (P-Header) Extension Usage in Session
+     Initiation Protocol (SIP) Requests and Responses. C. Holmberg, N.
+     Biondic, G. Salgueiro, R. Jesske. November 2025. (Format: HTML, TXT,
+     PDF, XML) (Obsoletes RFC7976) (Updates RFC7315) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9878) 
+
 9879 Use of Password-Based Message Authentication Code 1 (PBMAC1) in PKCS
      #12 Syntax. A. Kario. September 2025. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC9579) (Updates RFC7292, RFC8018) (Status:
@@ -42176,3 +42183,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Boucadair, Ed., Q. Wu. October 2025. (Format: HTML, TXT, PDF, XML)
      (Updates RFC6020) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9890) 
+
+9901 Selective Disclosure for JSON Web Tokens. D. Fett, K. Yasuda, B.
+     Campbell. November 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9901) 
