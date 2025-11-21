@@ -4,14 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9868 Transport Options for UDP. J. Touch, C. Heard, Ed.. October 2025.
-     (Format: HTML, TXT, PDF, XML) (Updates RFC0768) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9868) 
-
-9869 Datagram Packetization Layer Path MTU Discovery (DPLPMTUD) for UDP
-     Options. G. Fairhurst, T. Jones. October 2025. (Format: HTML, TXT,
-     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9869) 
-
 9870 Export of UDP Options Information in IP Flow Information Export
      (IPFIX). M. Boucadair, T. Reddy.K. October 2025. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9870) 
@@ -42,6 +34,12 @@
 9877 Registration Data Access Protocol (RDAP) Extension for Geofeed Data.
      J. Singh, T. Harrison. October 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9877) 
+
+9878 Updates to Private Header (P-Header) Extension Usage in Session
+     Initiation Protocol (SIP) Requests and Responses. C. Holmberg, N.
+     Biondic, G. Salgueiro, R. Jesske. November 2025. (Format: HTML, TXT,
+     PDF, XML) (Obsoletes RFC7976) (Updates RFC7315) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9878) 
 
 9879 Use of Password-Based Message Authentication Code 1 (PBMAC1) in PKCS
      #12 Syntax. A. Kario. September 2025. (Format: HTML, TXT, PDF, XML)
@@ -82,6 +80,10 @@
      (Updates RFC6020) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9890) 
 
+9901 Selective Disclosure for JSON Web Tokens. D. Fett, K. Yasuda, B.
+     Campbell. November 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9901) 
+
 ===========================================================================
- - This file last updated Wed 19 Nov 2025 02:30:01 AM PST
+ - This file last updated Thu 20 Nov 2025 02:30:01 AM PST
 

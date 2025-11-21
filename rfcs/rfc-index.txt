@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/20/2025.)
+(CREATED ON: 11/21/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42112,6 +42112,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (IPFIX). M. Boucadair, T. Reddy.K. October 2025. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9870) 
 
+9871 BGP Color-Aware Routing (CAR). D. Rao, Ed., S. Agrawal, Ed..
+     November 2025. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL)
+     (DOI: 10.17487/RFC9871) 
+
 9872 Recommendations for Discovering IPv6 Prefix Used for IPv6 Address
      Synthesis. N. Buraglio, T. Jensen, J. Linkova. September 2025.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
@@ -42183,6 +42187,15 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Boucadair, Ed., Q. Wu. October 2025. (Format: HTML, TXT, PDF, XML)
      (Updates RFC6020) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9890) 
+
+9891 Automated Certificate Management Environment (ACME) Delay-Tolerant
+     Networking (DTN) Node ID Validation Extension. B. Sipos. November
+     2025. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
+     10.17487/RFC9891) 
+
+9898 Neighbor Discovery Considerations in IPv6 Deployments. X. Xiao, E.
+     Vasilenko, E. Metz, G. Mishra, N. Buraglio. November 2025. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9898) 
 
 9901 Selective Disclosure for JSON Web Tokens. D. Fett, K. Yasuda, B.
      Campbell. November 2025. (Format: HTML, TXT, PDF, XML) (Status:
