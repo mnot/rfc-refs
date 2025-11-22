@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9870 Export of UDP Options Information in IP Flow Information Export
-     (IPFIX). M. Boucadair, T. Reddy.K. October 2025. (Format: HTML, TXT,
-     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9870) 
-
-9872 Recommendations for Discovering IPv6 Prefix Used for IPv6 Address
-     Synthesis. N. Buraglio, T. Jensen, J. Linkova. September 2025.
-     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9872) 
-
 9873 Additional Email Address Extension for the Extensible Provisioning
      Protocol (EPP). D. Belyavsky, J. Gould, S. Hollenbeck. October 2025.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -80,10 +71,19 @@
      (Updates RFC6020) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9890) 
 
+9891 Automated Certificate Management Environment (ACME) Delay-Tolerant
+     Networking (DTN) Node ID Validation Extension. B. Sipos. November
+     2025. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
+     10.17487/RFC9891) 
+
+9898 Neighbor Discovery Considerations in IPv6 Deployments. X. Xiao, E.
+     Vasilenko, E. Metz, G. Mishra, N. Buraglio. November 2025. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9898) 
+
 9901 Selective Disclosure for JSON Web Tokens. D. Fett, K. Yasuda, B.
      Campbell. November 2025. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9901) 
 
 ===========================================================================
- - This file last updated Thu 20 Nov 2025 02:30:01 AM PST
+ - This file last updated Fri 21 Nov 2025 02:30:02 AM PST
 
