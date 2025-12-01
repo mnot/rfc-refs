@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/28/2025.)
+(CREATED ON: 12/01/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -16300,8 +16300,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML) (Obsoletes RFC2535, RFC3008, RFC3090, RFC3445, RFC3655,
      RFC3658, RFC3755, RFC3757, RFC3845) (Updates RFC1034, RFC1035,
      RFC2136, RFC2181, RFC2308, RFC3225, RFC3597, RFC3226) (Updated by
-     RFC4470, RFC6014, RFC6840, RFC6944, RFC9077, RFC9824) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC4034) 
+     RFC4470, RFC6014, RFC6840, RFC6944, RFC9077, RFC9824, RFC9905)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4034) 
 
 4035 Protocol Modifications for the DNS Security Extensions. R. Arends,
      R. Austein, M. Larson, D. Massey, S. Rose. March 2005. (Format: TXT,
@@ -21184,8 +21184,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5155 DNS Security (DNSSEC) Hashed Authenticated Denial of Existence. B.
      Laurie, G. Sisson, R. Arends, D. Blacka. March 2008. (Format: TXT,
-     HTML) (Updated by RFC6840, RFC6944, RFC9077, RFC9157, RFC9276)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5155) 
+     HTML) (Updated by RFC6840, RFC6944, RFC9077, RFC9157, RFC9276,
+     RFC9905) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5155) 
 
 5156 Special-Use IPv6 Addresses. M. Blanchet. April 2008. (Format: TXT,
      HTML) (Obsoleted by RFC6890) (Status: INFORMATIONAL) (DOI:
@@ -36462,8 +36462,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8624 Algorithm Implementation Requirements and Usage Guidance for DNSSEC.
      P. Wouters, O. Sury. June 2019. (Format: TXT, HTML) (Obsoletes
-     RFC6944) (Updated by RFC9157) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8624) 
+     RFC6944) (Obsoleted by RFC9904) (Updated by RFC9157) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8624) 
 
 8625 Ethernet Traffic Parameters with Availability Information. H. Long,
      M. Ye, Ed., G. Mirsky, Ed., A. D'Alessandro, H. Shah. August 2019.
@@ -38903,7 +38903,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9157 Revised IANA Considerations for DNSSEC. P. Hoffman. December 2021.
      (Format: HTML, TXT, PDF, XML) (Updates RFC5155, RFC6014, RFC8624)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9157) 
+     (Updated by RFC9904) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9157) 
 
 9158 Update to the Object Identifier Registry for the PKIX Working Group.
      R. Housley. November 2021. (Format: HTML, TXT, PDF, XML) (Updates
@@ -42200,3 +42201,17 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9901 Selective Disclosure for JSON Web Tokens. D. Fett, K. Yasuda, B.
      Campbell. November 2025. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9901) 
+
+9904 DNSSEC Cryptographic Algorithm Recommendation Update Process. W.
+     Hardaker, W. Kumari. November 2025. (Format: HTML, TXT, PDF, XML)
+     (Obsoletes RFC8624) (Updates RFC9157) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9904) 
+
+9905 Deprecating the Use of SHA-1 in DNSSEC Signature Algorithms. W.
+     Hardaker, W. Kumari. November 2025. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC4034, RFC5155) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9905) 
+
+9906 Deprecate Usage of ECC-GOST within DNSSEC. W. Hardaker, W. Kumari.
+     November 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9906) 
