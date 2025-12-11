@@ -4,26 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9876 Updates to the IANA Registration Procedures for Constrained
-     Application Protocol (CoAP) Content-Formats. T. Fossati, E. Dijk.
-     November 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC7252)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9876) 
-
-9877 Registration Data Access Protocol (RDAP) Extension for Geofeed Data.
-     J. Singh, T. Harrison. October 2025. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9877) 
-
-9878 Updates to Private Header (P-Header) Extension Usage in Session
-     Initiation Protocol (SIP) Requests and Responses. C. Holmberg, N.
-     Biondic, G. Salgueiro, R. Jesske. November 2025. (Format: HTML, TXT,
-     PDF, XML) (Obsoletes RFC7976) (Updates RFC7315) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9878) 
-
-9879 Use of Password-Based Message Authentication Code 1 (PBMAC1) in PKCS
-     #12 Syntax. A. Kario. September 2025. (Format: HTML, TXT, PDF, XML)
-     (Obsoletes RFC9579) (Updates RFC7292, RFC8018) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9879) 
-
 9881 Internet X.509 Public Key Infrastructure -- Algorithm Identifiers
      for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA).
      J. Massimo, P. Kampanakis, S. Turner, B. E. Westerbaan. October
@@ -48,6 +28,11 @@
      Hegde, L. Ginsberg. October 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9885) 
 
+9887 Terminal Access Controller Access-Control System Plus (TACACS+) over
+     TLS 1.3. T. Dahm, J. Heasley, D.C. Medway Gash, A. Ota. December
+     2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8907) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9887) 
+
 9889 A Realization of Network Slices for 5G Networks Using Current
      IP/MPLS Technologies. K. Szarkowicz, Ed., R. Roberts, Ed., J. Lucek,
      M. Boucadair, Ed., LM. Contreras. November 2025. (Format: HTML, TXT,
@@ -67,9 +52,22 @@
      Vasilenko, E. Metz, G. Mishra, N. Buraglio. November 2025. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9898) 
 
+9900 Updates to NETCONF Transport Port Numbers. M. Boucadair. December
+     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9900) 
+
 9901 Selective Disclosure for JSON Web Tokens. D. Fett, K. Yasuda, B.
      Campbell. November 2025. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9901) 
+
+9902 A YANG Data Model for IS-IS Segment Routing over the MPLS Data
+     Plane. S. Litkowski, Y. Qu, A. Lindem, I. Chen, J. Tantsura.
+     December 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9902) 
+
+9903 A YANG Data Model for OSPF Segment Routing over the MPLS Data Plane.
+     Y. Qu, A. Lindem, J. Zhang, I. Chen. December 2025. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9903) 
 
 9904 DNSSEC Cryptographic Algorithm Recommendation Update Process. W.
      Hardaker, W. Kumari. November 2025. (Format: HTML, TXT, PDF, XML)
@@ -86,5 +84,5 @@
      STANDARD) (DOI: 10.17487/RFC9906) 
 
 ===========================================================================
- - This file last updated Tue 09 Dec 2025 02:30:02 AM PST
+ - This file last updated Wed 10 Dec 2025 02:30:01 AM PST
 
