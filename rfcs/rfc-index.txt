@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 12/12/2025.)
+(CREATED ON: 12/15/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -32103,7 +32103,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
      TXT, HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7648) 
 
 7649 The Jabber Scribe Role at IETF Meetings. P. Saint-Andre, D. York.
-     September 2015. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
+     September 2015. (Format: TXT, HTML) (Status: HISTORIC) (DOI:
      10.17487/RFC7649) 
 
 7650 A Constrained Application Protocol (CoAP) Usage for REsource
