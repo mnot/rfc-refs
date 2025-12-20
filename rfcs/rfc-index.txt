@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 12/18/2025.)
+(CREATED ON: 12/19/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -28912,8 +28912,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6936) 
 
 6937 Proportional Rate Reduction for TCP. M. Mathis, N. Dukkipati, Y.
-     Cheng. May 2013. (Format: TXT, HTML) (Status: EXPERIMENTAL) (DOI:
-     10.17487/RFC6937) 
+     Cheng. May 2013. (Format: TXT, HTML) (Obsoleted by RFC9937) (Status:
+     EXPERIMENTAL) (DOI: 10.17487/RFC6937) 
 
 6938 Deprecation of BGP Path Attributes: DPA, ADVERTISER, and RCID_PATH /
      CLUSTER_ID. J. Scudder. May 2013. (Format: TXT, HTML) (Status:
@@ -42233,3 +42233,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9906 Deprecate Usage of ECC-GOST within DNSSEC. W. Hardaker, W. Kumari.
      November 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9906) 
+
+9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
+     N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
+     (Obsoletes RFC6937) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9937) 
