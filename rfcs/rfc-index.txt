@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 12/19/2025.)
+(CREATED ON: 12/22/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -29157,8 +29157,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      STANDARD) (DOI: 10.17487/RFC6990) 
 
 6991 Common YANG Data Types. J. Schoenwaelder, Ed.. July 2013. (Format:
-     TXT, HTML) (Obsoletes RFC6021) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC6991) 
+     TXT, HTML) (Obsoletes RFC6021) (Obsoleted by RFC9911) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC6991) 
 
 6992 Routing for IPv4-Embedded IPv6 Packets. D. Cheng, M. Boucadair, A.
      Retana. July 2013. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
@@ -42203,6 +42203,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Vasilenko, E. Metz, G. Mishra, N. Buraglio. November 2025. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9898) 
 
+9899 Extensions to the YANG Data Model for Access Control Lists (ACLs).
+     O. Gonzalez de Dios, S. Barguil, M. Boucadair, Q. Wu. December 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9899) 
+
 9900 Updates to NETCONF Transport Port Numbers. M. Boucadair. December
      2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9900) 
@@ -42233,6 +42238,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9906 Deprecate Usage of ECC-GOST within DNSSEC. W. Hardaker, W. Kumari.
      November 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9906) 
+
+9909 Internet X.509 Public Key Infrastructure -- Algorithm Identifiers
+     for the Stateless Hash-Based Digital Signature Algorithm (SLH-DSA).
+     K. Bashiri, S. Fluhrer, S. Gazdag, D. Van Geest, S. Kousidis.
+     December 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9909) 
+
+9911 Common YANG Data Types. J. Schönwälder, Ed.. December 2025. (Format:
+     HTML, TXT, PDF, XML) (Obsoletes RFC6991) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9911) 
 
 9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)

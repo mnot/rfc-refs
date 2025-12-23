@@ -4,12 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9881 Internet X.509 Public Key Infrastructure -- Algorithm Identifiers
-     for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA).
-     J. Massimo, P. Kampanakis, S. Turner, B. E. Westerbaan. October
-     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9881) 
-
 9882 Use of the ML-DSA Signature Algorithm in the Cryptographic Message
      Syntax (CMS). B. Salter, A. Raine, D. Van Geest. October 2025.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -83,6 +77,11 @@
      November 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9906) 
 
+9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
+     N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
+     (Obsoletes RFC6937) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9937) 
+
 ===========================================================================
- - This file last updated Fri 19 Dec 2025 02:30:01 AM PST
+ - This file last updated Mon 22 Dec 2025 02:30:01 AM PST
 
