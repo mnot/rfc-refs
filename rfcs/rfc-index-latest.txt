@@ -4,20 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9882 Use of the ML-DSA Signature Algorithm in the Cryptographic Message
-     Syntax (CMS). B. Salter, A. Raine, D. Van Geest. October 2025.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9882) 
-
-9883 An Attribute for Statement of Possession of a Private Key. R.
-     Housley. October 2025. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9883) 
-
-9884 Label Switched Path Ping for Segment Routing Path Segment Identifier
-     with MPLS Data Plane. X. Min, S. Peng, L. Gong, R. Gandhi, C.
-     Pignataro. October 2025. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9884) 
-
 9885 Multi-Part TLVs in IS-IS. P. Kaneriya, T. Li, A. Przygienda, S.
      Hegde, L. Ginsberg. October 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9885) 
@@ -45,6 +31,11 @@
 9898 Neighbor Discovery Considerations in IPv6 Deployments. X. Xiao, E.
      Vasilenko, E. Metz, G. Mishra, N. Buraglio. November 2025. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9898) 
+
+9899 Extensions to the YANG Data Model for Access Control Lists (ACLs).
+     O. Gonzalez de Dios, S. Barguil, M. Boucadair, Q. Wu. December 2025.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9899) 
 
 9900 Updates to NETCONF Transport Port Numbers. M. Boucadair. December
      2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
@@ -77,11 +68,21 @@
      November 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9906) 
 
+9909 Internet X.509 Public Key Infrastructure -- Algorithm Identifiers
+     for the Stateless Hash-Based Digital Signature Algorithm (SLH-DSA).
+     K. Bashiri, S. Fluhrer, S. Gazdag, D. Van Geest, S. Kousidis.
+     December 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9909) 
+
+9911 Common YANG Data Types. J. Schönwälder, Ed.. December 2025. (Format:
+     HTML, TXT, PDF, XML) (Obsoletes RFC6991) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9911) 
+
 9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC6937) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9937) 
 
 ===========================================================================
- - This file last updated Mon 22 Dec 2025 02:30:01 AM PST
+ - This file last updated Tue 23 Dec 2025 02:30:01 AM PST
 
