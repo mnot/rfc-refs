@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 12/23/2025.)
+(CREATED ON: 12/24/2025.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -35688,8 +35688,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8447 IANA Registry Updates for TLS and DTLS. J. Salowey, S. Turner.
      August 2018. (Format: TXT, HTML) (Updates RFC3749, RFC4680, RFC5077,
-     RFC5246, RFC5705, RFC5878, RFC6520, RFC7301) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8447) 
+     RFC5246, RFC5705, RFC5878, RFC6520, RFC7301) (Updated by RFC9847)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8447) 
 
 8448 Example Handshake Traces for TLS 1.3. M. Thomson. January 2019.
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC8448) 
@@ -42031,6 +42031,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Tantsura, M-P. Odini. October 2025. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9845) 
 
+9847 IANA Registry Updates for TLS and DTLS. J. Salowey, S. Turner.
+     December 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8447)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9847) 
+
 9854 AODV-RPL: The Routing Protocol for Low-Power and Lossy Networks
      (RPL) Based on Ad Hoc On-Demand Distance Vector (AODV) Routing. C.E.
      Perkins, S.V.R. Anand, S. Anamalamudi, B. Liu. October 2025.
@@ -42178,6 +42182,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9885 Multi-Part TLVs in IS-IS. P. Kaneriya, T. Li, A. Przygienda, S.
      Hegde, L. Ginsberg. October 2025. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9885) 
+
+9886 DRIP Entity Tags (DETs) in the Domain Name System. A. Wiethuechter,
+     Ed., J. Reid. December 2025. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9886) 
 
 9887 Terminal Access Controller Access-Control System Plus (TACACS+) over
      TLS 1.3. T. Dahm, J. Heasley, D.C. Medway Gash, A. Ota. December
