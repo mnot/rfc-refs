@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/05/2026.)
+(CREATED ON: 01/06/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -29327,7 +29327,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7030 Enrollment over Secure Transport. M. Pritikin, Ed., P. Yee, Ed., D.
      Harkins, Ed.. October 2013. (Format: TXT, HTML) (Updated by RFC8951,
-     RFC8996) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7030) 
+     RFC8996, RFC9908) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC7030) 
 
 7031 DHCPv6 Failover Requirements. T. Mrugalski, K. Kinnear. September
      2013. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
@@ -38861,7 +38862,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9148 EST-coaps: Enrollment over Secure Transport with the Secure
      Constrained Application Protocol. P. van der Stok, P. Kampanakis, M.
      Richardson, S. Raza. April 2022. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9148) 
+     (Updated by RFC9908) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9148) 
 
 9149 TLS Ticket Requests. T. Pauly, D. Schinazi, C.A. Wood. April 2022.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -42246,6 +42248,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9906 Deprecate Usage of ECC-GOST within DNSSEC. W. Hardaker, W. Kumari.
      November 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9906) 
+
+9908 Clarification and Enhancement of the CSR Attributes Definition in
+     RFC 7030. M. Richardson, Ed., O. Friel, D. von Oheimb, D. Harkins.
+     January 2026. (Format: HTML, TXT, PDF, XML) (Updates RFC7030,
+     RFC9148) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9908) 
 
 9909 Internet X.509 Public Key Infrastructure -- Algorithm Identifiers
      for the Stateless Hash-Based Digital Signature Algorithm (SLH-DSA).
