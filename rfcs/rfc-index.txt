@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/06/2026.)
+(CREATED ON: 01/08/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42209,6 +42209,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2025. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC9891) 
 
+9897 Datagram Congestion Control Protocol (DCCP) Extensions for Multipath
+     Operation with Multiple Addresses. M. Amend, Ed., A. Brunstrom, A.
+     Kassler, V. Rakocevic, S. Johnson. January 2026. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9897) 
+
 9898 Neighbor Discovery Considerations in IPv6 Deployments. X. Xiao, E.
      Vasilenko, E. Metz, G. Mishra, N. Buraglio. November 2025. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9898) 
@@ -42259,6 +42264,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      K. Bashiri, S. Fluhrer, S. Gazdag, D. Van Geest, S. Kousidis.
      December 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9909) 
+
+9910 Registration Data Access Protocol (RDAP) Regional Internet Registry
+     (RIR) Search. T. Harrison, J. Singh. January 2026. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9910) 
 
 9911 Common YANG Data Types. J. Schönwälder, Ed.. December 2025. (Format:
      HTML, TXT, PDF, XML) (Obsoletes RFC6991) (Status: PROPOSED STANDARD)
