@@ -4,16 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9887 Terminal Access Controller Access-Control System Plus (TACACS+) over
-     TLS 1.3. T. Dahm, J. Heasley, D.C. Medway Gash, A. Ota. December
-     2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8907) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9887) 
-
-9889 A Realization of Network Slices for 5G Networks Using Current
-     IP/MPLS Technologies. K. Szarkowicz, Ed., R. Roberts, Ed., J. Lucek,
-     M. Boucadair, Ed., LM. Contreras. November 2025. (Format: HTML, TXT,
-     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9889) 
-
 9890 An Update to YANG Module Names Registration. A. Bierman, M.
      Boucadair, Ed., Q. Wu. October 2025. (Format: HTML, TXT, PDF, XML)
      (Updates RFC6020) (Status: PROPOSED STANDARD) (DOI:
@@ -23,6 +13,11 @@
      Networking (DTN) Node ID Validation Extension. B. Sipos. November
      2025. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC9891) 
+
+9897 Datagram Congestion Control Protocol (DCCP) Extensions for Multipath
+     Operation with Multiple Addresses. M. Amend, Ed., A. Brunstrom, A.
+     Kassler, V. Rakocevic, S. Johnson. January 2026. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9897) 
 
 9898 Neighbor Discovery Considerations in IPv6 Deployments. X. Xiao, E.
      Vasilenko, E. Metz, G. Mishra, N. Buraglio. November 2025. (Format:
@@ -75,6 +70,10 @@
      December 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9909) 
 
+9910 Registration Data Access Protocol (RDAP) Regional Internet Registry
+     (RIR) Search. T. Harrison, J. Singh. January 2026. (Format: HTML,
+     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9910) 
+
 9911 Common YANG Data Types. J. Schönwälder, Ed.. December 2025. (Format:
      HTML, TXT, PDF, XML) (Obsoletes RFC6991) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9911) 
@@ -85,5 +84,5 @@
      10.17487/RFC9937) 
 
 ===========================================================================
- - This file last updated Wed 07 Jan 2026 02:30:01 AM PST
+ - This file last updated Thu 08 Jan 2026 02:30:01 AM PST
 
