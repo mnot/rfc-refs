@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/26/2026.)
+(CREATED ON: 01/28/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39776,7 +39776,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9350 IGP Flexible Algorithm. P. Psenak, Ed., S. Hegde, C. Filsfils, K.
      Talaulikar, A. Gulko. February 2023. (Format: HTML, TXT, PDF, XML)
-     (Updated by RFC9843) (Status: PROPOSED STANDARD) (DOI:
+     (Updated by RFC9843, RFC9917) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9350) 
 
 9351 Border Gateway Protocol - Link State (BGP-LS) Extensions for
@@ -42021,7 +42021,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9843 IGP Flexible Algorithms: Bandwidth, Delay, Metrics, and Constraints.
      S. Hegde, W. Britto, R. Shetty, B. Decraene, P. Psenak, T. Li.
      September 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC9350)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9843) 
+     (Updated by RFC9917) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9843) 
 
 9844 Entering IPv6 Zone Identifiers in User Interfaces. B. Carpenter, R.
      Hinden. August 2025. (Format: HTML, TXT, PDF, XML) (Obsoletes
@@ -42272,6 +42273,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9911 Common YANG Data Types. J. Schönwälder, Ed.. December 2025. (Format:
      HTML, TXT, PDF, XML) (Obsoletes RFC6991) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9911) 
+
+9917 IGP Flexible Algorithms Reverse Affinity Constraint. P. Psenak, J.
+     Horn, A. Dhamija. January 2026. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC9350, RFC9843) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9917) 
 
 9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
