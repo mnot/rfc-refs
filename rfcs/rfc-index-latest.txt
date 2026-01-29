@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9890 An Update to YANG Module Names Registration. A. Bierman, M.
-     Boucadair, Ed., Q. Wu. October 2025. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC6020) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9890) 
-
 9891 Automated Certificate Management Environment (ACME) Delay-Tolerant
      Networking (DTN) Node ID Validation Extension. B. Sipos. November
      2025. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
@@ -78,11 +73,16 @@
      HTML, TXT, PDF, XML) (Obsoletes RFC6991) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9911) 
 
+9917 IGP Flexible Algorithms Reverse Affinity Constraint. P. Psenak, J.
+     Horn, A. Dhamija. January 2026. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC9350, RFC9843) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9917) 
+
 9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC6937) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9937) 
 
 ===========================================================================
- - This file last updated Tue 27 Jan 2026 02:30:01 AM PST
+ - This file last updated Wed 28 Jan 2026 02:30:01 AM PST
 
