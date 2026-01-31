@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/29/2026.)
+(CREATED ON: 01/30/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -33660,7 +33660,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC7995) 
 
 7996 SVG Drawings for RFCs: SVG 1.2 RFC. N. Brownlee. December 2016.
-     (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC7996) 
+     (Format: TXT, HTML) (Obsoleted by RFC9896) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC7996) 
 
 7997 The Use of Non-ASCII Characters in RFCs. H. Flanagan, Ed.. December
      2016. (Format: TXT, PDF, HTML) (Updates RFC7322) (Status:
@@ -35548,7 +35549,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      M. Siodelski, B. Volz, A. Yourtchenko, M. Richardson, S. Jiang, T.
      Lemon, T. Winters. November 2018. (Format: TXT, HTML) (Obsoletes
      RFC3315, RFC3633, RFC3736, RFC4242, RFC7083, RFC7283, RFC7550)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8415) 
+     (Obsoleted by RFC9915) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8415) 
 
 8416 Simplified Local Internet Number Resource Management with the RPKI
      (SLURM). D. Ma, D. Mandelberg, T. Bruijnzeels. August 2018. (Format:
@@ -42162,6 +42164,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Obsoletes RFC9579) (Updates RFC7292, RFC8018) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9879) 
 
+9880 Semantic Definition Format (SDF) for Data and Interactions of
+     Things. M. Koster, Ed., C. Bormann, Ed., A. Keränen. January 2026.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9880) 
+
 9881 Internet X.509 Public Key Infrastructure -- Algorithm Identifiers
      for the Module-Lattice-Based Digital Signature Algorithm (ML-DSA).
      J. Massimo, P. Kampanakis, S. Turner, B. E. Westerbaan. October
@@ -42209,6 +42216,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Networking (DTN) Node ID Validation Extension. B. Sipos. November
      2025. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
      10.17487/RFC9891) 
+
+9896 SVG in RFCs. A. Rossi, N. Brownlee, J. Mahoney, M. Thomson. January
+     2026. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7996) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9896) 
 
 9897 Datagram Congestion Control Protocol (DCCP) Extensions for Multipath
      Operation with Multiple Addresses. M. Amend, Ed., A. Brunstrom, A.
@@ -42273,6 +42284,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9911 Common YANG Data Types. J. Schönwälder, Ed.. December 2025. (Format:
      HTML, TXT, PDF, XML) (Obsoletes RFC6991) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9911) 
+
+9915 Dynamic Host Configuration Protocol for IPv6 (DHCPv6). T. Mrugalski,
+     B. Volz, M. Richardson, S. Jiang, T. Winters. January 2026. (Format:
+     HTML, TXT, PDF, XML) (Obsoletes RFC8415) (Also STD0102) (Status:
+     INTERNET STANDARD) (DOI: 10.17487/RFC9915) 
 
 9917 IGP Flexible Algorithms Reverse Affinity Constraint. P. Psenak, J.
      Horn, A. Dhamija. January 2026. (Format: HTML, TXT, PDF, XML)
