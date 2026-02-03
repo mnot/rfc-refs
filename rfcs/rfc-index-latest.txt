@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9891 Automated Certificate Management Environment (ACME) Delay-Tolerant
-     Networking (DTN) Node ID Validation Extension. B. Sipos. November
-     2025. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
-     10.17487/RFC9891) 
-
 9897 Datagram Congestion Control Protocol (DCCP) Extensions for Multipath
      Operation with Multiple Addresses. M. Amend, Ed., A. Brunstrom, A.
      Kassler, V. Rakocevic, S. Johnson. January 2026. (Format: HTML, TXT,
@@ -73,6 +68,11 @@
      HTML, TXT, PDF, XML) (Obsoletes RFC6991) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9911) 
 
+9915 Dynamic Host Configuration Protocol for IPv6 (DHCPv6). T. Mrugalski,
+     B. Volz, M. Richardson, S. Jiang, T. Winters. January 2026. (Format:
+     HTML, TXT, PDF, XML) (Obsoletes RFC8415) (Also STD0102) (Status:
+     INTERNET STANDARD) (DOI: 10.17487/RFC9915) 
+
 9917 IGP Flexible Algorithms Reverse Affinity Constraint. P. Psenak, J.
      Horn, A. Dhamija. January 2026. (Format: HTML, TXT, PDF, XML)
      (Updates RFC9350, RFC9843) (Status: PROPOSED STANDARD) (DOI:
@@ -84,5 +84,5 @@
      10.17487/RFC9937) 
 
 ===========================================================================
- - This file last updated Fri 30 Jan 2026 02:30:02 AM PST
+ - This file last updated Mon 02 Feb 2026 02:30:02 AM PST
 

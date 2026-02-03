@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 01/31/2026.)
+(CREATED ON: 02/03/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -26989,8 +26989,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6492) 
 
 6493 The Resource Public Key Infrastructure (RPKI) Ghostbusters Record.
-     R. Bush. February 2012. (Format: TXT, HTML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC6493) 
+     R. Bush. February 2012. (Format: TXT, HTML) (Status: HISTORIC) (DOI:
+     10.17487/RFC6493) 
 
 6494 Certificate Profile and Certificate Management for SEcure Neighbor
      Discovery (SEND). R. Gagliano, S. Krishnan, A. Kukec. February 2012.
@@ -32590,12 +32590,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7755 SIIT-DC: Stateless IP/ICMP Translation for IPv6 Data Center
      Environments. T. Anderson. February 2016. (Format: TXT, HTML)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC7755) 
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7755) 
 
 7756 Stateless IP/ICMP Translation for IPv6 Internet Data Center
      Environments (SIIT-DC): Dual Translation Mode. T. Anderson, S.
-     Steffann. February 2016. (Format: TXT, HTML) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC7756) 
+     Steffann. February 2016. (Format: TXT, HTML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC7756) 
 
 7757 Explicit Address Mappings for Stateless IP/ICMP Translation. T.
      Anderson, A. Leiva Popper. February 2016. (Format: TXT, HTML)
