@@ -32599,7 +32599,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7757 Explicit Address Mappings for Stateless IP/ICMP Translation. T.
      Anderson, A. Leiva Popper. February 2016. (Format: TXT, HTML)
-     (Updates RFC6145) (Status: PROPOSED STANDARD) (DOI:
+     (Updates RFC6145) (Also STD0103) (Status: INTERNET STANDARD) (DOI:
      10.17487/RFC7757) 
 
 7758 Time Capability in NETCONF. T. Mizrahi, Y. Moses. February 2016.
