@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/09/2026.)
+(CREATED ON: 02/11/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42314,6 +42314,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Horn, A. Dhamija. January 2026. (Format: HTML, TXT, PDF, XML)
      (Updates RFC9350, RFC9843) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9917) 
+
+9924 Advanced Professional Video. Y. Lim, M. Park, M. Budagavi, R. Joshi,
+     K. Choi. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9924) 
 
 9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
