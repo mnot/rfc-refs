@@ -19917,8 +19917,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 4861 Neighbor Discovery for IP version 6 (IPv6). T. Narten, E. Nordmark,
      W. Simpson, H. Soliman. September 2007. (Format: TXT, HTML)
      (Obsoletes RFC2461) (Updated by RFC5942, RFC6980, RFC7048, RFC7527,
-     RFC7559, RFC8028, RFC8319, RFC8425, RFC9131, RFC9685, RFC9762)
-     (Status: DRAFT STANDARD) (DOI: 10.17487/RFC4861) 
+     RFC7559, RFC8028, RFC8319, RFC8425, RFC9131, RFC9685, RFC9762,
+     RFC9926) (Status: DRAFT STANDARD) (DOI: 10.17487/RFC4861) 
 
 4862 IPv6 Stateless Address Autoconfiguration. S. Thomson, T. Narten, T.
      Jinmei. September 2007. (Format: TXT, HTML) (Obsoletes RFC2462)
@@ -27234,8 +27234,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 6550 RPL: IPv6 Routing Protocol for Low-Power and Lossy Networks. T.
      Winter, Ed., P. Thubert, Ed., A. Brandt, J. Hui, R. Kelsey, P.
      Levis, K. Pister, R. Struik, JP. Vasseur, R. Alexander. March 2012.
-     (Format: TXT, HTML) (Updated by RFC9008, RFC9010, RFC9685) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC6550) 
+     (Format: TXT, HTML) (Updated by RFC9008, RFC9010, RFC9685, RFC9926)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6550) 
 
 6551 Routing Metrics Used for Path Calculation in Low-Power and Lossy
      Networks. JP. Vasseur, Ed., M. Kim, Ed., K. Pister, N. Dejean, D.
@@ -32977,7 +32977,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7841 RFC Streams, Headers, and Boilerplates. J. Halpern, Ed., L. Daigle,
      Ed., O. Kolkman, Ed.. May 2016. (Format: TXT, HTML) (Obsoletes
-     RFC5741) (Updated by RFC9280) (Status: INFORMATIONAL) (DOI:
+     RFC5741) (Updated by RFC9280, RFC9920) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC7841) 
 
 7842 Requirements for Improvements to the IETF Email List Archiving,
@@ -33642,30 +33642,32 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC7990) 
 
 7991 The "xml2rfc" Version 3 Vocabulary. P. Hoffman. December 2016.
-     (Format: TXT, HTML) (Obsoletes RFC7749) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC7991) 
+     (Format: TXT, HTML) (Obsoletes RFC7749) (Updated by RFC9920)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC7991) 
 
 7992 HTML Format for RFCs. J. Hildebrand, Ed., P. Hoffman. December 2016.
-     (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC7992) 
+     (Format: TXT, HTML) (Updated by RFC9920) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC7992) 
 
 7993 Cascading Style Sheets (CSS) Requirements for RFCs. H. Flanagan.
-     December 2016. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC7993) 
+     December 2016. (Format: TXT, HTML) (Updated by RFC9920) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC7993) 
 
 7994 Requirements for Plain-Text RFCs. H. Flanagan. December 2016.
-     (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC7994) 
+     (Format: TXT, HTML) (Updated by RFC9920) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC7994) 
 
 7995 PDF Format for RFCs. T. Hansen, Ed., L. Masinter, M. Hardy. December
-     2016. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC7995) 
+     2016. (Format: TXT, HTML) (Updated by RFC9920) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC7995) 
 
 7996 SVG Drawings for RFCs: SVG 1.2 RFC. N. Brownlee. December 2016.
-     (Format: TXT, HTML) (Obsoleted by RFC9896) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC7996) 
+     (Format: TXT, HTML) (Obsoleted by RFC9896) (Updated by RFC9920)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC7996) 
 
 7997 The Use of Non-ASCII Characters in RFCs. H. Flanagan, Ed.. December
-     2016. (Format: TXT, PDF, HTML) (Updates RFC7322) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC7997) 
+     2016. (Format: TXT, PDF, HTML) (Updates RFC7322) (Updated by
+     RFC9920) (Status: INFORMATIONAL) (DOI: 10.17487/RFC7997) 
 
 7998 "xml2rfc" Version 3 Preparation Tool Description. P. Hoffman, J.
      Hildebrand. December 2016. (Format: TXT, HTML) (Status:
@@ -35943,7 +35945,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Area Network (6LoWPAN) Neighbor Discovery. P. Thubert, Ed., E.
      Nordmark, S. Chakrabarti, C. Perkins. November 2018. (Format: TXT,
      HTML) (Updates RFC6775) (Updated by RFC8928, RFC8929, RFC9010,
-     RFC9685) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8505) 
+     RFC9685, RFC9926) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8505) 
 
 8506 Diameter Credit-Control Application. L. Bertz, Ed., D. Dolson, Ed.,
      Y. Lifshitz, Ed.. March 2019. (Format: TXT, HTML) (Obsoletes
@@ -36938,11 +36941,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8729 The RFC Series and RFC Editor. R. Housley, Ed., L. Daigle, Ed..
      February 2020. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC4844)
-     (Updated by RFC9280) (Status: INFORMATIONAL) (DOI: 10.17487/RFC8729) 
+     (Updated by RFC9280, RFC9920) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC8729) 
 
 8730 Independent Submission Editor Model. N. Brownlee, Ed., R. Hinden,
      Ed.. February 2020. (Format: HTML, TXT, PDF, XML) (Obsoletes
-     RFC6548) (Updated by RFC9280) (Status: INFORMATIONAL) (DOI:
+     RFC6548) (Updated by RFC9280, RFC9920) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC8730) 
 
 8731 Secure Shell (SSH) Key Exchange Method Using Curve25519 and
@@ -37847,7 +37851,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8928 Address-Protected Neighbor Discovery for Low-Power and Lossy
      Networks. P. Thubert, Ed., B. Sarikaya, M. Sethi, R. Struik.
      November 2020. (Format: HTML, TXT, PDF, XML) (Updates RFC8505)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8928) 
+     (Updated by RFC9926, RFC9927) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8928) 
 
 8929 IPv6 Backbone Router. P. Thubert, Ed., C.E. Perkins, E.
      Levy-Abegnoli. November 2020. (Format: HTML, TXT, PDF, XML) (Updates
@@ -38228,7 +38233,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9010 Routing for RPL (Routing Protocol for Low-Power and Lossy Networks)
      Leaves. P. Thubert, Ed., M. Richardson. April 2021. (Format: HTML,
      TXT, PDF, XML) (Updates RFC6550, RFC6775, RFC8505) (Updated by
-     RFC9685) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9010) 
+     RFC9685, RFC9926) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9010) 
 
 9011 Static Context Header Compression and Fragmentation (SCHC) over
      LoRaWAN. O. Gimenez, Ed., I. Petrov, Ed.. April 2021. (Format: HTML,
@@ -39459,9 +39465,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC9279) 
 
 9280 RFC Editor Model (Version 3). P. Saint-Andre, Ed.. June 2022.
-     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8728) (Updates RFC7841,
-     RFC8729, RFC8730) (Updated by RFC9720) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9280) 
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8728) (Obsoleted by
+     RFC9920) (Updates RFC7841, RFC8729, RFC8730) (Updated by RFC9720)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9280) 
 
 9281 Entities Involved in the IETF Standards Process. R. Salz. June 2022.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC2028) (Also BCP0011)
@@ -41463,7 +41469,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9720 RFC Formats and Versions. P. Hoffman, H. Flanagan. January 2025.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7990) (Updates RFC9280)
-     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 
+     (Updated by RFC9920) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9720) 
 
 9721 Extended Mobility Procedures for Ethernet VPN Integrated Routing and
      Bridging (EVPN-IRB). N. Malhotra, Ed., A. Sajassi, A. Pattekar, J.
@@ -42315,9 +42321,24 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Updates RFC9350, RFC9843) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9917) 
 
+9920 RFC Editor Model (Version 3). P. Hoffman, A. Rossi. February 2026.
+     (Format: TXT) (Obsoletes RFC9280) (Updates RFC7841, RFC7991,
+     RFC7992, RFC7993, RFC7994, RFC7995, RFC7996, RFC7997, RFC8729,
+     RFC8730, RFC9720) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9920) 
+
 9924 Advanced Professional Video. Y. Lim, M. Park, M. Budagavi, R. Joshi,
      K. Choi. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9924) 
+
+9926 Prefix Registration for IPv6 Neighbor Discovery. P. Thubert, Ed..
+     February 2026. (Format: HTML, TXT, PDF, XML) (Updates RFC4861,
+     RFC6550, RFC8505, RFC8928, RFC9010) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9926) 
+
+9927 Fixing the C-Flag in the Extended Address Registration Option
+     (EARO). P. Thubert, A. Rashid. February 2026. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC8928) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9927) 
 
 9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)

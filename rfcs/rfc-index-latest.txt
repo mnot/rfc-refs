@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9897 Datagram Congestion Control Protocol (DCCP) Extensions for Multipath
-     Operation with Multiple Addresses. M. Amend, Ed., A. Brunstrom, A.
-     Kassler, V. Rakocevic, S. Johnson. January 2026. (Format: HTML, TXT,
-     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9897) 
-
 9898 Neighbor Discovery Considerations in IPv6 Deployments. X. Xiao, E.
      Vasilenko, E. Metz, G. Mishra, N. Buraglio. November 2025. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9898) 
@@ -78,11 +73,15 @@
      (Updates RFC9350, RFC9843) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9917) 
 
+9924 Advanced Professional Video. Y. Lim, M. Park, M. Budagavi, R. Joshi,
+     K. Choi. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9924) 
+
 9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC6937) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9937) 
 
 ===========================================================================
- - This file last updated Tue 10 Feb 2026 02:30:01 AM PST
+ - This file last updated Wed 11 Feb 2026 02:30:01 AM PST
 
