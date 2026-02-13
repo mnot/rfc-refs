@@ -4,19 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9898 Neighbor Discovery Considerations in IPv6 Deployments. X. Xiao, E.
-     Vasilenko, E. Metz, G. Mishra, N. Buraglio. November 2025. (Format:
-     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9898) 
-
-9899 Extensions to the YANG Data Model for Access Control Lists (ACLs).
-     O. Gonzalez de Dios, S. Barguil, M. Boucadair, Q. Wu. December 2025.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9899) 
-
-9900 Updates to NETCONF Transport Port Numbers. M. Boucadair. December
-     2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9900) 
-
 9901 Selective Disclosure for JSON Web Tokens. D. Fett, K. Yasuda, B.
      Campbell. November 2025. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9901) 
@@ -73,9 +60,24 @@
      (Updates RFC9350, RFC9843) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9917) 
 
+9920 RFC Editor Model (Version 3). P. Hoffman, A. Rossi. February 2026.
+     (Format: TXT) (Obsoletes RFC9280) (Updates RFC7841, RFC7991,
+     RFC7992, RFC7993, RFC7994, RFC7995, RFC7996, RFC7997, RFC8729,
+     RFC8730, RFC9720) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9920) 
+
 9924 Advanced Professional Video. Y. Lim, M. Park, M. Budagavi, R. Joshi,
      K. Choi. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9924) 
+
+9926 Prefix Registration for IPv6 Neighbor Discovery. P. Thubert, Ed..
+     February 2026. (Format: HTML, TXT, PDF, XML) (Updates RFC4861,
+     RFC6550, RFC8505, RFC8928, RFC9010) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9926) 
+
+9927 Fixing the C-Flag in the Extended Address Registration Option
+     (EARO). P. Thubert, A. Rashid. February 2026. (Format: HTML, TXT,
+     PDF, XML) (Updates RFC8928) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9927) 
 
 9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
@@ -83,5 +85,5 @@
      10.17487/RFC9937) 
 
 ===========================================================================
- - This file last updated Wed 11 Feb 2026 02:30:01 AM PST
+ - This file last updated Thu 12 Feb 2026 02:30:01 AM PST
 
