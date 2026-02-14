@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/12/2026.)
+(CREATED ON: 02/13/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42322,9 +42322,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC9917) 
 
 9920 RFC Editor Model (Version 3). P. Hoffman, A. Rossi. February 2026.
-     (Format: TXT) (Obsoletes RFC9280) (Updates RFC7841, RFC7991,
-     RFC7992, RFC7993, RFC7994, RFC7995, RFC7996, RFC7997, RFC8729,
-     RFC8730, RFC9720) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9920) 
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC9280) (Updates RFC7841,
+     RFC7991, RFC7992, RFC7993, RFC7994, RFC7995, RFC7996, RFC7997,
+     RFC8729, RFC8730, RFC9720) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9920) 
 
 9924 Advanced Professional Video. Y. Lim, M. Park, M. Budagavi, R. Joshi,
      K. Choi. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
