@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/25/2026.)
+(CREATED ON: 02/27/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -21724,8 +21724,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Revocation List (CRL) Profile. D. Cooper, S. Santesson, S. Farrell,
      S. Boeyen, R. Housley, W. Polk. May 2008. (Format: TXT, HTML)
      (Obsoletes RFC3280, RFC4325, RFC4630) (Updated by RFC6818, RFC8398,
-     RFC8399, RFC9549, RFC9598, RFC9608, RFC9618) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC5280) 
+     RFC8399, RFC9549, RFC9598, RFC9608, RFC9618, RFC9925) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC5280) 
 
 5281 Extensible Authentication Protocol Tunneled Transport Layer Security
      Authenticated Protocol Version 0 (EAP-TTLSv0). P. Funk, S.
@@ -42327,9 +42327,18 @@ See the RFC Editor Web page http://www.rfc-editor.org
      RFC8729, RFC8730, RFC9720) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9920) 
 
+9921 CBOR Object Signing and Encryption (COSE) Header Parameter for
+     Timestamp Tokens as Defined in RFC 3161. H. Birkholz, T. Fossati, M.
+     Riechert. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9921) 
+
 9924 Advanced Professional Video. Y. Lim, M. Park, M. Budagavi, R. Joshi,
      K. Choi. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9924) 
+
+9925 Unsigned X.509 Certificates. D. Benjamin. February 2026. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC5280) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9925) 
 
 9926 Prefix Registration for IPv6 Neighbor Discovery. P. Thubert, Ed..
      February 2026. (Format: HTML, TXT, PDF, XML) (Updates RFC4861,
