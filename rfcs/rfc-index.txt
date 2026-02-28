@@ -9322,8 +9322,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 2418 IETF Working Group Guidelines and Procedures. S. Bradner. September
      1998. (Format: TXT, HTML) (Obsoletes RFC1603) (Updated by RFC3934,
-     RFC7475, RFC7776, RFC8717, RFC9141) (Also BCP0025) (Status: BEST
-     CURRENT PRACTICE) (DOI: 10.17487/RFC2418) 
+     RFC7475, RFC7776, RFC8717, RFC9141, RFC9945) (Also BCP0025) (Status:
+     BEST CURRENT PRACTICE) (DOI: 10.17487/RFC2418) 
 
 2419 The PPP DES Encryption Protocol, Version 2 (DESE-bis). K. Sklower,
      G. Meyer. September 1998. (Format: TXT, HTML) (Obsoletes RFC1969)
@@ -14769,8 +14769,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: EXPERIMENTAL) (DOI: 10.17487/RFC3682) 
 
 3683 A Practice for Revoking Posting Rights to IETF Mailing Lists. M.
-     Rose. March 2004. (Format: TXT, HTML) (Updated by RFC9245) (Also
-     BCP0083) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC3683) 
+     Rose. March 2004. (Format: TXT, HTML) (Obsoleted by RFC9945)
+     (Updated by RFC9245) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC3683) 
 
 3684 Topology Dissemination Based on Reverse-Path Forwarding (TBRPF). R.
      Ogier, F. Templin, M. Lewis. February 2004. (Format: TXT, HTML)
@@ -15853,8 +15854,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      CURRENT PRACTICE) (DOI: 10.17487/RFC3933) 
 
 3934 Updates to RFC 2418 Regarding the Management of IETF Mailing Lists.
-     M. Wasserman. October 2004. (Format: TXT, HTML) (Updates RFC2418)
-     (Also BCP0025) (Status: BEST CURRENT PRACTICE) (DOI:
+     M. Wasserman. October 2004. (Format: TXT, HTML) (Obsoleted by
+     RFC9945) (Updates RFC2418) (Status: BEST CURRENT PRACTICE) (DOI:
      10.17487/RFC3934) 
 
 3935 A Mission Statement for the IETF. H. Alvestrand. October 2004.
@@ -29948,8 +29949,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7170 Tunnel Extensible Authentication Protocol (TEAP) Version 1. H. Zhou,
      N. Cam-Winget, J. Salowey, S. Hanna. May 2014. (Format: TXT, HTML)
-     (Updated by RFC9427) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC7170) 
+     (Obsoleted by RFC9930) (Updated by RFC9427) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC7170) 
 
 7171 PT-EAP: Posture Transport (PT) Protocol for Extensible
      Authentication Protocol (EAP) Tunnel Methods. N. Cam-Winget, P.
@@ -39306,8 +39307,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9245 IETF Discussion List Charter. L. Eggert, S. Harris. June 2022.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3005) (Updates RFC3683)
-     (Also BCP0045) (Status: BEST CURRENT PRACTICE) (DOI:
-     10.17487/RFC9245) 
+     (Updated by RFC9945) (Also BCP0045) (Status: BEST CURRENT PRACTICE)
+     (DOI: 10.17487/RFC9245) 
 
 9246 URI Signing for Content Delivery Network Interconnection (CDNI). R.
      van Brandenburg, K. Leung, P. Sorber. June 2022. (Format: HTML, TXT,
@@ -40122,8 +40123,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9427 TLS-Based Extensible Authentication Protocol (EAP) Types for Use
      with TLS 1.3. A. DeKok. June 2023. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC4851, RFC5281, RFC7170) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9427) 
+     (Updates RFC4851, RFC5281, RFC7170) (Updated by RFC9930) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9427) 
 
 9428 Transmission of IPv6 Packets over Near Field Communication. Y. Choi,
      Ed., Y-G. Hong, J-S. Youn. July 2023. (Format: HTML, TXT, PDF, XML)
@@ -42332,6 +42333,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Riechert. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9921) 
 
+9923 The FNV Non-Cryptographic Hash Algorithm. L. Noll, K. Vo, D.
+     Eastlake 3rd, T. Hansen. February 2026. (Format: HTML, TXT, PDF,
+     XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9923) 
+
 9924 Advanced Professional Video. Y. Lim, M. Park, M. Budagavi, R. Joshi,
      K. Choi. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9924) 
@@ -42350,7 +42355,21 @@ See the RFC Editor Web page http://www.rfc-editor.org
      PDF, XML) (Updates RFC8928) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9927) 
 
+9929 IGP Unreachable Prefix Announcement. P. Psenak, Ed., C. Filsfils, D.
+     Voyer, S. Hegde, G. Mishra. February 2026. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9929) 
+
+9930 Tunnel Extensible Authentication Protocol (TEAP) Version 1. A.
+     DeKok, Ed.. February 2026. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC7170) (Updates RFC9427) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9930) 
+
 9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC6937) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9937) 
+
+9945 IETF Community Moderation. L. Eggert, Ed., E. Lear, Ed.. February
+     2026. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3683, RFC3934)
+     (Updates RFC2418, RFC9245) (Also BCP0245) (Status: BEST CURRENT
+     PRACTICE) (DOI: 10.17487/RFC9945) 

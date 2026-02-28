@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9901 Selective Disclosure for JSON Web Tokens. D. Fett, K. Yasuda, B.
-     Campbell. November 2025. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9901) 
-
-9902 A YANG Data Model for IS-IS Segment Routing over the MPLS Data
-     Plane. S. Litkowski, Y. Qu, A. Lindem, I. Chen, J. Tantsura.
-     December 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9902) 
-
 9903 A YANG Data Model for OSPF Segment Routing over the MPLS Data Plane.
      Y. Qu, A. Lindem, J. Zhang, I. Chen. December 2025. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9903) 
@@ -66,9 +57,18 @@
      RFC8729, RFC8730, RFC9720) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC9920) 
 
+9921 CBOR Object Signing and Encryption (COSE) Header Parameter for
+     Timestamp Tokens as Defined in RFC 3161. H. Birkholz, T. Fossati, M.
+     Riechert. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9921) 
+
 9924 Advanced Professional Video. Y. Lim, M. Park, M. Budagavi, R. Joshi,
      K. Choi. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9924) 
+
+9925 Unsigned X.509 Certificates. D. Benjamin. February 2026. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC5280) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9925) 
 
 9926 Prefix Registration for IPv6 Neighbor Discovery. P. Thubert, Ed..
      February 2026. (Format: HTML, TXT, PDF, XML) (Updates RFC4861,
@@ -86,5 +86,5 @@
      10.17487/RFC9937) 
 
 ===========================================================================
- - This file last updated Thu 26 Feb 2026 02:30:02 AM PST
+ - This file last updated Fri 27 Feb 2026 02:30:01 AM PST
 
