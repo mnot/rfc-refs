@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 02/27/2026.)
+(CREATED ON: 03/01/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42368,6 +42368,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC6937) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9937) 
+
+9939 PKCS #8: Private-Key Information Content Types. J. Mandel, R.
+     Housley, S. Turner. February 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9939) 
 
 9945 IETF Community Moderation. L. Eggert, Ed., E. Lear, Ed.. February
      2026. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3683, RFC3934)
