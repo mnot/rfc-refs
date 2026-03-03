@@ -4,29 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9903 A YANG Data Model for OSPF Segment Routing over the MPLS Data Plane.
-     Y. Qu, A. Lindem, J. Zhang, I. Chen. December 2025. (Format: HTML,
-     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9903) 
-
-9904 DNSSEC Cryptographic Algorithm Recommendation Update Process. W.
-     Hardaker, W. Kumari. November 2025. (Format: HTML, TXT, PDF, XML)
-     (Obsoletes RFC8624) (Updates RFC9157) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9904) 
-
-9905 Deprecating the Use of SHA-1 in DNSSEC Signature Algorithms. W.
-     Hardaker, W. Kumari. November 2025. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC4034, RFC5155) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9905) 
-
-9906 Deprecate Usage of ECC-GOST within DNSSEC. W. Hardaker, W. Kumari.
-     November 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9906) 
-
-9908 Clarification and Enhancement of the CSR Attributes Definition in
-     RFC 7030. M. Richardson, Ed., O. Friel, D. von Oheimb, D. Harkins.
-     January 2026. (Format: HTML, TXT, PDF, XML) (Updates RFC7030,
-     RFC9148) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9908) 
-
 9909 Internet X.509 Public Key Infrastructure -- Algorithm Identifiers
      for the Stateless Hash-Based Digital Signature Algorithm (SLH-DSA).
      K. Bashiri, S. Fluhrer, S. Gazdag, D. Van Geest, S. Kousidis.
@@ -62,6 +39,10 @@
      Riechert. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9921) 
 
+9923 The FNV Non-Cryptographic Hash Algorithm. L. Noll, K. Vo, D.
+     Eastlake 3rd, T. Hansen. February 2026. (Format: HTML, TXT, PDF,
+     XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9923) 
+
 9924 Advanced Professional Video. Y. Lim, M. Park, M. Budagavi, R. Joshi,
      K. Choi. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9924) 
@@ -80,11 +61,29 @@
      PDF, XML) (Updates RFC8928) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9927) 
 
+9929 IGP Unreachable Prefix Announcement. P. Psenak, Ed., C. Filsfils, D.
+     Voyer, S. Hegde, G. Mishra. February 2026. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9929) 
+
+9930 Tunnel Extensible Authentication Protocol (TEAP) Version 1. A.
+     DeKok, Ed.. February 2026. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC7170) (Updates RFC9427) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9930) 
+
 9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC6937) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9937) 
 
+9939 PKCS #8: Private-Key Information Content Types. J. Mandel, R.
+     Housley, S. Turner. February 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9939) 
+
+9945 IETF Community Moderation. L. Eggert, Ed., E. Lear, Ed.. February
+     2026. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3683, RFC3934)
+     (Updates RFC2418, RFC9245) (Also BCP0245) (Status: BEST CURRENT
+     PRACTICE) (DOI: 10.17487/RFC9945) 
+
 ===========================================================================
- - This file last updated Fri 27 Feb 2026 02:30:01 AM PST
+ - This file last updated Mon 02 Mar 2026 02:30:01 AM PST
 
