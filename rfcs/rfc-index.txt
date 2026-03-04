@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/02/2026.)
+(CREATED ON: 03/04/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42046,6 +42046,14 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9847 IANA Registry Updates for TLS and DTLS. J. Salowey, S. Turner.
      December 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8447)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9847) 
+
+9848 Bootstrapping TLS Encrypted ClientHello with DNS Service Bindings.
+     B. Schwartz, M. Bishop, E. Nygren. March 2026. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9848) 
+
+9849 TLS Encrypted Client Hello. E. Rescorla, K. Oku, N. Sullivan, C. A.
+     Wood. March 2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9849) 
 
 9854 AODV-RPL: The Routing Protocol for Low-Power and Lossy Networks
      (RPL) Based on Ad Hoc On-Demand Distance Vector (AODV) Routing. C.E.
