@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/04/2026.)
+(CREATED ON: 03/05/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42371,6 +42371,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      DeKok, Ed.. February 2026. (Format: HTML, TXT, PDF, XML) (Obsoletes
      RFC7170) (Updates RFC9427) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9930) 
+
+9934 Privacy-Enhanced Mail (PEM) File Format for Encrypted ClientHello
+     (ECH). S. Farrell. March 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9934) 
 
 9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
