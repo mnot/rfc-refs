@@ -4,12 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9909 Internet X.509 Public Key Infrastructure -- Algorithm Identifiers
-     for the Stateless Hash-Based Digital Signature Algorithm (SLH-DSA).
-     K. Bashiri, S. Fluhrer, S. Gazdag, D. Van Geest, S. Kousidis.
-     December 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9909) 
-
 9910 Registration Data Access Protocol (RDAP) Regional Internet Registry
      (RIR) Search. T. Harrison, J. Singh. January 2026. (Format: HTML,
      TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9910) 
@@ -70,6 +64,10 @@
      RFC7170) (Updates RFC9427) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9930) 
 
+9934 Privacy-Enhanced Mail (PEM) File Format for Encrypted ClientHello
+     (ECH). S. Farrell. March 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9934) 
+
 9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC6937) (Status: PROPOSED STANDARD) (DOI:
@@ -85,5 +83,5 @@
      PRACTICE) (DOI: 10.17487/RFC9945) 
 
 ===========================================================================
- - This file last updated Wed 04 Mar 2026 02:30:02 AM PST
+ - This file last updated Thu 05 Mar 2026 02:30:01 AM PST
 
