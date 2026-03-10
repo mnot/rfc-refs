@@ -4,19 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9910 Registration Data Access Protocol (RDAP) Regional Internet Registry
-     (RIR) Search. T. Harrison, J. Singh. January 2026. (Format: HTML,
-     TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9910) 
-
-9911 Common YANG Data Types. J. Schönwälder, Ed.. December 2025. (Format:
-     HTML, TXT, PDF, XML) (Obsoletes RFC6991) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9911) 
-
-9915 Dynamic Host Configuration Protocol for IPv6 (DHCPv6). T. Mrugalski,
-     B. Volz, M. Richardson, S. Jiang, T. Winters. January 2026. (Format:
-     HTML, TXT, PDF, XML) (Obsoletes RFC8415) (Also STD0102) (Status:
-     INTERNET STANDARD) (DOI: 10.17487/RFC9915) 
-
 9917 IGP Flexible Algorithms Reverse Affinity Constraint. P. Psenak, J.
      Horn, A. Dhamija. January 2026. (Format: HTML, TXT, PDF, XML)
      (Updates RFC9350, RFC9843) (Status: PROPOSED STANDARD) (DOI:
@@ -64,9 +51,24 @@
      RFC7170) (Updates RFC9427) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9930) 
 
+9931 Security Considerations for Optimistic Protocol Transitions in
+     HTTP/1.1. B. Schwartz. March 2026. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC9112, RFC9298) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9931) 
+
 9934 Privacy-Enhanced Mail (PEM) File Format for Encrypted ClientHello
      (ECH). S. Farrell. March 2026. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9934) 
+
+9935 Internet X.509 Public Key Infrastructure - Algorithm Identifiers for
+     the Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM). S.
+     Turner, P. Kampanakis, J. Massimo, B. E. Westerbaan. March 2026.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9935) 
+
+9936 Use of ML-KEM in the Cryptographic Message Syntax (CMS). P. Julien,
+     M. Ounsworth, D. Van Geest. March 2026. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9936) 
 
 9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
@@ -83,5 +85,5 @@
      PRACTICE) (DOI: 10.17487/RFC9945) 
 
 ===========================================================================
- - This file last updated Fri 06 Mar 2026 02:30:01 AM PST
+ - This file last updated Mon 09 Mar 2026 02:30:01 AM PDT
 
