@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/10/2026.)
+(CREATED ON: 03/11/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -38861,13 +38861,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9146 Connection Identifier for DTLS 1.2. E. Rescorla, Ed., H. Tschofenig,
      Ed., T. Fossati, A. Kraus. March 2022. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC6347) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9146) 
+     (Updates RFC6347) (Updated by RFC9853) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9146) 
 
 9147 The Datagram Transport Layer Security (DTLS) Protocol Version 1.3.
      E. Rescorla, H. Tschofenig, N. Modadugu. April 2022. (Format: HTML,
-     TXT, PDF, XML) (Obsoletes RFC6347) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9147) 
+     TXT, PDF, XML) (Obsoletes RFC6347) (Updated by RFC9853) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9147) 
 
 9148 EST-coaps: Enrollment over Secure Transport with the Secure
      Constrained Application Protocol. P. van der Stok, P. Kampanakis, M.
@@ -42056,6 +42056,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Wood. March 2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9849) 
 
+9853 Return Routability Check for DTLS 1.2 and 1.3. H. Tschofenig, Ed.,
+     A. Kraus, T. Fossati. March 2026. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC9146, RFC9147) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9853) 
+
 9854 AODV-RPL: The Routing Protocol for Low-Power and Lossy Networks
      (RPL) Based on Ad Hoc On-Demand Distance Vector (AODV) Routing. C.E.
      Perkins, S.V.R. Anand, S. Anamalamudi, B. Liu. October 2025.
@@ -42341,6 +42346,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Timestamp Tokens as Defined in RFC 3161. H. Birkholz, T. Fossati, M.
      Riechert. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9921) 
+
+9922 A Common YANG Data Model for Scheduling. Q. Ma, Ed., Q. Wu, M.
+     Boucadair, Ed., D. King. March 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9922) 
 
 9923 The FNV Non-Cryptographic Hash Algorithm. L. Noll, K. Vo, D.
      Eastlake 3rd, T. Hansen. February 2026. (Format: HTML, TXT, PDF,
