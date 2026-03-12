@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9917 IGP Flexible Algorithms Reverse Affinity Constraint. P. Psenak, J.
-     Horn, A. Dhamija. January 2026. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC9350, RFC9843) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9917) 
-
 9920 RFC Editor Model (Version 3). P. Hoffman, A. Rossi. February 2026.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC9280) (Updates RFC7841,
      RFC7991, RFC7992, RFC7993, RFC7994, RFC7995, RFC7996, RFC7997,
@@ -19,6 +14,10 @@
      Timestamp Tokens as Defined in RFC 3161. H. Birkholz, T. Fossati, M.
      Riechert. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9921) 
+
+9922 A Common YANG Data Model for Scheduling. Q. Ma, Ed., Q. Wu, M.
+     Boucadair, Ed., D. King. March 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9922) 
 
 9923 The FNV Non-Cryptographic Hash Algorithm. L. Noll, K. Vo, D.
      Eastlake 3rd, T. Hansen. February 2026. (Format: HTML, TXT, PDF,
@@ -85,5 +84,5 @@
      PRACTICE) (DOI: 10.17487/RFC9945) 
 
 ===========================================================================
- - This file last updated Tue 10 Mar 2026 02:30:01 AM PDT
+ - This file last updated Wed 11 Mar 2026 02:30:01 AM PDT
 

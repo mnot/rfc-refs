@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/11/2026.)
+(CREATED ON: 03/12/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42397,9 +42397,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9935) 
 
-9936 Use of ML-KEM in the Cryptographic Message Syntax (CMS). P. Julien,
-     M. Ounsworth, D. Van Geest. March 2026. (Format: HTML, TXT, PDF,
-     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9936) 
+9936 Use of ML-KEM in the Cryptographic Message Syntax (CMS). J. Prat, M.
+     Ounsworth, D. Van Geest. March 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9936) 
 
 9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
