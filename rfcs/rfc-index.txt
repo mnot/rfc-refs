@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/14/2026.)
+(CREATED ON: 03/15/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42405,6 +42405,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC6937) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9937) 
+
+9938 A Framework for the Deterministic Networking (DetNet) Controller
+     Plane. A. Malis, X. Geng, Ed., M. (Guoyi)Chen, B. Varga, CJ.
+     Bernardos. March 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9938) 
 
 9939 PKCS #8: Private-Key Information Content Types. J. Mandel, R.
      Housley, S. Turner. February 2026. (Format: HTML, TXT, PDF, XML)
