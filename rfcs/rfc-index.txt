@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/15/2026.)
+(CREATED ON: 03/16/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -34245,8 +34245,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8126 Guidelines for Writing an IANA Considerations Section in RFCs. M.
      Cotton, B. Leiba, T. Narten. June 2017. (Format: TXT, HTML)
-     (Obsoletes RFC5226) (Also BCP0026) (Status: BEST CURRENT PRACTICE)
-     (DOI: 10.17487/RFC8126) 
+     (Obsoletes RFC5226) (Updated by RFC9907) (Also BCP0026) (Status:
+     BEST CURRENT PRACTICE) (DOI: 10.17487/RFC8126) 
 
 8127 Mobile Access Gateway Configuration Parameters Controlled by the
      Local Mobility Anchor. D. Patki, S. Gundavelli, J. Lee, Q. Fu, L.
@@ -35513,8 +35513,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8407 Guidelines for Authors and Reviewers of Documents Containing YANG
      Data Models. A. Bierman. October 2018. (Format: TXT, HTML)
-     (Obsoletes RFC6087) (Updated by RFC8819) (Also BCP0216) (Status:
-     BEST CURRENT PRACTICE) (DOI: 10.17487/RFC8407) 
+     (Obsoletes RFC6087) (Obsoleted by RFC9907) (Updated by RFC8819)
+     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC8407) 
 
 8408 Conveying Path Setup Type in PCE Communication Protocol (PCEP)
      Messages. S. Sivabalan, J. Tantsura, I. Minei, R. Varga, J.
@@ -42307,6 +42307,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      November 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9906) 
 
+9907 Guidelines for Authors and Reviewers of Documents Containing YANG
+     Data Models. A. Bierman, M. Boucadair, Ed., Q. Wu. March 2026.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC8407) (Updates RFC8126)
+     (Also BCP0216) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC9907) 
+
 9908 Clarification and Enhancement of the CSR Attributes Definition in
      RFC 7030. M. Richardson, Ed., O. Friel, D. von Oheimb, D. Harkins.
      January 2026. (Format: HTML, TXT, PDF, XML) (Updates RFC7030,
@@ -42407,9 +42413,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC9937) 
 
 9938 A Framework for the Deterministic Networking (DetNet) Controller
-     Plane. A. Malis, X. Geng, Ed., M. (Guoyi)Chen, B. Varga, CJ.
-     Bernardos. March 2026. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9938) 
+     Plane. A. Malis, X. Geng, Ed., M. Chen, B. Varga, CJ. Bernardos.
+     March 2026. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9938) 
 
 9939 PKCS #8: Private-Key Information Content Types. J. Mandel, R.
      Housley, S. Turner. February 2026. (Format: HTML, TXT, PDF, XML)
