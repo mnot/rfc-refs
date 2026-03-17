@@ -4,12 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9920 RFC Editor Model (Version 3). P. Hoffman, A. Rossi. February 2026.
-     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC9280) (Updates RFC7841,
-     RFC7991, RFC7992, RFC7993, RFC7994, RFC7995, RFC7996, RFC7997,
-     RFC8729, RFC8730, RFC9720) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9920) 
-
 9921 CBOR Object Signing and Encryption (COSE) Header Parameter for
      Timestamp Tokens as Defined in RFC 3161. H. Birkholz, T. Fossati, M.
      Riechert. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
@@ -74,6 +68,11 @@
      (Obsoletes RFC6937) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9937) 
 
+9938 A Framework for the Deterministic Networking (DetNet) Controller
+     Plane. A. Malis, X. Geng, Ed., M. Chen, B. Varga, CJ. Bernardos.
+     March 2026. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9938) 
+
 9939 PKCS #8: Private-Key Information Content Types. J. Mandel, R.
      Housley, S. Turner. February 2026. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9939) 
@@ -84,5 +83,5 @@
      PRACTICE) (DOI: 10.17487/RFC9945) 
 
 ===========================================================================
- - This file last updated Fri 13 Mar 2026 02:30:01 AM PDT
+ - This file last updated Mon 16 Mar 2026 02:30:01 AM PDT
 
