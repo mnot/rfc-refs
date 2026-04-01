@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 03/31/2026.)
+(CREATED ON: 04/01/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -38667,8 +38667,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9105 A YANG Data Model for Terminal Access Controller Access-Control
      System Plus (TACACS+). B. Wu, Ed., G. Zheng, M. Wang, Ed.. August
-     2021. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9105) 
+     2021. (Format: HTML, TXT, PDF, XML) (Obsoleted by RFC9950) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9105) 
 
 9106 Argon2 Memory-Hard Function for Password Hashing and Proof-of-Work
      Applications. A. Biryukov, D. Dinu, D. Khovratovich, S. Josefsson.
@@ -42379,6 +42379,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      PDF, XML) (Updates RFC8928) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9927) 
 
+9928 DHCPv4 over DHCPv6 with Relay Agent Support. C. Porfiri, S.
+     Krishnan, J. Arkko, M. Kühlewind. March 2026. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9928) 
+
 9929 IGP Unreachable Prefix Announcement. P. Psenak, Ed., C. Filsfils, D.
      Voyer, S. Hegde, G. Mishra. February 2026. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9929) 
@@ -42425,3 +42429,22 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2026. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3683, RFC3934)
      (Updates RFC2418, RFC9245) (Also BCP0245) (Status: BEST CURRENT
      PRACTICE) (DOI: 10.17487/RFC9945) 
+
+9947 Application of the Alternate-Marking Method to the Segment Routing
+     Header. G. Fioccola, T. Zhou, G. Mishra, X. Wang, G. Zhang, M.
+     Cociglio. March 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     EXPERIMENTAL) (DOI: 10.17487/RFC9947) 
+
+9950 A YANG Data Model for Terminal Access Controller Access-Control
+     System Plus (TACACS+). M. Boucadair, Ed., B. Wu. March 2026.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC9105) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9950) 
+
+9952 Application-Layer Protocol Negotiation (ALPN) ID for CoAP over DTLS.
+     M. S. Lenders, C. Amsüss, T. C. Schmidt, M. Wählisch. March 2026.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9952) 
+
+9953 DNS over CoAP (DoC). M. S. Lenders, C. Amsüss, C. Gündoğan, T. C.
+     Schmidt, M. Wählisch. March 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9953) 
