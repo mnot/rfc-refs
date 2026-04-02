@@ -4,27 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9921 CBOR Object Signing and Encryption (COSE) Header Parameter for
-     Timestamp Tokens as Defined in RFC 3161. H. Birkholz, T. Fossati, M.
-     Riechert. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9921) 
-
-9922 A Common YANG Data Model for Scheduling. Q. Ma, Ed., Q. Wu, M.
-     Boucadair, Ed., D. King. March 2026. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9922) 
-
-9923 The FNV Non-Cryptographic Hash Algorithm. L. Noll, K. Vo, D.
-     Eastlake 3rd, T. Hansen. February 2026. (Format: HTML, TXT, PDF,
-     XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9923) 
-
-9924 Advanced Professional Video. Y. Lim, M. Park, M. Budagavi, R. Joshi,
-     K. Choi. February 2026. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9924) 
-
-9925 Unsigned X.509 Certificates. D. Benjamin. February 2026. (Format:
-     HTML, TXT, PDF, XML) (Updates RFC5280) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC9925) 
-
 9926 Prefix Registration for IPv6 Neighbor Discovery. P. Thubert, Ed..
      February 2026. (Format: HTML, TXT, PDF, XML) (Updates RFC4861,
      RFC6550, RFC8505, RFC8928, RFC9010) (Status: PROPOSED STANDARD)
@@ -34,6 +13,10 @@
      (EARO). P. Thubert, A. Rashid. February 2026. (Format: HTML, TXT,
      PDF, XML) (Updates RFC8928) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9927) 
+
+9928 DHCPv4 over DHCPv6 with Relay Agent Support. C. Porfiri, S.
+     Krishnan, J. Arkko, M. Kühlewind. March 2026. (Format: HTML, TXT,
+     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9928) 
 
 9929 IGP Unreachable Prefix Announcement. P. Psenak, Ed., C. Filsfils, D.
      Voyer, S. Hegde, G. Mishra. February 2026. (Format: HTML, TXT, PDF,
@@ -82,6 +65,25 @@
      (Updates RFC2418, RFC9245) (Also BCP0245) (Status: BEST CURRENT
      PRACTICE) (DOI: 10.17487/RFC9945) 
 
+9947 Application of the Alternate-Marking Method to the Segment Routing
+     Header. G. Fioccola, T. Zhou, G. Mishra, X. Wang, G. Zhang, M.
+     Cociglio. March 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     EXPERIMENTAL) (DOI: 10.17487/RFC9947) 
+
+9950 A YANG Data Model for Terminal Access Controller Access-Control
+     System Plus (TACACS+). M. Boucadair, Ed., B. Wu. March 2026.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC9105) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9950) 
+
+9952 Application-Layer Protocol Negotiation (ALPN) ID for CoAP over DTLS.
+     M. S. Lenders, C. Amsüss, T. C. Schmidt, M. Wählisch. March 2026.
+     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC9952) 
+
+9953 DNS over CoAP (DoC). M. S. Lenders, C. Amsüss, C. Gündoğan, T. C.
+     Schmidt, M. Wählisch. March 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9953) 
+
 ===========================================================================
- - This file last updated Tue 31 Mar 2026 02:30:01 AM PDT
+ - This file last updated Wed 01 Apr 2026 02:30:02 AM PDT
 
