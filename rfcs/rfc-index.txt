@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 04/02/2026.)
+(CREATED ON: 04/03/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42424,6 +42424,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9939 PKCS #8: Private-Key Information Content Types. J. Mandel, R.
      Housley, S. Turner. February 2026. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9939) 
+
+9940 Some Key Terms for Network Fault and Problem Management. N. Davis,
+     Ed., A. Farrel, Ed., T. Graf, Q. Wu, C. Yu. April 2026. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9940) 
 
 9945 IETF Community Moderation. L. Eggert, Ed., E. Lear, Ed.. February
      2026. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3683, RFC3934)
