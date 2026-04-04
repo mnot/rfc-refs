@@ -4,10 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9928 DHCPv4 over DHCPv6 with Relay Agent Support. C. Porfiri, S.
-     Krishnan, J. Arkko, M. Kühlewind. March 2026. (Format: HTML, TXT,
-     PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9928) 
-
 9929 IGP Unreachable Prefix Announcement. P. Psenak, Ed., C. Filsfils, D.
      Voyer, S. Hegde, G. Mishra. February 2026. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9929) 
@@ -50,6 +46,10 @@
      Housley, S. Turner. February 2026. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9939) 
 
+9940 Some Key Terms for Network Fault and Problem Management. N. Davis,
+     Ed., A. Farrel, Ed., T. Graf, Q. Wu, C. Yu. April 2026. (Format:
+     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9940) 
+
 9945 IETF Community Moderation. L. Eggert, Ed., E. Lear, Ed.. February
      2026. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3683, RFC3934)
      (Updates RFC2418, RFC9245) (Also BCP0245) (Status: BEST CURRENT
@@ -84,5 +84,5 @@
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9953) 
 
 ===========================================================================
- - This file last updated Thu 02 Apr 2026 02:30:01 AM PDT
+ - This file last updated Fri 03 Apr 2026 02:30:01 AM PDT
 
