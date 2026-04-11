@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 04/10/2026.)
+(CREATED ON: 04/11/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42397,6 +42397,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Updates RFC9112, RFC9298) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9931) 
 
+9932 Mutually Authenticating TLS in the Context of Federations. S. Halén,
+     J. Schlyter. April 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9932) 
+
 9934 Privacy-Enhanced Mail (PEM) File Format for Encrypted ClientHello
      (ECH). S. Farrell. March 2026. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9934) 
@@ -42428,6 +42432,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9940 Some Key Terms for Network Fault and Problem Management. N. Davis,
      Ed., A. Farrel, Ed., T. Graf, Q. Wu, C. Yu. April 2026. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9940) 
+
+9941 Secure Shell (SSH) Key Exchange Method Using Hybrid Streamlined NTRU
+     Prime sntrup761 and X25519 with SHA-512: sntrup761x25519-sha512. M.
+     Friedl, J. Mojzis, S. Josefsson. April 2026. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9941) 
 
 9945 IETF Community Moderation. L. Eggert, Ed., E. Lear, Ed.. February
      2026. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3683, RFC3934)
