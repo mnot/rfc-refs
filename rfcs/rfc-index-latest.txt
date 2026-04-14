@@ -4,19 +4,14 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9929 IGP Unreachable Prefix Announcement. P. Psenak, Ed., C. Filsfils, D.
-     Voyer, S. Hegde, G. Mishra. February 2026. (Format: HTML, TXT, PDF,
-     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9929) 
-
-9930 Tunnel Extensible Authentication Protocol (TEAP) Version 1. A.
-     DeKok, Ed.. February 2026. (Format: HTML, TXT, PDF, XML) (Obsoletes
-     RFC7170) (Updates RFC9427) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9930) 
-
 9931 Security Considerations for Optimistic Protocol Transitions in
      HTTP/1.1. B. Schwartz. March 2026. (Format: HTML, TXT, PDF, XML)
      (Updates RFC9112, RFC9298) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9931) 
+
+9932 Mutually Authenticating TLS in the Context of Federations. S. Halén,
+     J. Schlyter. April 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9932) 
 
 9934 Privacy-Enhanced Mail (PEM) File Format for Encrypted ClientHello
      (ECH). S. Farrell. March 2026. (Format: HTML, TXT, PDF, XML)
@@ -49,6 +44,11 @@
 9940 Some Key Terms for Network Fault and Problem Management. N. Davis,
      Ed., A. Farrel, Ed., T. Graf, Q. Wu, C. Yu. April 2026. (Format:
      HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9940) 
+
+9941 Secure Shell (SSH) Key Exchange Method Using Hybrid Streamlined NTRU
+     Prime sntrup761 and X25519 with SHA-512: sntrup761x25519-sha512. M.
+     Friedl, J. Mojzis, S. Josefsson. April 2026. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9941) 
 
 9945 IETF Community Moderation. L. Eggert, Ed., E. Lear, Ed.. February
      2026. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3683, RFC3934)
@@ -84,5 +84,5 @@
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9953) 
 
 ===========================================================================
- - This file last updated Fri 10 Apr 2026 02:30:01 AM PDT
+ - This file last updated Mon 13 Apr 2026 02:30:01 AM PDT
 
