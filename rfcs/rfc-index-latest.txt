@@ -4,15 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9931 Security Considerations for Optimistic Protocol Transitions in
-     HTTP/1.1. B. Schwartz. March 2026. (Format: HTML, TXT, PDF, XML)
-     (Updates RFC9112, RFC9298) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9931) 
-
-9932 Mutually Authenticating TLS in the Context of Federations. S. Halén,
-     J. Schlyter. April 2026. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9932) 
-
 9934 Privacy-Enhanced Mail (PEM) File Format for Encrypted ClientHello
      (ECH). S. Farrell. March 2026. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9934) 
@@ -55,6 +46,11 @@
      (Updates RFC2418, RFC9245) (Also BCP0245) (Status: BEST CURRENT
      PRACTICE) (DOI: 10.17487/RFC9945) 
 
+9946 The UDP Speed Test Protocol (UDPSTP) for One-Way IP Capacity Metric
+     Measurement. A. Morton, L. Ciavattone, R. Geib, Ed.. April 2026.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9946) 
+
 9947 Application of the Alternate-Marking Method to the Segment Routing
      Header. G. Fioccola, T. Zhou, G. Mishra, X. Wang, G. Zhang, M.
      Cociglio. March 2026. (Format: HTML, TXT, PDF, XML) (Status:
@@ -74,6 +70,11 @@
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC9105) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9950) 
 
+9951 Export of Delay Performance Metrics in IP Flow Information Export
+     (IPFIX). T. Graf, B. Claise, A. Huang-Feng. April 2026. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9951) 
+
 9952 Application-Layer Protocol Negotiation (ALPN) ID for CoAP over DTLS.
      M. S. Lenders, C. Amsüss, T. C. Schmidt, M. Wählisch. March 2026.
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
@@ -84,5 +85,5 @@
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9953) 
 
 ===========================================================================
- - This file last updated Fri 24 Apr 2026 02:30:01 AM PDT
+ - This file last updated Mon 27 Apr 2026 02:30:01 AM PDT
 
