@@ -4,16 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9935 Internet X.509 Public Key Infrastructure - Algorithm Identifiers for
-     the Module-Lattice-Based Key-Encapsulation Mechanism (ML-KEM). S.
-     Turner, P. Kampanakis, J. Massimo, B. E. Westerbaan. March 2026.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9935) 
-
-9936 Use of ML-KEM in the Cryptographic Message Syntax (CMS). J. Prat, M.
-     Ounsworth, D. Van Geest. March 2026. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9936) 
-
 9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
      N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
      (Obsoletes RFC6937) (Status: PROPOSED STANDARD) (DOI:
@@ -80,10 +70,20 @@
      Schmidt, M. Wählisch. March 2026. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9953) 
 
+9960 Segment Routing Point-to-Multipoint Policy. R. Parekh, Ed., D.
+     Voyer, Ed., C. Filsfils, H. Bidgoli, Z. Zhang. April 2026. (Format:
+     HTML, TXT, PDF, XML) (Updates RFC9524) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9960) 
+
+9961 MPLS Segment Routing Point-to-Multipoint (P2MP) Policy Ping. H.
+     Bidgoli, Ed., Z. Ali, Z. Zhang, A. Budhiraja, D. Voyer. April 2026.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9961) 
+
 9963 Legacy RSASSA-PKCS1-v1_5 Code Points for TLS 1.3. D. Benjamin, A.
      Popov. April 2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9963) 
 
 ===========================================================================
- - This file last updated Thu 30 Apr 2026 02:30:02 AM PDT
+ - This file last updated Fri 01 May 2026 02:30:01 AM PDT
 
