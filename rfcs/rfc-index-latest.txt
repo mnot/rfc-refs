@@ -4,24 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9937 Proportional Rate Reduction (PRR). M. Mathis, N. Cardwell, Y. Cheng,
-     N. Dukkipati. December 2025. (Format: HTML, TXT, PDF, XML)
-     (Obsoletes RFC6937) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9937) 
-
-9938 A Framework for the Deterministic Networking (DetNet) Controller
-     Plane. A. Malis, X. Geng, Ed., M. Chen, B. Varga, CJ. Bernardos.
-     March 2026. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
-     (DOI: 10.17487/RFC9938) 
-
-9939 PKCS #8: Private-Key Information Content Types. J. Mandel, R.
-     Housley, S. Turner. February 2026. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9939) 
-
-9940 Some Key Terms for Network Fault and Problem Management. N. Davis,
-     Ed., A. Farrel, Ed., T. Graf, Q. Wu, C. Yu. April 2026. (Format:
-     HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9940) 
-
 9941 Secure Shell (SSH) Key Exchange Method Using Hybrid Streamlined NTRU
      Prime sntrup761 and X25519 with SHA-512: sntrup761x25519-sha512. M.
      Friedl, J. Mojzis, S. Josefsson. April 2026. (Format: HTML, TXT,
@@ -70,6 +52,20 @@
      Schmidt, M. Wählisch. March 2026. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9953) 
 
+9956 A Non-Queue-Building Per-Hop Behavior (NQB PHB) for Differentiated
+     Services. G. White, T. Fossati, R. Geib. May 2026. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC8325) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9956) 
+
+9957 The DOCSIS Queue Protection Algorithm to Preserve Low Latency. B.
+     Briscoe, Ed., G. White. May 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9957) 
+
+9959 Careful Resume: Convergence of Congestion Control from Retained
+     State. N. Kuhn, E. Stephan, G. Fairhurst, R. Secchi, C. Huitema. May
+     2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9959) 
+
 9960 Segment Routing Point-to-Multipoint Policy. R. Parekh, Ed., D.
      Voyer, Ed., C. Filsfils, H. Bidgoli, Z. Zhang. April 2026. (Format:
      HTML, TXT, PDF, XML) (Updates RFC9524) (Status: PROPOSED STANDARD)
@@ -84,6 +80,10 @@
      Popov. April 2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9963) 
 
+9968 Report from the IAB Workshop on the Next Era of Network Management
+     Operations (NEMOPS). W. Hardaker, D. Dhody. May 2026. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9968) 
+
 ===========================================================================
- - This file last updated Thu 07 May 2026 02:30:01 AM PDT
+ - This file last updated Tue 12 May 2026 02:30:01 AM PDT
 

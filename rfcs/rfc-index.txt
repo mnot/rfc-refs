@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/07/2026.)
+(CREATED ON: 05/13/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -35140,8 +35140,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC8324) 
 
 8325 Mapping Diffserv to IEEE 802.11. T. Szigeti, J. Henry, F. Baker.
-     February 2018. (Format: TXT, HTML) (Updated by RFC8622) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC8325) 
+     February 2018. (Format: TXT, HTML) (Updated by RFC8622, RFC9956)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8325) 
 
 8326 Graceful BGP Session Shutdown. P. Francois, Ed., B. Decraene, Ed.,
      C. Pelsser, K. Patel, C. Filsfils. March 2018. (Format: TXT, HTML)
@@ -42502,6 +42502,20 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Schmidt, M. Wählisch. March 2026. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9953) 
 
+9956 A Non-Queue-Building Per-Hop Behavior (NQB PHB) for Differentiated
+     Services. G. White, T. Fossati, R. Geib. May 2026. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC8325) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9956) 
+
+9957 The DOCSIS Queue Protection Algorithm to Preserve Low Latency. B.
+     Briscoe, Ed., G. White. May 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: INFORMATIONAL) (DOI: 10.17487/RFC9957) 
+
+9959 Careful Resume: Convergence of Congestion Control from Retained
+     State. N. Kuhn, E. Stephan, G. Fairhurst, R. Secchi, C. Huitema. May
+     2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9959) 
+
 9960 Segment Routing Point-to-Multipoint Policy. R. Parekh, Ed., D.
      Voyer, Ed., C. Filsfils, H. Bidgoli, Z. Zhang. April 2026. (Format:
      HTML, TXT, PDF, XML) (Updates RFC9524) (Status: PROPOSED STANDARD)
@@ -42515,3 +42529,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9963 Legacy RSASSA-PKCS1-v1_5 Code Points for TLS 1.3. D. Benjamin, A.
      Popov. April 2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9963) 
+
+9968 Report from the IAB Workshop on the Next Era of Network Management
+     Operations (NEMOPS). W. Hardaker, D. Dhody. May 2026. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9968) 
