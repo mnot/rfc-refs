@@ -4,11 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9945 IETF Community Moderation. L. Eggert, Ed., E. Lear, Ed.. February
-     2026. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC3683, RFC3934)
-     (Updates RFC2418, RFC9245) (Also BCP0245) (Status: BEST CURRENT
-     PRACTICE) (DOI: 10.17487/RFC9945) 
-
 9946 The UDP Speed Test Protocol (UDPSTP) for One-Way IP Capacity Metric
      Measurement. A. Morton, L. Ciavattone, R. Geib, Ed.. April 2026.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -79,10 +74,16 @@
      Popov. April 2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9963) 
 
+9967 System for Cross-Domain Identity Management (SCIM) Profile for
+     Security Event Tokens (SETs). P. Hunt, Ed., N. Cam-Winget, M. Kiser,
+     J. Schreiber. May 2026. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC7643, RFC7644) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9967) 
+
 9968 Report from the IAB Workshop on the Next Era of Network Management
      Operations (NEMOPS). W. Hardaker, D. Dhody. May 2026. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9968) 
 
 ===========================================================================
- - This file last updated Thu 14 May 2026 02:30:01 AM PDT
+ - This file last updated Fri 15 May 2026 02:30:01 AM PDT
 
