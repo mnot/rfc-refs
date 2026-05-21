@@ -4,44 +4,6 @@
   To get the full list of RFCs, please look up rfc-index.txt
 ===========================================================================
 
-9946 The UDP Speed Test Protocol (UDPSTP) for One-Way IP Capacity Metric
-     Measurement. A. Morton, L. Ciavattone, R. Geib, Ed.. April 2026.
-     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9946) 
-
-9947 Application of the Alternate-Marking Method to the Segment Routing
-     Header. G. Fioccola, T. Zhou, G. Mishra, X. Wang, G. Zhang, M.
-     Cociglio. March 2026. (Format: HTML, TXT, PDF, XML) (Status:
-     EXPERIMENTAL) (DOI: 10.17487/RFC9947) 
-
-9948 Internet Protocol Police (IPP) - Schedule of Punishments. G.R.
-     Beard, O.F. Art, H. Alvestrand, Ed.. 1 April 2026. (Format: HTML,
-     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9948) 
-
-9949 BUSA-TLS: Mandatory Audio Component (MAC) Pre-Shared Key (PSK)
-     Derivation for TLS 1.3 Using 2 Live Crew's "Banned in the U.S.A.".
-     R. Sayre. 1 April 2026. (Format: HTML, TXT, PDF, XML) (Status:
-     INFORMATIONAL) (DOI: 10.17487/RFC9949) 
-
-9950 A YANG Data Model for Terminal Access Controller Access-Control
-     System Plus (TACACS+). M. Boucadair, Ed., B. Wu. March 2026.
-     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC9105) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9950) 
-
-9951 Export of Delay Performance Metrics in IP Flow Information Export
-     (IPFIX). T. Graf, B. Claise, A. Huang-Feng. April 2026. (Format:
-     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9951) 
-
-9952 Application-Layer Protocol Negotiation (ALPN) ID for CoAP over DTLS.
-     M. S. Lenders, C. Amsüss, T. C. Schmidt, M. Wählisch. March 2026.
-     (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
-     10.17487/RFC9952) 
-
-9953 DNS over CoAP (DoC). M. S. Lenders, C. Amsüss, C. Gündoğan, T. C.
-     Schmidt, M. Wählisch. March 2026. (Format: HTML, TXT, PDF, XML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9953) 
-
 9956 A Non-Queue-Building Per-Hop Behavior (NQB PHB) for Differentiated
      Services. G. White, T. Fossati, R. Geib. May 2026. (Format: HTML,
      TXT, PDF, XML) (Updates RFC8325) (Status: PROPOSED STANDARD) (DOI:
@@ -74,6 +36,16 @@
      Popov. April 2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9963) 
 
+9964 ML-DSA for JSON Object Signing and Encryption (JOSE) and CBOR Object
+     Signing and Encryption (COSE). M. Prorock, O. Steele. May 2026.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9964) 
+
+9965 The eap.arpa. Domain and Extensible Authentication Protocol (EAP)
+     Provisioning. A. DeKok. May 2026. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC5216, RFC9140, RFC9190) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9965) 
+
 9967 System for Cross-Domain Identity Management (SCIM) Profile for
      Security Event Tokens (SETs). P. Hunt, Ed., N. Cam-Winget, M. Kiser,
      J. Schreiber. May 2026. (Format: HTML, TXT, PDF, XML) (Updates
@@ -84,6 +56,34 @@
      Operations (NEMOPS). W. Hardaker, D. Dhody. May 2026. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9968) 
 
+9969 Report from the IAB Workshop on AI-CONTROL. M. Nottingham, S.
+     Krishnan. May 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9969) 
+
+9972 Advanced BGP Monitoring Protocol (BMP) Statistics Types. M.
+     Srivastava, Ed., Y. Liu, C. Lin, Ed., J. Li. May 2026. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9972) 
+
+9983 OSPFv2 Anycast Property Advertisement. R. Chen, D. Zhao, P. Psenak,
+     K. Talaulikar, C. Lin. May 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9983) 
+
+9989 Domain-Based Message Authentication, Reporting, and Conformance
+     (DMARC). T. Herr, Ed., J. Levine, Ed.. May 2026. (Format: HTML, TXT,
+     PDF, XML) (Obsoletes RFC7489, RFC9091) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9989) 
+
+9990 Domain-Based Message Authentication, Reporting, and Conformance
+     (DMARC) Aggregate Reporting. A. Brotman, Ed.. May 2026. (Format:
+     HTML, TXT, PDF, XML) (Obsoletes RFC7489) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC9990) 
+
+9991 Domain-Based Message Authentication, Reporting, and Conformance
+     (DMARC) Failure Reporting. S. Jones, Ed., A. Vesely, Ed.. May 2026.
+     (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7489) (Updates RFC6591)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9991) 
+
 ===========================================================================
- - This file last updated Tue 19 May 2026 02:30:01 AM PDT
+ - This file last updated Wed 20 May 2026 02:30:01 AM PDT
 
