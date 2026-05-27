@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/20/2026.)
+(CREATED ON: 05/27/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -30684,8 +30684,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7344 Automating DNSSEC Delegation Trust Maintenance. W. Kumari, O.
      Gudmundsson, G. Barwood. September 2014. (Format: TXT, HTML)
-     (Updated by RFC8078, RFC9615) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC7344)
+     (Updated by RFC8078, RFC9615, RFC9975) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC7344)
 
 7345 UDP Transport Layer (UDPTL) over Datagram Transport Layer Security
      (DTLS). C. Holmberg, I. Sedlacek, G. Salgueiro. August 2014.
@@ -31290,8 +31290,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      INFORMATIONAL) (DOI: 10.17487/RFC7476)
 
 7477 Child-to-Parent Synchronization in DNS. W. Hardaker. March 2015.
-     (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC7477)
+     (Format: TXT, HTML) (Updated by RFC9975) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC7477)
 
 7478 Web Real-Time Communication Use Cases and Requirements. C. Holmberg,
      S. Hakansson, G. Eriksson. March 2015. (Format: TXT, HTML) (Status:
@@ -42498,6 +42498,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Updates RFC5216, RFC9140, RFC9190) (Status: PROPOSED STANDARD)
      (DOI: 10.17487/RFC9965)
 
+9966 Bootstrapped TLS Authentication with Proof of Knowledge. O. Friel,
+     D. Harkins. May 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9966)
+
 9967 System for Cross-Domain Identity Management (SCIM) Profile for
      Security Event Tokens (SETs). P. Hunt, Ed., N. Cam-Winget, M. Kiser,
      J. Schreiber. May 2026. (Format: HTML, TXT, PDF, XML) (Updates
@@ -42516,6 +42520,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Srivastava, Ed., Y. Liu, C. Lin, Ed., J. Li. May 2026. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9972)
+
+9975 Clarifications on CDS/CDNSKEY and CSYNC Consistency. P. Thomassen.
+     May 2026. (Format: HTML, TXT, PDF, XML) (Updates RFC7344, RFC7477)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9975)
 
 9983 OSPFv2 Anycast Property Advertisement. R. Chen, D. Zhao, P. Psenak,
      K. Talaulikar, C. Lin. May 2026. (Format: HTML, TXT, PDF, XML)
