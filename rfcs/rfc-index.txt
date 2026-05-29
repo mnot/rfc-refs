@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/27/2026.)
+(CREATED ON: 05/28/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -40670,8 +40670,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      PROPOSED STANDARD) (DOI: 10.17487/RFC9554)
 
 9555 JSContact: Converting from and to vCard. M. Loffredo, R. Stepanek.
-     May 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC6350) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9555)
+     May 2024. (Format: HTML, TXT, PDF, XML) (Updates RFC6350) (Updated
+     by RFC9982) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9555)
 
 9556 Internet of Things (IoT) Edge Challenges and Functions. J. Hong,
      Y-G. Hong, X. de Foy, M. Kovatsch, E. Schooler, D. Kutscher. April
@@ -42525,9 +42525,17 @@ See the RFC Editor Web page http://www.rfc-editor.org
      May 2026. (Format: HTML, TXT, PDF, XML) (Updates RFC7344, RFC7477)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9975)
 
+9982 JSContact Version 2.0: A JSON Representation of Contact Data. R.
+     Stepanek. May 2026. (Format: HTML, TXT, PDF, XML) (Updates RFC9555)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9982)
+
 9983 OSPFv2 Anycast Property Advertisement. R. Chen, D. Zhao, P. Psenak,
      K. Talaulikar, C. Lin. May 2026. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9983)
+
+9987 Secure Shell (SSH) Agent Protocol. D. Miller. May 2026. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9987)
 
 9989 Domain-Based Message Authentication, Reporting, and Conformance
      (DMARC). T. Herr, Ed., J. Levine, Ed.. May 2026. (Format: HTML, TXT,
