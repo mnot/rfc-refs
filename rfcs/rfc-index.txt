@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/28/2026.)
+(CREATED ON: 05/29/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -39446,8 +39446,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9286 Manifests for the Resource Public Key Infrastructure (RPKI). R.
      Austein, G. Huston, S. Kent, M. Lepinski. June 2022. (Format: HTML,
-     TXT, PDF, XML) (Obsoletes RFC6486) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC9286)
+     TXT, PDF, XML) (Obsoletes RFC6486) (Updated by RFC9981) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9286)
 
 9287 Greasing the QUIC Bit. M. Thomson. August 2022. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9287)
@@ -42524,6 +42524,19 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9975 Clarifications on CDS/CDNSKEY and CSYNC Consistency. P. Thomassen.
      May 2026. (Format: HTML, TXT, PDF, XML) (Updates RFC7344, RFC7477)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9975)
+
+9977 Publishing End-Site Prefix Lengths. O. Gasser, R. Bush, M. Candela,
+     R. Housley. May 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9977)
+
+9979 Registration of Further IMAP/JMAP Keywords and Mailbox Name
+     Attributes. N. Jenkins, D. Eggert. May 2026. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9979)
+
+9981 Resource Public Key Infrastructure (RPKI) Manifest Number Handling.
+     T. Harrison, G. Michaelson, J. Snijders. May 2026. (Format: HTML,
+     TXT, PDF, XML) (Updates RFC9286) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9981)
 
 9982 JSContact Version 2.0: A JSON Representation of Contact Data. R.
      Stepanek. May 2026. (Format: HTML, TXT, PDF, XML) (Updates RFC9555)
