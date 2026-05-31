@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 05/29/2026.)
+(CREATED ON: 05/30/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -41306,8 +41306,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Also BCP13) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9694)
 
 9695 The 'haptics' Top-Level Media Type. Y. K. Muthusamy, C. Ullrich.
-     March 2025. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC9695)
+     March 2025. (Format: HTML, TXT, PDF, XML) (Updated by RFC9993)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9695)
 
 9696 Routing in Fat Trees (RIFT) Applicability and Operational
      Considerations. Y. Wei, Ed., Z. Zhang, D. Afanasiev, P. Thubert, T.
@@ -42564,5 +42564,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (DMARC) Failure Reporting. S. Jones, Ed., A. Vesely, Ed.. May 2026.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC7489) (Updates RFC6591)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9991)
+
+9993 RTP Payload Format for Haptics. HS Yang, X. de Foy. May 2026.
+     (Format: HTML, TXT, PDF, XML) (Updates RFC9695) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC9993)
 
 
