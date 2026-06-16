@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/11/2026.)
+(CREATED ON: 06/16/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42546,6 +42546,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      K. Talaulikar, C. Lin. May 2026. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9983)
 
+9984 YANG Groupings for UDP Clients and UDP Servers. A. Huang-Feng, P.
+     Francois, K. Watsen. June 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9984)
+
 9987 Secure Shell (SSH) Agent Protocol. D. Miller. May 2026. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9987)
@@ -42573,5 +42577,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9993 RTP Payload Format for Haptics. HS Yang, X. de Foy. May 2026.
      (Format: HTML, TXT, PDF, XML) (Updates RFC9695) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9993)
+
+9998 Report from the IAB/W3C Workshop on Age-Based Restrictions on
+     Content Access. M. Nottingham, M. Thomson. June 2026. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9998)
+
+10008 The HTTP QUERY Method. J. Reschke, J.M. Snell, M. Bishop. June
+     2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC10008)
 
 
