@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/16/2026.)
+(CREATED ON: 06/19/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42178,6 +42178,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8907) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9887)
 
+9888 Out-of-Band Secure Telephone Identity Revisited (STIR) for Service
+     Providers. J. Peterson. June 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9888)
+
 9889 A Realization of Network Slices for 5G Networks Using Current
      IP/MPLS Technologies. K. Szarkowicz, Ed., R. Roberts, Ed., J. Lucek,
      M. Boucadair, Ed., LM. Contreras. November 2025. (Format: HTML, TXT,
@@ -42464,6 +42468,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9957 The DOCSIS Queue Protection Algorithm to Preserve Low Latency. B.
      Briscoe, Ed., G. White. May 2026. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9957)
+
+9958 Post-Quantum Cryptography for Engineers. A. Banerjee, T. Reddy.K, D.
+     Schoinianakis, T. Hollebeek, M. Ounsworth. June 2026. (Format: HTML,
+     TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9958)
 
 9959 Careful Resume: Convergence of Congestion Control from Retained
      State. N. Kuhn, E. Stephan, G. Fairhurst, R. Secchi, C. Huitema. May
