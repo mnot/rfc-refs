@@ -42558,6 +42558,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Francois, K. Watsen. June 2026. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9984)
 
+9985 Optimizing Bidirectional Forwarding Detection (BFD) Authentication.
+     M. Jethanandani, A. Mishra, J. Haas, A. Saxena, M. Bhatia. June
+     2026. (Format: HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI:
+     10.17487/RFC9985)
+
+9986 Meticulous Keyed ISAAC for Bidirectional Forwarding Detection (BFD)
+     Optimized Authentication. A. DeKok, M. Jethanandani, S. Agarwal, A.
+     Mishra, J. Haas. June 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     EXPERIMENTAL) (DOI: 10.17487/RFC9986)
+
 9987 Secure Shell (SSH) Agent Protocol. D. Miller. May 2026. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9987)
