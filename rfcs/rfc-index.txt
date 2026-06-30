@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 06/27/2026.)
+(CREATED ON: 06/29/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42524,10 +42524,19 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Krishnan. May 2026. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9969)
 
+9970 Connected Identity for Secure Telephone Identity Revisited (STIR).
+     J. Peterson, C. Wendt. June 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9970)
+
 9972 Advanced BGP Monitoring Protocol (BMP) Statistics Types. M.
      Srivastava, Ed., Y. Liu, C. Lin, Ed., J. Li. May 2026. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9972)
+
+9974 Operations, Administration, and Maintenance (OAM) Requirements for
+     the Bit Index Explicit Replication (BIER) Layer. G. Mirsky, Ed., N.
+     Kumar, M. Chen, S. Pallagatti, Ed.. June 2026. (Format: HTML, TXT,
+     PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9974)
 
 9975 Clarifications on CDS/CDNSKEY and CSYNC Consistency. P. Thomassen.
      May 2026. (Format: HTML, TXT, PDF, XML) (Updates RFC7344, RFC7477)
@@ -42536,6 +42545,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9977 Publishing End-Site Prefix Lengths. O. Gasser, R. Bush, M. Candela,
      R. Housley. May 2026. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC9977)
+
+9978 Bidirectional Forwarding Detection (BFD) Stability. A. Mishra, M.
+     Jethanandani, A. Saxena, S. Pallagatti, M. Chen. June 2026. (Format:
+     HTML, TXT, PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC9978)
 
 9979 Registration of Further IMAP/JMAP Keywords and Mailbox Name
      Attributes. N. Jenkins, D. Eggert. May 2026. (Format: HTML, TXT,
