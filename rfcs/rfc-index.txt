@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/08/2026.)
+(CREATED ON: 07/11/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -20785,8 +20785,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5077 Transport Layer Security (TLS) Session Resumption without Server-
      Side State. J. Salowey, H. Zhou, P. Eronen, H. Tschofenig. January
-     2008. (Format: TXT, HTML) (Obsoletes RFC4507) (Obsoleted by RFC8446)
-     (Updated by RFC8447) (Status: PROPOSED STANDARD) (DOI:
+     2008. (Format: TXT, HTML) (Obsoletes RFC4507) (Obsoleted by RFC8446,
+     RFC9846) (Updated by RFC8447) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC5077)
 
 5078 IAB and IESG Selection, Confirmation, and Recall Process: Revision
@@ -21519,10 +21519,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5246 The Transport Layer Security (TLS) Protocol Version 1.2. T. Dierks,
      E. Rescorla. August 2008. (Format: TXT, HTML) (Obsoletes RFC3268,
-     RFC4346, RFC4366) (Obsoleted by RFC8446) (Updates RFC4492) (Updated
-     by RFC5746, RFC5878, RFC6176, RFC7465, RFC7507, RFC7568, RFC7627,
-     RFC7685, RFC7905, RFC7919, RFC8447, RFC9155) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC5246)
+     RFC4346, RFC4366) (Obsoleted by RFC8446, RFC9846) (Updates RFC4492)
+     (Updated by RFC5746, RFC5878, RFC6176, RFC7465, RFC7507, RFC7568,
+     RFC7627, RFC7685, RFC7905, RFC7919, RFC8447, RFC9155) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC5246)
 
 5247 Extensible Authentication Protocol (EAP) Key Management Framework.
      B. Aboba, D. Simon, P. Eronen. August 2008. (Format: TXT, HTML)
@@ -23509,7 +23509,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5705 Keying Material Exporters for Transport Layer Security (TLS). E.
      Rescorla. March 2010. (Format: TXT, HTML) (Updated by RFC8446,
-     RFC8447) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5705)
+     RFC8447, RFC9846) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC5705)
 
 5706 Guidelines for Considering Operations and Management of New
      Protocols and Protocol Extensions. D. Harrington. November 2009.
@@ -25084,8 +25085,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6066 Transport Layer Security (TLS) Extensions: Extension Definitions. D.
      Eastlake 3rd. January 2011. (Format: TXT, HTML) (Obsoletes RFC4366)
-     (Updated by RFC8446, RFC8449, RFC9325) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC6066)
+     (Updated by RFC8446, RFC8449, RFC9325, RFC9846) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC6066)
 
 6067 BCP 47 Extension U. M. Davis, A. Phillips, Y. Umaoka. December 2010.
      (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6067)
@@ -28966,7 +28967,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6961 The Transport Layer Security (TLS) Multiple Certificate Status
      Request Extension. Y. Pettersen. June 2013. (Format: TXT, HTML)
-     (Obsoleted by RFC8446) (Status: PROPOSED STANDARD) (DOI:
+     (Obsoleted by RFC8446, RFC9846) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC6961)
 
 6962 Certificate Transparency. B. Laurie, A. Langley, E. Kasper. June
@@ -31951,8 +31952,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7627 Transport Layer Security (TLS) Session Hash and Extended Master
      Secret Extension. K. Bhargavan, Ed., A. Delignat-Lavaud, A. Pironti,
-     A. Langley, M. Ray. September 2015. (Format: TXT, HTML) (Updates
-     RFC5246) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7627)
+     A. Langley, M. Ray. September 2015. (Format: TXT, HTML) (Obsoleted
+     by RFC9846) (Updates RFC5246) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC7627)
 
 7628 A Set of Simple Authentication and Security Layer (SASL) Mechanisms
      for OAuth. W. Mills, T. Showalter, H. Tschofenig. August 2015.
@@ -35525,8 +35527,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8422 Elliptic Curve Cryptography (ECC) Cipher Suites for Transport Layer
      Security (TLS) Versions 1.2 and Earlier. Y. Nir, S. Josefsson, M.
      Pegourie-Gonnard. August 2018. (Format: TXT, HTML) (Obsoletes
-     RFC4492) (Updated by RFC8996) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8422)
+     RFC4492) (Obsoleted by RFC9846) (Updated by RFC8996) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8422)
 
 8423 Reclassification of Suite B Documents to Historic Status. R.
      Housley, L. Zieglar. July 2018. (Format: TXT, HTML) (Status:
@@ -35628,8 +35630,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8446 The Transport Layer Security (TLS) Protocol Version 1.3. E.
      Rescorla. August 2018. (Format: TXT, HTML) (Obsoletes RFC5077,
-     RFC5246, RFC6961) (Updates RFC5705, RFC6066) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8446)
+     RFC5246, RFC6961) (Obsoleted by RFC9846) (Updates RFC5705, RFC6066)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8446)
 
 8447 IANA Registry Updates for TLS and DTLS. J. Salowey, S. Turner.
      August 2018. (Format: TXT, HTML) (Updates RFC3749, RFC4680, RFC5077,
@@ -41985,6 +41987,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Clemm, Ed., C. Pignataro, Ed., C. Westphal, L. Ciavaglia, J.
      Tantsura, M-P. Odini. October 2025. (Format: HTML, TXT, PDF, XML)
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC9845)
+
+9846 The Transport Layer Security (TLS) Protocol Version 1.3. E.
+     Rescorla. July 2026. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC5077, RFC5246, RFC6961, RFC7627, RFC8422, RFC8446) (Updates
+     RFC5705, RFC6066) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9846)
 
 9847 IANA Registry Updates for TLS and DTLS. J. Salowey, S. Turner.
      December 2025. (Format: HTML, TXT, PDF, XML) (Updates RFC8447)
