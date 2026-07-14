@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/11/2026.)
+(CREATED ON: 07/14/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42622,6 +42622,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Zigler, H. Song, K. Kompella. June 2026. (Format: HTML, TXT, PDF,
      XML) (Updates RFC9789) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9994)
+
+9995 CBOR Object Signing and Encryption (COSE) Hash Envelope. O. Steele,
+     S. Lasker, H. Birkholz. July 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9995)
 
 9998 Report from the IAB/W3C Workshop on Age-Based Restrictions on
      Content Access. M. Nottingham, M. Thomson. June 2026. (Format: HTML,
