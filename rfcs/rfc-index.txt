@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/14/2026.)
+(CREATED ON: 07/15/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -20528,8 +20528,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5019 The Lightweight Online Certificate Status Protocol (OCSP) Profile
      for High-Volume Environments. A. Deacon, R. Hurst. September 2007.
-     (Format: TXT, HTML) (Updated by RFC8996) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC5019)
+     (Format: TXT, HTML) (Obsoleted by RFC9919) (Updated by RFC8996)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5019)
 
 5020 The Lightweight Directory Access Protocol (LDAP) entryDN Operational
      Attribute. K. Zeilenga. August 2007. (Format: TXT, HTML) (Status:
@@ -31779,8 +31779,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7589 Using the NETCONF Protocol over Transport Layer Security (TLS) with
      Mutual X.509 Authentication. M. Badra, A. Luchuk, J. Schoenwaelder.
-     June 2015. (Format: TXT, HTML) (Obsoletes RFC5539) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC7589)
+     June 2015. (Format: TXT, HTML) (Obsoletes RFC5539) (Updated by
+     RFC9918) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7589)
 
 7590 Use of Transport Layer Security (TLS) in the Extensible Messaging
      and Presence Protocol (XMPP). P. Saint-Andre, T. Alkemade. June
@@ -34744,8 +34744,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8253 PCEPS: Usage of TLS to Provide a Secure Transport for the Path
      Computation Element Communication Protocol (PCEP). D. Lopez, O.
      Gonzalez de Dios, Q. Wu, D. Dhody. October 2017. (Format: TXT, HTML)
-     (Updates RFC5440) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC8253)
+     (Updates RFC5440) (Updated by RFC9916) (Status: PROPOSED STANDARD)
+     (DOI: 10.17487/RFC8253)
 
 8254 Uniform Resource Name (URN) Namespace Registration Transition. J.
      Klensin, J. Hakala. October 2017. (Format: TXT, HTML) (Obsoletes
@@ -42306,10 +42306,26 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML, TXT, PDF, XML) (Obsoletes RFC8415) (Also STD102) (Status:
      INTERNET STANDARD) (DOI: 10.17487/RFC9915)
 
+9916 Updates to the Usage of TLS to Provide a Secure Transport for the
+     Path Computation Element Communication Protocol (PCEP). D. Dhody, S.
+     Turner, R. Housley. July 2026. (Format: HTML, TXT, PDF, XML)
+     (Updates RFC8253) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9916)
+
 9917 IGP Flexible Algorithms Reverse Affinity Constraint. P. Psenak, J.
      Horn, A. Dhamija. January 2026. (Format: HTML, TXT, PDF, XML)
      (Updates RFC9350, RFC9843) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9917)
+
+9918 Updates to Using the NETCONF Protocol over Transport Layer Security
+     (TLS) with Mutual X.509 Authentication. S. Turner, R. Housley. July
+     2026. (Format: HTML, TXT, PDF, XML) (Updates RFC7589) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC9918)
+
+9919 The Lightweight Online Certificate Status Protocol (OCSP) Profile
+     for High-Volume Environments. T. Ito, C. Wilson, C. Bonnell, S.
+     Turner. July 2026. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC5019)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9919)
 
 9920 RFC Editor Model (Version 3). P. Hoffman, A. Rossi. February 2026.
      (Format: HTML, TXT, PDF, XML) (Obsoletes RFC9280) (Updates RFC7841,
@@ -42630,6 +42646,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9998 Report from the IAB/W3C Workshop on Age-Based Restrictions on
      Content Access. M. Nottingham, M. Thomson. June 2026. (Format: HTML,
      TXT, PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC9998)
+
+9999 Remote ATtestation procedureS (RATS) Conceptual Message Wrapper
+     (CMW). H. Birkholz, N. Smith, T. Fossati, H. Tschofenig. July 2026.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9999)
 
 10005 BGP Link Bandwidth Extended Community. P. Mohapatra, R. Das, Ed.,
      S. Mohanty, Ed., S. Krier, R.J. Szarecki, A. Gattani. June 2026.
