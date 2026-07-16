@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/15/2026.)
+(CREATED ON: 07/16/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -36577,8 +36577,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8664 Path Computation Element Communication Protocol (PCEP) Extensions
      for Segment Routing. S. Sivabalan, C. Filsfils, J. Tantsura, W.
      Henderickx, J. Hardwick. December 2019. (Format: HTML, TXT, PDF,
-     XML) (Updates RFC8408) (Updated by RFC9756) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8664)
+     XML) (Updates RFC8408) (Updated by RFC9756, RFC9933) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8664)
 
 8665 OSPF Extensions for Segment Routing. P. Psenak, Ed., S. Previdi,
      Ed., C. Filsfils, H. Gredler, R. Shakir, W. Henderickx, J. Tantsura.
@@ -37088,7 +37088,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8773 TLS 1.3 Extension for Certificate-Based Authentication with an
      External Pre-Shared Key. R. Housley. March 2020. (Format: HTML, TXT,
-     PDF, XML) (Status: EXPERIMENTAL) (DOI: 10.17487/RFC8773)
+     PDF, XML) (Obsoleted by RFC9973) (Status: EXPERIMENTAL) (DOI:
+     10.17487/RFC8773)
 
 8774 The Quantum Bug. M. Welzl. 1 April 2020. (Format: HTML, TXT, PDF,
      XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC8774)
@@ -40883,7 +40884,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9603 Path Computation Element Communication Protocol (PCEP) Extensions
      for IPv6 Segment Routing. C. Li, Ed., P. Kaladharan, S. Sivabalan,
      M. Koldychev, Y. Zhu. July 2024. (Format: HTML, TXT, PDF, XML)
-     (Updated by RFC9756) (Status: PROPOSED STANDARD) (DOI:
+     (Updated by RFC9756, RFC9933) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9603)
 
 9604 Carrying Binding Label/SID in PCE-Based Networks. S. Sivabalan, C.
@@ -42006,6 +42007,14 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Wood. March 2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC9849)
 
+9850 The SSLKEYLOGFILE Format for TLS. M. Thomson, Y. Rosomakho, H.
+     Tschofenig. July 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9850)
+
+9851 TLS 1.2 is in Feature Freeze. R. Salz, N. Aviram. July 2026.
+     (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC9851)
+
 9853 Return Routability Check for DTLS 1.2 and 1.3. H. Tschofenig, Ed.,
      A. Kraus, T. Fossati. March 2026. (Format: HTML, TXT, PDF, XML)
      (Updates RFC9146, RFC9147) (Status: PROPOSED STANDARD) (DOI:
@@ -42386,6 +42395,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
      J. Schlyter. April 2026. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC9932)
 
+9933 Carrying SR-Algorithm in Path Computation Element Communication
+     Protocol (PCEP). S. Sidor, Z. Rose, S. Peng, S. Peng, A. Stone. July
+     2026. (Format: HTML, TXT, PDF, XML) (Updates RFC8664, RFC9603)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9933)
+
 9934 Privacy-Enhanced Mail (PEM) File Format for Encrypted ClientHello
      (ECH). S. Farrell. March 2026. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9934)
@@ -42480,6 +42494,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Schmidt, M. Wählisch. March 2026. (Format: HTML, TXT, PDF, XML)
      (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9953)
 
+9954 Hybrid Key Exchange in TLS 1.3. D. Stebila, S. Fluhrer, S. Gueron.
+     July 2026. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC9954)
+
 9956 A Non-Queue-Building Per-Hop Behavior (NQB PHB) for Differentiated
      Services. G. White, T. Fossati, R. Geib. May 2026. (Format: HTML,
      TXT, PDF, XML) (Updates RFC8325) (Status: PROPOSED STANDARD) (DOI:
@@ -42552,6 +42570,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Srivastava, Ed., Y. Liu, C. Lin, Ed., J. Li. May 2026. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9972)
+
+9973 TLS 1.3 Extension for Using Certificates with an External Pre-Shared
+     Key. R. Housley. July 2026. (Format: HTML, TXT, PDF, XML) (Obsoletes
+     RFC8773) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9973)
 
 9974 Operations, Administration, and Maintenance (OAM) Requirements for
      the Bit Index Explicit Replication (BIER) Layer. G. Mirsky, Ed., N.
