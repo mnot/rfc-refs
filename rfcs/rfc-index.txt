@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/16/2026.)
+(CREATED ON: 07/17/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -16792,7 +16792,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 4162 Addition of SEED Cipher Suites to Transport Layer Security (TLS).
      H.J. Lee, J.H. Yoon, J.I. Lee. September 2005. (Format: TXT, HTML)
-     (Updated by RFC8996) (Status: PROPOSED STANDARD) (DOI:
+     (Updated by RFC8996, RFC10015) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC4162)
 
 4163 RObust Header Compression (ROHC): Requirements on TCP/IP Header
@@ -17300,7 +17300,7 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 4279 Pre-Shared Key Ciphersuites for Transport Layer Security (TLS). P.
      Eronen, Ed., H. Tschofenig, Ed.. December 2005. (Format: TXT, HTML)
-     (Updated by RFC8996) (Status: PROPOSED STANDARD) (DOI:
+     (Updated by RFC8996, RFC10015) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC4279)
 
 4280 Dynamic Host Configuration Protocol (DHCP) Options for Broadcast and
@@ -17602,8 +17602,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 4346 The Transport Layer Security (TLS) Protocol Version 1.1. T. Dierks,
      E. Rescorla. April 2006. (Format: TXT, HTML) (Obsoletes RFC2246)
      (Obsoleted by RFC5246) (Updated by RFC4366, RFC4680, RFC4681,
-     RFC5746, RFC6176, RFC7465, RFC7507, RFC7919) (Status: HISTORIC)
-     (DOI: 10.17487/RFC4346)
+     RFC5746, RFC6176, RFC7465, RFC7507, RFC7919, RFC10015) (Status:
+     HISTORIC) (DOI: 10.17487/RFC4346)
 
 4347 Datagram Transport Layer Security. E. Rescorla, N. Modadugu. April
      2006. (Format: TXT, HTML) (Obsoleted by RFC6347) (Updated by
@@ -19532,8 +19532,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 4785 Pre-Shared Key (PSK) Ciphersuites with NULL Encryption for Transport
      Layer Security (TLS). U. Blumenthal, P. Goel. January 2007. (Format:
-     TXT, HTML) (Updated by RFC8996) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC4785)
+     TXT, HTML) (Updated by RFC8996, RFC10015) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC4785)
 
 4786 Operation of Anycast Services. J. Abley, K. Lindqvist. December
      2006. (Format: TXT, HTML) (Also BCP126) (Status: BEST CURRENT
@@ -21521,8 +21521,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      E. Rescorla. August 2008. (Format: TXT, HTML) (Obsoletes RFC3268,
      RFC4346, RFC4366) (Obsoleted by RFC8446, RFC9846) (Updates RFC4492)
      (Updated by RFC5746, RFC5878, RFC6176, RFC7465, RFC7507, RFC7568,
-     RFC7627, RFC7685, RFC7905, RFC7919, RFC8447, RFC9155) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC5246)
+     RFC7627, RFC7685, RFC7905, RFC7919, RFC8447, RFC9155, RFC10015)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5246)
 
 5247 Extensible Authentication Protocol (EAP) Key Management Framework.
      B. Aboba, D. Simon, P. Eronen. August 2008. (Format: TXT, HTML)
@@ -21705,11 +21705,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5288 AES Galois Counter Mode (GCM) Cipher Suites for TLS. J. Salowey, A.
      Choudhury, D. McGrew. August 2008. (Format: TXT, HTML) (Updated by
-     RFC9325) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5288)
+     RFC9325, RFC10015) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC5288)
 
 5289 TLS Elliptic Curve Cipher Suites with SHA-256/384 and AES Galois
      Counter Mode (GCM). E. Rescorla. August 2008. (Format: TXT, HTML)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5289)
+     (Updated by RFC10015) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC5289)
 
 5290 Comments on the Usefulness of Simple Best-Effort Traffic. S. Floyd,
      M. Allman. July 2008. (Format: TXT, HTML) (Status: INFORMATIONAL)
@@ -22489,7 +22491,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 5469 DES and IDEA Cipher Suites for Transport Layer Security (TLS). P.
      Eronen, Ed.. February 2009. (Format: TXT, HTML) (Obsoleted by
-     RFC8996) (Status: HISTORIC) (DOI: 10.17487/RFC5469)
+     RFC8996) (Updated by RFC10015) (Status: HISTORIC) (DOI:
+     10.17487/RFC5469)
 
 5470 Architecture for IP Flow Information Export. G. Sadasivan, N.
      Brownlee, B. Claise, J. Quittek. March 2009. (Format: TXT, HTML)
@@ -22562,8 +22565,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: INFORMATIONAL) (DOI: 10.17487/RFC5486)
 
 5487 Pre-Shared Key Cipher Suites for TLS with SHA-256/384 and AES Galois
-     Counter Mode. M. Badra. March 2009. (Format: TXT, HTML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC5487)
+     Counter Mode. M. Badra. March 2009. (Format: TXT, HTML) (Updated by
+     RFC10015) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5487)
 
 5488 Network Mobility (NEMO) Management Information Base. S. Gundavelli,
      G. Keeni, K. Koide, K. Nagami. April 2009. (Format: TXT, HTML)
@@ -24500,8 +24503,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Updated by RFC8146) (Status: INFORMATIONAL) (DOI: 10.17487/RFC5931)
 
 5932 Camellia Cipher Suites for TLS. A. Kato, M. Kanda, S. Kanno. June
-     2010. (Format: TXT, HTML) (Obsoletes RFC4132) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC5932)
+     2010. (Format: TXT, HTML) (Obsoletes RFC4132) (Updated by RFC10015)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5932)
 
 5933 Use of GOST Signature Algorithms in DNSKEY and RRSIG Resource
      Records for DNSSEC. V. Dolmatov, Ed., A. Chuprina, I. Ustinov. July
@@ -25705,7 +25708,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6209 Addition of the ARIA Cipher Suites to Transport Layer Security
      (TLS). W. Kim, J. Lee, J. Park, D. Kwon. April 2011. (Format: TXT,
-     HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6209)
+     HTML) (Updated by RFC10015) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC6209)
 
 6210 Experiment: Hash Functions with Parameters in the Cryptographic
      Message Syntax (CMS) and S/MIME. J. Schaad. April 2011. (Format:
@@ -26298,7 +26302,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 6347 Datagram Transport Layer Security Version 1.2. E. Rescorla, N.
      Modadugu. January 2012. (Format: TXT, HTML) (Obsoletes RFC4347)
      (Obsoleted by RFC9147) (Updated by RFC7507, RFC7905, RFC8996,
-     RFC9146) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6347)
+     RFC9146, RFC10015) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC6347)
 
 6348 Requirements for Point-to-Multipoint Extensions to the Label
      Distribution Protocol. JL. Le Roux, Ed., T. Morin, Ed.. September
@@ -26381,7 +26386,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 6367 Addition of the Camellia Cipher Suites to Transport Layer Security
      (TLS). S. Kanno, M. Kanda. September 2011. (Format: TXT, HTML)
-     (Updated by RFC8996) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6367)
+     (Updated by RFC8996, RFC10015) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC6367)
 
 6368 Internal BGP as the Provider/Customer Edge Protocol for BGP/MPLS IP
      Virtual Private Networks (VPNs). P. Marques, R. Raszuk, K. Patel, K.
@@ -27627,8 +27633,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC6654)
 
 6655 AES-CCM Cipher Suites for Transport Layer Security (TLS). D. McGrew,
-     D. Bailey. July 2012. (Format: TXT, HTML) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC6655)
+     D. Bailey. July 2012. (Format: TXT, HTML) (Updated by RFC10015)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6655)
 
 6656 Description of Cisco Systems' Subnet Allocation Option for DHCPv4.
      R. Johnson, K. Kinnear, M. Stapp. July 2012. (Format: TXT, HTML)
@@ -33201,7 +33207,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 7905 ChaCha20-Poly1305 Cipher Suites for Transport Layer Security (TLS).
      A. Langley, W. Chang, N. Mavrogiannopoulos, J. Strombergson, S.
      Josefsson. June 2016. (Format: TXT, HTML) (Updates RFC5246, RFC6347)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7905)
+     (Updated by RFC10015) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC7905)
 
 7906 NSA's Cryptographic Message Syntax (CMS) Key Management Attributes.
      P. Timmel, R. Housley, S. Turner. June 2016. (Format: TXT, HTML)
@@ -35527,8 +35534,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 8422 Elliptic Curve Cryptography (ECC) Cipher Suites for Transport Layer
      Security (TLS) Versions 1.2 and Earlier. Y. Nir, S. Josefsson, M.
      Pegourie-Gonnard. August 2018. (Format: TXT, HTML) (Obsoletes
-     RFC4492) (Obsoleted by RFC9846) (Updated by RFC8996) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC8422)
+     RFC4492) (Obsoleted by RFC9846) (Updated by RFC8996, RFC10015)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8422)
 
 8423 Reclassification of Suite B Documents to Historic Status. R.
      Housley, L. Zieglar. July 2018. (Format: TXT, HTML) (Status:
@@ -39613,8 +39620,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
 9325 Recommendations for Secure Use of Transport Layer Security (TLS) and
      Datagram Transport Layer Security (DTLS). Y. Sheffer, P. Saint-
      Andre, T. Fossati. November 2022. (Format: HTML, TXT, PDF, XML)
-     (Obsoletes RFC7525) (Updates RFC5288, RFC6066) (Also BCP195)
-     (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9325)
+     (Obsoletes RFC7525) (Updates RFC5288, RFC6066) (Updated by RFC9852,
+     RFC10015) (Also BCP195) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC9325)
 
 9326 In Situ Operations, Administration, and Maintenance (IOAM) Direct
      Exporting. H. Song, B. Gafni, F. Brockners, S. Bhandari, T. Mizrahi.
@@ -42015,6 +42023,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9851)
 
+9852 New Protocols Using TLS Must Require TLS 1.3. R. Salz, N. Aviram.
+     July 2026. (Format: HTML, TXT, PDF, XML) (Updates RFC9325) (Also
+     BCP195) (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC9852)
+
 9853 Return Routability Check for DTLS 1.2 and 1.3. H. Tschofenig, Ed.,
      A. Kraus, T. Fossati. March 2026. (Format: HTML, TXT, PDF, XML)
      (Updates RFC9146, RFC9147) (Status: PROPOSED STANDARD) (DOI:
@@ -42498,6 +42510,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      July 2026. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
      (DOI: 10.17487/RFC9954)
 
+9955 Hybrid Signature Spectrums. N. Bindel, B. Hale, D. Connolly, F.
+     Driscoll. July 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC9955)
+
 9956 A Non-Queue-Building Per-Hop Behavior (NQB PHB) for Differentiated
      Services. G. White, T. Fossati, R. Geib. May 2026. (Format: HTML,
      TXT, PDF, XML) (Updates RFC8325) (Status: PROPOSED STANDARD) (DOI:
@@ -42692,5 +42708,12 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Farrel, T. Mizrahi. June 2026. (Format: HTML, TXT, PDF, XML)
      (Updates RFC6291) (Also BCP161) (Status: BEST CURRENT PRACTICE)
      (DOI: 10.17487/RFC10014)
+
+10015 Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2.
+     N. Aviram. July 2026. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC4162, RFC4279, RFC4346, RFC4785, RFC5246, RFC5288, RFC5289,
+     RFC5469, RFC5487, RFC5932, RFC6209, RFC6347, RFC6367, RFC6655,
+     RFC7905, RFC8422, RFC9325) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC10015)
 
 
