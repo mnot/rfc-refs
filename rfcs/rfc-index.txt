@@ -21632,17 +21632,19 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (DOI: 10.17487/RFC5271)
 
 5272 Certificate Management over CMS (CMC). J. Schaad, M. Myers. June
-     2008. (Format: TXT, HTML) (Obsoletes RFC2797) (Updated by RFC6402)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5272)
+     2008. (Format: TXT, HTML) (Obsoletes RFC2797) (Obsoleted by
+     RFC10002) (Updated by RFC6402) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC5272)
 
 5273 Certificate Management over CMS (CMC): Transport Protocols. J.
-     Schaad, M. Myers. June 2008. (Format: TXT, HTML) (Updated by
-     RFC6402) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC5273)
+     Schaad, M. Myers. June 2008. (Format: TXT, HTML) (Obsoleted by
+     RFC10003) (Updated by RFC6402) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC5273)
 
 5274 Certificate Management Messages over CMS (CMC): Compliance
      Requirements. J. Schaad, M. Myers. June 2008. (Format: TXT, HTML)
-     (Updated by RFC6402) (Status: PROPOSED STANDARD) (DOI:
-     10.17487/RFC5274)
+     (Obsoleted by RFC10004) (Updated by RFC6402) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC5274)
 
 5275 CMS Symmetric Key Management and Distribution. S. Turner. June 2008.
      (Format: TXT, HTML) (Status: PROPOSED STANDARD) (DOI:
@@ -26538,8 +26540,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      STANDARD) (DOI: 10.17487/RFC6401)
 
 6402 Certificate Management over CMS (CMC) Updates. J. Schaad. November
-     2011. (Format: TXT, HTML) (Updates RFC5272, RFC5273, RFC5274)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC6402)
+     2011. (Format: TXT, HTML) (Obsoleted by RFC10002, RFC10003,
+     RFC10004) (Updates RFC5272, RFC5273, RFC5274) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC6402)
 
 6403 Suite B Profile of Certificate Management over CMS. L. Zieglar, S.
      Turner, M. Peck. November 2011. (Format: TXT, HTML) (Status:
@@ -42689,6 +42692,20 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (CMW). H. Birkholz, N. Smith, T. Fossati, H. Tschofenig. July 2026.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9999)
+
+10002 Certificate Management over CMS (CMC). J. Mandel, Ed., S. Turner,
+     Ed.. July 2026. (Format: HTML, TXT, PDF, XML) (Obsoletes RFC5272,
+     RFC6402) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC10002)
+
+10003 Certificate Management over CMS (CMC): Transport Protocols. J.
+     Mandel, Ed., S. Turner, Ed.. July 2026. (Format: HTML, TXT, PDF,
+     XML) (Obsoletes RFC5273, RFC6402) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC10003)
+
+10004 Certificate Management over CMS (CMC): Compliance Requirements. J.
+     Mandel, Ed., S. Turner, Ed.. July 2026. (Format: HTML, TXT, PDF,
+     XML) (Obsoletes RFC5274, RFC6402) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC10004)
 
 10005 BGP Link Bandwidth Extended Community. P. Mohapatra, R. Das, Ed.,
      S. Mohanty, Ed., S. Krier, R.J. Szarecki, A. Gattani. June 2026.
