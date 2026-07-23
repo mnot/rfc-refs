@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 07/20/2026.)
+(CREATED ON: 07/23/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42732,5 +42732,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      RFC5469, RFC5487, RFC5932, RFC6209, RFC6347, RFC6367, RFC6655,
      RFC7905, RFC8422, RFC9325) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC10015)
+
+10026 Operational Recommendations for DNSSEC Delegation Signer (DS)
+     Automation. S. Sheng, P. Thomassen. July 2026. (Format: HTML, TXT,
+     PDF, XML) (Also BCP246) (Status: BEST CURRENT PRACTICE) (DOI:
+     10.17487/RFC10026)
 
 
