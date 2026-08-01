@@ -42750,6 +42750,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
      10.17487/RFC10019)
 
+10022 IMAP UIDBATCHES Extension. D. Eggert, Ed.. July 2026. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC10022)
+
 10023 The "_for-sale" Underscored and Globally Scoped DNS Node Name. M.
      Davids. July 2026. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC10023)
@@ -42758,5 +42762,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Automation. S. Sheng, P. Thomassen. July 2026. (Format: HTML, TXT,
      PDF, XML) (Also BCP246) (Status: BEST CURRENT PRACTICE) (DOI:
      10.17487/RFC10026)
+
+10029 DNS Multiple QTYPEs. R. Bellis. July 2026. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC10029)
 
 
