@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/03/2026.)
+(CREATED ON: 08/10/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42757,6 +42757,11 @@ See the RFC Editor Web page http://www.rfc-editor.org
 10023 The "_for-sale" Underscored and Globally Scoped DNS Node Name. M.
      Davids. July 2026. (Format: HTML, TXT, PDF, XML) (Status:
      INFORMATIONAL) (DOI: 10.17487/RFC10023)
+
+10024 Post-Quantum Traditional (PQ/T) Hybrid Key Agreement Mechanisms for
+     TLS 1.3. K. Kwiatkowski, P. Kampanakis, B. E. Westerbaan, D.
+     Stebila. August 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC10024)
 
 10026 Operational Recommendations for DNSSEC Delegation Signer (DS)
      Automation. S. Sheng, P. Thomassen. July 2026. (Format: HTML, TXT,
