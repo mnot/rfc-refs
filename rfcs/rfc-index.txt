@@ -42801,6 +42801,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
 10029 DNS Multiple QTYPEs. R. Bellis. July 2026. (Format: HTML, TXT, PDF,
      XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC10029)
 
+10030 Network Time Protocol (NTP) over the Precision Time Protocol (PTP).
+     M. Lichvar. August 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC10030)
+
 10031 Media Access Control (MAC) Addresses in X.509 Certificates. R.
      Housley, C. Bonnell, J. Mandel, T. Okubo, M. StJohns. August 2026.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
