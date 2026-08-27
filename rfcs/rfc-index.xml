@@ -303702,6 +303702,9 @@ parental agent and acted on depending on local policy.</p>
     <obsoletes>
       <doc-id>RFC7895</doc-id>
     </obsoletes>
+    <updated-by>
+      <doc-id>RFC10035</doc-id>
+    </updated-by>
     <current-status>PROPOSED STANDARD</current-status>
     <publication-status>PROPOSED STANDARD</publication-status>
     <stream>IETF</stream>
@@ -364460,6 +364463,7 @@ implementations to interoperate with each other.</p>
     <stream>IETF</stream>
     <area>art</area>
     <wg_acronym>asap</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc10006</errata-url>
     <doi>10.17487/RFC10006</doi>
   </rfc-entry>
   <rfc-entry>
@@ -365164,6 +365168,44 @@ implementations to interoperate with each other.</p>
     <wg_acronym>lamps</wg_acronym>
     <errata-url>https://www.rfc-editor.org/errata/rfc10031</errata-url>
     <doi>10.17487/RFC10031</doi>
+  </rfc-entry>
+  <rfc-entry>
+    <doc-id>RFC10035</doc-id>
+    <title>YANG Library: Addition of the augmented-by List</title>
+    <author>
+      <name>Z. Lin</name>
+    </author>
+    <author>
+      <name>B. Claise</name>
+    </author>
+    <author>
+      <name>I. D. Martinez-Casanueva</name>
+    </author>
+    <date>
+      <month>August</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>18</page-count>
+    <abstract>
+      <p>"YANG Library" (RFC 8525) specifies the "ietf-yang-library" YANG module that provides information about the YANG modules, datastores, and datastore schemas used by a network management server.</p>
+      <p>This document augments the "ietf-yang-library" module to provide the augmented-by list. It facilitates the process of obtaining all dependencies between YANG modules by querying the network management server's YANG library. This document updates RFC 8525 to also include the augmented-by list.</p>
+    </abstract>
+    <draft>draft-ietf-netconf-yang-library-augmentedby-18</draft>
+    <updates>
+      <doc-id>RFC8525</doc-id>
+    </updates>
+    <current-status>PROPOSED STANDARD</current-status>
+    <publication-status>PROPOSED STANDARD</publication-status>
+    <stream>IETF</stream>
+    <area>ops</area>
+    <wg_acronym>netconf</wg_acronym>
+    <doi>10.17487/RFC10035</doi>
   </rfc-entry>
   <rfc-entry>
     <doc-id>RFC10036</doc-id>
