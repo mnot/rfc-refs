@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 08/27/2026.)
+(CREATED ON: 08/28/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42814,6 +42814,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Housley, C. Bonnell, J. Mandel, T. Okubo, M. StJohns. August 2026.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC10031)
+
+10034 RTP Payload Format for Visual Volumetric Video-Based Coding (V3C).
+     L. Ilola, L. Kondrad. August 2026. (Format: HTML, TXT, PDF, XML)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC10034)
 
 10035 YANG Library: Addition of the augmented-by List. Z. Lin, B. Claise,
      I. D. Martinez-Casanueva. August 2026. (Format: HTML, TXT, PDF, XML)

@@ -365170,6 +365170,44 @@ implementations to interoperate with each other.</p>
     <doi>10.17487/RFC10031</doi>
   </rfc-entry>
   <rfc-entry>
+    <doc-id>RFC10034</doc-id>
+    <title>RTP Payload Format for Visual Volumetric Video-Based Coding (V3C)</title>
+    <author>
+      <name>L. Ilola</name>
+    </author>
+    <author>
+      <name>L. Kondrad</name>
+    </author>
+    <date>
+      <month>August</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>43</page-count>
+    <keywords>
+      <kw>volumetric video</kw>
+      <kw>V-PCC</kw>
+      <kw>MIV</kw>
+      <kw>point cloud</kw>
+      <kw>immersive</kw>
+    </keywords>
+    <abstract>
+      <p>A visual volumetric video-based coding (V3C) ISO/IEC 23090-5 bitstream is composed of V3C units that contain V3C atlas sub-bitstreams, V3C video sub-bitstreams, and a V3C parameter set. This document describes an RTP payload format for V3C atlas sub-bitstreams. The RTP payload format for V3C video sub-bitstreams is defined by relevant IETF RFCs for the applicable video codec. The V3C RTP payload format allows for the packetization of one or more V3C atlas Network Abstraction Layer (NAL) units in an RTP packet payload as well as the fragmentation of a V3C atlas NAL unit into multiple RTP packets. The document also describes the mechanisms for grouping RTP streams of V3C component sub-bitstreams, providing a complete solution for streaming V3C-encoded content.</p>
+    </abstract>
+    <draft>draft-ietf-avtcore-rtp-v3c-17</draft>
+    <current-status>PROPOSED STANDARD</current-status>
+    <publication-status>PROPOSED STANDARD</publication-status>
+    <stream>IETF</stream>
+    <area>wit</area>
+    <wg_acronym>avtcore</wg_acronym>
+    <doi>10.17487/RFC10034</doi>
+  </rfc-entry>
+  <rfc-entry>
     <doc-id>RFC10035</doc-id>
     <title>YANG Library: Addition of the augmented-by List</title>
     <author>
