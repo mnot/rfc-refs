@@ -42828,4 +42828,13 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Thomson. August 2026. (Format: HTML, TXT, PDF, XML) (Status:
      PROPOSED STANDARD) (DOI: 10.17487/RFC10036)
 
+10037 Registration Data Access Protocol (RDAP) Extension for DNS Time-to-
+     Live (TTL) Values. G. Brown. August 2026. (Format: HTML, TXT, PDF,
+     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC10037)
+
+10038 Distributing the Segment Routing over IPv6 (SRv6) Locator Using
+     DHCPv6. W. Cheng, Ed., R. Han, C. Lin, Ed., D. Voyer, G. Zhang.
+     August 2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC10038)
+
 
