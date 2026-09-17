@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 09/15/2026.)
+(CREATED ON: 09/16/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -35168,8 +35168,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8342 Network Management Datastore Architecture (NMDA). M. Bjorklund, J.
      Schoenwaelder, P. Shafer, K. Watsen, R. Wilton. March 2018. (Format:
-     TXT, HTML) (Updates RFC7950) (Updated by RFC8808) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8342)
+     TXT, HTML) (Updates RFC7950) (Updated by RFC8808, RFC10016) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8342)
 
 8343 A YANG Data Model for Interface Management. M. Bjorklund. March
      2018. (Format: TXT, HTML) (Obsoletes RFC7223) (Status: PROPOSED
@@ -42759,6 +42759,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
      RFC5469, RFC5487, RFC5932, RFC6209, RFC6347, RFC6367, RFC6655,
      RFC7905, RFC8422, RFC9325) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC10015)
+
+10016 System-Defined Configuration. Q. Ma, Ed., Q. Wu, C. Feng. September
+     2026. (Format: HTML, TXT, PDF, XML) (Updates RFC8342) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC10016)
 
 10017 OAuth 2.0 for Browser-Based Applications. A. Parecki, P. De Ryck,
      D. Waite. August 2026. (Format: HTML, TXT, PDF, XML) (Also BCP212)

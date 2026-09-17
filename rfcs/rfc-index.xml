@@ -296616,6 +296616,7 @@ parental agent and acted on depending on local policy.</p>
     </updates>
     <updated-by>
       <doc-id>RFC8808</doc-id>
+      <doc-id>RFC10016</doc-id>
     </updated-by>
     <current-status>PROPOSED STANDARD</current-status>
     <publication-status>PROPOSED STANDARD</publication-status>
@@ -364702,6 +364703,48 @@ implementations to interoperate with each other.</p>
     <area>sec</area>
     <wg_acronym>tls</wg_acronym>
     <doi>10.17487/RFC10015</doi>
+  </rfc-entry>
+  <rfc-entry>
+    <doc-id>RFC10016</doc-id>
+    <title>System-Defined Configuration</title>
+    <author>
+      <name>Q. Ma</name>
+      <title>Editor</title>
+    </author>
+    <author>
+      <name>Q. Wu</name>
+    </author>
+    <author>
+      <name>C. Feng</name>
+    </author>
+    <date>
+      <month>September</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>30</page-count>
+    <keywords>
+      <kw>system config</kw>
+    </keywords>
+    <abstract>
+      <p>The Network Management Datastore Architecture (NMDA) in RFC 8342 defines several configuration datastores holding configuration. The contents of these configuration datastores are controlled by clients. This document introduces the concept of a system configuration datastore holding configuration controlled by the system on which a server is running. The system configuration can be referenced (e.g., leafref) by configuration explicitly created by clients.</p>
+      <p>This document updates RFC 8342.</p>
+    </abstract>
+    <draft>draft-ietf-netmod-system-config-20</draft>
+    <updates>
+      <doc-id>RFC8342</doc-id>
+    </updates>
+    <current-status>PROPOSED STANDARD</current-status>
+    <publication-status>PROPOSED STANDARD</publication-status>
+    <stream>IETF</stream>
+    <area>ops</area>
+    <wg_acronym>netmod</wg_acronym>
+    <doi>10.17487/RFC10016</doi>
   </rfc-entry>
   <rfc-entry>
     <doc-id>RFC10017</doc-id>
