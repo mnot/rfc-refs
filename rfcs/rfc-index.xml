@@ -340767,6 +340767,7 @@ between SIP-based enterprise telephony networks and the ITSP.</p>
     <stream>IETF</stream>
     <area>ops</area>
     <wg_acronym>dnsop</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc9432</errata-url>
     <doi>10.17487/RFC9432</doi>
   </rfc-entry>
   <rfc-entry>
