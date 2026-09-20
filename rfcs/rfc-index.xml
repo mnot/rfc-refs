@@ -365703,6 +365703,40 @@ implementations to interoperate with each other.</p>
     <errata-url>https://www.rfc-editor.org/errata/rfc10042</errata-url>
     <doi>10.17487/RFC10042</doi>
   </rfc-entry>
+  <rfc-entry>
+    <doc-id>RFC10050</doc-id>
+    <title>Protocol-Specific Profiles for JSContact</title>
+    <author>
+      <name>R. Stepanek</name>
+    </author>
+    <author>
+      <name>M. Loffredo</name>
+    </author>
+    <date>
+      <month>September</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>16</page-count>
+    <keywords>
+      <kw>JSContact</kw>
+    </keywords>
+    <abstract>
+      <p>This document defines the "JSContact Profiles" registry, an IANA registry for named subsets of JSContact elements. The document aims to facilitate using JSContact in the context of contact data exchange protocols or other use cases in which supporting all JSContact semantics might be inappropriate.</p>
+    </abstract>
+    <draft>draft-ietf-calext-jscontact-profiles-15</draft>
+    <current-status>PROPOSED STANDARD</current-status>
+    <publication-status>PROPOSED STANDARD</publication-status>
+    <stream>IETF</stream>
+    <area>art</area>
+    <wg_acronym>calext</wg_acronym>
+    <doi>10.17487/RFC10050</doi>
+  </rfc-entry>
   <std-entry>
     <doc-id>STD3</doc-id>
     <is-also>
