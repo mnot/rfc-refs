@@ -77557,6 +77557,7 @@
     <stream>IETF</stream>
     <area>sec</area>
     <wg_acronym>pkix</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc2510</errata-url>
     <doi>10.17487/RFC2510</doi>
   </rfc-entry>
   <rfc-entry>
