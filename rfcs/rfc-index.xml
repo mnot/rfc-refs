@@ -341062,6 +341062,7 @@ between SIP-based enterprise telephony networks and the ITSP.</p>
     <stream>IETF</stream>
     <area>wit</area>
     <wg_acronym>tcpm</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc9438</errata-url>
     <doi>10.17487/RFC9438</doi>
   </rfc-entry>
   <rfc-entry>
