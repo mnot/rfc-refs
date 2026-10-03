@@ -313116,6 +313116,7 @@ parental agent and acted on depending on local policy.</p>
     <current-status>INFORMATIONAL</current-status>
     <publication-status>INFORMATIONAL</publication-status>
     <stream>INDEPENDENT</stream>
+    <errata-url>https://www.rfc-editor.org/errata/rfc8764</errata-url>
     <doi>10.17487/RFC8764</doi>
   </rfc-entry>
   <rfc-entry>
