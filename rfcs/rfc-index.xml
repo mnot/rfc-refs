@@ -365707,6 +365707,42 @@ implementations to interoperate with each other.</p>
     <doi>10.17487/RFC10042</doi>
   </rfc-entry>
   <rfc-entry>
+    <doc-id>RFC10049</doc-id>
+    <title>Roughtime: A Protocol for Rough Time Synchronization</title>
+    <author>
+      <name>W. Ladd</name>
+    </author>
+    <author>
+      <name>M. Dansarie</name>
+    </author>
+    <date>
+      <month>October</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>28</page-count>
+    <keywords>
+      <kw>timing</kw>
+      <kw>authenticity</kw>
+      <kw>roughtime</kw>
+    </keywords>
+    <abstract>
+      <p>This document describes Roughtime, an experimental protocol that aims to achieve two things: secure, rough time synchronization (even for clients without any idea of what time it is) and a format for clients to report any inconsistencies they observe between timeservers. This document specifies the on-wire protocol required for these goals and discusses aspects of the ecosystem needed for it to work.</p>
+    </abstract>
+    <draft>draft-ietf-ntp-roughtime-19</draft>
+    <current-status>EXPERIMENTAL</current-status>
+    <publication-status>EXPERIMENTAL</publication-status>
+    <stream>IETF</stream>
+    <area>int</area>
+    <wg_acronym>ntp</wg_acronym>
+    <doi>10.17487/RFC10049</doi>
+  </rfc-entry>
+  <rfc-entry>
     <doc-id>RFC10050</doc-id>
     <title>Protocol-Specific Profiles for JSContact</title>
     <author>
@@ -365738,6 +365774,7 @@ implementations to interoperate with each other.</p>
     <stream>IETF</stream>
     <area>art</area>
     <wg_acronym>calext</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc10050</errata-url>
     <doi>10.17487/RFC10050</doi>
   </rfc-entry>
   <rfc-entry>
@@ -365782,6 +365819,7 @@ implementations to interoperate with each other.</p>
     <stream>IETF</stream>
     <area>ops</area>
     <wg_acronym>ippm</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc10052</errata-url>
     <doi>10.17487/RFC10052</doi>
   </rfc-entry>
   <std-entry>
