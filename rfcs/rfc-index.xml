@@ -365822,6 +365822,98 @@ implementations to interoperate with each other.</p>
     <errata-url>https://www.rfc-editor.org/errata/rfc10052</errata-url>
     <doi>10.17487/RFC10052</doi>
   </rfc-entry>
+  <rfc-entry>
+    <doc-id>RFC10053</doc-id>
+    <title>A Framework for Computing-Aware Traffic Steering (CATS)</title>
+    <author>
+      <name>C. Li</name>
+      <title>Editor</title>
+    </author>
+    <author>
+      <name>Z. Du</name>
+    </author>
+    <author>
+      <name>M. Boucadair</name>
+      <title>Editor</title>
+    </author>
+    <author>
+      <name>L. M. Contreras</name>
+    </author>
+    <author>
+      <name>J. Drake</name>
+    </author>
+    <date>
+      <month>October</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>27</page-count>
+    <abstract>
+      <p>This document describes a framework for Computing-Aware Traffic&#13;
+   Steering (CATS).  Specifically, the document identifies a set of CATS&#13;
+   functional components, describes their interactions, and provides&#13;
+   illustrative workflows of the control and data planes.  The framework&#13;
+   covers only the case of a single service provider.</p>
+    </abstract>
+    <draft>draft-ietf-cats-framework-24</draft>
+    <current-status>INFORMATIONAL</current-status>
+    <publication-status>INFORMATIONAL</publication-status>
+    <stream>IETF</stream>
+    <area>rtg</area>
+    <wg_acronym>cats</wg_acronym>
+    <doi>10.17487/RFC10053</doi>
+  </rfc-entry>
+  <rfc-entry>
+    <doc-id>RFC10054</doc-id>
+    <title>Computing-Aware Traffic Steering (CATS) Problem Statement, Use Cases, and Requirements</title>
+    <author>
+      <name>K. Yao</name>
+    </author>
+    <author>
+      <name>L. M. Contreras</name>
+    </author>
+    <author>
+      <name>H. Shi</name>
+    </author>
+    <author>
+      <name>S. Zhang</name>
+    </author>
+    <author>
+      <name>Q. An</name>
+    </author>
+    <date>
+      <month>October</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>28</page-count>
+    <keywords>
+      <kw>CATS</kw>
+      <kw>computing</kw>
+      <kw>computing aware</kw>
+      <kw>traffic steering</kw>
+    </keywords>
+    <abstract>
+      <p>Distributed computing enhances service response time and energy efficiency by utilizing diverse computing facilities for compute-intensive and delay-sensitive services. To optimize throughput and response time, Computing-Aware Traffic Steering (CATS) selects servers and directs traffic based on compute capabilities and resources, rather than static dispatch or connectivity metrics alone. This document outlines the problem statement and scenarios for CATS within a single domain and drives requirements for the CATS framework.</p>
+    </abstract>
+    <draft>draft-ietf-cats-usecases-requirements-14</draft>
+    <current-status>INFORMATIONAL</current-status>
+    <publication-status>INFORMATIONAL</publication-status>
+    <stream>IETF</stream>
+    <area>rtg</area>
+    <wg_acronym>cats</wg_acronym>
+    <doi>10.17487/RFC10054</doi>
+  </rfc-entry>
   <std-entry>
     <doc-id>STD3</doc-id>
     <is-also>

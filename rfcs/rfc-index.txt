@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/05/2026.)
+(CREATED ON: 10/06/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42881,5 +42881,15 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Two-Way Active Measurement Protocol (STAMP). G. Mirsky, E. Ruffini,
      H. Nydell, R. Foote, W. Hawkins. September 2026. (Format: HTML, TXT,
      PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC10052)
+
+10053 A Framework for Computing-Aware Traffic Steering (CATS). C. Li,
+     Ed., Z. Du, M. Boucadair, Ed., L. M. Contreras, J. Drake. October
+     2026. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
+     10.17487/RFC10053)
+
+10054 Computing-Aware Traffic Steering (CATS) Problem Statement, Use
+     Cases, and Requirements. K. Yao, L. M. Contreras, H. Shi, S. Zhang,
+     Q. An. October 2026. (Format: HTML, TXT, PDF, XML) (Status:
+     INFORMATIONAL) (DOI: 10.17487/RFC10054)
 
 
