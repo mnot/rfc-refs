@@ -198409,6 +198409,7 @@ interworking with the Public Switched Telephone Network (PSTN).</p>
     <stream>IETF</stream>
     <area>sec</area>
     <wg_acronym>ipsecme</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc5723</errata-url>
     <doi>10.17487/RFC5723</doi>
   </rfc-entry>
   <rfc-entry>
@@ -347494,6 +347495,7 @@ been incorporated into this document. This document obsoletes RFC
     <current-status>INFORMATIONAL</current-status>
     <publication-status>INFORMATIONAL</publication-status>
     <stream>IRTF</stream>
+    <errata-url>https://www.rfc-editor.org/errata/rfc9591</errata-url>
     <doi>10.17487/RFC9591</doi>
   </rfc-entry>
   <rfc-entry>
@@ -365520,6 +365522,7 @@ implementations to interoperate with each other.</p>
     <stream>IETF</stream>
     <area>rtg</area>
     <wg_acronym>spring</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc10038</errata-url>
     <doi>10.17487/RFC10038</doi>
   </rfc-entry>
   <rfc-entry>
@@ -365913,6 +365916,62 @@ implementations to interoperate with each other.</p>
     <area>rtg</area>
     <wg_acronym>cats</wg_acronym>
     <doi>10.17487/RFC10054</doi>
+  </rfc-entry>
+  <rfc-entry>
+    <doc-id>RFC10065</doc-id>
+    <title>A YANG Data Model and RADIUS Extension for Policy-Based Network Access Control</title>
+    <author>
+      <name>Q. Ma</name>
+      <title>Editor</title>
+    </author>
+    <author>
+      <name>Q. Wu</name>
+    </author>
+    <author>
+      <name>M. Boucadair</name>
+      <title>Editor</title>
+    </author>
+    <author>
+      <name>D. King</name>
+    </author>
+    <date>
+      <month>October</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>37</page-count>
+    <keywords>
+      <kw>ACL</kw>
+      <kw>BYOD</kw>
+      <kw>Access control</kw>
+      <kw>Policy Enforcement Point</kw>
+      <kw>PEP</kw>
+      <kw>Policy enforcement</kw>
+      <kw>Policy Decision Point</kw>
+      <kw>PDP</kw>
+      <kw>Network Management</kw>
+      <kw>Service Provisioning</kw>
+      <kw>Group-Based Policy</kw>
+      <kw>GBP</kw>
+      <kw>Software-Defined Networking</kw>
+      <kw>SDN</kw>
+    </keywords>
+    <abstract>
+      <p>This document defines a YANG data model for policy-based network access control, which enables enforcement of network access control policies based on group identity. This YANG data model extends Access Control Lists (ACLs) with date and time parameters to support schedule-aware policy enforcement.</p>
+      <p>Specifically in scenarios where network access is triggered by user authentication, this document defines a mechanism that eases the maintenance of the mapping between a user group identifier and a set of packet header fields to enforce policy-based network access control. Moreover, this document defines a Remote Authentication Dial-in User Service (RADIUS) attribute that is used to communicate the user group identifier as part of identification and authorization information.</p>
+    </abstract>
+    <draft>draft-ietf-opsawg-ucl-acl-15</draft>
+    <current-status>PROPOSED STANDARD</current-status>
+    <publication-status>PROPOSED STANDARD</publication-status>
+    <stream>IETF</stream>
+    <area>ops</area>
+    <wg_acronym>opsawg</wg_acronym>
+    <doi>10.17487/RFC10065</doi>
   </rfc-entry>
   <std-entry>
     <doc-id>STD3</doc-id>
