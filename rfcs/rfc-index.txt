@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/21/2026.)
+(CREATED ON: 10/26/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42900,5 +42900,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
      Access Control. Q. Ma, Ed., Q. Wu, M. Boucadair, Ed., D. King.
      October 2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC10065)
+
+10066 Path Computation Element Communication Protocol (PCEP) Extensions
+     for Signaling Multipath Information. M. Koldychev, Ed., S. Sidor,
+     Ed.. October 2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC10066)
+
+10067 Path Computation Element Communication Protocol (PCEP) Extensions
+     for Associated Bidirectional Segment Routing (SR) LSPs. C. Li, Ed.,
+     M. Chen, W. Cheng, R. Gandhi, Ed., Q. Xiong. October 2026. (Format:
+     HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC10067)
 
 
