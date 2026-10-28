@@ -324588,6 +324588,7 @@ with the Network Management Datastore Architecture (NMDA).</p>
     <stream>IETF</stream>
     <area>wit</area>
     <wg_acronym>core</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc9039</errata-url>
     <doi>10.17487/RFC9039</doi>
   </rfc-entry>
   <rfc-entry>
@@ -364230,6 +364231,9 @@ implementations to interoperate with each other.</p>
     <errata-url>https://www.rfc-editor.org/errata/rfc9999</errata-url>
     <doi>10.17487/RFC9999</doi>
   </rfc-entry>
+  <rfc-not-issued-entry>
+    <doc-id>RFC10000</doc-id>
+  </rfc-not-issued-entry>
   <rfc-entry>
     <doc-id>RFC10001</doc-id>
     <title>Operational Guidelines for DNS Transport in Mixed IPv4/IPv6 Environments</title>
@@ -365744,6 +365748,7 @@ implementations to interoperate with each other.</p>
     <stream>IETF</stream>
     <area>int</area>
     <wg_acronym>ntp</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc10049</errata-url>
     <doi>10.17487/RFC10049</doi>
   </rfc-entry>
   <rfc-entry>

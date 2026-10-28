@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/26/2026.)
+(CREATED ON: 10/27/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42706,6 +42706,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (CMW). H. Birkholz, N. Smith, T. Fossati, H. Tschofenig. July 2026.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC9999)
+
+10000 Not Issued.
 
 10001 Operational Guidelines for DNS Transport in Mixed IPv4/IPv6
      Environments. Momoka, T. Fiebig. August 2026. (Format: HTML, TXT,
