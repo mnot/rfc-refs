@@ -191677,6 +191677,7 @@ header fields, per RFC 3864.  This memo provides information for the Internet co
       <doc-id>RFC9073</doc-id>
       <doc-id>RFC9074</doc-id>
       <doc-id>RFC9253</doc-id>
+      <doc-id>RFC10051</doc-id>
     </updated-by>
     <current-status>PROPOSED STANDARD</current-status>
     <publication-status>PROPOSED STANDARD</publication-status>
@@ -260126,13 +260127,18 @@ the Child to Parent.</p>
       <kw>ABNF Syntax</kw>
     </keywords>
     <abstract>
-      <p>This document extends the base definition of ABNF (Augmented Backus-Naur Form) to include a way to specify US-ASCII string literals that are matched in a case-sensitive manner.</p>
+      <p>This document extends the base definition of ABNF (Augmented&#13;
+Backus-Naur Form) to include a way to specify US-ASCII string literals&#13;
+that are matched in a case-sensitive manner.</p>
     </abstract>
     <draft>draft-kyzivat-case-sensitive-abnf-02</draft>
+    <is-also>
+      <doc-id>STD68</doc-id>
+    </is-also>
     <updates>
       <doc-id>RFC5234</doc-id>
     </updates>
-    <current-status>PROPOSED STANDARD</current-status>
+    <current-status>INTERNET STANDARD</current-status>
     <publication-status>PROPOSED STANDARD</publication-status>
     <stream>IETF</stream>
     <wg_acronym>NON WORKING GROUP</wg_acronym>
@@ -365787,6 +365793,54 @@ implementations to interoperate with each other.</p>
     <doi>10.17487/RFC10050</doi>
   </rfc-entry>
   <rfc-entry>
+    <doc-id>RFC10051</doc-id>
+    <title>Task Extensions to iCalendar</title>
+    <author>
+      <name>A. Apthorp</name>
+    </author>
+    <author>
+      <name>M. Douglass</name>
+    </author>
+    <date>
+      <month>October</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>32</page-count>
+    <keywords>
+      <kw>iCalendar</kw>
+      <kw>VTODO</kw>
+      <kw>tasks</kw>
+      <kw>task management</kw>
+      <kw>task scheduling</kw>
+      <kw>task assignment</kw>
+      <kw>task status</kw>
+      <kw>task dependencies</kw>
+      <kw>CalDAV</kw>
+      <kw>iTIP</kw>
+    </keywords>
+    <abstract>
+      <p>The "VTODO" calendar component in the Internet Calendaring and Scheduling Core Object Specification (iCalendar; RFC 5545) has seen limited adoption and use, mainly for personal reminders and to-do lists.</p>
+      <p>This document updates RFC 5545 and defines extensions to "VTODO" to provide improved status tracking, scheduling, and specification of tasks to allow its use in other contexts, such as process control and project management.</p>
+      <p>It also defines how Calendaring Extensions to WebDAV (CalDAV) (RFC 4791) servers can be extended to support certain automated task management behaviors.</p>
+    </abstract>
+    <draft>draft-ietf-calext-ical-tasks-17</draft>
+    <updates>
+      <doc-id>RFC5545</doc-id>
+    </updates>
+    <current-status>PROPOSED STANDARD</current-status>
+    <publication-status>PROPOSED STANDARD</publication-status>
+    <stream>IETF</stream>
+    <area>art</area>
+    <wg_acronym>calext</wg_acronym>
+    <doi>10.17487/RFC10051</doi>
+  </rfc-entry>
+  <rfc-entry>
     <doc-id>RFC10052</doc-id>
     <title>Performance Measurement with Asymmetrical Traffic Using the Simple Two-Way Active Measurement Protocol (STAMP)</title>
     <author>
@@ -366467,6 +366521,7 @@ implementations to interoperate with each other.</p>
     <doc-id>STD68</doc-id>
     <is-also>
       <doc-id>RFC5234</doc-id>
+      <doc-id>RFC7405</doc-id>
     </is-also>
   </std-entry>
   <std-entry>
