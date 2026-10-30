@@ -366152,6 +366152,41 @@ implementations to interoperate with each other.</p>
     <wg_acronym>pce</wg_acronym>
     <doi>10.17487/RFC10067</doi>
   </rfc-entry>
+  <rfc-entry>
+    <doc-id>RFC10075</doc-id>
+    <title>The SNAC Router Flag in ICMPv6 Router Advertisement Messages</title>
+    <author>
+      <name>J. Hui</name>
+    </author>
+    <date>
+      <month>October</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>4</page-count>
+    <keywords>
+      <kw>stub network</kw>
+      <kw>stub router</kw>
+      <kw>IPv6</kw>
+      <kw>Neighbor Discovery</kw>
+      <kw>RA Flags Option</kw>
+    </keywords>
+    <abstract>
+      <p>This document defines a new flag, the SNAC Router flag, in the Router Advertisement message that can be used to distinguish configuration information sent by Stub Network Auto-Configuring (SNAC) routers from information sent by transit routers.</p>
+    </abstract>
+    <draft>draft-ietf-6man-snac-router-ra-flag-08</draft>
+    <current-status>PROPOSED STANDARD</current-status>
+    <publication-status>PROPOSED STANDARD</publication-status>
+    <stream>IETF</stream>
+    <area>int</area>
+    <wg_acronym>6man</wg_acronym>
+    <doi>10.17487/RFC10075</doi>
+  </rfc-entry>
   <std-entry>
     <doc-id>STD3</doc-id>
     <is-also>

@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/28/2026.)
+(CREATED ON: 10/29/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -42917,5 +42917,9 @@ See the RFC Editor Web page http://www.rfc-editor.org
      M. Chen, W. Cheng, R. Gandhi, Ed., Q. Xiong. October 2026. (Format:
      HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
      10.17487/RFC10067)
+
+10075 The SNAC Router Flag in ICMPv6 Router Advertisement Messages. J.
+     Hui. October 2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC10075)
 
 
