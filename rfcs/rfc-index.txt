@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 10/29/2026.)
+(CREATED ON: 10/31/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -16181,8 +16181,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      (Status: BEST CURRENT PRACTICE) (DOI: 10.17487/RFC4020)
 
 4021 Registration of Mail and MIME Header Fields. G. Klyne, J. Palme.
-     March 2005. (Format: TXT, HTML) (Updated by RFC5322) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC4021)
+     March 2005. (Format: TXT, HTML) (Updated by RFC5322, RFC10080)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC4021)
 
 4022 Management Information Base for the Transmission Control Protocol
      (TCP). R. Raghunarayan, Ed.. March 2005. (Format: TXT, HTML)
@@ -42921,5 +42921,14 @@ See the RFC Editor Web page http://www.rfc-editor.org
 10075 The SNAC Router Flag in ICMPv6 Router Advertisement Messages. J.
      Hui. October 2026. (Format: HTML, TXT, PDF, XML) (Status: PROPOSED
      STANDARD) (DOI: 10.17487/RFC10075)
+
+10078 Problem Statement, Gap Analysis, and Requirements for Intra-Domain
+     Source Address Validation. L. Qin, D. Li, J. Wu, M. Huang, N. Geng.
+     October 2026. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
+     (DOI: 10.17487/RFC10078)
+
+10080 Updated Use of the Expires Message Header Field. B. Billon, J.
+     Levine. October 2026. (Format: HTML, TXT, PDF, XML) (Updates
+     RFC4021) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC10080)
 
 

@@ -135537,6 +135537,7 @@ interworking with the Public Switched Telephone Network (PSTN).</p>
     <draft>draft-klyne-hdrreg-mail-05</draft>
     <updated-by>
       <doc-id>RFC5322</doc-id>
+      <doc-id>RFC10080</doc-id>
     </updated-by>
     <current-status>PROPOSED STANDARD</current-status>
     <publication-status>PROPOSED STANDARD</publication-status>
@@ -360594,6 +360595,7 @@ algorithms.</p>
     <stream>IETF</stream>
     <area>sec</area>
     <wg_acronym>lamps</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc9908</errata-url>
     <doi>10.17487/RFC9908</doi>
   </rfc-entry>
   <rfc-entry>
@@ -366186,6 +366188,86 @@ implementations to interoperate with each other.</p>
     <area>int</area>
     <wg_acronym>6man</wg_acronym>
     <doi>10.17487/RFC10075</doi>
+  </rfc-entry>
+  <rfc-entry>
+    <doc-id>RFC10078</doc-id>
+    <title>Problem Statement, Gap Analysis, and Requirements for Intra-Domain Source Address Validation</title>
+    <author>
+      <name>L. Qin</name>
+    </author>
+    <author>
+      <name>D. Li</name>
+    </author>
+    <author>
+      <name>J. Wu</name>
+    </author>
+    <author>
+      <name>M. Huang</name>
+    </author>
+    <author>
+      <name>N. Geng</name>
+    </author>
+    <date>
+      <month>October</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>11</page-count>
+    <keywords>
+      <kw>SAV</kw>
+    </keywords>
+    <abstract>
+      <p>Source Address Validation (SAV) is an important means to mitigate IP source address spoofing (RFC 2827). This document analyzes the gaps in current operational mechanisms for intra-domain SAV. It also identifies the properties that new intra-domain SAV mechanisms are expected to provide.</p>
+    </abstract>
+    <draft>draft-ietf-savnet-intra-domain-problem-statement-26</draft>
+    <current-status>INFORMATIONAL</current-status>
+    <publication-status>INFORMATIONAL</publication-status>
+    <stream>IETF</stream>
+    <area>rtg</area>
+    <wg_acronym>savnet</wg_acronym>
+    <doi>10.17487/RFC10078</doi>
+  </rfc-entry>
+  <rfc-entry>
+    <doc-id>RFC10080</doc-id>
+    <title>Updated Use of the Expires Message Header Field</title>
+    <author>
+      <name>B. Billon</name>
+    </author>
+    <author>
+      <name>J. Levine</name>
+    </author>
+    <date>
+      <month>October</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>6</page-count>
+    <keywords>
+      <kw>email</kw>
+    </keywords>
+    <abstract>
+      <p>This document allows broader use of the "Expires" message header field for mail messages. Message creators can then indicate when a message expires, while recipients can use this information to handle an expired message differently.</p>
+    </abstract>
+    <draft>draft-ietf-mailmaint-expires-06</draft>
+    <updates>
+      <doc-id>RFC4021</doc-id>
+    </updates>
+    <current-status>PROPOSED STANDARD</current-status>
+    <publication-status>PROPOSED STANDARD</publication-status>
+    <stream>IETF</stream>
+    <area>art</area>
+    <wg_acronym>mailmaint</wg_acronym>
+    <doi>10.17487/RFC10080</doi>
   </rfc-entry>
   <std-entry>
     <doc-id>STD3</doc-id>
