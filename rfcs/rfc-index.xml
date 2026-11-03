@@ -79075,7 +79075,6 @@
     <current-status>INFORMATIONAL</current-status>
     <publication-status>INFORMATIONAL</publication-status>
     <stream>INDEPENDENT</stream>
-    <errata-url>https://www.rfc-editor.org/errata/rfc2549</errata-url>
     <doi>10.17487/RFC2549</doi>
   </rfc-entry>
   <rfc-entry>
@@ -218330,6 +218329,7 @@ header fields, per RFC 3864.  This memo provides information for the Internet co
     <publication-status>INFORMATIONAL</publication-status>
     <stream>IETF</stream>
     <wg_acronym>NON WORKING GROUP</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc6268</errata-url>
     <doi>10.17487/RFC6268</doi>
   </rfc-entry>
   <rfc-entry>
@@ -238380,6 +238380,7 @@ header fields, per RFC 3864.  This memo provides information for the Internet co
     <stream>IETF</stream>
     <area>sec</area>
     <wg_acronym>pkix</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc6818</errata-url>
     <doi>10.17487/RFC6818</doi>
   </rfc-entry>
   <rfc-entry>
@@ -249558,6 +249559,7 @@ header fields, per RFC 3864.  This memo provides information for the Internet co
     <current-status>INFORMATIONAL</current-status>
     <publication-status>INFORMATIONAL</publication-status>
     <stream>INDEPENDENT</stream>
+    <errata-url>https://www.rfc-editor.org/errata/rfc7129</errata-url>
     <doi>10.17487/RFC7129</doi>
   </rfc-entry>
   <rfc-entry>
@@ -348586,6 +348588,7 @@ been incorporated into this document. This document obsoletes RFC
     <stream>IETF</stream>
     <area>sec</area>
     <wg_acronym>lamps</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc9618</errata-url>
     <doi>10.17487/RFC9618</doi>
   </rfc-entry>
   <rfc-entry>
@@ -363921,6 +363924,7 @@ implementations to interoperate with each other.</p>
     <stream>IETF</stream>
     <area>art</area>
     <wg_acronym>dmarc</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc9991</errata-url>
     <doi>10.17487/RFC9991</doi>
   </rfc-entry>
   <rfc-entry>
@@ -365840,6 +365844,7 @@ implementations to interoperate with each other.</p>
     <stream>IETF</stream>
     <area>art</area>
     <wg_acronym>calext</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc10051</errata-url>
     <doi>10.17487/RFC10051</doi>
   </rfc-entry>
   <rfc-entry>
