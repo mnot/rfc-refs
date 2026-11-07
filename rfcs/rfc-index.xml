@@ -366163,6 +366163,51 @@ implementations to interoperate with each other.</p>
     <doi>10.17487/RFC10067</doi>
   </rfc-entry>
   <rfc-entry>
+    <doc-id>RFC10073</doc-id>
+    <title>Composite Module-Lattice-Based Digital Signature Algorithm (ML-DSA) for Use in X.509 Public Key Infrastructure</title>
+    <author>
+      <name>M. Ounsworth</name>
+    </author>
+    <author>
+      <name>J. Gray</name>
+    </author>
+    <author>
+      <name>M. Pala</name>
+    </author>
+    <author>
+      <name>J. Klaußner</name>
+    </author>
+    <author>
+      <name>S. Fluhrer</name>
+    </author>
+    <date>
+      <month>November</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>196</page-count>
+    <keywords>
+      <kw>PQ/T hybrid</kw>
+      <kw>post-quantum</kw>
+      <kw>PKI</kw>
+    </keywords>
+    <abstract>
+      <p>This document defines a PQ/T hybrid scheme with concrete instantiations that combine the US NIST Module-Lattice-Based Digital Signature Algorithm (ML-DSA) with traditional algorithms RSASSA-PKCS1-v1_5, RSASSA-PSS, ECDSA, Ed25519, and Ed448. These combinations are tailored to meet regulatory guidelines in certain regions. Composite ML-DSA is applicable in applications that use X.509 or PKIX data structures that accept ML-DSA, but where the operator wants extra protection against breaks or catastrophic bugs in ML-DSA and where the level of security provided by Existential Unforgeability under Chosen Message Attack (EUF-CMA) is acceptable.</p>
+    </abstract>
+    <draft>draft-ietf-lamps-pq-composite-sigs-19</draft>
+    <current-status>PROPOSED STANDARD</current-status>
+    <publication-status>PROPOSED STANDARD</publication-status>
+    <stream>IETF</stream>
+    <area>sec</area>
+    <wg_acronym>lamps</wg_acronym>
+    <doi>10.17487/RFC10073</doi>
+  </rfc-entry>
+  <rfc-entry>
     <doc-id>RFC10075</doc-id>
     <title>The SNAC Router Flag in ICMPv6 Router Advertisement Messages</title>
     <author>
