@@ -3,31 +3,39 @@
 from collections import defaultdict
 import json
 import re
-from os import path
+from os import listdir, path
 import sys
 import xml.sax
 
-MAX_RFC = 10000
 RFC_DIR = "rfcs"
+RFC_FILE = re.compile(r"^rfc([1-9]\d*)\.(xml|txt)$")
 
 EXCEPTIONS = []
 
 
+def rfc_sources():
+    """Map each RFC number to its source format, preferring XML over text.
+
+    Driven by the files present, so there is no fixed upper bound.
+    """
+    if not path.isdir(RFC_DIR):
+        sys.exit(f"{RFC_DIR}/ not found; run `make rfcs` first")
+    sources = {}
+    for name in listdir(RFC_DIR):
+        match = RFC_FILE.match(name)
+        if match and (match.group(1) not in sources or match.group(2) == "xml"):
+            sources[match.group(1)] = match.group(2)
+    return dict(sorted(sources.items(), key=lambda item: int(item[0])))
+
+
 def main(existing_data=None):
     refs = existing_data or {}
-    for num in range(1, MAX_RFC):
-        num = str(num)
+    for num, fmt in rfc_sources().items():
         if num in refs:
             continue
         if num in EXCEPTIONS:
             continue
-        results = None
-        if path.exists(f"{RFC_DIR}/rfc{num}.xml"):
-            results = parse_xml(num)
-        elif path.exists(f"{RFC_DIR}/rfc{num}.txt"):
-            results = parse_txt(num)
-        else:
-            continue
+        results = parse_xml(num) if fmt == "xml" else parse_txt(num)
         for result_type in ["normative", "informative"]:
             if results and not len(results[result_type]):
                 del results[result_type]
