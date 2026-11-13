@@ -3,19 +3,25 @@
 from collections import defaultdict
 import json
 import re
-from os import path
+from os import listdir, path
 import sys
 import xml.sax
 
-MAX_RFC = 10000
 RFC_DIR = "rfcs"
+RFC_FILE = re.compile(r"^rfc(\d+)\.(?:xml|txt)$")
 
 EXCEPTIONS = []
 
 
+def rfc_numbers():
+    """RFC numbers that have a source file, so there is no fixed upper bound."""
+    matches = (RFC_FILE.match(f) for f in listdir(RFC_DIR))
+    return sorted({int(m.group(1)) for m in matches if m})
+
+
 def main(existing_data=None):
     refs = existing_data or {}
-    for num in range(1, MAX_RFC):
+    for num in rfc_numbers():
         num = str(num)
         if num in refs:
             continue
