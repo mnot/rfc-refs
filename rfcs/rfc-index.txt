@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/17/2026.)
+(CREATED ON: 11/18/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -37009,8 +37009,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8754 IPv6 Segment Routing Header (SRH). C. Filsfils, Ed., D. Dukes, Ed.,
      S. Previdi, J. Leddy, S. Matsushima, D. Voyer. March 2020. (Format:
-     HTML, TXT, PDF, XML) (Updated by RFC9800) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8754)
+     HTML, TXT, PDF, XML) (Updated by RFC9800, RFC10094) (Status:
+     PROPOSED STANDARD) (DOI: 10.17487/RFC8754)
 
 8755 Using Commercial National Security Algorithm Suite Algorithms in
      Secure/Multipurpose Internet Mail Extensions. M. Jenkins. March
@@ -40900,8 +40900,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 9605 Secure Frame (SFrame): Lightweight Authenticated Encryption for
      Real-Time Media. E. Omara, J. Uberti, S. G. Murillo, R. Barnes, Ed.,
-     Y. Fablet. August 2024. (Format: HTML, TXT, PDF, XML) (Status:
-     PROPOSED STANDARD) (DOI: 10.17487/RFC9605)
+     Y. Fablet. August 2024. (Format: HTML, TXT, PDF, XML) (Updated by
+     RFC10079) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC9605)
 
 9606 DNS Resolver Information. T. Reddy.K, M. Boucadair. June 2024.
      (Format: HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
@@ -42940,6 +42940,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
       October 2026. (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL)
       (DOI: 10.17487/RFC10078)
 
+10079 Updates to the SFrame Cipher Suites Registry. R. Barnes, E. Omara,
+      A. Rosenberg. November 2026. (Format: HTML, TXT, PDF, XML) (Updates
+      RFC9605) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC10079)
+
 10080 Updated Use of the Expires Message Header Field. B. Billon, J.
       Levine. October 2026. (Format: HTML, TXT, PDF, XML) (Updates
       RFC4021) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC10080)
@@ -42958,5 +42962,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
       Hollenbeck. November 2026. (Format: HTML, TXT, PDF, XML) (Obsoletes
       RFC7451) (Also BCP248) (Status: BEST CURRENT PRACTICE) (DOI:
       10.17487/RFC10091)
+
+10094 Clarifying Segment Routing over IPv6 (SRv6) Segment Identifier
+      (SID) List Processing. A. Farrel, S. Krishnan. November 2026.
+      (Format: HTML, TXT, PDF, XML) (Updates RFC8754) (Status: PROPOSED
+      STANDARD) (DOI: 10.17487/RFC10094)
 
 
