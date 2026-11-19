@@ -307703,6 +307703,9 @@ parental agent and acted on depending on local policy.</p>
     <obsoletes>
       <doc-id>RFC7730</doc-id>
     </obsoletes>
+    <updated-by>
+      <doc-id>RFC10097</doc-id>
+    </updated-by>
     <current-status>PROPOSED STANDARD</current-status>
     <publication-status>PROPOSED STANDARD</publication-status>
     <stream>IETF</stream>
@@ -313614,6 +313617,9 @@ parental agent and acted on depending on local policy.</p>
       <p>This document defines a collection of common data types and groupings in YANG data modeling language.  These derived common types and groupings are intended to be imported by modules that model Traffic Engineering (TE) configuration and state capabilities.</p>
     </abstract>
     <draft>draft-ietf-teas-yang-te-types-13</draft>
+    <obsoleted-by>
+      <doc-id>RFC10056</doc-id>
+    </obsoleted-by>
     <current-status>PROPOSED STANDARD</current-status>
     <publication-status>PROPOSED STANDARD</publication-status>
     <stream>IETF</stream>
@@ -329769,6 +329775,7 @@ with the Network Management Datastore Architecture (NMDA).</p>
     <stream>IETF</stream>
     <area>rtg</area>
     <wg_acronym>bess</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc9161</errata-url>
     <doi>10.17487/RFC9161</doi>
   </rfc-entry>
   <rfc-entry>
@@ -362036,6 +362043,7 @@ algorithms.</p>
     <stream>IETF</stream>
     <area>sec</area>
     <wg_acronym>cose</wg_acronym>
+    <errata-url>https://www.rfc-editor.org/errata/rfc9942</errata-url>
     <doi>10.17487/RFC9942</doi>
   </rfc-entry>
   <rfc-entry>
@@ -366050,6 +366058,107 @@ implementations to interoperate with each other.</p>
     <doi>10.17487/RFC10055</doi>
   </rfc-entry>
   <rfc-entry>
+    <doc-id>RFC10056</doc-id>
+    <title>Common YANG Data Types for Traffic Engineering</title>
+    <author>
+      <name>I. Busi</name>
+    </author>
+    <author>
+      <name>A. Guo</name>
+    </author>
+    <author>
+      <name>X. Liu</name>
+    </author>
+    <author>
+      <name>T. Saad</name>
+    </author>
+    <author>
+      <name>I. Bryskin</name>
+    </author>
+    <date>
+      <month>November</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>134</page-count>
+    <keywords>
+      <kw>YANG</kw>
+      <kw>Traffic Engineering</kw>
+      <kw>TE</kw>
+      <kw>Label Switched Path</kw>
+      <kw>LSP</kw>
+    </keywords>
+    <abstract>
+      <p>This document defines a collection of commonly used Traffic Engineering (TE) specific data types, identities, and groupings in YANG data modeling language. These derived common data types, identities, and groupings are intended to be imported by other modules that model configuration and state for TE constructs, such as TE topologies, TE tunnels, TE policies, TE paths, TE Label Switched Paths (LSPs), and TE interfaces.</p>
+      <p>This document obsoletes RFC 8776.</p>
+    </abstract>
+    <draft>draft-ietf-teas-rfc8776-update-24</draft>
+    <obsoletes>
+      <doc-id>RFC8776</doc-id>
+    </obsoletes>
+    <current-status>PROPOSED STANDARD</current-status>
+    <publication-status>PROPOSED STANDARD</publication-status>
+    <stream>IETF</stream>
+    <area>rtg</area>
+    <wg_acronym>teas</wg_acronym>
+    <doi>10.17487/RFC10056</doi>
+  </rfc-entry>
+  <rfc-entry>
+    <doc-id>RFC10057</doc-id>
+    <title>A YANG Data Model for Traffic Engineering Tunnels, Label Switched Paths, and Interfaces</title>
+    <author>
+      <name>T. Saad</name>
+    </author>
+    <author>
+      <name>R. Gandhi</name>
+    </author>
+    <author>
+      <name>X. Liu</name>
+    </author>
+    <author>
+      <name>V. P. Beeram</name>
+    </author>
+    <author>
+      <name>I. Bryskin</name>
+    </author>
+    <date>
+      <month>November</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>100</page-count>
+    <keywords>
+      <kw>YANG</kw>
+      <kw>Traffic Engineering</kw>
+      <kw>TE Tunnel</kw>
+      <kw>Label Switched Path</kw>
+      <kw>MPLS</kw>
+      <kw>RSVP-TE</kw>
+      <kw>Segment Routing</kw>
+      <kw>NETCONF</kw>
+    </keywords>
+    <abstract>
+      <p>This document defines a YANG data model for the provisioning and management of Traffic Engineering (TE) tunnels, Label Switched Paths (LSPs), and interfaces. The model covers data pertinent to TE tunnels, TE LSPs, and TE interfaces that are independent of any technology or data plane encapsulation. The model is divided into two YANG modules that address both device-specific and device-independent data, supporting configuration, operational state, Remote Procedure Calls (RPCs), and event notifications.</p>
+    </abstract>
+    <draft>draft-ietf-teas-yang-te-44</draft>
+    <current-status>PROPOSED STANDARD</current-status>
+    <publication-status>PROPOSED STANDARD</publication-status>
+    <stream>IETF</stream>
+    <area>rtg</area>
+    <wg_acronym>teas</wg_acronym>
+    <doi>10.17487/RFC10057</doi>
+  </rfc-entry>
+  <rfc-entry>
     <doc-id>RFC10063</doc-id>
     <title>Near Real Time Mirroring (NRTM) Version 4</title>
     <author>
@@ -366706,6 +366815,49 @@ implementations to interoperate with each other.</p>
     <area>int</area>
     <wg_acronym>6man</wg_acronym>
     <doi>10.17487/RFC10094</doi>
+  </rfc-entry>
+  <rfc-entry>
+    <doc-id>RFC10097</doc-id>
+    <title>Tiebreaking Resource Public Key Infrastructure (RPKI) Trust Anchors</title>
+    <author>
+      <name>J. Snijders</name>
+    </author>
+    <author>
+      <name>T. Buehler</name>
+    </author>
+    <author>
+      <name>T. de Kock</name>
+    </author>
+    <date>
+      <month>November</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>6</page-count>
+    <keywords>
+      <kw>RPKI</kw>
+      <kw>Routing Security</kw>
+      <kw>BGP</kw>
+      <kw>X.509</kw>
+    </keywords>
+    <abstract>
+      <p>A Trust Anchor (TA) in the Resource Public Key Infrastructure (RPKI) is represented by a self-signed X.509 Certification Authority (CA) certificate. Over time, Relying Parties (RPs) may have acquired multiple different issuances of valid TA certificates from the same TA operator. This document specifies a tiebreaking scheme to be used by RPs to select one TA certificate for certification path validation. This document updates RFC 8630.</p>
+    </abstract>
+    <draft>draft-ietf-sidrops-rpki-ta-tiebreaker-06</draft>
+    <updates>
+      <doc-id>RFC8630</doc-id>
+    </updates>
+    <current-status>PROPOSED STANDARD</current-status>
+    <publication-status>PROPOSED STANDARD</publication-status>
+    <stream>IETF</stream>
+    <area>ops</area>
+    <wg_acronym>sidrops</wg_acronym>
+    <doi>10.17487/RFC10097</doi>
   </rfc-entry>
   <std-entry>
     <doc-id>STD3</doc-id>

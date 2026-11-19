@@ -36438,8 +36438,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8630 Resource Public Key Infrastructure (RPKI) Trust Anchor Locator. G.
      Huston, S. Weiler, G. Michaelson, S. Kent, T. Bruijnzeels. August
-     2019. (Format: TXT, HTML) (Obsoletes RFC7730) (Status: PROPOSED
-     STANDARD) (DOI: 10.17487/RFC8630)
+     2019. (Format: TXT, HTML) (Obsoletes RFC7730) (Updated by RFC10097)
+     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8630)
 
 8631 Link Relation Types for Web Services. E. Wilde. July 2019. (Format:
      TXT, HTML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC8631)
@@ -37105,7 +37105,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 8776 Common YANG Data Types for Traffic Engineering. T. Saad, R. Gandhi,
      X. Liu, V. Beeram, I. Bryskin. June 2020. (Format: HTML, TXT, PDF,
-     XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC8776)
+     XML) (Obsoleted by RFC10056) (Status: PROPOSED STANDARD) (DOI:
+     10.17487/RFC8776)
 
 8777 DNS Reverse IP Automatic Multicast Tunneling (AMT) Discovery. J.
      Holland. April 2020. (Format: HTML, TXT, PDF, XML) (Updates RFC7450)
@@ -42895,6 +42896,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
       for Common Platforms. M. Duke. October 2026. (Format: HTML, TXT,
       PDF, XML) (Status: INFORMATIONAL) (DOI: 10.17487/RFC10055)
 
+10056 Common YANG Data Types for Traffic Engineering. I. Busi, A. Guo, X.
+      Liu, T. Saad, I. Bryskin. November 2026. (Format: HTML, TXT, PDF,
+      XML) (Obsoletes RFC8776) (Status: PROPOSED STANDARD) (DOI:
+      10.17487/RFC10056)
+
+10057 A YANG Data Model for Traffic Engineering Tunnels, Label Switched
+      Paths, and Interfaces. T. Saad, R. Gandhi, X. Liu, V. P. Beeram, I.
+      Bryskin. November 2026. (Format: HTML, TXT, PDF, XML) (Status:
+      PROPOSED STANDARD) (DOI: 10.17487/RFC10057)
+
 10063 Near Real Time Mirroring (NRTM) Version 4. S. Romijn, J. Snijders,
       E. Shryane, S. Konstantaras. November 2026. (Format: HTML, TXT,
       PDF, XML) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC10063)
@@ -42967,5 +42978,10 @@ See the RFC Editor Web page http://www.rfc-editor.org
       (SID) List Processing. A. Farrel, S. Krishnan. November 2026.
       (Format: HTML, TXT, PDF, XML) (Updates RFC8754) (Status: PROPOSED
       STANDARD) (DOI: 10.17487/RFC10094)
+
+10097 Tiebreaking Resource Public Key Infrastructure (RPKI) Trust
+      Anchors. J. Snijders, T. Buehler, T. de Kock. November 2026.
+      (Format: HTML, TXT, PDF, XML) (Updates RFC8630) (Status: PROPOSED
+      STANDARD) (DOI: 10.17487/RFC10097)
 
 
