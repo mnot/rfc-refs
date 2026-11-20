@@ -254330,6 +254330,7 @@ header fields, per RFC 3864.  This memo provides information for the Internet co
       <doc-id>RFC8974</doc-id>
       <doc-id>RFC9175</doc-id>
       <doc-id>RFC9876</doc-id>
+      <doc-id>RFC10020</doc-id>
     </updated-by>
     <current-status>PROPOSED STANDARD</current-status>
     <publication-status>PROPOSED STANDARD</publication-status>
@@ -259557,6 +259558,9 @@ the Child to Parent.</p>
       <p>The Constrained Application Protocol (CoAP) is a specialized web transfer protocol for constrained devices and constrained networks.  It is anticipated that constrained devices will often naturally operate in groups (e.g., in a building automation scenario, all lights in a given room may need to be switched on/off as a group).  This specification defines how CoAP should be used in a group communication context.  An approach for using CoAP on top of IP multicast is detailed based on existing CoAP functionality as well as new features introduced in this specification.  Also, various use cases and corresponding protocol flows are provided to illustrate important concepts.  Finally, guidance is provided for deployment in various network topologies.</p>
     </abstract>
     <draft>draft-ietf-core-groupcomm-25</draft>
+    <obsoleted-by>
+      <doc-id>RFC10020</doc-id>
+    </obsoleted-by>
     <current-status>EXPERIMENTAL</current-status>
     <publication-status>EXPERIMENTAL</publication-status>
     <stream>IETF</stream>
@@ -269362,6 +269366,7 @@ parental agent and acted on depending on local policy.</p>
     <draft>draft-ietf-core-observe-16</draft>
     <updated-by>
       <doc-id>RFC8323</doc-id>
+      <doc-id>RFC10020</doc-id>
     </updated-by>
     <current-status>PROPOSED STANDARD</current-status>
     <publication-status>PROPOSED STANDARD</publication-status>
@@ -364941,6 +364946,97 @@ implementations to interoperate with each other.</p>
     <area>rtg</area>
     <wg_acronym>pim</wg_acronym>
     <doi>10.17487/RFC10019</doi>
+  </rfc-entry>
+  <rfc-entry>
+    <doc-id>RFC10020</doc-id>
+    <title>Group Communication for the Constrained Application Protocol (CoAP)</title>
+    <author>
+      <name>E. Dijk</name>
+    </author>
+    <author>
+      <name>M. Tiloca</name>
+    </author>
+    <date>
+      <month>November</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>90</page-count>
+    <keywords>
+      <kw>Multicast</kw>
+      <kw>Constrained environments</kw>
+      <kw>IoT</kw>
+    </keywords>
+    <abstract>
+      <p>The Constrained Application Protocol (CoAP) is a web transfer protocol for constrained devices and constrained networks. In a number of use cases, constrained devices often naturally operate in groups (e.g., in a building automation scenario, all lights in a given room may need to be switched on/off as a group). This document specifies the use of CoAP for group communication, including the use of UDP/IP multicast as the default underlying data transport. Both unsecure and secure CoAP group communication are specified. Security is achieved by use of the Group Object Security for Constrained RESTful Environments (Group OSCORE) protocol. The target application area of this specification is any group communication use cases that involve resource-constrained devices or networks that support CoAP. This document obsoletes RFC 7390 and updates RFCs 7252 and 7641.</p>
+    </abstract>
+    <draft>draft-ietf-core-groupcomm-bis-18</draft>
+    <obsoletes>
+      <doc-id>RFC7390</doc-id>
+    </obsoletes>
+    <updates>
+      <doc-id>RFC7252</doc-id>
+      <doc-id>RFC7641</doc-id>
+    </updates>
+    <current-status>PROPOSED STANDARD</current-status>
+    <publication-status>PROPOSED STANDARD</publication-status>
+    <stream>IETF</stream>
+    <area>wit</area>
+    <wg_acronym>core</wg_acronym>
+    <doi>10.17487/RFC10020</doi>
+  </rfc-entry>
+  <rfc-entry>
+    <doc-id>RFC10021</doc-id>
+    <title>Group Object Security for Constrained RESTful Environments (Group OSCORE)</title>
+    <author>
+      <name>M. Tiloca</name>
+    </author>
+    <author>
+      <name>G. Selander</name>
+    </author>
+    <author>
+      <name>F. Palombini</name>
+    </author>
+    <author>
+      <name>J. Preuß Mattsson</name>
+    </author>
+    <author>
+      <name>R. Höglund</name>
+    </author>
+    <date>
+      <month>November</month>
+      <year>2026</year>
+    </date>
+    <format>
+      <file-format>HTML</file-format>
+      <file-format>TXT</file-format>
+      <file-format>PDF</file-format>
+      <file-format>XML</file-format>
+    </format>
+    <page-count>87</page-count>
+    <keywords>
+      <kw>Secure group communication</kw>
+      <kw>End-to-end security</kw>
+      <kw>IoT security</kw>
+      <kw>CoAP</kw>
+      <kw>Multicast</kw>
+      <kw>Constrained environments</kw>
+    </keywords>
+    <abstract>
+      <p>This document defines the security protocol Group Object Security for Constrained RESTful Environments (Group OSCORE), providing end-to-end security of messages exchanged with the Constrained Application Protocol (CoAP) between members of a group, e.g., sent over IP multicast. In particular, Group OSCORE provides protection and source authentication for group requests sent from a client to multiple servers and for the corresponding responses. Group OSCORE also defines a pairwise mode where each member of the group can efficiently derive symmetric pairwise keys to use with another member of the group for pairwise-protected communication. Group OSCORE can be used between endpoints communicating with CoAP or CoAP-mappable HTTP.</p>
+    </abstract>
+    <draft>draft-ietf-core-oscore-groupcomm-28</draft>
+    <current-status>PROPOSED STANDARD</current-status>
+    <publication-status>PROPOSED STANDARD</publication-status>
+    <stream>IETF</stream>
+    <area>wit</area>
+    <wg_acronym>core</wg_acronym>
+    <doi>10.17487/RFC10021</doi>
   </rfc-entry>
   <rfc-entry>
     <doc-id>RFC10022</doc-id>

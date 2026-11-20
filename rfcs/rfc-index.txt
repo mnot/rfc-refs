@@ -5,7 +5,7 @@
                              RFC INDEX
                            -------------
 
-(CREATED ON: 11/18/2026.)
+(CREATED ON: 11/19/2026.)
 
 This file contains citations for all RFCs in numeric order.
 
@@ -30269,8 +30269,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7252 The Constrained Application Protocol (CoAP). Z. Shelby, K. Hartke,
      C. Bormann. June 2014. (Format: TXT, HTML) (Updated by RFC7959,
-     RFC8613, RFC8974, RFC9175, RFC9876) (Status: PROPOSED STANDARD)
-     (DOI: 10.17487/RFC7252)
+     RFC8613, RFC8974, RFC9175, RFC9876, RFC10020) (Status: PROPOSED
+     STANDARD) (DOI: 10.17487/RFC7252)
 
 7253 The OCB Authenticated-Encryption Algorithm. T. Krovetz, P. Rogaway.
      May 2014. (Format: TXT, HTML) (Status: INFORMATIONAL) (DOI:
@@ -30885,7 +30885,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
 
 7390 Group Communication for the Constrained Application Protocol (CoAP).
      A. Rahman, Ed., E. Dijk, Ed.. October 2014. (Format: TXT, HTML)
-     (Status: EXPERIMENTAL) (DOI: 10.17487/RFC7390)
+     (Obsoleted by RFC10020) (Status: EXPERIMENTAL) (DOI:
+     10.17487/RFC7390)
 
 7391 Forwarding and Control Element Separation (ForCES) Protocol
      Extensions. J. Hadi Salim. October 2014. (Format: TXT, HTML)
@@ -32016,8 +32017,8 @@ See the RFC Editor Web page http://www.rfc-editor.org
      10.17487/RFC7640)
 
 7641 Observing Resources in the Constrained Application Protocol (CoAP).
-     K. Hartke. September 2015. (Format: TXT, HTML) (Updated by RFC8323)
-     (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7641)
+     K. Hartke. September 2015. (Format: TXT, HTML) (Updated by RFC8323,
+     RFC10020) (Status: PROPOSED STANDARD) (DOI: 10.17487/RFC7641)
 
 7642 System for Cross-domain Identity Management: Definitions, Overview,
      Concepts, and Requirements. K. LI, Ed., P. Hunt, B. Khasnabish, A.
@@ -42774,6 +42775,16 @@ See the RFC Editor Web page http://www.rfc-editor.org
       Requirements. N. Karstens, D. Farinacci, M. McBride. July 2026.
       (Format: HTML, TXT, PDF, XML) (Status: INFORMATIONAL) (DOI:
       10.17487/RFC10019)
+
+10020 Group Communication for the Constrained Application Protocol
+      (CoAP). E. Dijk, M. Tiloca. November 2026. (Format: HTML, TXT, PDF,
+      XML) (Obsoletes RFC7390) (Updates RFC7252, RFC7641) (Status:
+      PROPOSED STANDARD) (DOI: 10.17487/RFC10020)
+
+10021 Group Object Security for Constrained RESTful Environments (Group
+      OSCORE). M. Tiloca, G. Selander, F. Palombini, J. Preuß Mattsson,
+      R. Höglund. November 2026. (Format: HTML, TXT, PDF, XML) (Status:
+      PROPOSED STANDARD) (DOI: 10.17487/RFC10021)
 
 10022 IMAP UIDBATCHES Extension. D. Eggert, Ed.. July 2026. (Format:
       HTML, TXT, PDF, XML) (Status: PROPOSED STANDARD) (DOI:
